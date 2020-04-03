@@ -1,15 +1,18 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-41:12
 MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\b3ede7b8cf55eb91a781722463b3d3e7\AndroidManifest.xml:17:1-22:12
 MERGED from [com.afollestad:vvalidator:0.5.2] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e77c1753e88cfa76080d55668ab1fce2\AndroidManifest.xml:2:1-11:12
 MERGED from [com.github.BlackBoxVision:datetimepicker-edittext:v0.4.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3a893d61429ca83a1f0349c664326527\AndroidManifest.xml:2:1-17:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.2.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8d22122a6fdf7fdbc79292ec519b3429\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-ui:2.2.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3594229cc3dd44708cc06a87ec2b7ec1\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6195d3ef4b5edd9352a6a8bc49e4e74f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.hbb20:ccp:2.3.4] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8aae99f2f71e25e9c8dab3a4f3485055\AndroidManifest.xml:2:1-16:12
+MERGED from [com.poovam:pin-edittext-field:1.2.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\311724ac6ed27947542ca321c9cc4ed4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\03c3238214d06d74c31d021270f34682\AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\b7a64002e40398d08f733c457403973b\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\5e57f1a0bedc503b666101bde13d8263\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-ktx:1.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\241437951a32f8275ec3a2768ab861ee\AndroidManifest.xml:17:1-24:12
@@ -101,21 +104,22 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Am
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3926183f361ac8cf9c0ba0651ef7b584\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4ee84133d695b7b8cf6e561a41697d1b\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\aaf13e00e99fe8b61e3a09a816d0c0d5\AndroidManifest.xml:17:1-22:12
+MERGED from [io.michaelrocks:libphonenumber-android:8.10.14] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e99c44689d5ecb8c4fc0d34d68c2da71\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d5f649152a44938b0b84eaf8351a34c0\AndroidManifest.xml:15:1-22:12
-INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-41:12
 	package
 		ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:3:5-33
 		INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml
-		ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-38:12
+		ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-41:12
 		INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml
-		ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-38:12
+		ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:1-41:12
 		INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:2:11-69
@@ -188,11 +192,15 @@ ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.
 	android:name
 		ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:11:22-72
 application
-ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:13:5-36:19
+ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:13:5-39:19
 MERGED from [com.github.BlackBoxVision:datetimepicker-edittext:v0.4.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3a893d61429ca83a1f0349c664326527\AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.BlackBoxVision:datetimepicker-edittext:v0.4.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3a893d61429ca83a1f0349c664326527\AndroidManifest.xml:11:5-15:19
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6195d3ef4b5edd9352a6a8bc49e4e74f\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6195d3ef4b5edd9352a6a8bc49e4e74f\AndroidManifest.xml:22:5-20
+MERGED from [com.hbb20:ccp:2.3.4] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8aae99f2f71e25e9c8dab3a4f3485055\AndroidManifest.xml:11:5-14:19
+MERGED from [com.hbb20:ccp:2.3.4] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8aae99f2f71e25e9c8dab3a4f3485055\AndroidManifest.xml:11:5-14:19
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\03c3238214d06d74c31d021270f34682\AndroidManifest.xml:11:5-20
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\03c3238214d06d74c31d021270f34682\AndroidManifest.xml:11:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\622a1130082d715103e5552737adf0bb\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\622a1130082d715103e5552737adf0bb\AndroidManifest.xml:9:5-20
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d5d8f761837ac8ceacc08128da9fcf5e\AndroidManifest.xml:9:5-20
@@ -309,12 +317,16 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
 		ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:30:27-74
-activity#com.rapidzz.kidcap.Views.activities.LoginActivity
+activity#com.rapidzz.kidcap.Views.activities.RegistrationActivity
 ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:33:9-35:52
 	android:screenOrientation
 		ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:35:13-49
 	android:name
-		ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:34:13-77
+		ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:34:13-84
+activity#com.rapidzz.kidcap.Views.activities.PhoneVerificationActivity
+ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:38:9-79
+	android:name
+		ADDED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml:38:19-77
 uses-sdk
 INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml
@@ -331,6 +343,12 @@ MERGED from [androidx.navigation:navigation-ui:2.2.1] C:\Users\Amjad\.gradle\cac
 MERGED from [androidx.navigation:navigation-ui:2.2.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3594229cc3dd44708cc06a87ec2b7ec1\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6195d3ef4b5edd9352a6a8bc49e4e74f\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6195d3ef4b5edd9352a6a8bc49e4e74f\AndroidManifest.xml:20:5-44
+MERGED from [com.hbb20:ccp:2.3.4] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8aae99f2f71e25e9c8dab3a4f3485055\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hbb20:ccp:2.3.4] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8aae99f2f71e25e9c8dab3a4f3485055\AndroidManifest.xml:7:5-9:41
+MERGED from [com.poovam:pin-edittext-field:1.2.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\311724ac6ed27947542ca321c9cc4ed4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.poovam:pin-edittext-field:1.2.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\311724ac6ed27947542ca321c9cc4ed4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\03c3238214d06d74c31d021270f34682\AndroidManifest.xml:7:5-9:41
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\03c3238214d06d74c31d021270f34682\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\b7a64002e40398d08f733c457403973b\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\b7a64002e40398d08f733c457403973b\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\5e57f1a0bedc503b666101bde13d8263\AndroidManifest.xml:20:5-22:41
@@ -513,6 +531,8 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\Amjad\.gradle\caches\transform
 MERGED from [androidx.print:print:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4ee84133d695b7b8cf6e561a41697d1b\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\aaf13e00e99fe8b61e3a09a816d0c0d5\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\aaf13e00e99fe8b61e3a09a816d0c0d5\AndroidManifest.xml:20:5-44
+MERGED from [io.michaelrocks:libphonenumber-android:8.10.14] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e99c44689d5ecb8c4fc0d34d68c2da71\AndroidManifest.xml:7:5-9:41
+MERGED from [io.michaelrocks:libphonenumber-android:8.10.14] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e99c44689d5ecb8c4fc0d34d68c2da71\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d5f649152a44938b0b84eaf8351a34c0\AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d5f649152a44938b0b84eaf8351a34c0\AndroidManifest.xml:18:5-20:41
 INJECTED from D:\Rapidzz\Official Projects\Kidcap App\app\src\main\AndroidManifest.xml

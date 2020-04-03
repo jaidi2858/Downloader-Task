@@ -17,6 +17,9 @@ import androidx.fragment.app.Fragment
 import com.afollestad.vvalidator.form
 import com.google.android.material.snackbar.Snackbar
 import com.rapidzz.kidcap.Models.Source.Repository.UserDataSource
+import com.rapidzz.kidcap.R
+import com.rapidzz.kidcap.Utils.Application.gone
+import com.rapidzz.kidcap.Utils.Application.visible
 import com.rapidzz.kidcap.Utils.GeneralUtils.AppConstants
 import com.rapidzz.kidcap.Utils.GeneralUtils.DialogUtils
 import com.rapidzz.kidcap.Utils.GeneralUtils.SessionManager
@@ -40,18 +43,7 @@ abstract class BaseFragment : Fragment() {
         return ContextCompat.getColor(context!!, color)
     }
 
-    fun View.visible() {
-        this.visibility = View.VISIBLE
-    }
 
-
-    fun View.invisible() {
-        this.visibility = View.INVISIBLE
-    }
-
-    fun View.gone() {
-        this.visibility = View.GONE
-    }
 
 
 
@@ -75,7 +67,7 @@ abstract class BaseFragment : Fragment() {
     }
 
 
-    abstract fun initViews(): Int
+    abstract fun initViews()
 
     abstract fun attachViewModel()
 
@@ -88,17 +80,18 @@ abstract class BaseFragment : Fragment() {
         container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        return inflater.inflate(initViews(), container, false)
+        return inflater.inflate(getLayoutId(), container, false)
 
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        isForUpdate = false
-            attachViewModel()
+        initViews()
+        attachViewModel()
 
     }
 
+    abstract fun getLayoutId():Int
 
 
     fun showProgressDialog(show: Boolean) {
@@ -120,17 +113,11 @@ abstract class BaseFragment : Fragment() {
     }
 
     fun showToast(message: String) {
-        Toast.makeText(activity, "Under Development", Toast.LENGTH_SHORT).show()
+        Toast.makeText(activity, message, Toast.LENGTH_SHORT).show()
     }
 
-    fun showToast() {
-        Toast.makeText(activity, "Under Development", Toast.LENGTH_SHORT).show()
-    }
 
-    public fun isValidEmail(email: String): Boolean {
-        val pattern = Patterns.EMAIL_ADDRESS
-        return pattern.matcher(email).matches()
-    }
+
 
 
     fun expand(view: View) {
@@ -194,7 +181,7 @@ abstract class BaseFragment : Fragment() {
             for (view in viewList) {
                 if (view is EditText) {
                     input(view) {
-                        isNotEmpty().description("Field Required !")
+                        isNotEmpty().description(getString(R.string.field_req))
                     }
                 } else if (view is Spinner) {
                     spinner(view) {

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="top"
+    android:background="@color/colorWhite"
+    android:gravity="top"
+    android:orientation="vertical">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="@dimen/_15sdp"
+        android:paddingRight="@dimen/_15sdp"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                style="@style/TvHeadingStyle"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:textAlignment="viewStart"
+                android:paddingStart="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/_30sdp"
+                android:text="@string/name"
+                android:textAllCaps="true" />
+
+
+
+
+                <EditText
+                    android:id="@+id/etName"
+                    style="@style/editTextStyle"
+                    android:hint="Enter Your Name..."
+                    android:inputType="textEmailAddress" />
+
+                <!-- ICON -->
+
+
+
+
+            <TextView
+                style="@style/TvHeadingStyle"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:textAlignment="viewStart"
+                android:paddingStart="@dimen/_15sdp"
+
+                android:text="@string/email" />
+
+
+
+                <EditText
+                    android:id="@+id/etEmail"
+                    style="@style/editTextStyle"
+                    android:hint="Enter Your Email..."
+                    android:inputType="textEmailAddress" />
+
+
+
+
+
+
+            <TextView
+                style="@style/TvHeadingStyle"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:textAlignment="viewStart"
+                android:paddingStart="@dimen/_15sdp"
+                android:text="@string/phone_number" />
+
+
+
+            <LinearLayout
+                    android:layout_width="match_parent"
+                    android:orientation="horizontal"
+                    style="@style/layoutETStyle"
+                    android:gravity="center"
+                    android:layout_height="wrap_content">
+                <com.hbb20.CountryCodePicker
+                        android:id="@+id/ccp"
+                        app:ccpDialog_showNameCode="true"
+                        app:ccp_showNameCode="false"
+                        app:ccp_textSize="@dimen/_10sdp"
+                        app:ccp_showArrow="true"
+                        app:ccp_showFlag="true"
+                        app:ccp_defaultNameCode="PK"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center" />
+                <EditText
+                        android:id="@+id/etPhoneNumber"
+                        android:background="@null"
+                        android:paddingTop="15dp"
+                        android:paddingBottom="15dp"
+                        android:textSize="@dimen/_10sdp"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+
+                        android:hint="Phone Number"
+                        android:inputType="phone" />
+            </LinearLayout>
+
+            <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="@dimen/_10sdp"
+                    android:id="@+id/rlVerify"
+                    android:layout_marginEnd="@dimen/_20sdp"
+                    android:layout_marginStart="@dimen/_20sdp"
+                    android:layout_height="wrap_content">
+
+                <TextView
+                        style="@style/TvHeadingStyle"
+                        android:textAlignment="viewStart"
+                        android:id="@+id/sampleText"
+                        android:paddingStart="0dp"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginBottom="0dp"
+                        android:textSize="@dimen/_10sdp"
+                    android:textColor="@color/colorDarkGrey"
+                        android:layout_centerVertical="true"
+                        android:text="@string/please_verify" />
+                <TextView
+                        style="@style/TvHeadingStyle"
+                        android:textAlignment="viewEnd"
+                        android:id="@+id/btnVerify"
+                        android:paddingStart="@dimen/_7sdp"
+                        android:paddingEnd="@dimen/_7sdp"
+                        android:paddingTop="@dimen/_2sdp"
+                        android:paddingBottom="@dimen/_2sdp"
+                        android:background="@drawable/bg_round_primary_unfilled"
+                        android:layout_marginBottom="0dp"
+                        android:textSize="@dimen/_10sdp"
+                        android:layout_width="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentEnd="true"
+                        android:textColor="@color/colorPrimary"
+                        android:text="@string/verify" />
+            </RelativeLayout>
+
+
+
+
+                <!-- ICON -->
+
+
+
+
+            <TextView
+                style="@style/TvHeadingStyle"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:textAlignment="viewStart"
+                android:paddingStart="@dimen/_15sdp"
+                android:text="@string/password" />
+
+            <EditText
+                android:id="@+id/etPassword"
+                style="@style/editTextStyle"
+                android:hint="***********"
+                android:inputType="textPassword" />
+
+            <TextView
+                style="@style/TvHeadingStyle"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:textAlignment="viewStart"
+                android:paddingStart="@dimen/_15sdp"
+                android:text="@string/re_type_password" />
+
+            <EditText
+                android:id="@+id/etReTypePassword"
+                style="@style/editTextStyle"
+                android:hint="***********"
+                android:inputType="textPassword" />
+
+            <Button
+                android:id="@+id/btnRegister"
+                style="@style/buttonStyle"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:layout_marginBottom="@dimen/_30sdp"
+                android:background="@drawable/button_background"
+                android:text="@string/register" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>

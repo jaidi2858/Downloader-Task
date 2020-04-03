@@ -1,4 +1,37 @@
 <resources>
     <string name="app_name">Kidcap</string>
 
+    <string name="google_places_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDqnJ4wFLv1fP2_E3rDkpvFg8G9gVCh9h0</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="re_type_password">RE TYPE PASSWORD</string>
+    <string name="register">Register</string>
+    <string name="verify">Verify</string>
+    <string name="please_verify">Please verify your phone number </string>
+
+
+
+    <string name="field_req">Field Required!!</string>
+    <string name="address_req">Address Required!!</string>
+    <string name="image_req">Image Required!!</string>
+    <string name="new_passwrod_req">New Password Required!!</string>
+    <string name="old_password_req">Old Password Required!!</string>
+    <string name="confrim_password_required">Confrim Password Required!!</string>
+    <string name="password_not_matched">Password Not Matched!!</string>
+
+    <string name="req_name">Name Required !!</string>
+    <string name="req_email">Email Required !!</string>
+    <string name="invalid_email">Email Invalid !!</string>
+    <string name="req_subject">Subject Required !!</string>
+    <string name="req_password">Password Required !!</string>
+    <string name="req_message">Message Required !!</string>
+    <string name="req_phone">Phone Number Required !!</string>
+    <string name="req_phone_verify">Phone Number not verified !!</string>
+    <string name="retype_password">Password doesn\'t match !!</string>
+
+
+    <string name="email">EMAIL</string>
+    <string name="name">Name</string>
+    <string name="phone_number">PHONE NUMBER</string>
 </resources>

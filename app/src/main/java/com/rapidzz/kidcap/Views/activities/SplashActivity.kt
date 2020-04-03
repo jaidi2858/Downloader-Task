@@ -7,17 +7,10 @@ import android.view.WindowManager
 import com.rapidzz.kidcap.R
 
 class SplashActivity : BaseActivity() {
-
-    var token: String = ""
-
     companion object {
         val SPLASH_DELAY: Long = 3000
-        val SKIP_SPLASH: String = "skip_splash"
-        val START_UP_MESSAGe: String = "start_up_message"
     }
 
-    var handler: Handler? = null
-    var runnable: Runnable? = null
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -29,8 +22,6 @@ class SplashActivity : BaseActivity() {
             WindowManager.LayoutParams.FLAG_FULLSCREEN
         );
 
-        setContentView(R.layout.activity_splash)
-
     }
 
 
@@ -39,6 +30,7 @@ class SplashActivity : BaseActivity() {
 
     }
 
-    override fun attachViewModel() {
+    override fun getLayoutId(): Int {
+       return R.layout.activity_splash
     }
 }

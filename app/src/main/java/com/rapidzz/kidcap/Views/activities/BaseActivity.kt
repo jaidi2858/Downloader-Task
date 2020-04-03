@@ -15,13 +15,19 @@ abstract class BaseActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        setContentView(getLayoutId())
         sessionManager = SessionManager(this)
-
+        initViews()
     }
 
 
+
+
+
+
+    abstract fun getLayoutId():Int
     abstract fun initViews()
-    abstract fun attachViewModel()
+
 
 
 }

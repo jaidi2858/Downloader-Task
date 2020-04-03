@@ -31,8 +31,11 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.rapidzz.kidcap.Views.activities.LoginActivity"
+            android:name="com.rapidzz.kidcap.Views.activities.RegistrationActivity"
             android:screenOrientation="portrait" />
+
+
+        <activity android:name=".Views.activities.PhoneVerificationActivity"/>
     </application>
 
 </manifest>

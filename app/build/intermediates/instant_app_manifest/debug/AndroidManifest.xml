@@ -51,8 +51,9 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.rapidzz.kidcap.Views.activities.LoginActivity"
+            android:name="com.rapidzz.kidcap.Views.activities.RegistrationActivity"
             android:screenOrientation="portrait" />
+        <activity android:name="com.rapidzz.kidcap.Views.activities.PhoneVerificationActivity" />
         <activity
             android:name="com.nabinbhandari.android.permissions.PermissionsActivity"
             android:theme="@style/Permissions.TransparentTheme" />
