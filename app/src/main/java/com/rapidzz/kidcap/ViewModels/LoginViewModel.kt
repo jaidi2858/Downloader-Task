@@ -29,17 +29,8 @@ class LoginViewModel(private val dataRepositery: DataRepository) :
                 showProgressBar(false)
                 when (response) {
                     is ResultWrapper.Success ->
-                        response?.let {
-                            it.value?.let {
-                                if(it.status==200)
-                                {
-                                    userLiveData.value=it.data
-                                }
-                                else
-                                {
-                                    showSnackbarMessage(it.message)
-                                }
-                            }
+                        if(isSuccess(response)) {
+                           userLiveData.value=response.value.data
                         }
                     else -> handleErrorType(response)
                 }
