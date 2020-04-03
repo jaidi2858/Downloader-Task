@@ -19,9 +19,17 @@ import com.rapidzz.kidcap.Utils.factory.ViewModelFactory
 import android.widget.*
 import androidx.swiperefreshlayout.widget.CircularProgressDrawable
 import com.bumptech.glide.Glide
+import com.rapidzz.kidcap.Models.DataModels.UtilityModels.ApiErrorResponse
+import com.rapidzz.kidcap.Models.DataModels.UtilityModels.ErrorResponse
+import com.rapidzz.kidcap.Utils.GeneralUtils.ErrorUtils
+import com.rapidzz.kidcap.Utils.NetworkUtils.ResultWrapper
+import kotlinx.coroutines.CoroutineDispatcher
+import kotlinx.coroutines.withContext
 import retrofit2.Call
 import retrofit2.Callback
+import retrofit2.HttpException
 import retrofit2.Response
+import java.io.IOException
 
 
 fun <T : ViewModel> AppCompatActivity.obtainViewModel(viewModelClass: Class<T>) =
@@ -126,12 +134,7 @@ class CallBackKt<T>: Callback<T> {
 }
 
 
-fun isOnline(context: Context): Boolean {
-    val cm = context.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
-    val netInfo = cm.activeNetworkInfo
-    //should check null because in airplane mode it will be null
-    return netInfo != null && netInfo.isConnected
-}
+
 
 
 fun View.visible() {
@@ -150,5 +153,8 @@ fun View.isVisibleToUser():Boolean
 {
     return visibility==View.VISIBLE
 }
+
+
+
 
 

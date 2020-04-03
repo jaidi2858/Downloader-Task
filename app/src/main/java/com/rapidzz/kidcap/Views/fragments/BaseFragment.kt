@@ -14,6 +14,7 @@ import android.widget.Toast
 import androidx.appcompat.app.AlertDialog
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
+import androidx.navigation.Navigation
 import com.afollestad.vvalidator.form
 import com.google.android.material.snackbar.Snackbar
 import com.rapidzz.kidcap.Models.Source.Repository.UserDataSource
@@ -24,6 +25,7 @@ import com.rapidzz.kidcap.Utils.GeneralUtils.AppConstants
 import com.rapidzz.kidcap.Utils.GeneralUtils.DialogUtils
 import com.rapidzz.kidcap.Utils.GeneralUtils.SessionManager
 import com.rapidzz.kidcap.Views.activities.BaseActivity
+import com.rapidzz.kidcap.Views.activities.RegistrationActivity
 import com.rapidzz.kidcap.Views.dialog.AlertMessageDialog
 import kotlin.collections.ArrayList
 
@@ -205,6 +207,15 @@ abstract class BaseFragment : Fragment() {
         }
     }
 
+
+
+
+
+    fun navigateRegFragment(action: Int, bundle: Bundle?) {
+        val navController =
+            Navigation.findNavController(activity as RegistrationActivity, R.id.nav_host_fragment)
+        navController.navigate(action, bundle)
+    }
 
 
 

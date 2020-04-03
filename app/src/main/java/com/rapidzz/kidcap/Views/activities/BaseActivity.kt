@@ -23,11 +23,23 @@ abstract class BaseActivity : AppCompatActivity() {
 
 
 
-
-
     abstract fun getLayoutId():Int
     abstract fun initViews()
 
 
+
+
+    fun gotoMainActivity()
+    {
+        startActivity(Intent(this,MainActivity::class.java))
+        this?.finish()
+    }
+
+
+    fun gotoRegActivity()
+    {
+        startActivity(Intent(this,RegistrationActivity::class.java))
+        this?.finish()
+    }
 
 }

@@ -8,7 +8,7 @@ import androidx.lifecycle.ViewModel
 import com.acclivousbyte.gobblecustomer.Utils.GeneralUtils.OneShotEvent
 import com.rapidzz.kidcap.Models.DataModels.UtilityModels.ErrorResponse
 import com.rapidzz.kidcap.Utils.GeneralUtils.SessionManager
-
+import com.rapidzz.kidcap.Utils.NetworkUtils.ResultWrapper
 
 
 open class BaseAndroidViewModel() : ViewModel() {
@@ -26,12 +26,17 @@ open class BaseAndroidViewModel() : ViewModel() {
         snackbarMessage.value = OneShotEvent(message)
     }
 
-    protected fun handleErrorType(errorType: Int, errorMessage: String) {
-        val error = ErrorResponse(
-            errorMessage,
-            errorType
-        )
-        errorResponse.value = OneShotEvent(error)
+    protected fun showNetworkError() {
+        snackbarMessage.value = OneShotEvent("Internet connection problem")
+    }
+
+    protected fun handleErrorType(error:ResultWrapper<Any>) {
+        when (error) {
+            is ResultWrapper.NetworkError ->
+                showNetworkError()
+            is ResultWrapper.GenericError ->
+                showSnackbarMessage("" + error.error?.message)
+        }
     }
 
     protected fun showProgressBar(show: Boolean) {

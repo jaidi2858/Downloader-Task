@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/registration_navigation"
+    app:startDestination="@+id/signInFragment">
+
+
+    <fragment
+        android:id="@+id/signupFragment"
+        android:name="com.rapidzz.kidcap.Views.fragments.SignUpFragment"
+        android:label="Signup">
+
+    </fragment>
+    <fragment
+        android:id="@+id/signInFragment"
+        android:name="com.rapidzz.tawridcustomer.view.fragments.registration.SignInFragment"
+        android:label="SignInFragment" >
+        <action
+            android:id="@+id/action_signInFragment_to_signupFragment"
+            app:destination="@id/signupFragment" />
+        <action
+            android:id="@+id/action_signInFragment_to_forgotPasswordFragment"
+            app:destination="@id/forgotPasswordFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/forgotPasswordFragment"
+        android:name="com.rapidzz.tawridcustomer.view.fragments.registration.ForgotPasswordFragment"
+        android:label="ForgotPasswordFragment" />
+
+</navigation>

@@ -1,7 +1,9 @@
 package com.rapidzz.kidcap.Models.Source.ServerConnection
 
 import android.content.Context
+import com.rapidzz.kidcap.BuildConfig
 import okhttp3.OkHttpClient
+import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 import java.util.concurrent.TimeUnit
@@ -11,7 +13,7 @@ class RetrofitClientInstance(ctx : Context) {
     private val httpClient = OkHttpClient.Builder()
     var context: Context
 
-    val BASE_URL = "https://tfclapi.azurewebsites.net//"
+    val BASE_URL = "http://mashghol.com/tawrid/public/api/v1/restaurant/"
 
     init {
         context = ctx
@@ -25,7 +27,16 @@ class RetrofitClientInstance(ctx : Context) {
             .baseUrl(BASE_URL)
             .addConverterFactory(GsonConverterFactory.create())
             httpClient.callTimeout(120,TimeUnit.SECONDS).connectTimeout(30,TimeUnit.SECONDS).readTimeout(120,TimeUnit.SECONDS)
-            retrofitBuilder.client(httpClient.build())
+
+        if (BuildConfig.DEBUG) {
+            val loggingIntercepter = getLoggingInterceptor()
+            loggingIntercepter.setLevel(HttpLoggingInterceptor.Level.BODY)
+            httpClient.addInterceptor(loggingIntercepter)
+        }
+        retrofitBuilder.client(httpClient.build())
+
+
+
         retrofit = retrofitBuilder.build()
     }
 
@@ -33,6 +44,11 @@ class RetrofitClientInstance(ctx : Context) {
         return retrofit!!.create<ApiService>(ApiService::class.java!!)
     }
 
+
+    private fun getLoggingInterceptor(): HttpLoggingInterceptor {
+        val loggingIntercepter = HttpLoggingInterceptor()
+        return loggingIntercepter
+    }
 
 
     fun getRetrofit(): Retrofit? {

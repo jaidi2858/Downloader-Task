@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "999814800201",
+    "firebase_url": "https://kidcap-d8596.firebaseio.com",
+    "project_id": "kidcap-d8596",
+    "storage_bucket": "kidcap-d8596.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999814800201:android:c5c7f3708f748287c0b098",
+        "android_client_info": {
+          "package_name": "com.rapidzz.kidcap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999814800201-agt6s7ve5r4q4l035sqdopg1cdhjfj2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rapidzz.kidcap",
+            "certificate_hash": "7012d6c3639140052076cf0b782e9d91e06d31a6"
+          }
+        },
+        {
+          "client_id": "999814800201-5i2pg1n7tbedi14magpaa55j0j4498t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDljCu_hjUODqBTkSqlDXhG3ituXzesBtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999814800201-5i2pg1n7tbedi14magpaa55j0j4498t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

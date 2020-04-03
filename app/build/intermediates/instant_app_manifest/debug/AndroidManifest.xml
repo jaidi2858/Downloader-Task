@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.rapidzz.Kidcap"
+    package="com.rapidzz.kidcap"
     android:targetSandboxVersion="2"
     android:versionCode="1"
     android:versionName="1.0" >
@@ -40,6 +40,14 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
         <activity
+            android:name="com.rapidzz.kidcap.Views.activities.RegistrationActivity"
+            android:label="@string/title_activity_registration"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.rapidzz.kidcap.Views.activities.MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
             android:name="com.rapidzz.kidcap.Views.activities.SplashActivity"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" >
@@ -50,9 +58,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.rapidzz.kidcap.Views.activities.RegistrationActivity"
-            android:screenOrientation="portrait" />
         <activity android:name="com.rapidzz.kidcap.Views.activities.PhoneVerificationActivity" />
         <activity
             android:name="com.nabinbhandari.android.permissions.PermissionsActivity"
@@ -148,7 +153,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.rapidzz.Kidcap.firebaseinitprovider"
+            android:authorities="com.rapidzz.kidcap.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -163,7 +168,7 @@
 
         <provider
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-            android:authorities="com.rapidzz.Kidcap.lifecycle-process"
+            android:authorities="com.rapidzz.kidcap.lifecycle-process"
             android:exported="false"
             android:multiprocess="true" />
 

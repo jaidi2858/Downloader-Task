@@ -7933,242 +7933,245 @@ public final class R {
     public static final int design_textinput_caption_translate_y=0x7f06031e;
     public static final int disabled_alpha_material_dark=0x7f06031f;
     public static final int disabled_alpha_material_light=0x7f060320;
-    public static final int fastscroll__bubble_corner=0x7f060321;
-    public static final int fastscroll__bubble_size=0x7f060322;
-    public static final int fastscroll__handle_clickable_width=0x7f060323;
-    public static final int fastscroll__handle_corner=0x7f060324;
-    public static final int fastscroll__handle_height=0x7f060325;
-    public static final int fastscroll__handle_inset=0x7f060326;
-    public static final int fastscroll__handle_padding=0x7f060327;
-    public static final int fastscroll__handle_width=0x7f060328;
-    public static final int fastscroll_default_thickness=0x7f060329;
-    public static final int fastscroll_margin=0x7f06032a;
-    public static final int fastscroll_minimum_range=0x7f06032b;
-    public static final int font_large=0x7f06032c;
-    public static final int font_medium=0x7f06032d;
-    public static final int font_small=0x7f06032e;
-    public static final int font_xlarge=0x7f06032f;
-    public static final int font_xsmall=0x7f060330;
-    public static final int font_xxSmall=0x7f060331;
-    public static final int font_xxlarge=0x7f060332;
-    public static final int font_xxxlarge=0x7f060333;
-    public static final int google_1x=0x7f060334;
-    public static final int highlight_alpha_material_colored=0x7f060335;
-    public static final int highlight_alpha_material_dark=0x7f060336;
-    public static final int highlight_alpha_material_light=0x7f060337;
-    public static final int hint_alpha_material_dark=0x7f060338;
-    public static final int hint_alpha_material_light=0x7f060339;
-    public static final int hint_pressed_alpha_material_dark=0x7f06033a;
-    public static final int hint_pressed_alpha_material_light=0x7f06033b;
-    public static final int item_touch_helper_max_drag_scroll_per_frame=0x7f06033c;
-    public static final int item_touch_helper_swipe_escape_max_velocity=0x7f06033d;
-    public static final int item_touch_helper_swipe_escape_velocity=0x7f06033e;
-    public static final int margin_large=0x7f06033f;
-    public static final int margin_medium=0x7f060340;
-    public static final int margin_small=0x7f060341;
-    public static final int margin_top_large=0x7f060342;
-    public static final int margin_top_medium=0x7f060343;
-    public static final int margin_top_small=0x7f060344;
-    public static final int margin_xlarge=0x7f060345;
-    public static final int margin_xmedium=0x7f060346;
-    public static final int margin_xxlarge=0x7f060347;
-    public static final int margin_xxxlarge=0x7f060348;
-    public static final int material_emphasis_disabled=0x7f060349;
-    public static final int material_emphasis_high_type=0x7f06034a;
-    public static final int material_emphasis_medium=0x7f06034b;
-    public static final int material_text_view_test_line_height=0x7f06034c;
-    public static final int material_text_view_test_line_height_override=0x7f06034d;
-    public static final int mtrl_alert_dialog_background_inset_bottom=0x7f06034e;
-    public static final int mtrl_alert_dialog_background_inset_end=0x7f06034f;
-    public static final int mtrl_alert_dialog_background_inset_start=0x7f060350;
-    public static final int mtrl_alert_dialog_background_inset_top=0x7f060351;
-    public static final int mtrl_alert_dialog_picker_background_inset=0x7f060352;
-    public static final int mtrl_badge_horizontal_edge_offset=0x7f060353;
-    public static final int mtrl_badge_long_text_horizontal_padding=0x7f060354;
-    public static final int mtrl_badge_radius=0x7f060355;
-    public static final int mtrl_badge_text_horizontal_edge_offset=0x7f060356;
-    public static final int mtrl_badge_text_size=0x7f060357;
-    public static final int mtrl_badge_with_text_radius=0x7f060358;
-    public static final int mtrl_bottomappbar_fabOffsetEndMode=0x7f060359;
-    public static final int mtrl_bottomappbar_fab_bottom_margin=0x7f06035a;
-    public static final int mtrl_bottomappbar_fab_cradle_margin=0x7f06035b;
-    public static final int mtrl_bottomappbar_fab_cradle_rounded_corner_radius=0x7f06035c;
-    public static final int mtrl_bottomappbar_fab_cradle_vertical_offset=0x7f06035d;
-    public static final int mtrl_bottomappbar_height=0x7f06035e;
-    public static final int mtrl_btn_corner_radius=0x7f06035f;
-    public static final int mtrl_btn_dialog_btn_min_width=0x7f060360;
-    public static final int mtrl_btn_disabled_elevation=0x7f060361;
-    public static final int mtrl_btn_disabled_z=0x7f060362;
-    public static final int mtrl_btn_elevation=0x7f060363;
-    public static final int mtrl_btn_focused_z=0x7f060364;
-    public static final int mtrl_btn_hovered_z=0x7f060365;
-    public static final int mtrl_btn_icon_btn_padding_left=0x7f060366;
-    public static final int mtrl_btn_icon_padding=0x7f060367;
-    public static final int mtrl_btn_inset=0x7f060368;
-    public static final int mtrl_btn_letter_spacing=0x7f060369;
-    public static final int mtrl_btn_padding_bottom=0x7f06036a;
-    public static final int mtrl_btn_padding_left=0x7f06036b;
-    public static final int mtrl_btn_padding_right=0x7f06036c;
-    public static final int mtrl_btn_padding_top=0x7f06036d;
-    public static final int mtrl_btn_pressed_z=0x7f06036e;
-    public static final int mtrl_btn_stroke_size=0x7f06036f;
-    public static final int mtrl_btn_text_btn_icon_padding=0x7f060370;
-    public static final int mtrl_btn_text_btn_padding_left=0x7f060371;
-    public static final int mtrl_btn_text_btn_padding_right=0x7f060372;
-    public static final int mtrl_btn_text_size=0x7f060373;
-    public static final int mtrl_btn_z=0x7f060374;
-    public static final int mtrl_calendar_action_height=0x7f060375;
-    public static final int mtrl_calendar_action_padding=0x7f060376;
-    public static final int mtrl_calendar_bottom_padding=0x7f060377;
-    public static final int mtrl_calendar_content_padding=0x7f060378;
-    public static final int mtrl_calendar_day_corner=0x7f060379;
-    public static final int mtrl_calendar_day_height=0x7f06037a;
-    public static final int mtrl_calendar_day_horizontal_padding=0x7f06037b;
-    public static final int mtrl_calendar_day_today_stroke=0x7f06037c;
-    public static final int mtrl_calendar_day_vertical_padding=0x7f06037d;
-    public static final int mtrl_calendar_day_width=0x7f06037e;
-    public static final int mtrl_calendar_days_of_week_height=0x7f06037f;
-    public static final int mtrl_calendar_dialog_background_inset=0x7f060380;
-    public static final int mtrl_calendar_header_content_padding=0x7f060381;
-    public static final int mtrl_calendar_header_content_padding_fullscreen=0x7f060382;
-    public static final int mtrl_calendar_header_divider_thickness=0x7f060383;
-    public static final int mtrl_calendar_header_height=0x7f060384;
-    public static final int mtrl_calendar_header_height_fullscreen=0x7f060385;
-    public static final int mtrl_calendar_header_selection_line_height=0x7f060386;
-    public static final int mtrl_calendar_header_text_padding=0x7f060387;
-    public static final int mtrl_calendar_header_toggle_margin_bottom=0x7f060388;
-    public static final int mtrl_calendar_header_toggle_margin_top=0x7f060389;
-    public static final int mtrl_calendar_landscape_header_width=0x7f06038a;
-    public static final int mtrl_calendar_maximum_default_fullscreen_minor_axis=0x7f06038b;
-    public static final int mtrl_calendar_month_horizontal_padding=0x7f06038c;
-    public static final int mtrl_calendar_month_vertical_padding=0x7f06038d;
-    public static final int mtrl_calendar_navigation_bottom_padding=0x7f06038e;
-    public static final int mtrl_calendar_navigation_height=0x7f06038f;
-    public static final int mtrl_calendar_navigation_top_padding=0x7f060390;
-    public static final int mtrl_calendar_pre_l_text_clip_padding=0x7f060391;
-    public static final int mtrl_calendar_selection_baseline_to_top_fullscreen=0x7f060392;
-    public static final int mtrl_calendar_selection_text_baseline_to_bottom=0x7f060393;
-    public static final int mtrl_calendar_selection_text_baseline_to_bottom_fullscreen=0x7f060394;
-    public static final int mtrl_calendar_selection_text_baseline_to_top=0x7f060395;
-    public static final int mtrl_calendar_text_input_padding_top=0x7f060396;
-    public static final int mtrl_calendar_title_baseline_to_top=0x7f060397;
-    public static final int mtrl_calendar_title_baseline_to_top_fullscreen=0x7f060398;
-    public static final int mtrl_calendar_year_corner=0x7f060399;
-    public static final int mtrl_calendar_year_height=0x7f06039a;
-    public static final int mtrl_calendar_year_horizontal_padding=0x7f06039b;
-    public static final int mtrl_calendar_year_vertical_padding=0x7f06039c;
-    public static final int mtrl_calendar_year_width=0x7f06039d;
-    public static final int mtrl_card_checked_icon_margin=0x7f06039e;
-    public static final int mtrl_card_checked_icon_size=0x7f06039f;
-    public static final int mtrl_card_corner_radius=0x7f0603a0;
-    public static final int mtrl_card_dragged_z=0x7f0603a1;
-    public static final int mtrl_card_elevation=0x7f0603a2;
-    public static final int mtrl_card_spacing=0x7f0603a3;
-    public static final int mtrl_chip_pressed_translation_z=0x7f0603a4;
-    public static final int mtrl_chip_text_size=0x7f0603a5;
-    public static final int mtrl_exposed_dropdown_menu_popup_elevation=0x7f0603a6;
-    public static final int mtrl_exposed_dropdown_menu_popup_vertical_offset=0x7f0603a7;
-    public static final int mtrl_exposed_dropdown_menu_popup_vertical_padding=0x7f0603a8;
-    public static final int mtrl_extended_fab_bottom_padding=0x7f0603a9;
-    public static final int mtrl_extended_fab_corner_radius=0x7f0603aa;
-    public static final int mtrl_extended_fab_disabled_elevation=0x7f0603ab;
-    public static final int mtrl_extended_fab_disabled_translation_z=0x7f0603ac;
-    public static final int mtrl_extended_fab_elevation=0x7f0603ad;
-    public static final int mtrl_extended_fab_end_padding=0x7f0603ae;
-    public static final int mtrl_extended_fab_end_padding_icon=0x7f0603af;
-    public static final int mtrl_extended_fab_icon_size=0x7f0603b0;
-    public static final int mtrl_extended_fab_icon_text_spacing=0x7f0603b1;
-    public static final int mtrl_extended_fab_min_height=0x7f0603b2;
-    public static final int mtrl_extended_fab_min_width=0x7f0603b3;
-    public static final int mtrl_extended_fab_start_padding=0x7f0603b4;
-    public static final int mtrl_extended_fab_start_padding_icon=0x7f0603b5;
-    public static final int mtrl_extended_fab_top_padding=0x7f0603b6;
-    public static final int mtrl_extended_fab_translation_z_base=0x7f0603b7;
-    public static final int mtrl_extended_fab_translation_z_hovered_focused=0x7f0603b8;
-    public static final int mtrl_extended_fab_translation_z_pressed=0x7f0603b9;
-    public static final int mtrl_fab_elevation=0x7f0603ba;
-    public static final int mtrl_fab_min_touch_target=0x7f0603bb;
-    public static final int mtrl_fab_translation_z_hovered_focused=0x7f0603bc;
-    public static final int mtrl_fab_translation_z_pressed=0x7f0603bd;
-    public static final int mtrl_high_ripple_default_alpha=0x7f0603be;
-    public static final int mtrl_high_ripple_focused_alpha=0x7f0603bf;
-    public static final int mtrl_high_ripple_hovered_alpha=0x7f0603c0;
-    public static final int mtrl_high_ripple_pressed_alpha=0x7f0603c1;
-    public static final int mtrl_large_touch_target=0x7f0603c2;
-    public static final int mtrl_low_ripple_default_alpha=0x7f0603c3;
-    public static final int mtrl_low_ripple_focused_alpha=0x7f0603c4;
-    public static final int mtrl_low_ripple_hovered_alpha=0x7f0603c5;
-    public static final int mtrl_low_ripple_pressed_alpha=0x7f0603c6;
-    public static final int mtrl_min_touch_target_size=0x7f0603c7;
-    public static final int mtrl_navigation_elevation=0x7f0603c8;
-    public static final int mtrl_navigation_item_horizontal_padding=0x7f0603c9;
-    public static final int mtrl_navigation_item_icon_padding=0x7f0603ca;
-    public static final int mtrl_navigation_item_icon_size=0x7f0603cb;
-    public static final int mtrl_navigation_item_shape_horizontal_margin=0x7f0603cc;
-    public static final int mtrl_navigation_item_shape_vertical_margin=0x7f0603cd;
-    public static final int mtrl_shape_corner_size_large_component=0x7f0603ce;
-    public static final int mtrl_shape_corner_size_medium_component=0x7f0603cf;
-    public static final int mtrl_shape_corner_size_small_component=0x7f0603d0;
-    public static final int mtrl_snackbar_action_text_color_alpha=0x7f0603d1;
-    public static final int mtrl_snackbar_background_corner_radius=0x7f0603d2;
-    public static final int mtrl_snackbar_background_overlay_color_alpha=0x7f0603d3;
-    public static final int mtrl_snackbar_margin=0x7f0603d4;
-    public static final int mtrl_switch_thumb_elevation=0x7f0603d5;
-    public static final int mtrl_textinput_box_corner_radius_medium=0x7f0603d6;
-    public static final int mtrl_textinput_box_corner_radius_small=0x7f0603d7;
-    public static final int mtrl_textinput_box_label_cutout_padding=0x7f0603d8;
-    public static final int mtrl_textinput_box_stroke_width_default=0x7f0603d9;
-    public static final int mtrl_textinput_box_stroke_width_focused=0x7f0603da;
-    public static final int mtrl_textinput_end_icon_margin_start=0x7f0603db;
-    public static final int mtrl_textinput_outline_box_expanded_padding=0x7f0603dc;
-    public static final int mtrl_textinput_start_icon_margin_end=0x7f0603dd;
-    public static final int mtrl_toolbar_default_height=0x7f0603de;
-    public static final int notification_action_icon_size=0x7f0603df;
-    public static final int notification_action_text_size=0x7f0603e0;
-    public static final int notification_big_circle_margin=0x7f0603e1;
-    public static final int notification_content_margin_start=0x7f0603e2;
-    public static final int notification_large_icon_height=0x7f0603e3;
-    public static final int notification_large_icon_width=0x7f0603e4;
-    public static final int notification_main_column_padding_top=0x7f0603e5;
-    public static final int notification_media_narrow_margin=0x7f0603e6;
-    public static final int notification_right_icon_size=0x7f0603e7;
-    public static final int notification_right_side_padding_top=0x7f0603e8;
-    public static final int notification_small_icon_background_padding=0x7f0603e9;
-    public static final int notification_small_icon_size_as_large=0x7f0603ea;
-    public static final int notification_subtext_size=0x7f0603eb;
-    public static final int notification_top_pad=0x7f0603ec;
-    public static final int notification_top_pad_large_text=0x7f0603ed;
-    public static final int padding_large=0x7f0603ee;
-    public static final int padding_medium=0x7f0603ef;
-    public static final int padding_s_medium=0x7f0603f0;
-    public static final int padding_small=0x7f0603f1;
-    public static final int padding_xlarge=0x7f0603f2;
-    public static final int padding_xmedium=0x7f0603f3;
-    public static final int padding_xxlarge=0x7f0603f4;
-    public static final int padding_xxxlarge=0x7f0603f5;
-    public static final int place_autocomplete_button_padding=0x7f0603f6;
-    public static final int place_autocomplete_powered_by_google_height=0x7f0603f7;
-    public static final int place_autocomplete_powered_by_google_start=0x7f0603f8;
-    public static final int place_autocomplete_prediction_height=0x7f0603f9;
-    public static final int place_autocomplete_prediction_horizontal_margin=0x7f0603fa;
-    public static final int place_autocomplete_prediction_primary_text=0x7f0603fb;
-    public static final int place_autocomplete_prediction_secondary_text=0x7f0603fc;
-    public static final int place_autocomplete_progress_horizontal_margin=0x7f0603fd;
-    public static final int place_autocomplete_progress_size=0x7f0603fe;
-    public static final int place_autocomplete_separator_start=0x7f0603ff;
-    public static final int subtitle_corner_radius=0x7f060400;
-    public static final int subtitle_outline_width=0x7f060401;
-    public static final int subtitle_shadow_offset=0x7f060402;
-    public static final int subtitle_shadow_radius=0x7f060403;
-    public static final int test_mtrl_calendar_day_cornerSize=0x7f060404;
-    public static final int tooltip_corner_radius=0x7f060405;
-    public static final int tooltip_horizontal_padding=0x7f060406;
-    public static final int tooltip_margin=0x7f060407;
-    public static final int tooltip_precise_anchor_extra_offset=0x7f060408;
-    public static final int tooltip_precise_anchor_threshold=0x7f060409;
-    public static final int tooltip_vertical_padding=0x7f06040a;
-    public static final int tooltip_y_offset_non_touch=0x7f06040b;
-    public static final int tooltip_y_offset_touch=0x7f06040c;
+    public static final int fab_margin=0x7f060321;
+    public static final int fastscroll__bubble_corner=0x7f060322;
+    public static final int fastscroll__bubble_size=0x7f060323;
+    public static final int fastscroll__handle_clickable_width=0x7f060324;
+    public static final int fastscroll__handle_corner=0x7f060325;
+    public static final int fastscroll__handle_height=0x7f060326;
+    public static final int fastscroll__handle_inset=0x7f060327;
+    public static final int fastscroll__handle_padding=0x7f060328;
+    public static final int fastscroll__handle_width=0x7f060329;
+    public static final int fastscroll_default_thickness=0x7f06032a;
+    public static final int fastscroll_margin=0x7f06032b;
+    public static final int fastscroll_minimum_range=0x7f06032c;
+    public static final int font_large=0x7f06032d;
+    public static final int font_medium=0x7f06032e;
+    public static final int font_small=0x7f06032f;
+    public static final int font_xlarge=0x7f060330;
+    public static final int font_xsmall=0x7f060331;
+    public static final int font_xxSmall=0x7f060332;
+    public static final int font_xxlarge=0x7f060333;
+    public static final int font_xxxlarge=0x7f060334;
+    public static final int google_1x=0x7f060335;
+    public static final int highlight_alpha_material_colored=0x7f060336;
+    public static final int highlight_alpha_material_dark=0x7f060337;
+    public static final int highlight_alpha_material_light=0x7f060338;
+    public static final int hint_alpha_material_dark=0x7f060339;
+    public static final int hint_alpha_material_light=0x7f06033a;
+    public static final int hint_pressed_alpha_material_dark=0x7f06033b;
+    public static final int hint_pressed_alpha_material_light=0x7f06033c;
+    public static final int item_touch_helper_max_drag_scroll_per_frame=0x7f06033d;
+    public static final int item_touch_helper_swipe_escape_max_velocity=0x7f06033e;
+    public static final int item_touch_helper_swipe_escape_velocity=0x7f06033f;
+    public static final int margin_large=0x7f060340;
+    public static final int margin_medium=0x7f060341;
+    public static final int margin_small=0x7f060342;
+    public static final int margin_top_large=0x7f060343;
+    public static final int margin_top_medium=0x7f060344;
+    public static final int margin_top_small=0x7f060345;
+    public static final int margin_xlarge=0x7f060346;
+    public static final int margin_xmedium=0x7f060347;
+    public static final int margin_xxlarge=0x7f060348;
+    public static final int margin_xxxlarge=0x7f060349;
+    public static final int material_emphasis_disabled=0x7f06034a;
+    public static final int material_emphasis_high_type=0x7f06034b;
+    public static final int material_emphasis_medium=0x7f06034c;
+    public static final int material_text_view_test_line_height=0x7f06034d;
+    public static final int material_text_view_test_line_height_override=0x7f06034e;
+    public static final int mtrl_alert_dialog_background_inset_bottom=0x7f06034f;
+    public static final int mtrl_alert_dialog_background_inset_end=0x7f060350;
+    public static final int mtrl_alert_dialog_background_inset_start=0x7f060351;
+    public static final int mtrl_alert_dialog_background_inset_top=0x7f060352;
+    public static final int mtrl_alert_dialog_picker_background_inset=0x7f060353;
+    public static final int mtrl_badge_horizontal_edge_offset=0x7f060354;
+    public static final int mtrl_badge_long_text_horizontal_padding=0x7f060355;
+    public static final int mtrl_badge_radius=0x7f060356;
+    public static final int mtrl_badge_text_horizontal_edge_offset=0x7f060357;
+    public static final int mtrl_badge_text_size=0x7f060358;
+    public static final int mtrl_badge_with_text_radius=0x7f060359;
+    public static final int mtrl_bottomappbar_fabOffsetEndMode=0x7f06035a;
+    public static final int mtrl_bottomappbar_fab_bottom_margin=0x7f06035b;
+    public static final int mtrl_bottomappbar_fab_cradle_margin=0x7f06035c;
+    public static final int mtrl_bottomappbar_fab_cradle_rounded_corner_radius=0x7f06035d;
+    public static final int mtrl_bottomappbar_fab_cradle_vertical_offset=0x7f06035e;
+    public static final int mtrl_bottomappbar_height=0x7f06035f;
+    public static final int mtrl_btn_corner_radius=0x7f060360;
+    public static final int mtrl_btn_dialog_btn_min_width=0x7f060361;
+    public static final int mtrl_btn_disabled_elevation=0x7f060362;
+    public static final int mtrl_btn_disabled_z=0x7f060363;
+    public static final int mtrl_btn_elevation=0x7f060364;
+    public static final int mtrl_btn_focused_z=0x7f060365;
+    public static final int mtrl_btn_hovered_z=0x7f060366;
+    public static final int mtrl_btn_icon_btn_padding_left=0x7f060367;
+    public static final int mtrl_btn_icon_padding=0x7f060368;
+    public static final int mtrl_btn_inset=0x7f060369;
+    public static final int mtrl_btn_letter_spacing=0x7f06036a;
+    public static final int mtrl_btn_padding_bottom=0x7f06036b;
+    public static final int mtrl_btn_padding_left=0x7f06036c;
+    public static final int mtrl_btn_padding_right=0x7f06036d;
+    public static final int mtrl_btn_padding_top=0x7f06036e;
+    public static final int mtrl_btn_pressed_z=0x7f06036f;
+    public static final int mtrl_btn_stroke_size=0x7f060370;
+    public static final int mtrl_btn_text_btn_icon_padding=0x7f060371;
+    public static final int mtrl_btn_text_btn_padding_left=0x7f060372;
+    public static final int mtrl_btn_text_btn_padding_right=0x7f060373;
+    public static final int mtrl_btn_text_size=0x7f060374;
+    public static final int mtrl_btn_z=0x7f060375;
+    public static final int mtrl_calendar_action_height=0x7f060376;
+    public static final int mtrl_calendar_action_padding=0x7f060377;
+    public static final int mtrl_calendar_bottom_padding=0x7f060378;
+    public static final int mtrl_calendar_content_padding=0x7f060379;
+    public static final int mtrl_calendar_day_corner=0x7f06037a;
+    public static final int mtrl_calendar_day_height=0x7f06037b;
+    public static final int mtrl_calendar_day_horizontal_padding=0x7f06037c;
+    public static final int mtrl_calendar_day_today_stroke=0x7f06037d;
+    public static final int mtrl_calendar_day_vertical_padding=0x7f06037e;
+    public static final int mtrl_calendar_day_width=0x7f06037f;
+    public static final int mtrl_calendar_days_of_week_height=0x7f060380;
+    public static final int mtrl_calendar_dialog_background_inset=0x7f060381;
+    public static final int mtrl_calendar_header_content_padding=0x7f060382;
+    public static final int mtrl_calendar_header_content_padding_fullscreen=0x7f060383;
+    public static final int mtrl_calendar_header_divider_thickness=0x7f060384;
+    public static final int mtrl_calendar_header_height=0x7f060385;
+    public static final int mtrl_calendar_header_height_fullscreen=0x7f060386;
+    public static final int mtrl_calendar_header_selection_line_height=0x7f060387;
+    public static final int mtrl_calendar_header_text_padding=0x7f060388;
+    public static final int mtrl_calendar_header_toggle_margin_bottom=0x7f060389;
+    public static final int mtrl_calendar_header_toggle_margin_top=0x7f06038a;
+    public static final int mtrl_calendar_landscape_header_width=0x7f06038b;
+    public static final int mtrl_calendar_maximum_default_fullscreen_minor_axis=0x7f06038c;
+    public static final int mtrl_calendar_month_horizontal_padding=0x7f06038d;
+    public static final int mtrl_calendar_month_vertical_padding=0x7f06038e;
+    public static final int mtrl_calendar_navigation_bottom_padding=0x7f06038f;
+    public static final int mtrl_calendar_navigation_height=0x7f060390;
+    public static final int mtrl_calendar_navigation_top_padding=0x7f060391;
+    public static final int mtrl_calendar_pre_l_text_clip_padding=0x7f060392;
+    public static final int mtrl_calendar_selection_baseline_to_top_fullscreen=0x7f060393;
+    public static final int mtrl_calendar_selection_text_baseline_to_bottom=0x7f060394;
+    public static final int mtrl_calendar_selection_text_baseline_to_bottom_fullscreen=0x7f060395;
+    public static final int mtrl_calendar_selection_text_baseline_to_top=0x7f060396;
+    public static final int mtrl_calendar_text_input_padding_top=0x7f060397;
+    public static final int mtrl_calendar_title_baseline_to_top=0x7f060398;
+    public static final int mtrl_calendar_title_baseline_to_top_fullscreen=0x7f060399;
+    public static final int mtrl_calendar_year_corner=0x7f06039a;
+    public static final int mtrl_calendar_year_height=0x7f06039b;
+    public static final int mtrl_calendar_year_horizontal_padding=0x7f06039c;
+    public static final int mtrl_calendar_year_vertical_padding=0x7f06039d;
+    public static final int mtrl_calendar_year_width=0x7f06039e;
+    public static final int mtrl_card_checked_icon_margin=0x7f06039f;
+    public static final int mtrl_card_checked_icon_size=0x7f0603a0;
+    public static final int mtrl_card_corner_radius=0x7f0603a1;
+    public static final int mtrl_card_dragged_z=0x7f0603a2;
+    public static final int mtrl_card_elevation=0x7f0603a3;
+    public static final int mtrl_card_spacing=0x7f0603a4;
+    public static final int mtrl_chip_pressed_translation_z=0x7f0603a5;
+    public static final int mtrl_chip_text_size=0x7f0603a6;
+    public static final int mtrl_exposed_dropdown_menu_popup_elevation=0x7f0603a7;
+    public static final int mtrl_exposed_dropdown_menu_popup_vertical_offset=0x7f0603a8;
+    public static final int mtrl_exposed_dropdown_menu_popup_vertical_padding=0x7f0603a9;
+    public static final int mtrl_extended_fab_bottom_padding=0x7f0603aa;
+    public static final int mtrl_extended_fab_corner_radius=0x7f0603ab;
+    public static final int mtrl_extended_fab_disabled_elevation=0x7f0603ac;
+    public static final int mtrl_extended_fab_disabled_translation_z=0x7f0603ad;
+    public static final int mtrl_extended_fab_elevation=0x7f0603ae;
+    public static final int mtrl_extended_fab_end_padding=0x7f0603af;
+    public static final int mtrl_extended_fab_end_padding_icon=0x7f0603b0;
+    public static final int mtrl_extended_fab_icon_size=0x7f0603b1;
+    public static final int mtrl_extended_fab_icon_text_spacing=0x7f0603b2;
+    public static final int mtrl_extended_fab_min_height=0x7f0603b3;
+    public static final int mtrl_extended_fab_min_width=0x7f0603b4;
+    public static final int mtrl_extended_fab_start_padding=0x7f0603b5;
+    public static final int mtrl_extended_fab_start_padding_icon=0x7f0603b6;
+    public static final int mtrl_extended_fab_top_padding=0x7f0603b7;
+    public static final int mtrl_extended_fab_translation_z_base=0x7f0603b8;
+    public static final int mtrl_extended_fab_translation_z_hovered_focused=0x7f0603b9;
+    public static final int mtrl_extended_fab_translation_z_pressed=0x7f0603ba;
+    public static final int mtrl_fab_elevation=0x7f0603bb;
+    public static final int mtrl_fab_min_touch_target=0x7f0603bc;
+    public static final int mtrl_fab_translation_z_hovered_focused=0x7f0603bd;
+    public static final int mtrl_fab_translation_z_pressed=0x7f0603be;
+    public static final int mtrl_high_ripple_default_alpha=0x7f0603bf;
+    public static final int mtrl_high_ripple_focused_alpha=0x7f0603c0;
+    public static final int mtrl_high_ripple_hovered_alpha=0x7f0603c1;
+    public static final int mtrl_high_ripple_pressed_alpha=0x7f0603c2;
+    public static final int mtrl_large_touch_target=0x7f0603c3;
+    public static final int mtrl_low_ripple_default_alpha=0x7f0603c4;
+    public static final int mtrl_low_ripple_focused_alpha=0x7f0603c5;
+    public static final int mtrl_low_ripple_hovered_alpha=0x7f0603c6;
+    public static final int mtrl_low_ripple_pressed_alpha=0x7f0603c7;
+    public static final int mtrl_min_touch_target_size=0x7f0603c8;
+    public static final int mtrl_navigation_elevation=0x7f0603c9;
+    public static final int mtrl_navigation_item_horizontal_padding=0x7f0603ca;
+    public static final int mtrl_navigation_item_icon_padding=0x7f0603cb;
+    public static final int mtrl_navigation_item_icon_size=0x7f0603cc;
+    public static final int mtrl_navigation_item_shape_horizontal_margin=0x7f0603cd;
+    public static final int mtrl_navigation_item_shape_vertical_margin=0x7f0603ce;
+    public static final int mtrl_shape_corner_size_large_component=0x7f0603cf;
+    public static final int mtrl_shape_corner_size_medium_component=0x7f0603d0;
+    public static final int mtrl_shape_corner_size_small_component=0x7f0603d1;
+    public static final int mtrl_snackbar_action_text_color_alpha=0x7f0603d2;
+    public static final int mtrl_snackbar_background_corner_radius=0x7f0603d3;
+    public static final int mtrl_snackbar_background_overlay_color_alpha=0x7f0603d4;
+    public static final int mtrl_snackbar_margin=0x7f0603d5;
+    public static final int mtrl_switch_thumb_elevation=0x7f0603d6;
+    public static final int mtrl_textinput_box_corner_radius_medium=0x7f0603d7;
+    public static final int mtrl_textinput_box_corner_radius_small=0x7f0603d8;
+    public static final int mtrl_textinput_box_label_cutout_padding=0x7f0603d9;
+    public static final int mtrl_textinput_box_stroke_width_default=0x7f0603da;
+    public static final int mtrl_textinput_box_stroke_width_focused=0x7f0603db;
+    public static final int mtrl_textinput_end_icon_margin_start=0x7f0603dc;
+    public static final int mtrl_textinput_outline_box_expanded_padding=0x7f0603dd;
+    public static final int mtrl_textinput_start_icon_margin_end=0x7f0603de;
+    public static final int mtrl_toolbar_default_height=0x7f0603df;
+    public static final int nav_header_height=0x7f0603e0;
+    public static final int nav_header_vertical_spacing=0x7f0603e1;
+    public static final int notification_action_icon_size=0x7f0603e2;
+    public static final int notification_action_text_size=0x7f0603e3;
+    public static final int notification_big_circle_margin=0x7f0603e4;
+    public static final int notification_content_margin_start=0x7f0603e5;
+    public static final int notification_large_icon_height=0x7f0603e6;
+    public static final int notification_large_icon_width=0x7f0603e7;
+    public static final int notification_main_column_padding_top=0x7f0603e8;
+    public static final int notification_media_narrow_margin=0x7f0603e9;
+    public static final int notification_right_icon_size=0x7f0603ea;
+    public static final int notification_right_side_padding_top=0x7f0603eb;
+    public static final int notification_small_icon_background_padding=0x7f0603ec;
+    public static final int notification_small_icon_size_as_large=0x7f0603ed;
+    public static final int notification_subtext_size=0x7f0603ee;
+    public static final int notification_top_pad=0x7f0603ef;
+    public static final int notification_top_pad_large_text=0x7f0603f0;
+    public static final int padding_large=0x7f0603f1;
+    public static final int padding_medium=0x7f0603f2;
+    public static final int padding_s_medium=0x7f0603f3;
+    public static final int padding_small=0x7f0603f4;
+    public static final int padding_xlarge=0x7f0603f5;
+    public static final int padding_xmedium=0x7f0603f6;
+    public static final int padding_xxlarge=0x7f0603f7;
+    public static final int padding_xxxlarge=0x7f0603f8;
+    public static final int place_autocomplete_button_padding=0x7f0603f9;
+    public static final int place_autocomplete_powered_by_google_height=0x7f0603fa;
+    public static final int place_autocomplete_powered_by_google_start=0x7f0603fb;
+    public static final int place_autocomplete_prediction_height=0x7f0603fc;
+    public static final int place_autocomplete_prediction_horizontal_margin=0x7f0603fd;
+    public static final int place_autocomplete_prediction_primary_text=0x7f0603fe;
+    public static final int place_autocomplete_prediction_secondary_text=0x7f0603ff;
+    public static final int place_autocomplete_progress_horizontal_margin=0x7f060400;
+    public static final int place_autocomplete_progress_size=0x7f060401;
+    public static final int place_autocomplete_separator_start=0x7f060402;
+    public static final int subtitle_corner_radius=0x7f060403;
+    public static final int subtitle_outline_width=0x7f060404;
+    public static final int subtitle_shadow_offset=0x7f060405;
+    public static final int subtitle_shadow_radius=0x7f060406;
+    public static final int test_mtrl_calendar_day_cornerSize=0x7f060407;
+    public static final int tooltip_corner_radius=0x7f060408;
+    public static final int tooltip_horizontal_padding=0x7f060409;
+    public static final int tooltip_margin=0x7f06040a;
+    public static final int tooltip_precise_anchor_extra_offset=0x7f06040b;
+    public static final int tooltip_precise_anchor_threshold=0x7f06040c;
+    public static final int tooltip_vertical_padding=0x7f06040d;
+    public static final int tooltip_y_offset_non_touch=0x7f06040e;
+    public static final int tooltip_y_offset_touch=0x7f06040f;
   }
   public static final class drawable {
     public static final int abc_ab_share_pack_mtrl_alpha=0x7f070007;
@@ -8565,40 +8568,47 @@ public final class R {
     public static final int ic_launcher_foreground=0x7f07018e;
     public static final int ic_menu_arrow_down_black_24dp=0x7f07018f;
     public static final int ic_menu_arrow_up_black_24dp=0x7f070190;
-    public static final int ic_mtrl_checked_circle=0x7f070191;
-    public static final int ic_mtrl_chip_checked_black=0x7f070192;
-    public static final int ic_mtrl_chip_checked_circle=0x7f070193;
-    public static final int ic_mtrl_chip_close_circle=0x7f070194;
-    public static final int mtrl_dialog_background=0x7f070195;
-    public static final int mtrl_dropdown_arrow=0x7f070196;
-    public static final int mtrl_ic_arrow_drop_down=0x7f070197;
-    public static final int mtrl_ic_arrow_drop_up=0x7f070198;
-    public static final int mtrl_ic_cancel=0x7f070199;
-    public static final int mtrl_ic_error=0x7f07019a;
-    public static final int mtrl_popupmenu_background=0x7f07019b;
-    public static final int mtrl_popupmenu_background_dark=0x7f07019c;
-    public static final int mtrl_tabs_default_indicator=0x7f07019d;
-    public static final int navigation_empty_icon=0x7f07019e;
-    public static final int notification_action_background=0x7f07019f;
-    public static final int notification_bg=0x7f0701a0;
-    public static final int notification_bg_low=0x7f0701a1;
-    public static final int notification_bg_low_normal=0x7f0701a2;
-    public static final int notification_bg_low_pressed=0x7f0701a3;
-    public static final int notification_bg_normal=0x7f0701a4;
-    public static final int notification_bg_normal_pressed=0x7f0701a5;
-    public static final int notification_icon_background=0x7f0701a6;
-    public static final int notification_template_icon_bg=0x7f0701a7;
-    public static final int notification_template_icon_low_bg=0x7f0701a8;
-    public static final int notification_tile_bg=0x7f0701a9;
-    public static final int notify_panel_notification_icon_bg=0x7f0701aa;
-    public static final int places_ic_clear=0x7f0701ab;
-    public static final int places_ic_search=0x7f0701ac;
-    public static final int powered_by_google_dark=0x7f0701ad;
-    public static final int powered_by_google_light=0x7f0701ae;
-    public static final int test_custom_background=0x7f0701af;
-    public static final int text_handle=0x7f0701b0;
-    public static final int tooltip_frame_dark=0x7f0701b1;
-    public static final int tooltip_frame_light=0x7f0701b2;
+    public static final int ic_menu_camera=0x7f070191;
+    public static final int ic_menu_gallery=0x7f070192;
+    public static final int ic_menu_manage=0x7f070193;
+    public static final int ic_menu_send=0x7f070194;
+    public static final int ic_menu_share=0x7f070195;
+    public static final int ic_menu_slideshow=0x7f070196;
+    public static final int ic_mtrl_checked_circle=0x7f070197;
+    public static final int ic_mtrl_chip_checked_black=0x7f070198;
+    public static final int ic_mtrl_chip_checked_circle=0x7f070199;
+    public static final int ic_mtrl_chip_close_circle=0x7f07019a;
+    public static final int mtrl_dialog_background=0x7f07019b;
+    public static final int mtrl_dropdown_arrow=0x7f07019c;
+    public static final int mtrl_ic_arrow_drop_down=0x7f07019d;
+    public static final int mtrl_ic_arrow_drop_up=0x7f07019e;
+    public static final int mtrl_ic_cancel=0x7f07019f;
+    public static final int mtrl_ic_error=0x7f0701a0;
+    public static final int mtrl_popupmenu_background=0x7f0701a1;
+    public static final int mtrl_popupmenu_background_dark=0x7f0701a2;
+    public static final int mtrl_tabs_default_indicator=0x7f0701a3;
+    public static final int navigation_empty_icon=0x7f0701a4;
+    public static final int notification_action_background=0x7f0701a5;
+    public static final int notification_bg=0x7f0701a6;
+    public static final int notification_bg_low=0x7f0701a7;
+    public static final int notification_bg_low_normal=0x7f0701a8;
+    public static final int notification_bg_low_pressed=0x7f0701a9;
+    public static final int notification_bg_normal=0x7f0701aa;
+    public static final int notification_bg_normal_pressed=0x7f0701ab;
+    public static final int notification_icon_background=0x7f0701ac;
+    public static final int notification_template_icon_bg=0x7f0701ad;
+    public static final int notification_template_icon_low_bg=0x7f0701ae;
+    public static final int notification_tile_bg=0x7f0701af;
+    public static final int notify_panel_notification_icon_bg=0x7f0701b0;
+    public static final int places_ic_clear=0x7f0701b1;
+    public static final int places_ic_search=0x7f0701b2;
+    public static final int powered_by_google_dark=0x7f0701b3;
+    public static final int powered_by_google_light=0x7f0701b4;
+    public static final int side_nav_bar=0x7f0701b5;
+    public static final int test_custom_background=0x7f0701b6;
+    public static final int text_handle=0x7f0701b7;
+    public static final int tooltip_frame_dark=0x7f0701b8;
+    public static final int tooltip_frame_light=0x7f0701b9;
   }
   public static final class font {
     public static final int sf_compact_medium=0x7f080000;
@@ -8729,318 +8739,345 @@ public final class R {
     public static final int action_mode_bar=0x7f090078;
     public static final int action_mode_bar_stub=0x7f090079;
     public static final int action_mode_close_button=0x7f09007a;
-    public static final int action_text=0x7f09007b;
-    public static final int actions=0x7f09007c;
-    public static final int activity_chooser_view_content=0x7f09007d;
-    public static final int add=0x7f09007e;
-    public static final int adjust_height=0x7f09007f;
-    public static final int adjust_width=0x7f090080;
-    public static final int alertTitle=0x7f090081;
-    public static final int all=0x7f090082;
-    public static final int allFields=0x7f090083;
-    public static final int always=0x7f090084;
-    public static final int async=0x7f090085;
-    public static final int auto=0x7f090086;
-    public static final int barrier=0x7f090087;
-    public static final int beginning=0x7f090088;
-    public static final int blocking=0x7f090089;
-    public static final int bottom=0x7f09008a;
-    public static final int btnRegister=0x7f09008b;
-    public static final int btnResend=0x7f09008c;
-    public static final int btnSubmit=0x7f09008d;
-    public static final int btnVerify=0x7f09008e;
-    public static final int buttonPanel=0x7f09008f;
-    public static final int cancel_action=0x7f090090;
-    public static final int cancel_button=0x7f090091;
-    public static final int ccp=0x7f090092;
-    public static final int center=0x7f090093;
-    public static final int center_horizontal=0x7f090094;
-    public static final int center_vertical=0x7f090095;
-    public static final int chains=0x7f090096;
-    public static final int checkbox=0x7f090097;
-    public static final int checked=0x7f090098;
-    public static final int chip=0x7f090099;
-    public static final int chip_group=0x7f09009a;
-    public static final int chronometer=0x7f09009b;
-    public static final int clear_text=0x7f09009c;
-    public static final int clip_horizontal=0x7f09009d;
-    public static final int clip_vertical=0x7f09009e;
-    public static final int codeHint=0x7f09009f;
-    public static final int collapseActionView=0x7f0900a0;
-    public static final int completedFields=0x7f0900a1;
-    public static final int confirm_button=0x7f0900a2;
-    public static final int container=0x7f0900a3;
-    public static final int content=0x7f0900a4;
-    public static final int contentPanel=0x7f0900a5;
-    public static final int coordinator=0x7f0900a6;
-    public static final int countryCodeHolder=0x7f0900a7;
-    public static final int currentField=0x7f0900a8;
-    public static final int custom=0x7f0900a9;
-    public static final int customPanel=0x7f0900aa;
-    public static final int cut=0x7f0900ab;
-    public static final int dark=0x7f0900ac;
-    public static final int date_picker_actions=0x7f0900ad;
-    public static final int decor_content_parent=0x7f0900ae;
-    public static final int default_activity_button=0x7f0900af;
-    public static final int design_bottom_sheet=0x7f0900b0;
-    public static final int design_menu_item_action_area=0x7f0900b1;
-    public static final int design_menu_item_action_area_stub=0x7f0900b2;
-    public static final int design_menu_item_text=0x7f0900b3;
-    public static final int design_navigation_view=0x7f0900b4;
-    public static final int dialog_button=0x7f0900b5;
-    public static final int dimensions=0x7f0900b6;
-    public static final int direct=0x7f0900b7;
-    public static final int disableHome=0x7f0900b8;
-    public static final int dropdown_menu=0x7f0900b9;
-    public static final int editText_search=0x7f0900ba;
-    public static final int edit_query=0x7f0900bb;
-    public static final int end=0x7f0900bc;
-    public static final int end_padder=0x7f0900bd;
-    public static final int enterAlways=0x7f0900be;
-    public static final int enterAlwaysCollapsed=0x7f0900bf;
-    public static final int etEmail=0x7f0900c0;
-    public static final int etName=0x7f0900c1;
-    public static final int etPassword=0x7f0900c2;
-    public static final int etPhoneNumber=0x7f0900c3;
-    public static final int etPinCode=0x7f0900c4;
-    public static final int etReTypePassword=0x7f0900c5;
-    public static final int exitUntilCollapsed=0x7f0900c6;
-    public static final int expand_activities_button=0x7f0900c7;
-    public static final int expanded_menu=0x7f0900c8;
-    public static final int fade=0x7f0900c9;
-    public static final int fastscroll=0x7f0900ca;
-    public static final int fill=0x7f0900cb;
-    public static final int fill_horizontal=0x7f0900cc;
-    public static final int fill_vertical=0x7f0900cd;
-    public static final int filled=0x7f0900ce;
-    public static final int filter_chip=0x7f0900cf;
-    public static final int fitToContents=0x7f0900d0;
-    public static final int fixed=0x7f0900d1;
-    public static final int forever=0x7f0900d2;
-    public static final int fragment_container=0x7f0900d3;
-    public static final int fragment_container_view_tag=0x7f0900d4;
-    public static final int ghost_view=0x7f0900d5;
-    public static final int ghost_view_holder=0x7f0900d6;
-    public static final int give_us_a_review_landmine_button=0x7f0900d7;
-    public static final int give_us_a_review_landmine_main_layout=0x7f0900d8;
-    public static final int give_us_a_review_landmine_text_1=0x7f0900d9;
-    public static final int give_us_a_review_landmine_text_2=0x7f0900da;
-    public static final int glide_custom_view_target_tag=0x7f0900db;
-    public static final int gone=0x7f0900dc;
-    public static final int group_divider=0x7f0900dd;
-    public static final int groups=0x7f0900de;
-    public static final int hideable=0x7f0900df;
-    public static final int home=0x7f0900e0;
-    public static final int homeAsUp=0x7f0900e1;
-    public static final int hybrid=0x7f0900e2;
-    public static final int icon=0x7f0900e3;
-    public static final int icon_group=0x7f0900e4;
-    public static final int icon_only=0x7f0900e5;
-    public static final int ifRoom=0x7f0900e6;
-    public static final int image=0x7f0900e7;
-    public static final int imageView_arrow=0x7f0900e8;
-    public static final int image_flag=0x7f0900e9;
-    public static final int img_clear_query=0x7f0900ea;
-    public static final int img_dismiss=0x7f0900eb;
-    public static final int info=0x7f0900ec;
-    public static final int invisible=0x7f0900ed;
-    public static final int italic=0x7f0900ee;
-    public static final int item_touch_helper_previous_elevation=0x7f0900ef;
-    public static final int ivBack=0x7f0900f0;
-    public static final int ivClose=0x7f0900f1;
-    public static final int ivUserImage=0x7f0900f2;
-    public static final int labeled=0x7f0900f3;
-    public static final int largeLabel=0x7f0900f4;
-    public static final int left=0x7f0900f5;
-    public static final int light=0x7f0900f6;
-    public static final int line1=0x7f0900f7;
-    public static final int line3=0x7f0900f8;
-    public static final int linear_flag_border=0x7f0900f9;
-    public static final int linear_flag_holder=0x7f0900fa;
-    public static final int listMode=0x7f0900fb;
-    public static final int list_item=0x7f0900fc;
-    public static final int masked=0x7f0900fd;
-    public static final int media_actions=0x7f0900fe;
-    public static final int message=0x7f0900ff;
-    public static final int middle=0x7f090100;
-    public static final int mini=0x7f090101;
-    public static final int month_grid=0x7f090102;
-    public static final int month_navigation_bar=0x7f090103;
-    public static final int month_navigation_fragment_toggle=0x7f090104;
-    public static final int month_navigation_next=0x7f090105;
-    public static final int month_navigation_previous=0x7f090106;
-    public static final int month_title=0x7f090107;
-    public static final int mtrl_calendar_day_selector_frame=0x7f090108;
-    public static final int mtrl_calendar_days_of_week=0x7f090109;
-    public static final int mtrl_calendar_frame=0x7f09010a;
-    public static final int mtrl_calendar_main_pane=0x7f09010b;
-    public static final int mtrl_calendar_months=0x7f09010c;
-    public static final int mtrl_calendar_selection_frame=0x7f09010d;
-    public static final int mtrl_calendar_text_input_frame=0x7f09010e;
-    public static final int mtrl_calendar_year_selector_frame=0x7f09010f;
-    public static final int mtrl_card_checked_layer_id=0x7f090110;
-    public static final int mtrl_child_content_container=0x7f090111;
-    public static final int mtrl_internal_children_alpha_tag=0x7f090112;
-    public static final int mtrl_picker_fullscreen=0x7f090113;
-    public static final int mtrl_picker_header=0x7f090114;
-    public static final int mtrl_picker_header_selection_text=0x7f090115;
-    public static final int mtrl_picker_header_title_and_selection=0x7f090116;
-    public static final int mtrl_picker_header_toggle=0x7f090117;
-    public static final int mtrl_picker_text_input_date=0x7f090118;
-    public static final int mtrl_picker_text_input_range_end=0x7f090119;
-    public static final int mtrl_picker_text_input_range_start=0x7f09011a;
-    public static final int mtrl_picker_title_text=0x7f09011b;
-    public static final int multiply=0x7f09011c;
-    public static final int nav_controller_view_tag=0x7f09011d;
-    public static final int nav_host_fragment_container=0x7f09011e;
-    public static final int navigation_header_container=0x7f09011f;
-    public static final int never=0x7f090120;
-    public static final int noFields=0x7f090121;
-    public static final int noScroll=0x7f090122;
-    public static final int none=0x7f090123;
-    public static final int normal=0x7f090124;
-    public static final int notification_background=0x7f090125;
-    public static final int notification_main_column=0x7f090126;
-    public static final int notification_main_column_container=0x7f090127;
-    public static final int off=0x7f090128;
-    public static final int on=0x7f090129;
-    public static final int outline=0x7f09012a;
-    public static final int packed=0x7f09012b;
-    public static final int parallax=0x7f09012c;
-    public static final int parent=0x7f09012d;
-    public static final int parentPanel=0x7f09012e;
-    public static final int parent_matrix=0x7f09012f;
-    public static final int password_toggle=0x7f090130;
-    public static final int peekHeight=0x7f090131;
-    public static final int percent=0x7f090132;
-    public static final int pin=0x7f090133;
-    public static final int place_autocomplete_clear_button=0x7f090134;
-    public static final int place_autocomplete_powered_by_google=0x7f090135;
-    public static final int place_autocomplete_prediction_primary_text=0x7f090136;
-    public static final int place_autocomplete_prediction_secondary_text=0x7f090137;
-    public static final int place_autocomplete_progress=0x7f090138;
-    public static final int place_autocomplete_search_button=0x7f090139;
-    public static final int place_autocomplete_search_input=0x7f09013a;
-    public static final int place_autocomplete_separator=0x7f09013b;
-    public static final int preferenceDivider=0x7f09013c;
-    public static final int progress_circular=0x7f09013d;
-    public static final int progress_horizontal=0x7f09013e;
-    public static final int progressll=0x7f09013f;
-    public static final int radio=0x7f090140;
-    public static final int rbRating=0x7f090141;
-    public static final int recycler_countryDialog=0x7f090142;
-    public static final int right=0x7f090143;
-    public static final int right_icon=0x7f090144;
-    public static final int right_side=0x7f090145;
-    public static final int rlClickConsumer=0x7f090146;
-    public static final int rlVerify=0x7f090147;
-    public static final int rl_holder=0x7f090148;
-    public static final int rl_query_holder=0x7f090149;
-    public static final int rl_title=0x7f09014a;
-    public static final int rounded=0x7f09014b;
-    public static final int sampleText=0x7f09014c;
-    public static final int satellite=0x7f09014d;
-    public static final int save_non_transition_alpha=0x7f09014e;
-    public static final int save_overlay_view=0x7f09014f;
-    public static final int scale=0x7f090150;
-    public static final int screen=0x7f090151;
-    public static final int scroll=0x7f090152;
-    public static final int scrollIndicatorDown=0x7f090153;
-    public static final int scrollIndicatorUp=0x7f090154;
-    public static final int scrollView=0x7f090155;
-    public static final int scrollable=0x7f090156;
-    public static final int search_badge=0x7f090157;
-    public static final int search_bar=0x7f090158;
-    public static final int search_button=0x7f090159;
-    public static final int search_close_btn=0x7f09015a;
-    public static final int search_edit_frame=0x7f09015b;
-    public static final int search_go_btn=0x7f09015c;
-    public static final int search_mag_icon=0x7f09015d;
-    public static final int search_plate=0x7f09015e;
-    public static final int search_src_text=0x7f09015f;
-    public static final int search_voice_btn=0x7f090160;
-    public static final int select_dialog_listview=0x7f090161;
-    public static final int selected=0x7f090162;
-    public static final int shortcut=0x7f090163;
-    public static final int showCustom=0x7f090164;
-    public static final int showHome=0x7f090165;
-    public static final int showTitle=0x7f090166;
-    public static final int skipCollapsed=0x7f090167;
-    public static final int slide=0x7f090168;
-    public static final int smallLabel=0x7f090169;
-    public static final int snackbar_action=0x7f09016a;
-    public static final int snackbar_text=0x7f09016b;
-    public static final int snap=0x7f09016c;
-    public static final int snapMargins=0x7f09016d;
-    public static final int spacer=0x7f09016e;
-    public static final int split_action_bar=0x7f09016f;
-    public static final int spread=0x7f090170;
-    public static final int spread_inside=0x7f090171;
-    public static final int src_atop=0x7f090172;
-    public static final int src_in=0x7f090173;
-    public static final int src_over=0x7f090174;
-    public static final int standard=0x7f090175;
-    public static final int start=0x7f090176;
-    public static final int status_bar_latest_event_content=0x7f090177;
-    public static final int stretch=0x7f090178;
-    public static final int submenuarrow=0x7f090179;
-    public static final int submit_area=0x7f09017a;
-    public static final int tabMode=0x7f09017b;
-    public static final int tag_accessibility_actions=0x7f09017c;
-    public static final int tag_accessibility_clickable_spans=0x7f09017d;
-    public static final int tag_accessibility_heading=0x7f09017e;
-    public static final int tag_accessibility_pane_title=0x7f09017f;
-    public static final int tag_screen_reader_focusable=0x7f090180;
-    public static final int tag_transition_group=0x7f090181;
-    public static final int tag_unhandled_key_event_manager=0x7f090182;
-    public static final int tag_unhandled_key_listeners=0x7f090183;
-    public static final int terrain=0x7f090184;
-    public static final int test_checkbox_android_button_tint=0x7f090185;
-    public static final int test_checkbox_app_button_tint=0x7f090186;
-    public static final int text=0x7f090187;
-    public static final int text2=0x7f090188;
-    public static final int textEnd=0x7f090189;
-    public static final int textSpacerNoButtons=0x7f09018a;
-    public static final int textSpacerNoTitle=0x7f09018b;
-    public static final int textStart=0x7f09018c;
-    public static final int textView_code=0x7f09018d;
-    public static final int textView_countryName=0x7f09018e;
-    public static final int textView_noresult=0x7f09018f;
-    public static final int textView_selectedCountry=0x7f090190;
-    public static final int textView_title=0x7f090191;
-    public static final int text_input_end_icon=0x7f090192;
-    public static final int text_input_start_icon=0x7f090193;
-    public static final int textinput_counter=0x7f090194;
-    public static final int textinput_error=0x7f090195;
-    public static final int textinput_helper_text=0x7f090196;
-    public static final int time=0x7f090197;
-    public static final int title=0x7f090198;
-    public static final int titleDividerNoCustom=0x7f090199;
-    public static final int title_template=0x7f09019a;
-    public static final int toolbar=0x7f09019b;
-    public static final int toolbar_title=0x7f09019c;
-    public static final int top=0x7f09019d;
-    public static final int topPanel=0x7f09019e;
-    public static final int touch_outside=0x7f09019f;
-    public static final int transition_current_scene=0x7f0901a0;
-    public static final int transition_layout_save=0x7f0901a1;
-    public static final int transition_position=0x7f0901a2;
-    public static final int transition_scene_layoutid_cache=0x7f0901a3;
-    public static final int transition_transform=0x7f0901a4;
-    public static final int tvTopTitle=0x7f0901a5;
-    public static final int tvUserName=0x7f0901a6;
-    public static final int unchecked=0x7f0901a7;
-    public static final int uniform=0x7f0901a8;
-    public static final int unlabeled=0x7f0901a9;
-    public static final int up=0x7f0901aa;
-    public static final int useLogo=0x7f0901ab;
-    public static final int view_offset_helper=0x7f0901ac;
-    public static final int visible=0x7f0901ad;
-    public static final int visible_removing_fragment_view_tag=0x7f0901ae;
-    public static final int wide=0x7f0901af;
-    public static final int withText=0x7f0901b0;
-    public static final int wrap=0x7f0901b1;
-    public static final int wrap_content=0x7f0901b2;
+    public static final int action_settings=0x7f09007b;
+    public static final int action_signInFragment_to_forgotPasswordFragment=0x7f09007c;
+    public static final int action_signInFragment_to_signupFragment=0x7f09007d;
+    public static final int action_text=0x7f09007e;
+    public static final int actions=0x7f09007f;
+    public static final int activity_chooser_view_content=0x7f090080;
+    public static final int add=0x7f090081;
+    public static final int adjust_height=0x7f090082;
+    public static final int adjust_width=0x7f090083;
+    public static final int alertTitle=0x7f090084;
+    public static final int all=0x7f090085;
+    public static final int allFields=0x7f090086;
+    public static final int always=0x7f090087;
+    public static final int async=0x7f090088;
+    public static final int auto=0x7f090089;
+    public static final int barrier=0x7f09008a;
+    public static final int beginning=0x7f09008b;
+    public static final int blocking=0x7f09008c;
+    public static final int bottom=0x7f09008d;
+    public static final int btnLogin=0x7f09008e;
+    public static final int btnRegister=0x7f09008f;
+    public static final int btnResend=0x7f090090;
+    public static final int btnReset=0x7f090091;
+    public static final int btnSubmit=0x7f090092;
+    public static final int btnVerify=0x7f090093;
+    public static final int buttonPanel=0x7f090094;
+    public static final int cancel_action=0x7f090095;
+    public static final int cancel_button=0x7f090096;
+    public static final int ccp=0x7f090097;
+    public static final int center=0x7f090098;
+    public static final int center_horizontal=0x7f090099;
+    public static final int center_vertical=0x7f09009a;
+    public static final int chains=0x7f09009b;
+    public static final int checkbox=0x7f09009c;
+    public static final int checked=0x7f09009d;
+    public static final int chip=0x7f09009e;
+    public static final int chip_group=0x7f09009f;
+    public static final int chronometer=0x7f0900a0;
+    public static final int clear_text=0x7f0900a1;
+    public static final int clip_horizontal=0x7f0900a2;
+    public static final int clip_vertical=0x7f0900a3;
+    public static final int codeHint=0x7f0900a4;
+    public static final int collapseActionView=0x7f0900a5;
+    public static final int completedFields=0x7f0900a6;
+    public static final int confirm_button=0x7f0900a7;
+    public static final int container=0x7f0900a8;
+    public static final int content=0x7f0900a9;
+    public static final int contentPanel=0x7f0900aa;
+    public static final int coordinator=0x7f0900ab;
+    public static final int countryCodeHolder=0x7f0900ac;
+    public static final int currentField=0x7f0900ad;
+    public static final int custom=0x7f0900ae;
+    public static final int customPanel=0x7f0900af;
+    public static final int cut=0x7f0900b0;
+    public static final int dark=0x7f0900b1;
+    public static final int date_picker_actions=0x7f0900b2;
+    public static final int decor_content_parent=0x7f0900b3;
+    public static final int default_activity_button=0x7f0900b4;
+    public static final int design_bottom_sheet=0x7f0900b5;
+    public static final int design_menu_item_action_area=0x7f0900b6;
+    public static final int design_menu_item_action_area_stub=0x7f0900b7;
+    public static final int design_menu_item_text=0x7f0900b8;
+    public static final int design_navigation_view=0x7f0900b9;
+    public static final int dialog_button=0x7f0900ba;
+    public static final int dimensions=0x7f0900bb;
+    public static final int direct=0x7f0900bc;
+    public static final int disableHome=0x7f0900bd;
+    public static final int drawer_layout=0x7f0900be;
+    public static final int dropdown_menu=0x7f0900bf;
+    public static final int editText_search=0x7f0900c0;
+    public static final int edit_query=0x7f0900c1;
+    public static final int end=0x7f0900c2;
+    public static final int end_padder=0x7f0900c3;
+    public static final int enterAlways=0x7f0900c4;
+    public static final int enterAlwaysCollapsed=0x7f0900c5;
+    public static final int etEmail=0x7f0900c6;
+    public static final int etEmailOrUsername=0x7f0900c7;
+    public static final int etName=0x7f0900c8;
+    public static final int etPassword=0x7f0900c9;
+    public static final int etPhoneNumber=0x7f0900ca;
+    public static final int etPinCode=0x7f0900cb;
+    public static final int etReTypePassword=0x7f0900cc;
+    public static final int etResetEmail=0x7f0900cd;
+    public static final int exitUntilCollapsed=0x7f0900ce;
+    public static final int expand_activities_button=0x7f0900cf;
+    public static final int expanded_menu=0x7f0900d0;
+    public static final int fab=0x7f0900d1;
+    public static final int fade=0x7f0900d2;
+    public static final int fastscroll=0x7f0900d3;
+    public static final int fill=0x7f0900d4;
+    public static final int fill_horizontal=0x7f0900d5;
+    public static final int fill_vertical=0x7f0900d6;
+    public static final int filled=0x7f0900d7;
+    public static final int filter_chip=0x7f0900d8;
+    public static final int fitToContents=0x7f0900d9;
+    public static final int fixed=0x7f0900da;
+    public static final int forever=0x7f0900db;
+    public static final int forgotPasswordFragment=0x7f0900dc;
+    public static final int fragment_container=0x7f0900dd;
+    public static final int fragment_container_view_tag=0x7f0900de;
+    public static final int ghost_view=0x7f0900df;
+    public static final int ghost_view_holder=0x7f0900e0;
+    public static final int give_us_a_review_landmine_button=0x7f0900e1;
+    public static final int give_us_a_review_landmine_main_layout=0x7f0900e2;
+    public static final int give_us_a_review_landmine_text_1=0x7f0900e3;
+    public static final int give_us_a_review_landmine_text_2=0x7f0900e4;
+    public static final int glide_custom_view_target_tag=0x7f0900e5;
+    public static final int gone=0x7f0900e6;
+    public static final int group_divider=0x7f0900e7;
+    public static final int groups=0x7f0900e8;
+    public static final int hideable=0x7f0900e9;
+    public static final int home=0x7f0900ea;
+    public static final int homeAsUp=0x7f0900eb;
+    public static final int hybrid=0x7f0900ec;
+    public static final int icon=0x7f0900ed;
+    public static final int icon_group=0x7f0900ee;
+    public static final int icon_only=0x7f0900ef;
+    public static final int ifRoom=0x7f0900f0;
+    public static final int image=0x7f0900f1;
+    public static final int imageView=0x7f0900f2;
+    public static final int imageView_arrow=0x7f0900f3;
+    public static final int image_flag=0x7f0900f4;
+    public static final int img_clear_query=0x7f0900f5;
+    public static final int img_dismiss=0x7f0900f6;
+    public static final int info=0x7f0900f7;
+    public static final int invisible=0x7f0900f8;
+    public static final int italic=0x7f0900f9;
+    public static final int item_touch_helper_previous_elevation=0x7f0900fa;
+    public static final int ivBack=0x7f0900fb;
+    public static final int ivClose=0x7f0900fc;
+    public static final int ivUserImage=0x7f0900fd;
+    public static final int labeled=0x7f0900fe;
+    public static final int largeLabel=0x7f0900ff;
+    public static final int left=0x7f090100;
+    public static final int light=0x7f090101;
+    public static final int line1=0x7f090102;
+    public static final int line3=0x7f090103;
+    public static final int linear_flag_border=0x7f090104;
+    public static final int linear_flag_holder=0x7f090105;
+    public static final int listMode=0x7f090106;
+    public static final int list_item=0x7f090107;
+    public static final int masked=0x7f090108;
+    public static final int media_actions=0x7f090109;
+    public static final int message=0x7f09010a;
+    public static final int middle=0x7f09010b;
+    public static final int mini=0x7f09010c;
+    public static final int mobile_navigation=0x7f09010d;
+    public static final int month_grid=0x7f09010e;
+    public static final int month_navigation_bar=0x7f09010f;
+    public static final int month_navigation_fragment_toggle=0x7f090110;
+    public static final int month_navigation_next=0x7f090111;
+    public static final int month_navigation_previous=0x7f090112;
+    public static final int month_title=0x7f090113;
+    public static final int mtrl_calendar_day_selector_frame=0x7f090114;
+    public static final int mtrl_calendar_days_of_week=0x7f090115;
+    public static final int mtrl_calendar_frame=0x7f090116;
+    public static final int mtrl_calendar_main_pane=0x7f090117;
+    public static final int mtrl_calendar_months=0x7f090118;
+    public static final int mtrl_calendar_selection_frame=0x7f090119;
+    public static final int mtrl_calendar_text_input_frame=0x7f09011a;
+    public static final int mtrl_calendar_year_selector_frame=0x7f09011b;
+    public static final int mtrl_card_checked_layer_id=0x7f09011c;
+    public static final int mtrl_child_content_container=0x7f09011d;
+    public static final int mtrl_internal_children_alpha_tag=0x7f09011e;
+    public static final int mtrl_picker_fullscreen=0x7f09011f;
+    public static final int mtrl_picker_header=0x7f090120;
+    public static final int mtrl_picker_header_selection_text=0x7f090121;
+    public static final int mtrl_picker_header_title_and_selection=0x7f090122;
+    public static final int mtrl_picker_header_toggle=0x7f090123;
+    public static final int mtrl_picker_text_input_date=0x7f090124;
+    public static final int mtrl_picker_text_input_range_end=0x7f090125;
+    public static final int mtrl_picker_text_input_range_start=0x7f090126;
+    public static final int mtrl_picker_title_text=0x7f090127;
+    public static final int multiply=0x7f090128;
+    public static final int nav_controller_view_tag=0x7f090129;
+    public static final int nav_gallery=0x7f09012a;
+    public static final int nav_home=0x7f09012b;
+    public static final int nav_host_fragment=0x7f09012c;
+    public static final int nav_host_fragment_container=0x7f09012d;
+    public static final int nav_send=0x7f09012e;
+    public static final int nav_share=0x7f09012f;
+    public static final int nav_slideshow=0x7f090130;
+    public static final int nav_tools=0x7f090131;
+    public static final int nav_view=0x7f090132;
+    public static final int navigation_header_container=0x7f090133;
+    public static final int never=0x7f090134;
+    public static final int noFields=0x7f090135;
+    public static final int noScroll=0x7f090136;
+    public static final int none=0x7f090137;
+    public static final int normal=0x7f090138;
+    public static final int notification_background=0x7f090139;
+    public static final int notification_main_column=0x7f09013a;
+    public static final int notification_main_column_container=0x7f09013b;
+    public static final int off=0x7f09013c;
+    public static final int on=0x7f09013d;
+    public static final int outline=0x7f09013e;
+    public static final int packed=0x7f09013f;
+    public static final int parallax=0x7f090140;
+    public static final int parent=0x7f090141;
+    public static final int parentPanel=0x7f090142;
+    public static final int parent_matrix=0x7f090143;
+    public static final int password_toggle=0x7f090144;
+    public static final int peekHeight=0x7f090145;
+    public static final int percent=0x7f090146;
+    public static final int pin=0x7f090147;
+    public static final int place_autocomplete_clear_button=0x7f090148;
+    public static final int place_autocomplete_powered_by_google=0x7f090149;
+    public static final int place_autocomplete_prediction_primary_text=0x7f09014a;
+    public static final int place_autocomplete_prediction_secondary_text=0x7f09014b;
+    public static final int place_autocomplete_progress=0x7f09014c;
+    public static final int place_autocomplete_search_button=0x7f09014d;
+    public static final int place_autocomplete_search_input=0x7f09014e;
+    public static final int place_autocomplete_separator=0x7f09014f;
+    public static final int preferenceDivider=0x7f090150;
+    public static final int progress_circular=0x7f090151;
+    public static final int progress_horizontal=0x7f090152;
+    public static final int progressll=0x7f090153;
+    public static final int radio=0x7f090154;
+    public static final int rbRating=0x7f090155;
+    public static final int recycler_countryDialog=0x7f090156;
+    public static final int registration_navigation=0x7f090157;
+    public static final int right=0x7f090158;
+    public static final int right_icon=0x7f090159;
+    public static final int right_side=0x7f09015a;
+    public static final int rlClickConsumer=0x7f09015b;
+    public static final int rlVerify=0x7f09015c;
+    public static final int rl_holder=0x7f09015d;
+    public static final int rl_query_holder=0x7f09015e;
+    public static final int rl_title=0x7f09015f;
+    public static final int rounded=0x7f090160;
+    public static final int sampleText=0x7f090161;
+    public static final int satellite=0x7f090162;
+    public static final int save_non_transition_alpha=0x7f090163;
+    public static final int save_overlay_view=0x7f090164;
+    public static final int scale=0x7f090165;
+    public static final int screen=0x7f090166;
+    public static final int scroll=0x7f090167;
+    public static final int scrollIndicatorDown=0x7f090168;
+    public static final int scrollIndicatorUp=0x7f090169;
+    public static final int scrollView=0x7f09016a;
+    public static final int scrollable=0x7f09016b;
+    public static final int search_badge=0x7f09016c;
+    public static final int search_bar=0x7f09016d;
+    public static final int search_button=0x7f09016e;
+    public static final int search_close_btn=0x7f09016f;
+    public static final int search_edit_frame=0x7f090170;
+    public static final int search_go_btn=0x7f090171;
+    public static final int search_mag_icon=0x7f090172;
+    public static final int search_plate=0x7f090173;
+    public static final int search_src_text=0x7f090174;
+    public static final int search_voice_btn=0x7f090175;
+    public static final int select_dialog_listview=0x7f090176;
+    public static final int selected=0x7f090177;
+    public static final int shortcut=0x7f090178;
+    public static final int showCustom=0x7f090179;
+    public static final int showHome=0x7f09017a;
+    public static final int showTitle=0x7f09017b;
+    public static final int signInFragment=0x7f09017c;
+    public static final int signupFragment=0x7f09017d;
+    public static final int skipCollapsed=0x7f09017e;
+    public static final int slide=0x7f09017f;
+    public static final int smallLabel=0x7f090180;
+    public static final int snackbar_action=0x7f090181;
+    public static final int snackbar_text=0x7f090182;
+    public static final int snap=0x7f090183;
+    public static final int snapMargins=0x7f090184;
+    public static final int spacer=0x7f090185;
+    public static final int split_action_bar=0x7f090186;
+    public static final int spread=0x7f090187;
+    public static final int spread_inside=0x7f090188;
+    public static final int src_atop=0x7f090189;
+    public static final int src_in=0x7f09018a;
+    public static final int src_over=0x7f09018b;
+    public static final int standard=0x7f09018c;
+    public static final int start=0x7f09018d;
+    public static final int status_bar_latest_event_content=0x7f09018e;
+    public static final int stretch=0x7f09018f;
+    public static final int submenuarrow=0x7f090190;
+    public static final int submit_area=0x7f090191;
+    public static final int tabMode=0x7f090192;
+    public static final int tag_accessibility_actions=0x7f090193;
+    public static final int tag_accessibility_clickable_spans=0x7f090194;
+    public static final int tag_accessibility_heading=0x7f090195;
+    public static final int tag_accessibility_pane_title=0x7f090196;
+    public static final int tag_screen_reader_focusable=0x7f090197;
+    public static final int tag_transition_group=0x7f090198;
+    public static final int tag_unhandled_key_event_manager=0x7f090199;
+    public static final int tag_unhandled_key_listeners=0x7f09019a;
+    public static final int terrain=0x7f09019b;
+    public static final int test_checkbox_android_button_tint=0x7f09019c;
+    public static final int test_checkbox_app_button_tint=0x7f09019d;
+    public static final int text=0x7f09019e;
+    public static final int text2=0x7f09019f;
+    public static final int textEnd=0x7f0901a0;
+    public static final int textSpacerNoButtons=0x7f0901a1;
+    public static final int textSpacerNoTitle=0x7f0901a2;
+    public static final int textStart=0x7f0901a3;
+    public static final int textView=0x7f0901a4;
+    public static final int textView_code=0x7f0901a5;
+    public static final int textView_countryName=0x7f0901a6;
+    public static final int textView_noresult=0x7f0901a7;
+    public static final int textView_selectedCountry=0x7f0901a8;
+    public static final int textView_title=0x7f0901a9;
+    public static final int text_home=0x7f0901aa;
+    public static final int text_input_end_icon=0x7f0901ab;
+    public static final int text_input_start_icon=0x7f0901ac;
+    public static final int textinput_counter=0x7f0901ad;
+    public static final int textinput_error=0x7f0901ae;
+    public static final int textinput_helper_text=0x7f0901af;
+    public static final int time=0x7f0901b0;
+    public static final int title=0x7f0901b1;
+    public static final int titleDividerNoCustom=0x7f0901b2;
+    public static final int title_template=0x7f0901b3;
+    public static final int toolbar=0x7f0901b4;
+    public static final int toolbar_title=0x7f0901b5;
+    public static final int top=0x7f0901b6;
+    public static final int topPanel=0x7f0901b7;
+    public static final int touch_outside=0x7f0901b8;
+    public static final int transition_current_scene=0x7f0901b9;
+    public static final int transition_layout_save=0x7f0901ba;
+    public static final int transition_position=0x7f0901bb;
+    public static final int transition_scene_layoutid_cache=0x7f0901bc;
+    public static final int transition_transform=0x7f0901bd;
+    public static final int tvForgetPassword=0x7f0901be;
+    public static final int tvSignup=0x7f0901bf;
+    public static final int tvTopTitle=0x7f0901c0;
+    public static final int tvUserName=0x7f0901c1;
+    public static final int unchecked=0x7f0901c2;
+    public static final int uniform=0x7f0901c3;
+    public static final int unlabeled=0x7f0901c4;
+    public static final int up=0x7f0901c5;
+    public static final int useLogo=0x7f0901c6;
+    public static final int view_offset_helper=0x7f0901c7;
+    public static final int visible=0x7f0901c8;
+    public static final int visible_removing_fragment_view_tag=0x7f0901c9;
+    public static final int wide=0x7f0901ca;
+    public static final int withText=0x7f0901cb;
+    public static final int wrap=0x7f0901cc;
+    public static final int wrap_content=0x7f0901cd;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f0a0000;
@@ -9109,968 +9146,1013 @@ public final class R {
     public static final int abc_search_view=0x7f0c0019;
     public static final int abc_select_dialog_material=0x7f0c001a;
     public static final int abc_tooltip=0x7f0c001b;
-    public static final int activity_phone_verification=0x7f0c001c;
-    public static final int activity_splash=0x7f0c001d;
-    public static final int custom_dialog=0x7f0c001e;
-    public static final int design_bottom_navigation_item=0x7f0c001f;
-    public static final int design_bottom_sheet_dialog=0x7f0c0020;
-    public static final int design_layout_snackbar=0x7f0c0021;
-    public static final int design_layout_snackbar_include=0x7f0c0022;
-    public static final int design_layout_tab_icon=0x7f0c0023;
-    public static final int design_layout_tab_text=0x7f0c0024;
-    public static final int design_menu_item_action_area=0x7f0c0025;
-    public static final int design_navigation_item=0x7f0c0026;
-    public static final int design_navigation_item_header=0x7f0c0027;
-    public static final int design_navigation_item_separator=0x7f0c0028;
-    public static final int design_navigation_item_subheader=0x7f0c0029;
-    public static final int design_navigation_menu=0x7f0c002a;
-    public static final int design_navigation_menu_item=0x7f0c002b;
-    public static final int design_text_input_end_icon=0x7f0c002c;
-    public static final int design_text_input_start_icon=0x7f0c002d;
-    public static final int dp_example=0x7f0c002e;
-    public static final int fastscroll__default_bubble=0x7f0c002f;
-    public static final int fragment_login=0x7f0c0030;
-    public static final int fragment_sign_up=0x7f0c0031;
-    public static final int layout_code_picker=0x7f0c0032;
-    public static final int layout_full_width_code_picker=0x7f0c0033;
-    public static final int layout_picker_dialog=0x7f0c0034;
-    public static final int layout_recycler_country_tile=0x7f0c0035;
-    public static final int mtrl_alert_dialog=0x7f0c0036;
-    public static final int mtrl_alert_dialog_actions=0x7f0c0037;
-    public static final int mtrl_alert_dialog_title=0x7f0c0038;
-    public static final int mtrl_alert_select_dialog_item=0x7f0c0039;
-    public static final int mtrl_alert_select_dialog_multichoice=0x7f0c003a;
-    public static final int mtrl_alert_select_dialog_singlechoice=0x7f0c003b;
-    public static final int mtrl_calendar_day=0x7f0c003c;
-    public static final int mtrl_calendar_day_of_week=0x7f0c003d;
-    public static final int mtrl_calendar_days_of_week=0x7f0c003e;
-    public static final int mtrl_calendar_horizontal=0x7f0c003f;
-    public static final int mtrl_calendar_month=0x7f0c0040;
-    public static final int mtrl_calendar_month_labeled=0x7f0c0041;
-    public static final int mtrl_calendar_month_navigation=0x7f0c0042;
-    public static final int mtrl_calendar_months=0x7f0c0043;
-    public static final int mtrl_calendar_vertical=0x7f0c0044;
-    public static final int mtrl_calendar_year=0x7f0c0045;
-    public static final int mtrl_layout_snackbar=0x7f0c0046;
-    public static final int mtrl_layout_snackbar_include=0x7f0c0047;
-    public static final int mtrl_picker_actions=0x7f0c0048;
-    public static final int mtrl_picker_dialog=0x7f0c0049;
-    public static final int mtrl_picker_fullscreen=0x7f0c004a;
-    public static final int mtrl_picker_header_dialog=0x7f0c004b;
-    public static final int mtrl_picker_header_fullscreen=0x7f0c004c;
-    public static final int mtrl_picker_header_selection_text=0x7f0c004d;
-    public static final int mtrl_picker_header_title_text=0x7f0c004e;
-    public static final int mtrl_picker_header_toggle=0x7f0c004f;
-    public static final int mtrl_picker_text_input_date=0x7f0c0050;
-    public static final int mtrl_picker_text_input_date_range=0x7f0c0051;
-    public static final int notification_action=0x7f0c0052;
-    public static final int notification_action_tombstone=0x7f0c0053;
-    public static final int notification_media_action=0x7f0c0054;
-    public static final int notification_media_cancel_action=0x7f0c0055;
-    public static final int notification_template_big_media=0x7f0c0056;
-    public static final int notification_template_big_media_custom=0x7f0c0057;
-    public static final int notification_template_big_media_narrow=0x7f0c0058;
-    public static final int notification_template_big_media_narrow_custom=0x7f0c0059;
-    public static final int notification_template_custom_big=0x7f0c005a;
-    public static final int notification_template_icon_group=0x7f0c005b;
-    public static final int notification_template_lines_media=0x7f0c005c;
-    public static final int notification_template_media=0x7f0c005d;
-    public static final int notification_template_media_custom=0x7f0c005e;
-    public static final int notification_template_part_chronometer=0x7f0c005f;
-    public static final int notification_template_part_time=0x7f0c0060;
-    public static final int place_autocomplete_fragment=0x7f0c0061;
-    public static final int place_autocomplete_item_powered_by_google=0x7f0c0062;
-    public static final int place_autocomplete_item_prediction=0x7f0c0063;
-    public static final int place_autocomplete_progress=0x7f0c0064;
-    public static final int progress_layout=0x7f0c0065;
-    public static final int rating_dialog_layout=0x7f0c0066;
-    public static final int sdp_example=0x7f0c0067;
-    public static final int select_dialog_item_material=0x7f0c0068;
-    public static final int select_dialog_multichoice_material=0x7f0c0069;
-    public static final int select_dialog_singlechoice_material=0x7f0c006a;
-    public static final int support_simple_spinner_dropdown_item=0x7f0c006b;
-    public static final int test_action_chip=0x7f0c006c;
-    public static final int test_design_checkbox=0x7f0c006d;
-    public static final int test_reflow_chipgroup=0x7f0c006e;
-    public static final int test_toolbar=0x7f0c006f;
-    public static final int test_toolbar_custom_background=0x7f0c0070;
-    public static final int test_toolbar_elevation=0x7f0c0071;
-    public static final int test_toolbar_surface=0x7f0c0072;
-    public static final int text_view_with_line_height_from_appearance=0x7f0c0073;
-    public static final int text_view_with_line_height_from_layout=0x7f0c0074;
-    public static final int text_view_with_line_height_from_style=0x7f0c0075;
-    public static final int text_view_with_theme_line_height=0x7f0c0076;
-    public static final int text_view_without_line_height=0x7f0c0077;
-    public static final int toolbar_layout=0x7f0c0078;
+    public static final int activity_main=0x7f0c001c;
+    public static final int activity_phone_verification=0x7f0c001d;
+    public static final int activity_registration=0x7f0c001e;
+    public static final int activity_splash=0x7f0c001f;
+    public static final int app_bar_main=0x7f0c0020;
+    public static final int content_main=0x7f0c0021;
+    public static final int content_registration=0x7f0c0022;
+    public static final int custom_dialog=0x7f0c0023;
+    public static final int design_bottom_navigation_item=0x7f0c0024;
+    public static final int design_bottom_sheet_dialog=0x7f0c0025;
+    public static final int design_layout_snackbar=0x7f0c0026;
+    public static final int design_layout_snackbar_include=0x7f0c0027;
+    public static final int design_layout_tab_icon=0x7f0c0028;
+    public static final int design_layout_tab_text=0x7f0c0029;
+    public static final int design_menu_item_action_area=0x7f0c002a;
+    public static final int design_navigation_item=0x7f0c002b;
+    public static final int design_navigation_item_header=0x7f0c002c;
+    public static final int design_navigation_item_separator=0x7f0c002d;
+    public static final int design_navigation_item_subheader=0x7f0c002e;
+    public static final int design_navigation_menu=0x7f0c002f;
+    public static final int design_navigation_menu_item=0x7f0c0030;
+    public static final int design_text_input_end_icon=0x7f0c0031;
+    public static final int design_text_input_start_icon=0x7f0c0032;
+    public static final int dp_example=0x7f0c0033;
+    public static final int fastscroll__default_bubble=0x7f0c0034;
+    public static final int fragment_forgot=0x7f0c0035;
+    public static final int fragment_home=0x7f0c0036;
+    public static final int fragment_login=0x7f0c0037;
+    public static final int fragment_sigin_in=0x7f0c0038;
+    public static final int fragment_sign_up=0x7f0c0039;
+    public static final int layout_code_picker=0x7f0c003a;
+    public static final int layout_full_width_code_picker=0x7f0c003b;
+    public static final int layout_picker_dialog=0x7f0c003c;
+    public static final int layout_recycler_country_tile=0x7f0c003d;
+    public static final int mtrl_alert_dialog=0x7f0c003e;
+    public static final int mtrl_alert_dialog_actions=0x7f0c003f;
+    public static final int mtrl_alert_dialog_title=0x7f0c0040;
+    public static final int mtrl_alert_select_dialog_item=0x7f0c0041;
+    public static final int mtrl_alert_select_dialog_multichoice=0x7f0c0042;
+    public static final int mtrl_alert_select_dialog_singlechoice=0x7f0c0043;
+    public static final int mtrl_calendar_day=0x7f0c0044;
+    public static final int mtrl_calendar_day_of_week=0x7f0c0045;
+    public static final int mtrl_calendar_days_of_week=0x7f0c0046;
+    public static final int mtrl_calendar_horizontal=0x7f0c0047;
+    public static final int mtrl_calendar_month=0x7f0c0048;
+    public static final int mtrl_calendar_month_labeled=0x7f0c0049;
+    public static final int mtrl_calendar_month_navigation=0x7f0c004a;
+    public static final int mtrl_calendar_months=0x7f0c004b;
+    public static final int mtrl_calendar_vertical=0x7f0c004c;
+    public static final int mtrl_calendar_year=0x7f0c004d;
+    public static final int mtrl_layout_snackbar=0x7f0c004e;
+    public static final int mtrl_layout_snackbar_include=0x7f0c004f;
+    public static final int mtrl_picker_actions=0x7f0c0050;
+    public static final int mtrl_picker_dialog=0x7f0c0051;
+    public static final int mtrl_picker_fullscreen=0x7f0c0052;
+    public static final int mtrl_picker_header_dialog=0x7f0c0053;
+    public static final int mtrl_picker_header_fullscreen=0x7f0c0054;
+    public static final int mtrl_picker_header_selection_text=0x7f0c0055;
+    public static final int mtrl_picker_header_title_text=0x7f0c0056;
+    public static final int mtrl_picker_header_toggle=0x7f0c0057;
+    public static final int mtrl_picker_text_input_date=0x7f0c0058;
+    public static final int mtrl_picker_text_input_date_range=0x7f0c0059;
+    public static final int nav_header_main=0x7f0c005a;
+    public static final int notification_action=0x7f0c005b;
+    public static final int notification_action_tombstone=0x7f0c005c;
+    public static final int notification_media_action=0x7f0c005d;
+    public static final int notification_media_cancel_action=0x7f0c005e;
+    public static final int notification_template_big_media=0x7f0c005f;
+    public static final int notification_template_big_media_custom=0x7f0c0060;
+    public static final int notification_template_big_media_narrow=0x7f0c0061;
+    public static final int notification_template_big_media_narrow_custom=0x7f0c0062;
+    public static final int notification_template_custom_big=0x7f0c0063;
+    public static final int notification_template_icon_group=0x7f0c0064;
+    public static final int notification_template_lines_media=0x7f0c0065;
+    public static final int notification_template_media=0x7f0c0066;
+    public static final int notification_template_media_custom=0x7f0c0067;
+    public static final int notification_template_part_chronometer=0x7f0c0068;
+    public static final int notification_template_part_time=0x7f0c0069;
+    public static final int place_autocomplete_fragment=0x7f0c006a;
+    public static final int place_autocomplete_item_powered_by_google=0x7f0c006b;
+    public static final int place_autocomplete_item_prediction=0x7f0c006c;
+    public static final int place_autocomplete_progress=0x7f0c006d;
+    public static final int progress_layout=0x7f0c006e;
+    public static final int rating_dialog_layout=0x7f0c006f;
+    public static final int sdp_example=0x7f0c0070;
+    public static final int select_dialog_item_material=0x7f0c0071;
+    public static final int select_dialog_multichoice_material=0x7f0c0072;
+    public static final int select_dialog_singlechoice_material=0x7f0c0073;
+    public static final int support_simple_spinner_dropdown_item=0x7f0c0074;
+    public static final int test_action_chip=0x7f0c0075;
+    public static final int test_design_checkbox=0x7f0c0076;
+    public static final int test_reflow_chipgroup=0x7f0c0077;
+    public static final int test_toolbar=0x7f0c0078;
+    public static final int test_toolbar_custom_background=0x7f0c0079;
+    public static final int test_toolbar_elevation=0x7f0c007a;
+    public static final int test_toolbar_surface=0x7f0c007b;
+    public static final int text_view_with_line_height_from_appearance=0x7f0c007c;
+    public static final int text_view_with_line_height_from_layout=0x7f0c007d;
+    public static final int text_view_with_line_height_from_style=0x7f0c007e;
+    public static final int text_view_with_theme_line_height=0x7f0c007f;
+    public static final int text_view_without_line_height=0x7f0c0080;
+    public static final int toolbar_layout=0x7f0c0081;
+  }
+  public static final class menu {
+    public static final int activity_main_drawer=0x7f0d0000;
+    public static final int activity_registration_drawer=0x7f0d0001;
+    public static final int main=0x7f0d0002;
+    public static final int registration=0x7f0d0003;
   }
   public static final class mipmap {
-    public static final int ic_launcher=0x7f0d0000;
-    public static final int ic_launcher_round=0x7f0d0001;
+    public static final int ic_launcher=0x7f0e0000;
+    public static final int ic_launcher_round=0x7f0e0001;
+  }
+  public static final class navigation {
+    public static final int mobile_navigation=0x7f0f0000;
+    public static final int registration_navigation=0x7f0f0001;
   }
   public static final class plurals {
-    public static final int mtrl_badge_content_description=0x7f0e0000;
+    public static final int mtrl_badge_content_description=0x7f100000;
   }
   public static final class raw {
-    public static final int a_new_lang_template=0x7f0f0000;
-    public static final int ccp_afrikaans=0x7f0f0001;
-    public static final int ccp_arabic=0x7f0f0002;
-    public static final int ccp_bengali=0x7f0f0003;
-    public static final int ccp_chinese_simplified=0x7f0f0004;
-    public static final int ccp_chinese_traditional=0x7f0f0005;
-    public static final int ccp_czech=0x7f0f0006;
-    public static final int ccp_danish=0x7f0f0007;
-    public static final int ccp_dutch=0x7f0f0008;
-    public static final int ccp_english=0x7f0f0009;
-    public static final int ccp_farsi=0x7f0f000a;
-    public static final int ccp_french=0x7f0f000b;
-    public static final int ccp_german=0x7f0f000c;
-    public static final int ccp_greek=0x7f0f000d;
-    public static final int ccp_gujarati=0x7f0f000e;
-    public static final int ccp_hebrew=0x7f0f000f;
-    public static final int ccp_hindi=0x7f0f0010;
-    public static final int ccp_indonesia=0x7f0f0011;
-    public static final int ccp_italian=0x7f0f0012;
-    public static final int ccp_japanese=0x7f0f0013;
-    public static final int ccp_kazakh=0x7f0f0014;
-    public static final int ccp_korean=0x7f0f0015;
-    public static final int ccp_polish=0x7f0f0016;
-    public static final int ccp_portuguese=0x7f0f0017;
-    public static final int ccp_punjabi=0x7f0f0018;
-    public static final int ccp_russian=0x7f0f0019;
-    public static final int ccp_slovak=0x7f0f001a;
-    public static final int ccp_spanish=0x7f0f001b;
-    public static final int ccp_swedish=0x7f0f001c;
-    public static final int ccp_turkish=0x7f0f001d;
-    public static final int ccp_ukrainian=0x7f0f001e;
-    public static final int ccp_urdu=0x7f0f001f;
-    public static final int ccp_uzbek=0x7f0f0020;
-    public static final int ccp_vietnamese=0x7f0f0021;
-    public static final int keep_ccp=0x7f0f0022;
+    public static final int a_new_lang_template=0x7f110000;
+    public static final int ccp_afrikaans=0x7f110001;
+    public static final int ccp_arabic=0x7f110002;
+    public static final int ccp_bengali=0x7f110003;
+    public static final int ccp_chinese_simplified=0x7f110004;
+    public static final int ccp_chinese_traditional=0x7f110005;
+    public static final int ccp_czech=0x7f110006;
+    public static final int ccp_danish=0x7f110007;
+    public static final int ccp_dutch=0x7f110008;
+    public static final int ccp_english=0x7f110009;
+    public static final int ccp_farsi=0x7f11000a;
+    public static final int ccp_french=0x7f11000b;
+    public static final int ccp_german=0x7f11000c;
+    public static final int ccp_greek=0x7f11000d;
+    public static final int ccp_gujarati=0x7f11000e;
+    public static final int ccp_hebrew=0x7f11000f;
+    public static final int ccp_hindi=0x7f110010;
+    public static final int ccp_indonesia=0x7f110011;
+    public static final int ccp_italian=0x7f110012;
+    public static final int ccp_japanese=0x7f110013;
+    public static final int ccp_kazakh=0x7f110014;
+    public static final int ccp_korean=0x7f110015;
+    public static final int ccp_polish=0x7f110016;
+    public static final int ccp_portuguese=0x7f110017;
+    public static final int ccp_punjabi=0x7f110018;
+    public static final int ccp_russian=0x7f110019;
+    public static final int ccp_slovak=0x7f11001a;
+    public static final int ccp_spanish=0x7f11001b;
+    public static final int ccp_swedish=0x7f11001c;
+    public static final int ccp_turkish=0x7f11001d;
+    public static final int ccp_ukrainian=0x7f11001e;
+    public static final int ccp_urdu=0x7f11001f;
+    public static final int ccp_uzbek=0x7f110020;
+    public static final int ccp_vietnamese=0x7f110021;
+    public static final int keep_ccp=0x7f110022;
   }
   public static final class string {
-    public static final int abc_action_bar_home_description=0x7f100000;
-    public static final int abc_action_bar_up_description=0x7f100001;
-    public static final int abc_action_menu_overflow_description=0x7f100002;
-    public static final int abc_action_mode_done=0x7f100003;
-    public static final int abc_activity_chooser_view_see_all=0x7f100004;
-    public static final int abc_activitychooserview_choose_application=0x7f100005;
-    public static final int abc_capital_off=0x7f100006;
-    public static final int abc_capital_on=0x7f100007;
-    public static final int abc_menu_alt_shortcut_label=0x7f100008;
-    public static final int abc_menu_ctrl_shortcut_label=0x7f100009;
-    public static final int abc_menu_delete_shortcut_label=0x7f10000a;
-    public static final int abc_menu_enter_shortcut_label=0x7f10000b;
-    public static final int abc_menu_function_shortcut_label=0x7f10000c;
-    public static final int abc_menu_meta_shortcut_label=0x7f10000d;
-    public static final int abc_menu_shift_shortcut_label=0x7f10000e;
-    public static final int abc_menu_space_shortcut_label=0x7f10000f;
-    public static final int abc_menu_sym_shortcut_label=0x7f100010;
-    public static final int abc_prepend_shortcut_label=0x7f100011;
-    public static final int abc_search_hint=0x7f100012;
-    public static final int abc_searchview_description_clear=0x7f100013;
-    public static final int abc_searchview_description_query=0x7f100014;
-    public static final int abc_searchview_description_search=0x7f100015;
-    public static final int abc_searchview_description_submit=0x7f100016;
-    public static final int abc_searchview_description_voice=0x7f100017;
-    public static final int abc_shareactionprovider_share_with=0x7f100018;
-    public static final int abc_shareactionprovider_share_with_application=0x7f100019;
-    public static final int abc_toolbar_collapse_description=0x7f10001a;
-    public static final int address_req=0x7f10001b;
-    public static final int app_name=0x7f10001c;
-    public static final int appbar_scrolling_view_behavior=0x7f10001d;
-    public static final int bottom_sheet_behavior=0x7f10001e;
-    public static final int character_counter_content_description=0x7f10001f;
-    public static final int character_counter_overflowed_content_description=0x7f100020;
-    public static final int character_counter_pattern=0x7f100021;
-    public static final int chip_text=0x7f100022;
-    public static final int clear_text_end_icon_content_description=0x7f100023;
-    public static final int common_google_play_services_enable_button=0x7f100024;
-    public static final int common_google_play_services_enable_text=0x7f100025;
-    public static final int common_google_play_services_enable_title=0x7f100026;
-    public static final int common_google_play_services_install_button=0x7f100027;
-    public static final int common_google_play_services_install_text=0x7f100028;
-    public static final int common_google_play_services_install_title=0x7f100029;
-    public static final int common_google_play_services_notification_channel_name=0x7f10002a;
-    public static final int common_google_play_services_notification_ticker=0x7f10002b;
-    public static final int common_google_play_services_unknown_issue=0x7f10002c;
-    public static final int common_google_play_services_unsupported_text=0x7f10002d;
-    public static final int common_google_play_services_update_button=0x7f10002e;
-    public static final int common_google_play_services_update_text=0x7f10002f;
-    public static final int common_google_play_services_update_title=0x7f100030;
-    public static final int common_google_play_services_updating_text=0x7f100031;
-    public static final int common_google_play_services_wear_update_text=0x7f100032;
-    public static final int common_open_on_phone=0x7f100033;
-    public static final int common_signin_button_text=0x7f100034;
-    public static final int common_signin_button_text_long=0x7f100035;
-    public static final int confrim_password_required=0x7f100036;
-    public static final int email=0x7f100037;
-    public static final int error_icon_content_description=0x7f100038;
-    public static final int exposed_dropdown_menu_content_description=0x7f100039;
-    public static final int fab_transformation_scrim_behavior=0x7f10003a;
-    public static final int fab_transformation_sheet_behavior=0x7f10003b;
-    public static final int fastscroll__app_name=0x7f10003c;
-    public static final int fcm_fallback_notification_channel_label=0x7f10003d;
-    public static final int field_req=0x7f10003e;
-    public static final int forgot_password=0x7f10003f;
-    public static final int google_places_key=0x7f100040;
-    public static final int hide_bottom_view_on_scroll_behavior=0x7f100041;
-    public static final int icon_content_description=0x7f100042;
-    public static final int image_req=0x7f100043;
-    public static final int invalid_email=0x7f100044;
-    public static final int mtrl_badge_numberless_content_description=0x7f100045;
-    public static final int mtrl_chip_close_icon_content_description=0x7f100046;
-    public static final int mtrl_exceed_max_badge_number_suffix=0x7f100047;
-    public static final int mtrl_picker_a11y_next_month=0x7f100048;
-    public static final int mtrl_picker_a11y_prev_month=0x7f100049;
-    public static final int mtrl_picker_announce_current_selection=0x7f10004a;
-    public static final int mtrl_picker_cancel=0x7f10004b;
-    public static final int mtrl_picker_confirm=0x7f10004c;
-    public static final int mtrl_picker_date_header_selected=0x7f10004d;
-    public static final int mtrl_picker_date_header_title=0x7f10004e;
-    public static final int mtrl_picker_date_header_unselected=0x7f10004f;
-    public static final int mtrl_picker_day_of_week_column_header=0x7f100050;
-    public static final int mtrl_picker_invalid_format=0x7f100051;
-    public static final int mtrl_picker_invalid_format_example=0x7f100052;
-    public static final int mtrl_picker_invalid_format_use=0x7f100053;
-    public static final int mtrl_picker_invalid_range=0x7f100054;
-    public static final int mtrl_picker_navigate_to_year_description=0x7f100055;
-    public static final int mtrl_picker_out_of_range=0x7f100056;
-    public static final int mtrl_picker_range_header_only_end_selected=0x7f100057;
-    public static final int mtrl_picker_range_header_only_start_selected=0x7f100058;
-    public static final int mtrl_picker_range_header_selected=0x7f100059;
-    public static final int mtrl_picker_range_header_title=0x7f10005a;
-    public static final int mtrl_picker_range_header_unselected=0x7f10005b;
-    public static final int mtrl_picker_save=0x7f10005c;
-    public static final int mtrl_picker_text_input_date_hint=0x7f10005d;
-    public static final int mtrl_picker_text_input_date_range_end_hint=0x7f10005e;
-    public static final int mtrl_picker_text_input_date_range_start_hint=0x7f10005f;
-    public static final int mtrl_picker_text_input_day_abbr=0x7f100060;
-    public static final int mtrl_picker_text_input_month_abbr=0x7f100061;
-    public static final int mtrl_picker_text_input_year_abbr=0x7f100062;
-    public static final int mtrl_picker_toggle_to_calendar_input_mode=0x7f100063;
-    public static final int mtrl_picker_toggle_to_day_selection=0x7f100064;
-    public static final int mtrl_picker_toggle_to_text_input_mode=0x7f100065;
-    public static final int mtrl_picker_toggle_to_year_selection=0x7f100066;
-    public static final int name=0x7f100067;
-    public static final int nav_app_bar_navigate_up_description=0x7f100068;
-    public static final int nav_app_bar_open_drawer_description=0x7f100069;
-    public static final int new_passwrod_req=0x7f10006a;
-    public static final int no_result_found=0x7f10006b;
-    public static final int old_password_req=0x7f10006c;
-    public static final int password=0x7f10006d;
-    public static final int password_not_matched=0x7f10006e;
-    public static final int password_toggle_content_description=0x7f10006f;
-    public static final int path_password_eye=0x7f100070;
-    public static final int path_password_eye_mask_strike_through=0x7f100071;
-    public static final int path_password_eye_mask_visible=0x7f100072;
-    public static final int path_password_strike_through=0x7f100073;
-    public static final int phone_number=0x7f100074;
-    public static final int place_autocomplete_clear_button=0x7f100075;
-    public static final int place_autocomplete_search_hint=0x7f100076;
-    public static final int please_verify=0x7f100077;
-    public static final int re_type_password=0x7f100078;
-    public static final int register=0x7f100079;
-    public static final int req_email=0x7f10007a;
-    public static final int req_message=0x7f10007b;
-    public static final int req_name=0x7f10007c;
-    public static final int req_password=0x7f10007d;
-    public static final int req_phone=0x7f10007e;
-    public static final int req_phone_verify=0x7f10007f;
-    public static final int req_subject=0x7f100080;
-    public static final int retype_password=0x7f100081;
-    public static final int search_hint=0x7f100082;
-    public static final int search_menu_title=0x7f100083;
-    public static final int select_country=0x7f100084;
-    public static final int sign_in=0x7f100085;
-    public static final int status_bar_notification_info_overflow=0x7f100086;
-    public static final int verify=0x7f100087;
+    public static final int abc_action_bar_home_description=0x7f120000;
+    public static final int abc_action_bar_up_description=0x7f120001;
+    public static final int abc_action_menu_overflow_description=0x7f120002;
+    public static final int abc_action_mode_done=0x7f120003;
+    public static final int abc_activity_chooser_view_see_all=0x7f120004;
+    public static final int abc_activitychooserview_choose_application=0x7f120005;
+    public static final int abc_capital_off=0x7f120006;
+    public static final int abc_capital_on=0x7f120007;
+    public static final int abc_menu_alt_shortcut_label=0x7f120008;
+    public static final int abc_menu_ctrl_shortcut_label=0x7f120009;
+    public static final int abc_menu_delete_shortcut_label=0x7f12000a;
+    public static final int abc_menu_enter_shortcut_label=0x7f12000b;
+    public static final int abc_menu_function_shortcut_label=0x7f12000c;
+    public static final int abc_menu_meta_shortcut_label=0x7f12000d;
+    public static final int abc_menu_shift_shortcut_label=0x7f12000e;
+    public static final int abc_menu_space_shortcut_label=0x7f12000f;
+    public static final int abc_menu_sym_shortcut_label=0x7f120010;
+    public static final int abc_prepend_shortcut_label=0x7f120011;
+    public static final int abc_search_hint=0x7f120012;
+    public static final int abc_searchview_description_clear=0x7f120013;
+    public static final int abc_searchview_description_query=0x7f120014;
+    public static final int abc_searchview_description_search=0x7f120015;
+    public static final int abc_searchview_description_submit=0x7f120016;
+    public static final int abc_searchview_description_voice=0x7f120017;
+    public static final int abc_shareactionprovider_share_with=0x7f120018;
+    public static final int abc_shareactionprovider_share_with_application=0x7f120019;
+    public static final int abc_toolbar_collapse_description=0x7f12001a;
+    public static final int action_settings=0x7f12001b;
+    public static final int address_req=0x7f12001c;
+    public static final int app_name=0x7f12001d;
+    public static final int appbar_scrolling_view_behavior=0x7f12001e;
+    public static final int bottom_sheet_behavior=0x7f12001f;
+    public static final int character_counter_content_description=0x7f120020;
+    public static final int character_counter_overflowed_content_description=0x7f120021;
+    public static final int character_counter_pattern=0x7f120022;
+    public static final int chip_text=0x7f120023;
+    public static final int clear_text_end_icon_content_description=0x7f120024;
+    public static final int common_google_play_services_enable_button=0x7f120025;
+    public static final int common_google_play_services_enable_text=0x7f120026;
+    public static final int common_google_play_services_enable_title=0x7f120027;
+    public static final int common_google_play_services_install_button=0x7f120028;
+    public static final int common_google_play_services_install_text=0x7f120029;
+    public static final int common_google_play_services_install_title=0x7f12002a;
+    public static final int common_google_play_services_notification_channel_name=0x7f12002b;
+    public static final int common_google_play_services_notification_ticker=0x7f12002c;
+    public static final int common_google_play_services_unknown_issue=0x7f12002d;
+    public static final int common_google_play_services_unsupported_text=0x7f12002e;
+    public static final int common_google_play_services_update_button=0x7f12002f;
+    public static final int common_google_play_services_update_text=0x7f120030;
+    public static final int common_google_play_services_update_title=0x7f120031;
+    public static final int common_google_play_services_updating_text=0x7f120032;
+    public static final int common_google_play_services_wear_update_text=0x7f120033;
+    public static final int common_open_on_phone=0x7f120034;
+    public static final int common_signin_button_text=0x7f120035;
+    public static final int common_signin_button_text_long=0x7f120036;
+    public static final int confrim_password_required=0x7f120037;
+    public static final int default_web_client_id=0x7f120038;
+    public static final int dont_have_account=0x7f120039;
+    public static final int email=0x7f12003a;
+    public static final int error_icon_content_description=0x7f12003b;
+    public static final int exposed_dropdown_menu_content_description=0x7f12003c;
+    public static final int fab_transformation_scrim_behavior=0x7f12003d;
+    public static final int fab_transformation_sheet_behavior=0x7f12003e;
+    public static final int fastscroll__app_name=0x7f12003f;
+    public static final int fcm_fallback_notification_channel_label=0x7f120040;
+    public static final int field_req=0x7f120041;
+    public static final int firebase_database_url=0x7f120042;
+    public static final int forgot_password=0x7f120043;
+    public static final int gcm_defaultSenderId=0x7f120044;
+    public static final int google_api_key=0x7f120045;
+    public static final int google_app_id=0x7f120046;
+    public static final int google_crash_reporting_api_key=0x7f120047;
+    public static final int google_places_key=0x7f120048;
+    public static final int google_storage_bucket=0x7f120049;
+    public static final int hide_bottom_view_on_scroll_behavior=0x7f12004a;
+    public static final int icon_content_description=0x7f12004b;
+    public static final int image_req=0x7f12004c;
+    public static final int invalid_email=0x7f12004d;
+    public static final int menu_gallery=0x7f12004e;
+    public static final int menu_home=0x7f12004f;
+    public static final int menu_send=0x7f120050;
+    public static final int menu_share=0x7f120051;
+    public static final int menu_slideshow=0x7f120052;
+    public static final int menu_tools=0x7f120053;
+    public static final int mtrl_badge_numberless_content_description=0x7f120054;
+    public static final int mtrl_chip_close_icon_content_description=0x7f120055;
+    public static final int mtrl_exceed_max_badge_number_suffix=0x7f120056;
+    public static final int mtrl_picker_a11y_next_month=0x7f120057;
+    public static final int mtrl_picker_a11y_prev_month=0x7f120058;
+    public static final int mtrl_picker_announce_current_selection=0x7f120059;
+    public static final int mtrl_picker_cancel=0x7f12005a;
+    public static final int mtrl_picker_confirm=0x7f12005b;
+    public static final int mtrl_picker_date_header_selected=0x7f12005c;
+    public static final int mtrl_picker_date_header_title=0x7f12005d;
+    public static final int mtrl_picker_date_header_unselected=0x7f12005e;
+    public static final int mtrl_picker_day_of_week_column_header=0x7f12005f;
+    public static final int mtrl_picker_invalid_format=0x7f120060;
+    public static final int mtrl_picker_invalid_format_example=0x7f120061;
+    public static final int mtrl_picker_invalid_format_use=0x7f120062;
+    public static final int mtrl_picker_invalid_range=0x7f120063;
+    public static final int mtrl_picker_navigate_to_year_description=0x7f120064;
+    public static final int mtrl_picker_out_of_range=0x7f120065;
+    public static final int mtrl_picker_range_header_only_end_selected=0x7f120066;
+    public static final int mtrl_picker_range_header_only_start_selected=0x7f120067;
+    public static final int mtrl_picker_range_header_selected=0x7f120068;
+    public static final int mtrl_picker_range_header_title=0x7f120069;
+    public static final int mtrl_picker_range_header_unselected=0x7f12006a;
+    public static final int mtrl_picker_save=0x7f12006b;
+    public static final int mtrl_picker_text_input_date_hint=0x7f12006c;
+    public static final int mtrl_picker_text_input_date_range_end_hint=0x7f12006d;
+    public static final int mtrl_picker_text_input_date_range_start_hint=0x7f12006e;
+    public static final int mtrl_picker_text_input_day_abbr=0x7f12006f;
+    public static final int mtrl_picker_text_input_month_abbr=0x7f120070;
+    public static final int mtrl_picker_text_input_year_abbr=0x7f120071;
+    public static final int mtrl_picker_toggle_to_calendar_input_mode=0x7f120072;
+    public static final int mtrl_picker_toggle_to_day_selection=0x7f120073;
+    public static final int mtrl_picker_toggle_to_text_input_mode=0x7f120074;
+    public static final int mtrl_picker_toggle_to_year_selection=0x7f120075;
+    public static final int name=0x7f120076;
+    public static final int nav_app_bar_navigate_up_description=0x7f120077;
+    public static final int nav_app_bar_open_drawer_description=0x7f120078;
+    public static final int nav_header_desc=0x7f120079;
+    public static final int nav_header_subtitle=0x7f12007a;
+    public static final int nav_header_title=0x7f12007b;
+    public static final int navigation_drawer_close=0x7f12007c;
+    public static final int navigation_drawer_open=0x7f12007d;
+    public static final int new_passwrod_req=0x7f12007e;
+    public static final int no_result_found=0x7f12007f;
+    public static final int old_password_req=0x7f120080;
+    public static final int password=0x7f120081;
+    public static final int password_not_matched=0x7f120082;
+    public static final int password_toggle_content_description=0x7f120083;
+    public static final int path_password_eye=0x7f120084;
+    public static final int path_password_eye_mask_strike_through=0x7f120085;
+    public static final int path_password_eye_mask_visible=0x7f120086;
+    public static final int path_password_strike_through=0x7f120087;
+    public static final int phone_number=0x7f120088;
+    public static final int place_autocomplete_clear_button=0x7f120089;
+    public static final int place_autocomplete_search_hint=0x7f12008a;
+    public static final int please_verify=0x7f12008b;
+    public static final int project_id=0x7f12008c;
+    public static final int re_type_password=0x7f12008d;
+    public static final int register=0x7f12008e;
+    public static final int req_email=0x7f12008f;
+    public static final int req_message=0x7f120090;
+    public static final int req_name=0x7f120091;
+    public static final int req_password=0x7f120092;
+    public static final int req_phone=0x7f120093;
+    public static final int req_phone_verify=0x7f120094;
+    public static final int req_subject=0x7f120095;
+    public static final int retype_password=0x7f120096;
+    public static final int search_hint=0x7f120097;
+    public static final int search_menu_title=0x7f120098;
+    public static final int select_country=0x7f120099;
+    public static final int sign_in=0x7f12009a;
+    public static final int status_bar_notification_info_overflow=0x7f12009b;
+    public static final int title_activity_main=0x7f12009c;
+    public static final int title_activity_registration=0x7f12009d;
+    public static final int verify=0x7f12009e;
   }
   public static final class style {
-    public static final int AlertDialog_AppCompat=0x7f110000;
-    public static final int AlertDialog_AppCompat_Light=0x7f110001;
-    public static final int Animation_AppCompat_Dialog=0x7f110002;
-    public static final int Animation_AppCompat_DropDownUp=0x7f110003;
-    public static final int Animation_AppCompat_Tooltip=0x7f110004;
-    public static final int Animation_Design_BottomSheetDialog=0x7f110005;
-    public static final int Animation_MaterialComponents_BottomSheetDialog=0x7f110006;
-    public static final int AppDialogTheme=0x7f110007;
-    public static final int AppTheme=0x7f110008;
-    public static final int Base_AlertDialog_AppCompat=0x7f110009;
-    public static final int Base_AlertDialog_AppCompat_Light=0x7f11000a;
-    public static final int Base_Animation_AppCompat_Dialog=0x7f11000b;
-    public static final int Base_Animation_AppCompat_DropDownUp=0x7f11000c;
-    public static final int Base_Animation_AppCompat_Tooltip=0x7f11000d;
-    public static final int Base_CardView=0x7f11000e;
-    public static final int Base_DialogWindowTitle_AppCompat=0x7f11000f;
-    public static final int Base_DialogWindowTitleBackground_AppCompat=0x7f110010;
-    public static final int Base_MaterialAlertDialog_MaterialComponents_Title_Icon=0x7f110011;
-    public static final int Base_MaterialAlertDialog_MaterialComponents_Title_Panel=0x7f110012;
-    public static final int Base_MaterialAlertDialog_MaterialComponents_Title_Text=0x7f110013;
-    public static final int Base_TextAppearance_AppCompat=0x7f110014;
-    public static final int Base_TextAppearance_AppCompat_Body1=0x7f110015;
-    public static final int Base_TextAppearance_AppCompat_Body2=0x7f110016;
-    public static final int Base_TextAppearance_AppCompat_Button=0x7f110017;
-    public static final int Base_TextAppearance_AppCompat_Caption=0x7f110018;
-    public static final int Base_TextAppearance_AppCompat_Display1=0x7f110019;
-    public static final int Base_TextAppearance_AppCompat_Display2=0x7f11001a;
-    public static final int Base_TextAppearance_AppCompat_Display3=0x7f11001b;
-    public static final int Base_TextAppearance_AppCompat_Display4=0x7f11001c;
-    public static final int Base_TextAppearance_AppCompat_Headline=0x7f11001d;
-    public static final int Base_TextAppearance_AppCompat_Inverse=0x7f11001e;
-    public static final int Base_TextAppearance_AppCompat_Large=0x7f11001f;
-    public static final int Base_TextAppearance_AppCompat_Large_Inverse=0x7f110020;
-    public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f110021;
-    public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f110022;
-    public static final int Base_TextAppearance_AppCompat_Medium=0x7f110023;
-    public static final int Base_TextAppearance_AppCompat_Medium_Inverse=0x7f110024;
-    public static final int Base_TextAppearance_AppCompat_Menu=0x7f110025;
-    public static final int Base_TextAppearance_AppCompat_SearchResult=0x7f110026;
-    public static final int Base_TextAppearance_AppCompat_SearchResult_Subtitle=0x7f110027;
-    public static final int Base_TextAppearance_AppCompat_SearchResult_Title=0x7f110028;
-    public static final int Base_TextAppearance_AppCompat_Small=0x7f110029;
-    public static final int Base_TextAppearance_AppCompat_Small_Inverse=0x7f11002a;
-    public static final int Base_TextAppearance_AppCompat_Subhead=0x7f11002b;
-    public static final int Base_TextAppearance_AppCompat_Subhead_Inverse=0x7f11002c;
-    public static final int Base_TextAppearance_AppCompat_Title=0x7f11002d;
-    public static final int Base_TextAppearance_AppCompat_Title_Inverse=0x7f11002e;
-    public static final int Base_TextAppearance_AppCompat_Tooltip=0x7f11002f;
-    public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f110030;
-    public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f110031;
-    public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f110032;
-    public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f110033;
-    public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f110034;
-    public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f110035;
-    public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f110036;
-    public static final int Base_TextAppearance_AppCompat_Widget_Button=0x7f110037;
-    public static final int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored=0x7f110038;
-    public static final int Base_TextAppearance_AppCompat_Widget_Button_Colored=0x7f110039;
-    public static final int Base_TextAppearance_AppCompat_Widget_Button_Inverse=0x7f11003a;
-    public static final int Base_TextAppearance_AppCompat_Widget_DropDownItem=0x7f11003b;
-    public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header=0x7f11003c;
-    public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f11003d;
-    public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f11003e;
-    public static final int Base_TextAppearance_AppCompat_Widget_Switch=0x7f11003f;
-    public static final int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f110040;
-    public static final int Base_TextAppearance_MaterialComponents_Badge=0x7f110041;
-    public static final int Base_TextAppearance_MaterialComponents_Button=0x7f110042;
-    public static final int Base_TextAppearance_MaterialComponents_Headline6=0x7f110043;
-    public static final int Base_TextAppearance_MaterialComponents_Subtitle2=0x7f110044;
-    public static final int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f110045;
-    public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f110046;
-    public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f110047;
-    public static final int Base_Theme_AppCompat=0x7f110048;
-    public static final int Base_Theme_AppCompat_CompactMenu=0x7f110049;
-    public static final int Base_Theme_AppCompat_Dialog=0x7f11004a;
-    public static final int Base_Theme_AppCompat_Dialog_Alert=0x7f11004b;
-    public static final int Base_Theme_AppCompat_Dialog_FixedSize=0x7f11004c;
-    public static final int Base_Theme_AppCompat_Dialog_MinWidth=0x7f11004d;
-    public static final int Base_Theme_AppCompat_DialogWhenLarge=0x7f11004e;
-    public static final int Base_Theme_AppCompat_Light=0x7f11004f;
-    public static final int Base_Theme_AppCompat_Light_DarkActionBar=0x7f110050;
-    public static final int Base_Theme_AppCompat_Light_Dialog=0x7f110051;
-    public static final int Base_Theme_AppCompat_Light_Dialog_Alert=0x7f110052;
-    public static final int Base_Theme_AppCompat_Light_Dialog_FixedSize=0x7f110053;
-    public static final int Base_Theme_AppCompat_Light_Dialog_MinWidth=0x7f110054;
-    public static final int Base_Theme_AppCompat_Light_DialogWhenLarge=0x7f110055;
-    public static final int Base_Theme_MaterialComponents=0x7f110056;
-    public static final int Base_Theme_MaterialComponents_Bridge=0x7f110057;
-    public static final int Base_Theme_MaterialComponents_CompactMenu=0x7f110058;
-    public static final int Base_Theme_MaterialComponents_Dialog=0x7f110059;
-    public static final int Base_Theme_MaterialComponents_Dialog_Alert=0x7f11005a;
-    public static final int Base_Theme_MaterialComponents_Dialog_Bridge=0x7f11005b;
-    public static final int Base_Theme_MaterialComponents_Dialog_FixedSize=0x7f11005c;
-    public static final int Base_Theme_MaterialComponents_Dialog_MinWidth=0x7f11005d;
-    public static final int Base_Theme_MaterialComponents_DialogWhenLarge=0x7f11005e;
-    public static final int Base_Theme_MaterialComponents_Light=0x7f11005f;
-    public static final int Base_Theme_MaterialComponents_Light_Bridge=0x7f110060;
-    public static final int Base_Theme_MaterialComponents_Light_DarkActionBar=0x7f110061;
-    public static final int Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge=0x7f110062;
-    public static final int Base_Theme_MaterialComponents_Light_Dialog=0x7f110063;
-    public static final int Base_Theme_MaterialComponents_Light_Dialog_Alert=0x7f110064;
-    public static final int Base_Theme_MaterialComponents_Light_Dialog_Bridge=0x7f110065;
-    public static final int Base_Theme_MaterialComponents_Light_Dialog_FixedSize=0x7f110066;
-    public static final int Base_Theme_MaterialComponents_Light_Dialog_MinWidth=0x7f110067;
-    public static final int Base_Theme_MaterialComponents_Light_DialogWhenLarge=0x7f110068;
-    public static final int Base_ThemeOverlay_AppCompat=0x7f110069;
-    public static final int Base_ThemeOverlay_AppCompat_ActionBar=0x7f11006a;
-    public static final int Base_ThemeOverlay_AppCompat_Dark=0x7f11006b;
-    public static final int Base_ThemeOverlay_AppCompat_Dark_ActionBar=0x7f11006c;
-    public static final int Base_ThemeOverlay_AppCompat_Dialog=0x7f11006d;
-    public static final int Base_ThemeOverlay_AppCompat_Dialog_Alert=0x7f11006e;
-    public static final int Base_ThemeOverlay_AppCompat_Light=0x7f11006f;
-    public static final int Base_ThemeOverlay_MaterialComponents_Dialog=0x7f110070;
-    public static final int Base_ThemeOverlay_MaterialComponents_Dialog_Alert=0x7f110071;
-    public static final int Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog=0x7f110072;
-    public static final int Base_V14_Theme_MaterialComponents=0x7f110073;
-    public static final int Base_V14_Theme_MaterialComponents_Bridge=0x7f110074;
-    public static final int Base_V14_Theme_MaterialComponents_Dialog=0x7f110075;
-    public static final int Base_V14_Theme_MaterialComponents_Dialog_Bridge=0x7f110076;
-    public static final int Base_V14_Theme_MaterialComponents_Light=0x7f110077;
-    public static final int Base_V14_Theme_MaterialComponents_Light_Bridge=0x7f110078;
-    public static final int Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge=0x7f110079;
-    public static final int Base_V14_Theme_MaterialComponents_Light_Dialog=0x7f11007a;
-    public static final int Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge=0x7f11007b;
-    public static final int Base_V14_ThemeOverlay_MaterialComponents_Dialog=0x7f11007c;
-    public static final int Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert=0x7f11007d;
-    public static final int Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog=0x7f11007e;
-    public static final int Base_V21_Theme_AppCompat=0x7f11007f;
-    public static final int Base_V21_Theme_AppCompat_Dialog=0x7f110080;
-    public static final int Base_V21_Theme_AppCompat_Light=0x7f110081;
-    public static final int Base_V21_Theme_AppCompat_Light_Dialog=0x7f110082;
-    public static final int Base_V21_ThemeOverlay_AppCompat_Dialog=0x7f110083;
-    public static final int Base_V22_Theme_AppCompat=0x7f110084;
-    public static final int Base_V22_Theme_AppCompat_Light=0x7f110085;
-    public static final int Base_V23_Theme_AppCompat=0x7f110086;
-    public static final int Base_V23_Theme_AppCompat_Light=0x7f110087;
-    public static final int Base_V26_Theme_AppCompat=0x7f110088;
-    public static final int Base_V26_Theme_AppCompat_Light=0x7f110089;
-    public static final int Base_V26_Widget_AppCompat_Toolbar=0x7f11008a;
-    public static final int Base_V28_Theme_AppCompat=0x7f11008b;
-    public static final int Base_V28_Theme_AppCompat_Light=0x7f11008c;
-    public static final int Base_V7_Theme_AppCompat=0x7f11008d;
-    public static final int Base_V7_Theme_AppCompat_Dialog=0x7f11008e;
-    public static final int Base_V7_Theme_AppCompat_Light=0x7f11008f;
-    public static final int Base_V7_Theme_AppCompat_Light_Dialog=0x7f110090;
-    public static final int Base_V7_ThemeOverlay_AppCompat_Dialog=0x7f110091;
-    public static final int Base_V7_Widget_AppCompat_AutoCompleteTextView=0x7f110092;
-    public static final int Base_V7_Widget_AppCompat_EditText=0x7f110093;
-    public static final int Base_V7_Widget_AppCompat_Toolbar=0x7f110094;
-    public static final int Base_Widget_AppCompat_ActionBar=0x7f110095;
-    public static final int Base_Widget_AppCompat_ActionBar_Solid=0x7f110096;
-    public static final int Base_Widget_AppCompat_ActionBar_TabBar=0x7f110097;
-    public static final int Base_Widget_AppCompat_ActionBar_TabText=0x7f110098;
-    public static final int Base_Widget_AppCompat_ActionBar_TabView=0x7f110099;
-    public static final int Base_Widget_AppCompat_ActionButton=0x7f11009a;
-    public static final int Base_Widget_AppCompat_ActionButton_CloseMode=0x7f11009b;
-    public static final int Base_Widget_AppCompat_ActionButton_Overflow=0x7f11009c;
-    public static final int Base_Widget_AppCompat_ActionMode=0x7f11009d;
-    public static final int Base_Widget_AppCompat_ActivityChooserView=0x7f11009e;
-    public static final int Base_Widget_AppCompat_AutoCompleteTextView=0x7f11009f;
-    public static final int Base_Widget_AppCompat_Button=0x7f1100a0;
-    public static final int Base_Widget_AppCompat_Button_Borderless=0x7f1100a1;
-    public static final int Base_Widget_AppCompat_Button_Borderless_Colored=0x7f1100a2;
-    public static final int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f1100a3;
-    public static final int Base_Widget_AppCompat_Button_Colored=0x7f1100a4;
-    public static final int Base_Widget_AppCompat_Button_Small=0x7f1100a5;
-    public static final int Base_Widget_AppCompat_ButtonBar=0x7f1100a6;
-    public static final int Base_Widget_AppCompat_ButtonBar_AlertDialog=0x7f1100a7;
-    public static final int Base_Widget_AppCompat_CompoundButton_CheckBox=0x7f1100a8;
-    public static final int Base_Widget_AppCompat_CompoundButton_RadioButton=0x7f1100a9;
-    public static final int Base_Widget_AppCompat_CompoundButton_Switch=0x7f1100aa;
-    public static final int Base_Widget_AppCompat_DrawerArrowToggle=0x7f1100ab;
-    public static final int Base_Widget_AppCompat_DrawerArrowToggle_Common=0x7f1100ac;
-    public static final int Base_Widget_AppCompat_DropDownItem_Spinner=0x7f1100ad;
-    public static final int Base_Widget_AppCompat_EditText=0x7f1100ae;
-    public static final int Base_Widget_AppCompat_ImageButton=0x7f1100af;
-    public static final int Base_Widget_AppCompat_Light_ActionBar=0x7f1100b0;
-    public static final int Base_Widget_AppCompat_Light_ActionBar_Solid=0x7f1100b1;
-    public static final int Base_Widget_AppCompat_Light_ActionBar_TabBar=0x7f1100b2;
-    public static final int Base_Widget_AppCompat_Light_ActionBar_TabText=0x7f1100b3;
-    public static final int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f1100b4;
-    public static final int Base_Widget_AppCompat_Light_ActionBar_TabView=0x7f1100b5;
-    public static final int Base_Widget_AppCompat_Light_PopupMenu=0x7f1100b6;
-    public static final int Base_Widget_AppCompat_Light_PopupMenu_Overflow=0x7f1100b7;
-    public static final int Base_Widget_AppCompat_ListMenuView=0x7f1100b8;
-    public static final int Base_Widget_AppCompat_ListPopupWindow=0x7f1100b9;
-    public static final int Base_Widget_AppCompat_ListView=0x7f1100ba;
-    public static final int Base_Widget_AppCompat_ListView_DropDown=0x7f1100bb;
-    public static final int Base_Widget_AppCompat_ListView_Menu=0x7f1100bc;
-    public static final int Base_Widget_AppCompat_PopupMenu=0x7f1100bd;
-    public static final int Base_Widget_AppCompat_PopupMenu_Overflow=0x7f1100be;
-    public static final int Base_Widget_AppCompat_PopupWindow=0x7f1100bf;
-    public static final int Base_Widget_AppCompat_ProgressBar=0x7f1100c0;
-    public static final int Base_Widget_AppCompat_ProgressBar_Horizontal=0x7f1100c1;
-    public static final int Base_Widget_AppCompat_RatingBar=0x7f1100c2;
-    public static final int Base_Widget_AppCompat_RatingBar_Indicator=0x7f1100c3;
-    public static final int Base_Widget_AppCompat_RatingBar_Small=0x7f1100c4;
-    public static final int Base_Widget_AppCompat_SearchView=0x7f1100c5;
-    public static final int Base_Widget_AppCompat_SearchView_ActionBar=0x7f1100c6;
-    public static final int Base_Widget_AppCompat_SeekBar=0x7f1100c7;
-    public static final int Base_Widget_AppCompat_SeekBar_Discrete=0x7f1100c8;
-    public static final int Base_Widget_AppCompat_Spinner=0x7f1100c9;
-    public static final int Base_Widget_AppCompat_Spinner_Underlined=0x7f1100ca;
-    public static final int Base_Widget_AppCompat_TextView=0x7f1100cb;
-    public static final int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f1100cc;
-    public static final int Base_Widget_AppCompat_Toolbar=0x7f1100cd;
-    public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f1100ce;
-    public static final int Base_Widget_Design_TabLayout=0x7f1100cf;
-    public static final int Base_Widget_MaterialComponents_AutoCompleteTextView=0x7f1100d0;
-    public static final int Base_Widget_MaterialComponents_CheckedTextView=0x7f1100d1;
-    public static final int Base_Widget_MaterialComponents_Chip=0x7f1100d2;
-    public static final int Base_Widget_MaterialComponents_PopupMenu=0x7f1100d3;
-    public static final int Base_Widget_MaterialComponents_PopupMenu_ContextMenu=0x7f1100d4;
-    public static final int Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow=0x7f1100d5;
-    public static final int Base_Widget_MaterialComponents_PopupMenu_Overflow=0x7f1100d6;
-    public static final int Base_Widget_MaterialComponents_TextInputEditText=0x7f1100d7;
-    public static final int Base_Widget_MaterialComponents_TextInputLayout=0x7f1100d8;
-    public static final int Base_Widget_MaterialComponents_TextView=0x7f1100d9;
-    public static final int CardView=0x7f1100da;
-    public static final int CardView_Dark=0x7f1100db;
-    public static final int CardView_Light=0x7f1100dc;
-    public static final int EmptyTheme=0x7f1100dd;
-    public static final int MaterialAlertDialog_MaterialComponents=0x7f1100de;
-    public static final int MaterialAlertDialog_MaterialComponents_Body_Text=0x7f1100df;
-    public static final int MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar=0x7f1100e0;
-    public static final int MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner=0x7f1100e1;
-    public static final int MaterialAlertDialog_MaterialComponents_Title_Icon=0x7f1100e2;
-    public static final int MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked=0x7f1100e3;
-    public static final int MaterialAlertDialog_MaterialComponents_Title_Panel=0x7f1100e4;
-    public static final int MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked=0x7f1100e5;
-    public static final int MaterialAlertDialog_MaterialComponents_Title_Text=0x7f1100e6;
-    public static final int MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked=0x7f1100e7;
-    public static final int Permissions_TransparentTheme=0x7f1100e8;
-    public static final int Platform_AppCompat=0x7f1100e9;
-    public static final int Platform_AppCompat_Light=0x7f1100ea;
-    public static final int Platform_MaterialComponents=0x7f1100eb;
-    public static final int Platform_MaterialComponents_Dialog=0x7f1100ec;
-    public static final int Platform_MaterialComponents_Light=0x7f1100ed;
-    public static final int Platform_MaterialComponents_Light_Dialog=0x7f1100ee;
-    public static final int Platform_ThemeOverlay_AppCompat=0x7f1100ef;
-    public static final int Platform_ThemeOverlay_AppCompat_Dark=0x7f1100f0;
-    public static final int Platform_ThemeOverlay_AppCompat_Light=0x7f1100f1;
-    public static final int Platform_V21_AppCompat=0x7f1100f2;
-    public static final int Platform_V21_AppCompat_Light=0x7f1100f3;
-    public static final int Platform_V25_AppCompat=0x7f1100f4;
-    public static final int Platform_V25_AppCompat_Light=0x7f1100f5;
-    public static final int Platform_Widget_AppCompat_Spinner=0x7f1100f6;
-    public static final int RtlOverlay_DialogWindowTitle_AppCompat=0x7f1100f7;
-    public static final int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem=0x7f1100f8;
-    public static final int RtlOverlay_Widget_AppCompat_DialogTitle_Icon=0x7f1100f9;
-    public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem=0x7f1100fa;
-    public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup=0x7f1100fb;
-    public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut=0x7f1100fc;
-    public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow=0x7f1100fd;
-    public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text=0x7f1100fe;
-    public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title=0x7f1100ff;
-    public static final int RtlOverlay_Widget_AppCompat_Search_DropDown=0x7f110100;
-    public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1=0x7f110101;
-    public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2=0x7f110102;
-    public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Query=0x7f110103;
-    public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Text=0x7f110104;
-    public static final int RtlOverlay_Widget_AppCompat_SearchView_MagIcon=0x7f110105;
-    public static final int RtlUnderlay_Widget_AppCompat_ActionButton=0x7f110106;
-    public static final int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow=0x7f110107;
-    public static final int ShapeAppearance_MaterialComponents=0x7f110108;
-    public static final int ShapeAppearance_MaterialComponents_LargeComponent=0x7f110109;
-    public static final int ShapeAppearance_MaterialComponents_MediumComponent=0x7f11010a;
-    public static final int ShapeAppearance_MaterialComponents_SmallComponent=0x7f11010b;
-    public static final int ShapeAppearance_MaterialComponents_Test=0x7f11010c;
-    public static final int ShapeAppearanceOverlay=0x7f11010d;
-    public static final int ShapeAppearanceOverlay_BottomLeftDifferentCornerSize=0x7f11010e;
-    public static final int ShapeAppearanceOverlay_BottomRightCut=0x7f11010f;
-    public static final int ShapeAppearanceOverlay_Cut=0x7f110110;
-    public static final int ShapeAppearanceOverlay_DifferentCornerSize=0x7f110111;
-    public static final int ShapeAppearanceOverlay_MaterialComponents_BottomSheet=0x7f110112;
-    public static final int ShapeAppearanceOverlay_MaterialComponents_Chip=0x7f110113;
-    public static final int ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton=0x7f110114;
-    public static final int ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton=0x7f110115;
-    public static final int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day=0x7f110116;
-    public static final int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen=0x7f110117;
-    public static final int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year=0x7f110118;
-    public static final int ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox=0x7f110119;
-    public static final int ShapeAppearanceOverlay_TopLeftCut=0x7f11011a;
-    public static final int ShapeAppearanceOverlay_TopRightDifferentCornerSize=0x7f11011b;
-    public static final int SpeechDialogStyle=0x7f11011c;
-    public static final int Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day=0x7f11011d;
-    public static final int Test_Theme_MaterialComponents_MaterialCalendar=0x7f11011e;
-    public static final int Test_Widget_MaterialComponents_MaterialCalendar=0x7f11011f;
-    public static final int Test_Widget_MaterialComponents_MaterialCalendar_Day=0x7f110120;
-    public static final int Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected=0x7f110121;
-    public static final int TestStyleWithLineHeight=0x7f110122;
-    public static final int TestStyleWithLineHeightAppearance=0x7f110123;
-    public static final int TestStyleWithThemeLineHeightAttribute=0x7f110124;
-    public static final int TestStyleWithoutLineHeight=0x7f110125;
-    public static final int TestThemeWithLineHeight=0x7f110126;
-    public static final int TestThemeWithLineHeightDisabled=0x7f110127;
-    public static final int TextAppearance_AppCompat=0x7f110128;
-    public static final int TextAppearance_AppCompat_Body1=0x7f110129;
-    public static final int TextAppearance_AppCompat_Body2=0x7f11012a;
-    public static final int TextAppearance_AppCompat_Button=0x7f11012b;
-    public static final int TextAppearance_AppCompat_Caption=0x7f11012c;
-    public static final int TextAppearance_AppCompat_Display1=0x7f11012d;
-    public static final int TextAppearance_AppCompat_Display2=0x7f11012e;
-    public static final int TextAppearance_AppCompat_Display3=0x7f11012f;
-    public static final int TextAppearance_AppCompat_Display4=0x7f110130;
-    public static final int TextAppearance_AppCompat_Headline=0x7f110131;
-    public static final int TextAppearance_AppCompat_Inverse=0x7f110132;
-    public static final int TextAppearance_AppCompat_Large=0x7f110133;
-    public static final int TextAppearance_AppCompat_Large_Inverse=0x7f110134;
-    public static final int TextAppearance_AppCompat_Light_SearchResult_Subtitle=0x7f110135;
-    public static final int TextAppearance_AppCompat_Light_SearchResult_Title=0x7f110136;
-    public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f110137;
-    public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f110138;
-    public static final int TextAppearance_AppCompat_Medium=0x7f110139;
-    public static final int TextAppearance_AppCompat_Medium_Inverse=0x7f11013a;
-    public static final int TextAppearance_AppCompat_Menu=0x7f11013b;
-    public static final int TextAppearance_AppCompat_SearchResult_Subtitle=0x7f11013c;
-    public static final int TextAppearance_AppCompat_SearchResult_Title=0x7f11013d;
-    public static final int TextAppearance_AppCompat_Small=0x7f11013e;
-    public static final int TextAppearance_AppCompat_Small_Inverse=0x7f11013f;
-    public static final int TextAppearance_AppCompat_Subhead=0x7f110140;
-    public static final int TextAppearance_AppCompat_Subhead_Inverse=0x7f110141;
-    public static final int TextAppearance_AppCompat_Title=0x7f110142;
-    public static final int TextAppearance_AppCompat_Title_Inverse=0x7f110143;
-    public static final int TextAppearance_AppCompat_Tooltip=0x7f110144;
-    public static final int TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f110145;
-    public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f110146;
-    public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f110147;
-    public static final int TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f110148;
-    public static final int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f110149;
-    public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f11014a;
-    public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse=0x7f11014b;
-    public static final int TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f11014c;
-    public static final int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse=0x7f11014d;
-    public static final int TextAppearance_AppCompat_Widget_Button=0x7f11014e;
-    public static final int TextAppearance_AppCompat_Widget_Button_Borderless_Colored=0x7f11014f;
-    public static final int TextAppearance_AppCompat_Widget_Button_Colored=0x7f110150;
-    public static final int TextAppearance_AppCompat_Widget_Button_Inverse=0x7f110151;
-    public static final int TextAppearance_AppCompat_Widget_DropDownItem=0x7f110152;
-    public static final int TextAppearance_AppCompat_Widget_PopupMenu_Header=0x7f110153;
-    public static final int TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f110154;
-    public static final int TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f110155;
-    public static final int TextAppearance_AppCompat_Widget_Switch=0x7f110156;
-    public static final int TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f110157;
-    public static final int TextAppearance_Compat_Notification=0x7f110158;
-    public static final int TextAppearance_Compat_Notification_Info=0x7f110159;
-    public static final int TextAppearance_Compat_Notification_Info_Media=0x7f11015a;
-    public static final int TextAppearance_Compat_Notification_Line2=0x7f11015b;
-    public static final int TextAppearance_Compat_Notification_Line2_Media=0x7f11015c;
-    public static final int TextAppearance_Compat_Notification_Media=0x7f11015d;
-    public static final int TextAppearance_Compat_Notification_Time=0x7f11015e;
-    public static final int TextAppearance_Compat_Notification_Time_Media=0x7f11015f;
-    public static final int TextAppearance_Compat_Notification_Title=0x7f110160;
-    public static final int TextAppearance_Compat_Notification_Title_Media=0x7f110161;
-    public static final int TextAppearance_Design_CollapsingToolbar_Expanded=0x7f110162;
-    public static final int TextAppearance_Design_Counter=0x7f110163;
-    public static final int TextAppearance_Design_Counter_Overflow=0x7f110164;
-    public static final int TextAppearance_Design_Error=0x7f110165;
-    public static final int TextAppearance_Design_HelperText=0x7f110166;
-    public static final int TextAppearance_Design_Hint=0x7f110167;
-    public static final int TextAppearance_Design_Snackbar_Message=0x7f110168;
-    public static final int TextAppearance_Design_Tab=0x7f110169;
-    public static final int TextAppearance_MaterialComponents_Badge=0x7f11016a;
-    public static final int TextAppearance_MaterialComponents_Body1=0x7f11016b;
-    public static final int TextAppearance_MaterialComponents_Body2=0x7f11016c;
-    public static final int TextAppearance_MaterialComponents_Button=0x7f11016d;
-    public static final int TextAppearance_MaterialComponents_Caption=0x7f11016e;
-    public static final int TextAppearance_MaterialComponents_Chip=0x7f11016f;
-    public static final int TextAppearance_MaterialComponents_Headline1=0x7f110170;
-    public static final int TextAppearance_MaterialComponents_Headline2=0x7f110171;
-    public static final int TextAppearance_MaterialComponents_Headline3=0x7f110172;
-    public static final int TextAppearance_MaterialComponents_Headline4=0x7f110173;
-    public static final int TextAppearance_MaterialComponents_Headline5=0x7f110174;
-    public static final int TextAppearance_MaterialComponents_Headline6=0x7f110175;
-    public static final int TextAppearance_MaterialComponents_Overline=0x7f110176;
-    public static final int TextAppearance_MaterialComponents_Subtitle1=0x7f110177;
-    public static final int TextAppearance_MaterialComponents_Subtitle2=0x7f110178;
-    public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f110179;
-    public static final int TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f11017a;
-    public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f11017b;
-    public static final int Theme_AppCompat=0x7f11017c;
-    public static final int Theme_AppCompat_CompactMenu=0x7f11017d;
-    public static final int Theme_AppCompat_DayNight=0x7f11017e;
-    public static final int Theme_AppCompat_DayNight_DarkActionBar=0x7f11017f;
-    public static final int Theme_AppCompat_DayNight_Dialog=0x7f110180;
-    public static final int Theme_AppCompat_DayNight_Dialog_Alert=0x7f110181;
-    public static final int Theme_AppCompat_DayNight_Dialog_MinWidth=0x7f110182;
-    public static final int Theme_AppCompat_DayNight_DialogWhenLarge=0x7f110183;
-    public static final int Theme_AppCompat_DayNight_NoActionBar=0x7f110184;
-    public static final int Theme_AppCompat_Dialog=0x7f110185;
-    public static final int Theme_AppCompat_Dialog_Alert=0x7f110186;
-    public static final int Theme_AppCompat_Dialog_MinWidth=0x7f110187;
-    public static final int Theme_AppCompat_DialogWhenLarge=0x7f110188;
-    public static final int Theme_AppCompat_Light=0x7f110189;
-    public static final int Theme_AppCompat_Light_DarkActionBar=0x7f11018a;
-    public static final int Theme_AppCompat_Light_Dialog=0x7f11018b;
-    public static final int Theme_AppCompat_Light_Dialog_Alert=0x7f11018c;
-    public static final int Theme_AppCompat_Light_Dialog_MinWidth=0x7f11018d;
-    public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f11018e;
-    public static final int Theme_AppCompat_Light_NoActionBar=0x7f11018f;
-    public static final int Theme_AppCompat_NoActionBar=0x7f110190;
-    public static final int Theme_Design=0x7f110191;
-    public static final int Theme_Design_BottomSheetDialog=0x7f110192;
-    public static final int Theme_Design_Light=0x7f110193;
-    public static final int Theme_Design_Light_BottomSheetDialog=0x7f110194;
-    public static final int Theme_Design_Light_NoActionBar=0x7f110195;
-    public static final int Theme_Design_NoActionBar=0x7f110196;
-    public static final int Theme_MaterialComponents=0x7f110197;
-    public static final int Theme_MaterialComponents_BottomSheetDialog=0x7f110198;
-    public static final int Theme_MaterialComponents_Bridge=0x7f110199;
-    public static final int Theme_MaterialComponents_CompactMenu=0x7f11019a;
-    public static final int Theme_MaterialComponents_DayNight=0x7f11019b;
-    public static final int Theme_MaterialComponents_DayNight_BottomSheetDialog=0x7f11019c;
-    public static final int Theme_MaterialComponents_DayNight_Bridge=0x7f11019d;
-    public static final int Theme_MaterialComponents_DayNight_DarkActionBar=0x7f11019e;
-    public static final int Theme_MaterialComponents_DayNight_DarkActionBar_Bridge=0x7f11019f;
-    public static final int Theme_MaterialComponents_DayNight_Dialog=0x7f1101a0;
-    public static final int Theme_MaterialComponents_DayNight_Dialog_Alert=0x7f1101a1;
-    public static final int Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge=0x7f1101a2;
-    public static final int Theme_MaterialComponents_DayNight_Dialog_Bridge=0x7f1101a3;
-    public static final int Theme_MaterialComponents_DayNight_Dialog_FixedSize=0x7f1101a4;
-    public static final int Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge=0x7f1101a5;
-    public static final int Theme_MaterialComponents_DayNight_Dialog_MinWidth=0x7f1101a6;
-    public static final int Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge=0x7f1101a7;
-    public static final int Theme_MaterialComponents_DayNight_DialogWhenLarge=0x7f1101a8;
-    public static final int Theme_MaterialComponents_DayNight_NoActionBar=0x7f1101a9;
-    public static final int Theme_MaterialComponents_DayNight_NoActionBar_Bridge=0x7f1101aa;
-    public static final int Theme_MaterialComponents_Dialog=0x7f1101ab;
-    public static final int Theme_MaterialComponents_Dialog_Alert=0x7f1101ac;
-    public static final int Theme_MaterialComponents_Dialog_Alert_Bridge=0x7f1101ad;
-    public static final int Theme_MaterialComponents_Dialog_Bridge=0x7f1101ae;
-    public static final int Theme_MaterialComponents_Dialog_FixedSize=0x7f1101af;
-    public static final int Theme_MaterialComponents_Dialog_FixedSize_Bridge=0x7f1101b0;
-    public static final int Theme_MaterialComponents_Dialog_MinWidth=0x7f1101b1;
-    public static final int Theme_MaterialComponents_Dialog_MinWidth_Bridge=0x7f1101b2;
-    public static final int Theme_MaterialComponents_DialogWhenLarge=0x7f1101b3;
-    public static final int Theme_MaterialComponents_Light=0x7f1101b4;
-    public static final int Theme_MaterialComponents_Light_BarSize=0x7f1101b5;
-    public static final int Theme_MaterialComponents_Light_BottomSheetDialog=0x7f1101b6;
-    public static final int Theme_MaterialComponents_Light_Bridge=0x7f1101b7;
-    public static final int Theme_MaterialComponents_Light_DarkActionBar=0x7f1101b8;
-    public static final int Theme_MaterialComponents_Light_DarkActionBar_Bridge=0x7f1101b9;
-    public static final int Theme_MaterialComponents_Light_Dialog=0x7f1101ba;
-    public static final int Theme_MaterialComponents_Light_Dialog_Alert=0x7f1101bb;
-    public static final int Theme_MaterialComponents_Light_Dialog_Alert_Bridge=0x7f1101bc;
-    public static final int Theme_MaterialComponents_Light_Dialog_Bridge=0x7f1101bd;
-    public static final int Theme_MaterialComponents_Light_Dialog_FixedSize=0x7f1101be;
-    public static final int Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge=0x7f1101bf;
-    public static final int Theme_MaterialComponents_Light_Dialog_MinWidth=0x7f1101c0;
-    public static final int Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge=0x7f1101c1;
-    public static final int Theme_MaterialComponents_Light_DialogWhenLarge=0x7f1101c2;
-    public static final int Theme_MaterialComponents_Light_LargeTouch=0x7f1101c3;
-    public static final int Theme_MaterialComponents_Light_NoActionBar=0x7f1101c4;
-    public static final int Theme_MaterialComponents_Light_NoActionBar_Bridge=0x7f1101c5;
-    public static final int Theme_MaterialComponents_NoActionBar=0x7f1101c6;
-    public static final int Theme_MaterialComponents_NoActionBar_Bridge=0x7f1101c7;
-    public static final int ThemeOverlay_AppCompat=0x7f1101c8;
-    public static final int ThemeOverlay_AppCompat_ActionBar=0x7f1101c9;
-    public static final int ThemeOverlay_AppCompat_Dark=0x7f1101ca;
-    public static final int ThemeOverlay_AppCompat_Dark_ActionBar=0x7f1101cb;
-    public static final int ThemeOverlay_AppCompat_DayNight=0x7f1101cc;
-    public static final int ThemeOverlay_AppCompat_DayNight_ActionBar=0x7f1101cd;
-    public static final int ThemeOverlay_AppCompat_Dialog=0x7f1101ce;
-    public static final int ThemeOverlay_AppCompat_Dialog_Alert=0x7f1101cf;
-    public static final int ThemeOverlay_AppCompat_Light=0x7f1101d0;
-    public static final int ThemeOverlay_Design_TextInputEditText=0x7f1101d1;
-    public static final int ThemeOverlay_MaterialComponents=0x7f1101d2;
-    public static final int ThemeOverlay_MaterialComponents_ActionBar=0x7f1101d3;
-    public static final int ThemeOverlay_MaterialComponents_ActionBar_Primary=0x7f1101d4;
-    public static final int ThemeOverlay_MaterialComponents_ActionBar_Surface=0x7f1101d5;
-    public static final int ThemeOverlay_MaterialComponents_AutoCompleteTextView=0x7f1101d6;
-    public static final int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox=0x7f1101d7;
-    public static final int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense=0x7f1101d8;
-    public static final int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox=0x7f1101d9;
-    public static final int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense=0x7f1101da;
-    public static final int ThemeOverlay_MaterialComponents_BottomAppBar_Primary=0x7f1101db;
-    public static final int ThemeOverlay_MaterialComponents_BottomAppBar_Surface=0x7f1101dc;
-    public static final int ThemeOverlay_MaterialComponents_BottomSheetDialog=0x7f1101dd;
-    public static final int ThemeOverlay_MaterialComponents_Dark=0x7f1101de;
-    public static final int ThemeOverlay_MaterialComponents_Dark_ActionBar=0x7f1101df;
-    public static final int ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog=0x7f1101e0;
-    public static final int ThemeOverlay_MaterialComponents_Dialog=0x7f1101e1;
-    public static final int ThemeOverlay_MaterialComponents_Dialog_Alert=0x7f1101e2;
-    public static final int ThemeOverlay_MaterialComponents_Light=0x7f1101e3;
-    public static final int ThemeOverlay_MaterialComponents_Light_BottomSheetDialog=0x7f1101e4;
-    public static final int ThemeOverlay_MaterialComponents_MaterialAlertDialog=0x7f1101e5;
-    public static final int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered=0x7f1101e6;
-    public static final int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date=0x7f1101e7;
-    public static final int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar=0x7f1101e8;
-    public static final int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text=0x7f1101e9;
-    public static final int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day=0x7f1101ea;
-    public static final int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner=0x7f1101eb;
-    public static final int ThemeOverlay_MaterialComponents_MaterialCalendar=0x7f1101ec;
-    public static final int ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen=0x7f1101ed;
-    public static final int ThemeOverlay_MaterialComponents_TextInputEditText=0x7f1101ee;
-    public static final int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox=0x7f1101ef;
-    public static final int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense=0x7f1101f0;
-    public static final int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox=0x7f1101f1;
-    public static final int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense=0x7f1101f2;
-    public static final int ThemeOverlay_MaterialComponents_Toolbar_Primary=0x7f1101f3;
-    public static final int ThemeOverlay_MaterialComponents_Toolbar_Surface=0x7f1101f4;
-    public static final int TvExtraHeadingStyle=0x7f1101f5;
-    public static final int TvHeadingStyle=0x7f1101f6;
-    public static final int TvNormalStyle=0x7f1101f7;
-    public static final int Widget_AppCompat_ActionBar=0x7f1101f8;
-    public static final int Widget_AppCompat_ActionBar_Solid=0x7f1101f9;
-    public static final int Widget_AppCompat_ActionBar_TabBar=0x7f1101fa;
-    public static final int Widget_AppCompat_ActionBar_TabText=0x7f1101fb;
-    public static final int Widget_AppCompat_ActionBar_TabView=0x7f1101fc;
-    public static final int Widget_AppCompat_ActionButton=0x7f1101fd;
-    public static final int Widget_AppCompat_ActionButton_CloseMode=0x7f1101fe;
-    public static final int Widget_AppCompat_ActionButton_Overflow=0x7f1101ff;
-    public static final int Widget_AppCompat_ActionMode=0x7f110200;
-    public static final int Widget_AppCompat_ActivityChooserView=0x7f110201;
-    public static final int Widget_AppCompat_AutoCompleteTextView=0x7f110202;
-    public static final int Widget_AppCompat_Button=0x7f110203;
-    public static final int Widget_AppCompat_Button_Borderless=0x7f110204;
-    public static final int Widget_AppCompat_Button_Borderless_Colored=0x7f110205;
-    public static final int Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f110206;
-    public static final int Widget_AppCompat_Button_Colored=0x7f110207;
-    public static final int Widget_AppCompat_Button_Small=0x7f110208;
-    public static final int Widget_AppCompat_ButtonBar=0x7f110209;
-    public static final int Widget_AppCompat_ButtonBar_AlertDialog=0x7f11020a;
-    public static final int Widget_AppCompat_CompoundButton_CheckBox=0x7f11020b;
-    public static final int Widget_AppCompat_CompoundButton_RadioButton=0x7f11020c;
-    public static final int Widget_AppCompat_CompoundButton_Switch=0x7f11020d;
-    public static final int Widget_AppCompat_DrawerArrowToggle=0x7f11020e;
-    public static final int Widget_AppCompat_DropDownItem_Spinner=0x7f11020f;
-    public static final int Widget_AppCompat_EditText=0x7f110210;
-    public static final int Widget_AppCompat_ImageButton=0x7f110211;
-    public static final int Widget_AppCompat_Light_ActionBar=0x7f110212;
-    public static final int Widget_AppCompat_Light_ActionBar_Solid=0x7f110213;
-    public static final int Widget_AppCompat_Light_ActionBar_Solid_Inverse=0x7f110214;
-    public static final int Widget_AppCompat_Light_ActionBar_TabBar=0x7f110215;
-    public static final int Widget_AppCompat_Light_ActionBar_TabBar_Inverse=0x7f110216;
-    public static final int Widget_AppCompat_Light_ActionBar_TabText=0x7f110217;
-    public static final int Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f110218;
-    public static final int Widget_AppCompat_Light_ActionBar_TabView=0x7f110219;
-    public static final int Widget_AppCompat_Light_ActionBar_TabView_Inverse=0x7f11021a;
-    public static final int Widget_AppCompat_Light_ActionButton=0x7f11021b;
-    public static final int Widget_AppCompat_Light_ActionButton_CloseMode=0x7f11021c;
-    public static final int Widget_AppCompat_Light_ActionButton_Overflow=0x7f11021d;
-    public static final int Widget_AppCompat_Light_ActionMode_Inverse=0x7f11021e;
-    public static final int Widget_AppCompat_Light_ActivityChooserView=0x7f11021f;
-    public static final int Widget_AppCompat_Light_AutoCompleteTextView=0x7f110220;
-    public static final int Widget_AppCompat_Light_DropDownItem_Spinner=0x7f110221;
-    public static final int Widget_AppCompat_Light_ListPopupWindow=0x7f110222;
-    public static final int Widget_AppCompat_Light_ListView_DropDown=0x7f110223;
-    public static final int Widget_AppCompat_Light_PopupMenu=0x7f110224;
-    public static final int Widget_AppCompat_Light_PopupMenu_Overflow=0x7f110225;
-    public static final int Widget_AppCompat_Light_SearchView=0x7f110226;
-    public static final int Widget_AppCompat_Light_Spinner_DropDown_ActionBar=0x7f110227;
-    public static final int Widget_AppCompat_ListMenuView=0x7f110228;
-    public static final int Widget_AppCompat_ListPopupWindow=0x7f110229;
-    public static final int Widget_AppCompat_ListView=0x7f11022a;
-    public static final int Widget_AppCompat_ListView_DropDown=0x7f11022b;
-    public static final int Widget_AppCompat_ListView_Menu=0x7f11022c;
-    public static final int Widget_AppCompat_PopupMenu=0x7f11022d;
-    public static final int Widget_AppCompat_PopupMenu_Overflow=0x7f11022e;
-    public static final int Widget_AppCompat_PopupWindow=0x7f11022f;
-    public static final int Widget_AppCompat_ProgressBar=0x7f110230;
-    public static final int Widget_AppCompat_ProgressBar_Horizontal=0x7f110231;
-    public static final int Widget_AppCompat_RatingBar=0x7f110232;
-    public static final int Widget_AppCompat_RatingBar_Indicator=0x7f110233;
-    public static final int Widget_AppCompat_RatingBar_Small=0x7f110234;
-    public static final int Widget_AppCompat_SearchView=0x7f110235;
-    public static final int Widget_AppCompat_SearchView_ActionBar=0x7f110236;
-    public static final int Widget_AppCompat_SeekBar=0x7f110237;
-    public static final int Widget_AppCompat_SeekBar_Discrete=0x7f110238;
-    public static final int Widget_AppCompat_Spinner=0x7f110239;
-    public static final int Widget_AppCompat_Spinner_DropDown=0x7f11023a;
-    public static final int Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f11023b;
-    public static final int Widget_AppCompat_Spinner_Underlined=0x7f11023c;
-    public static final int Widget_AppCompat_TextView=0x7f11023d;
-    public static final int Widget_AppCompat_TextView_SpinnerItem=0x7f11023e;
-    public static final int Widget_AppCompat_Toolbar=0x7f11023f;
-    public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f110240;
-    public static final int Widget_Compat_NotificationActionContainer=0x7f110241;
-    public static final int Widget_Compat_NotificationActionText=0x7f110242;
-    public static final int Widget_Design_AppBarLayout=0x7f110243;
-    public static final int Widget_Design_BottomNavigationView=0x7f110244;
-    public static final int Widget_Design_BottomSheet_Modal=0x7f110245;
-    public static final int Widget_Design_CollapsingToolbar=0x7f110246;
-    public static final int Widget_Design_FloatingActionButton=0x7f110247;
-    public static final int Widget_Design_NavigationView=0x7f110248;
-    public static final int Widget_Design_ScrimInsetsFrameLayout=0x7f110249;
-    public static final int Widget_Design_Snackbar=0x7f11024a;
-    public static final int Widget_Design_TabLayout=0x7f11024b;
-    public static final int Widget_Design_TextInputLayout=0x7f11024c;
-    public static final int Widget_MaterialComponents_ActionBar_Primary=0x7f11024d;
-    public static final int Widget_MaterialComponents_ActionBar_PrimarySurface=0x7f11024e;
-    public static final int Widget_MaterialComponents_ActionBar_Solid=0x7f11024f;
-    public static final int Widget_MaterialComponents_ActionBar_Surface=0x7f110250;
-    public static final int Widget_MaterialComponents_AppBarLayout_Primary=0x7f110251;
-    public static final int Widget_MaterialComponents_AppBarLayout_PrimarySurface=0x7f110252;
-    public static final int Widget_MaterialComponents_AppBarLayout_Surface=0x7f110253;
-    public static final int Widget_MaterialComponents_AutoCompleteTextView_FilledBox=0x7f110254;
-    public static final int Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense=0x7f110255;
-    public static final int Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox=0x7f110256;
-    public static final int Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense=0x7f110257;
-    public static final int Widget_MaterialComponents_Badge=0x7f110258;
-    public static final int Widget_MaterialComponents_BottomAppBar=0x7f110259;
-    public static final int Widget_MaterialComponents_BottomAppBar_Colored=0x7f11025a;
-    public static final int Widget_MaterialComponents_BottomAppBar_PrimarySurface=0x7f11025b;
-    public static final int Widget_MaterialComponents_BottomNavigationView=0x7f11025c;
-    public static final int Widget_MaterialComponents_BottomNavigationView_Colored=0x7f11025d;
-    public static final int Widget_MaterialComponents_BottomNavigationView_PrimarySurface=0x7f11025e;
-    public static final int Widget_MaterialComponents_BottomSheet=0x7f11025f;
-    public static final int Widget_MaterialComponents_BottomSheet_Modal=0x7f110260;
-    public static final int Widget_MaterialComponents_Button=0x7f110261;
-    public static final int Widget_MaterialComponents_Button_Icon=0x7f110262;
-    public static final int Widget_MaterialComponents_Button_OutlinedButton=0x7f110263;
-    public static final int Widget_MaterialComponents_Button_OutlinedButton_Icon=0x7f110264;
-    public static final int Widget_MaterialComponents_Button_TextButton=0x7f110265;
-    public static final int Widget_MaterialComponents_Button_TextButton_Dialog=0x7f110266;
-    public static final int Widget_MaterialComponents_Button_TextButton_Dialog_Flush=0x7f110267;
-    public static final int Widget_MaterialComponents_Button_TextButton_Dialog_Icon=0x7f110268;
-    public static final int Widget_MaterialComponents_Button_TextButton_Icon=0x7f110269;
-    public static final int Widget_MaterialComponents_Button_TextButton_Snackbar=0x7f11026a;
-    public static final int Widget_MaterialComponents_Button_UnelevatedButton=0x7f11026b;
-    public static final int Widget_MaterialComponents_Button_UnelevatedButton_Icon=0x7f11026c;
-    public static final int Widget_MaterialComponents_CardView=0x7f11026d;
-    public static final int Widget_MaterialComponents_CheckedTextView=0x7f11026e;
-    public static final int Widget_MaterialComponents_Chip_Action=0x7f11026f;
-    public static final int Widget_MaterialComponents_Chip_Choice=0x7f110270;
-    public static final int Widget_MaterialComponents_Chip_Entry=0x7f110271;
-    public static final int Widget_MaterialComponents_Chip_Filter=0x7f110272;
-    public static final int Widget_MaterialComponents_ChipGroup=0x7f110273;
-    public static final int Widget_MaterialComponents_CompoundButton_CheckBox=0x7f110274;
-    public static final int Widget_MaterialComponents_CompoundButton_RadioButton=0x7f110275;
-    public static final int Widget_MaterialComponents_CompoundButton_Switch=0x7f110276;
-    public static final int Widget_MaterialComponents_ExtendedFloatingActionButton=0x7f110277;
-    public static final int Widget_MaterialComponents_ExtendedFloatingActionButton_Icon=0x7f110278;
-    public static final int Widget_MaterialComponents_FloatingActionButton=0x7f110279;
-    public static final int Widget_MaterialComponents_Light_ActionBar_Solid=0x7f11027a;
-    public static final int Widget_MaterialComponents_MaterialButtonToggleGroup=0x7f11027b;
-    public static final int Widget_MaterialComponents_MaterialCalendar=0x7f11027c;
-    public static final int Widget_MaterialComponents_MaterialCalendar_Day=0x7f11027d;
-    public static final int Widget_MaterialComponents_MaterialCalendar_Day_Invalid=0x7f11027e;
-    public static final int Widget_MaterialComponents_MaterialCalendar_Day_Selected=0x7f11027f;
-    public static final int Widget_MaterialComponents_MaterialCalendar_Day_Today=0x7f110280;
-    public static final int Widget_MaterialComponents_MaterialCalendar_DayTextView=0x7f110281;
-    public static final int Widget_MaterialComponents_MaterialCalendar_Fullscreen=0x7f110282;
-    public static final int Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton=0x7f110283;
-    public static final int Widget_MaterialComponents_MaterialCalendar_HeaderDivider=0x7f110284;
-    public static final int Widget_MaterialComponents_MaterialCalendar_HeaderLayout=0x7f110285;
-    public static final int Widget_MaterialComponents_MaterialCalendar_HeaderSelection=0x7f110286;
-    public static final int Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen=0x7f110287;
-    public static final int Widget_MaterialComponents_MaterialCalendar_HeaderTitle=0x7f110288;
-    public static final int Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton=0x7f110289;
-    public static final int Widget_MaterialComponents_MaterialCalendar_Item=0x7f11028a;
-    public static final int Widget_MaterialComponents_MaterialCalendar_Year=0x7f11028b;
-    public static final int Widget_MaterialComponents_MaterialCalendar_Year_Selected=0x7f11028c;
-    public static final int Widget_MaterialComponents_MaterialCalendar_Year_Today=0x7f11028d;
-    public static final int Widget_MaterialComponents_NavigationView=0x7f11028e;
-    public static final int Widget_MaterialComponents_PopupMenu=0x7f11028f;
-    public static final int Widget_MaterialComponents_PopupMenu_ContextMenu=0x7f110290;
-    public static final int Widget_MaterialComponents_PopupMenu_ListPopupWindow=0x7f110291;
-    public static final int Widget_MaterialComponents_PopupMenu_Overflow=0x7f110292;
-    public static final int Widget_MaterialComponents_Snackbar=0x7f110293;
-    public static final int Widget_MaterialComponents_Snackbar_FullWidth=0x7f110294;
-    public static final int Widget_MaterialComponents_TabLayout=0x7f110295;
-    public static final int Widget_MaterialComponents_TabLayout_Colored=0x7f110296;
-    public static final int Widget_MaterialComponents_TabLayout_PrimarySurface=0x7f110297;
-    public static final int Widget_MaterialComponents_TextInputEditText_FilledBox=0x7f110298;
-    public static final int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense=0x7f110299;
-    public static final int Widget_MaterialComponents_TextInputEditText_OutlinedBox=0x7f11029a;
-    public static final int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense=0x7f11029b;
-    public static final int Widget_MaterialComponents_TextInputLayout_FilledBox=0x7f11029c;
-    public static final int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense=0x7f11029d;
-    public static final int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu=0x7f11029e;
-    public static final int Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu=0x7f11029f;
-    public static final int Widget_MaterialComponents_TextInputLayout_OutlinedBox=0x7f1102a0;
-    public static final int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense=0x7f1102a1;
-    public static final int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu=0x7f1102a2;
-    public static final int Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu=0x7f1102a3;
-    public static final int Widget_MaterialComponents_TextView=0x7f1102a4;
-    public static final int Widget_MaterialComponents_Toolbar=0x7f1102a5;
-    public static final int Widget_MaterialComponents_Toolbar_Primary=0x7f1102a6;
-    public static final int Widget_MaterialComponents_Toolbar_PrimarySurface=0x7f1102a7;
-    public static final int Widget_MaterialComponents_Toolbar_Surface=0x7f1102a8;
-    public static final int Widget_Support_CoordinatorLayout=0x7f1102a9;
-    public static final int buttonStyle=0x7f1102aa;
-    public static final int editTextStyle=0x7f1102ab;
-    public static final int layoutETStyle=0x7f1102ac;
+    public static final int AlertDialog_AppCompat=0x7f130000;
+    public static final int AlertDialog_AppCompat_Light=0x7f130001;
+    public static final int Animation_AppCompat_Dialog=0x7f130002;
+    public static final int Animation_AppCompat_DropDownUp=0x7f130003;
+    public static final int Animation_AppCompat_Tooltip=0x7f130004;
+    public static final int Animation_Design_BottomSheetDialog=0x7f130005;
+    public static final int Animation_MaterialComponents_BottomSheetDialog=0x7f130006;
+    public static final int AppDialogTheme=0x7f130007;
+    public static final int AppTheme=0x7f130008;
+    public static final int AppTheme_AppBarOverlay=0x7f130009;
+    public static final int AppTheme_NoActionBar=0x7f13000a;
+    public static final int AppTheme_PopupOverlay=0x7f13000b;
+    public static final int Base_AlertDialog_AppCompat=0x7f13000c;
+    public static final int Base_AlertDialog_AppCompat_Light=0x7f13000d;
+    public static final int Base_Animation_AppCompat_Dialog=0x7f13000e;
+    public static final int Base_Animation_AppCompat_DropDownUp=0x7f13000f;
+    public static final int Base_Animation_AppCompat_Tooltip=0x7f130010;
+    public static final int Base_CardView=0x7f130011;
+    public static final int Base_DialogWindowTitle_AppCompat=0x7f130012;
+    public static final int Base_DialogWindowTitleBackground_AppCompat=0x7f130013;
+    public static final int Base_MaterialAlertDialog_MaterialComponents_Title_Icon=0x7f130014;
+    public static final int Base_MaterialAlertDialog_MaterialComponents_Title_Panel=0x7f130015;
+    public static final int Base_MaterialAlertDialog_MaterialComponents_Title_Text=0x7f130016;
+    public static final int Base_TextAppearance_AppCompat=0x7f130017;
+    public static final int Base_TextAppearance_AppCompat_Body1=0x7f130018;
+    public static final int Base_TextAppearance_AppCompat_Body2=0x7f130019;
+    public static final int Base_TextAppearance_AppCompat_Button=0x7f13001a;
+    public static final int Base_TextAppearance_AppCompat_Caption=0x7f13001b;
+    public static final int Base_TextAppearance_AppCompat_Display1=0x7f13001c;
+    public static final int Base_TextAppearance_AppCompat_Display2=0x7f13001d;
+    public static final int Base_TextAppearance_AppCompat_Display3=0x7f13001e;
+    public static final int Base_TextAppearance_AppCompat_Display4=0x7f13001f;
+    public static final int Base_TextAppearance_AppCompat_Headline=0x7f130020;
+    public static final int Base_TextAppearance_AppCompat_Inverse=0x7f130021;
+    public static final int Base_TextAppearance_AppCompat_Large=0x7f130022;
+    public static final int Base_TextAppearance_AppCompat_Large_Inverse=0x7f130023;
+    public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f130024;
+    public static final int Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f130025;
+    public static final int Base_TextAppearance_AppCompat_Medium=0x7f130026;
+    public static final int Base_TextAppearance_AppCompat_Medium_Inverse=0x7f130027;
+    public static final int Base_TextAppearance_AppCompat_Menu=0x7f130028;
+    public static final int Base_TextAppearance_AppCompat_SearchResult=0x7f130029;
+    public static final int Base_TextAppearance_AppCompat_SearchResult_Subtitle=0x7f13002a;
+    public static final int Base_TextAppearance_AppCompat_SearchResult_Title=0x7f13002b;
+    public static final int Base_TextAppearance_AppCompat_Small=0x7f13002c;
+    public static final int Base_TextAppearance_AppCompat_Small_Inverse=0x7f13002d;
+    public static final int Base_TextAppearance_AppCompat_Subhead=0x7f13002e;
+    public static final int Base_TextAppearance_AppCompat_Subhead_Inverse=0x7f13002f;
+    public static final int Base_TextAppearance_AppCompat_Title=0x7f130030;
+    public static final int Base_TextAppearance_AppCompat_Title_Inverse=0x7f130031;
+    public static final int Base_TextAppearance_AppCompat_Tooltip=0x7f130032;
+    public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f130033;
+    public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f130034;
+    public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f130035;
+    public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f130036;
+    public static final int Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f130037;
+    public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f130038;
+    public static final int Base_TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f130039;
+    public static final int Base_TextAppearance_AppCompat_Widget_Button=0x7f13003a;
+    public static final int Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored=0x7f13003b;
+    public static final int Base_TextAppearance_AppCompat_Widget_Button_Colored=0x7f13003c;
+    public static final int Base_TextAppearance_AppCompat_Widget_Button_Inverse=0x7f13003d;
+    public static final int Base_TextAppearance_AppCompat_Widget_DropDownItem=0x7f13003e;
+    public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Header=0x7f13003f;
+    public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f130040;
+    public static final int Base_TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f130041;
+    public static final int Base_TextAppearance_AppCompat_Widget_Switch=0x7f130042;
+    public static final int Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f130043;
+    public static final int Base_TextAppearance_MaterialComponents_Badge=0x7f130044;
+    public static final int Base_TextAppearance_MaterialComponents_Button=0x7f130045;
+    public static final int Base_TextAppearance_MaterialComponents_Headline6=0x7f130046;
+    public static final int Base_TextAppearance_MaterialComponents_Subtitle2=0x7f130047;
+    public static final int Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f130048;
+    public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f130049;
+    public static final int Base_TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f13004a;
+    public static final int Base_Theme_AppCompat=0x7f13004b;
+    public static final int Base_Theme_AppCompat_CompactMenu=0x7f13004c;
+    public static final int Base_Theme_AppCompat_Dialog=0x7f13004d;
+    public static final int Base_Theme_AppCompat_Dialog_Alert=0x7f13004e;
+    public static final int Base_Theme_AppCompat_Dialog_FixedSize=0x7f13004f;
+    public static final int Base_Theme_AppCompat_Dialog_MinWidth=0x7f130050;
+    public static final int Base_Theme_AppCompat_DialogWhenLarge=0x7f130051;
+    public static final int Base_Theme_AppCompat_Light=0x7f130052;
+    public static final int Base_Theme_AppCompat_Light_DarkActionBar=0x7f130053;
+    public static final int Base_Theme_AppCompat_Light_Dialog=0x7f130054;
+    public static final int Base_Theme_AppCompat_Light_Dialog_Alert=0x7f130055;
+    public static final int Base_Theme_AppCompat_Light_Dialog_FixedSize=0x7f130056;
+    public static final int Base_Theme_AppCompat_Light_Dialog_MinWidth=0x7f130057;
+    public static final int Base_Theme_AppCompat_Light_DialogWhenLarge=0x7f130058;
+    public static final int Base_Theme_MaterialComponents=0x7f130059;
+    public static final int Base_Theme_MaterialComponents_Bridge=0x7f13005a;
+    public static final int Base_Theme_MaterialComponents_CompactMenu=0x7f13005b;
+    public static final int Base_Theme_MaterialComponents_Dialog=0x7f13005c;
+    public static final int Base_Theme_MaterialComponents_Dialog_Alert=0x7f13005d;
+    public static final int Base_Theme_MaterialComponents_Dialog_Bridge=0x7f13005e;
+    public static final int Base_Theme_MaterialComponents_Dialog_FixedSize=0x7f13005f;
+    public static final int Base_Theme_MaterialComponents_Dialog_MinWidth=0x7f130060;
+    public static final int Base_Theme_MaterialComponents_DialogWhenLarge=0x7f130061;
+    public static final int Base_Theme_MaterialComponents_Light=0x7f130062;
+    public static final int Base_Theme_MaterialComponents_Light_Bridge=0x7f130063;
+    public static final int Base_Theme_MaterialComponents_Light_DarkActionBar=0x7f130064;
+    public static final int Base_Theme_MaterialComponents_Light_DarkActionBar_Bridge=0x7f130065;
+    public static final int Base_Theme_MaterialComponents_Light_Dialog=0x7f130066;
+    public static final int Base_Theme_MaterialComponents_Light_Dialog_Alert=0x7f130067;
+    public static final int Base_Theme_MaterialComponents_Light_Dialog_Bridge=0x7f130068;
+    public static final int Base_Theme_MaterialComponents_Light_Dialog_FixedSize=0x7f130069;
+    public static final int Base_Theme_MaterialComponents_Light_Dialog_MinWidth=0x7f13006a;
+    public static final int Base_Theme_MaterialComponents_Light_DialogWhenLarge=0x7f13006b;
+    public static final int Base_ThemeOverlay_AppCompat=0x7f13006c;
+    public static final int Base_ThemeOverlay_AppCompat_ActionBar=0x7f13006d;
+    public static final int Base_ThemeOverlay_AppCompat_Dark=0x7f13006e;
+    public static final int Base_ThemeOverlay_AppCompat_Dark_ActionBar=0x7f13006f;
+    public static final int Base_ThemeOverlay_AppCompat_Dialog=0x7f130070;
+    public static final int Base_ThemeOverlay_AppCompat_Dialog_Alert=0x7f130071;
+    public static final int Base_ThemeOverlay_AppCompat_Light=0x7f130072;
+    public static final int Base_ThemeOverlay_MaterialComponents_Dialog=0x7f130073;
+    public static final int Base_ThemeOverlay_MaterialComponents_Dialog_Alert=0x7f130074;
+    public static final int Base_ThemeOverlay_MaterialComponents_MaterialAlertDialog=0x7f130075;
+    public static final int Base_V14_Theme_MaterialComponents=0x7f130076;
+    public static final int Base_V14_Theme_MaterialComponents_Bridge=0x7f130077;
+    public static final int Base_V14_Theme_MaterialComponents_Dialog=0x7f130078;
+    public static final int Base_V14_Theme_MaterialComponents_Dialog_Bridge=0x7f130079;
+    public static final int Base_V14_Theme_MaterialComponents_Light=0x7f13007a;
+    public static final int Base_V14_Theme_MaterialComponents_Light_Bridge=0x7f13007b;
+    public static final int Base_V14_Theme_MaterialComponents_Light_DarkActionBar_Bridge=0x7f13007c;
+    public static final int Base_V14_Theme_MaterialComponents_Light_Dialog=0x7f13007d;
+    public static final int Base_V14_Theme_MaterialComponents_Light_Dialog_Bridge=0x7f13007e;
+    public static final int Base_V14_ThemeOverlay_MaterialComponents_Dialog=0x7f13007f;
+    public static final int Base_V14_ThemeOverlay_MaterialComponents_Dialog_Alert=0x7f130080;
+    public static final int Base_V14_ThemeOverlay_MaterialComponents_MaterialAlertDialog=0x7f130081;
+    public static final int Base_V21_Theme_AppCompat=0x7f130082;
+    public static final int Base_V21_Theme_AppCompat_Dialog=0x7f130083;
+    public static final int Base_V21_Theme_AppCompat_Light=0x7f130084;
+    public static final int Base_V21_Theme_AppCompat_Light_Dialog=0x7f130085;
+    public static final int Base_V21_ThemeOverlay_AppCompat_Dialog=0x7f130086;
+    public static final int Base_V22_Theme_AppCompat=0x7f130087;
+    public static final int Base_V22_Theme_AppCompat_Light=0x7f130088;
+    public static final int Base_V23_Theme_AppCompat=0x7f130089;
+    public static final int Base_V23_Theme_AppCompat_Light=0x7f13008a;
+    public static final int Base_V26_Theme_AppCompat=0x7f13008b;
+    public static final int Base_V26_Theme_AppCompat_Light=0x7f13008c;
+    public static final int Base_V26_Widget_AppCompat_Toolbar=0x7f13008d;
+    public static final int Base_V28_Theme_AppCompat=0x7f13008e;
+    public static final int Base_V28_Theme_AppCompat_Light=0x7f13008f;
+    public static final int Base_V7_Theme_AppCompat=0x7f130090;
+    public static final int Base_V7_Theme_AppCompat_Dialog=0x7f130091;
+    public static final int Base_V7_Theme_AppCompat_Light=0x7f130092;
+    public static final int Base_V7_Theme_AppCompat_Light_Dialog=0x7f130093;
+    public static final int Base_V7_ThemeOverlay_AppCompat_Dialog=0x7f130094;
+    public static final int Base_V7_Widget_AppCompat_AutoCompleteTextView=0x7f130095;
+    public static final int Base_V7_Widget_AppCompat_EditText=0x7f130096;
+    public static final int Base_V7_Widget_AppCompat_Toolbar=0x7f130097;
+    public static final int Base_Widget_AppCompat_ActionBar=0x7f130098;
+    public static final int Base_Widget_AppCompat_ActionBar_Solid=0x7f130099;
+    public static final int Base_Widget_AppCompat_ActionBar_TabBar=0x7f13009a;
+    public static final int Base_Widget_AppCompat_ActionBar_TabText=0x7f13009b;
+    public static final int Base_Widget_AppCompat_ActionBar_TabView=0x7f13009c;
+    public static final int Base_Widget_AppCompat_ActionButton=0x7f13009d;
+    public static final int Base_Widget_AppCompat_ActionButton_CloseMode=0x7f13009e;
+    public static final int Base_Widget_AppCompat_ActionButton_Overflow=0x7f13009f;
+    public static final int Base_Widget_AppCompat_ActionMode=0x7f1300a0;
+    public static final int Base_Widget_AppCompat_ActivityChooserView=0x7f1300a1;
+    public static final int Base_Widget_AppCompat_AutoCompleteTextView=0x7f1300a2;
+    public static final int Base_Widget_AppCompat_Button=0x7f1300a3;
+    public static final int Base_Widget_AppCompat_Button_Borderless=0x7f1300a4;
+    public static final int Base_Widget_AppCompat_Button_Borderless_Colored=0x7f1300a5;
+    public static final int Base_Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f1300a6;
+    public static final int Base_Widget_AppCompat_Button_Colored=0x7f1300a7;
+    public static final int Base_Widget_AppCompat_Button_Small=0x7f1300a8;
+    public static final int Base_Widget_AppCompat_ButtonBar=0x7f1300a9;
+    public static final int Base_Widget_AppCompat_ButtonBar_AlertDialog=0x7f1300aa;
+    public static final int Base_Widget_AppCompat_CompoundButton_CheckBox=0x7f1300ab;
+    public static final int Base_Widget_AppCompat_CompoundButton_RadioButton=0x7f1300ac;
+    public static final int Base_Widget_AppCompat_CompoundButton_Switch=0x7f1300ad;
+    public static final int Base_Widget_AppCompat_DrawerArrowToggle=0x7f1300ae;
+    public static final int Base_Widget_AppCompat_DrawerArrowToggle_Common=0x7f1300af;
+    public static final int Base_Widget_AppCompat_DropDownItem_Spinner=0x7f1300b0;
+    public static final int Base_Widget_AppCompat_EditText=0x7f1300b1;
+    public static final int Base_Widget_AppCompat_ImageButton=0x7f1300b2;
+    public static final int Base_Widget_AppCompat_Light_ActionBar=0x7f1300b3;
+    public static final int Base_Widget_AppCompat_Light_ActionBar_Solid=0x7f1300b4;
+    public static final int Base_Widget_AppCompat_Light_ActionBar_TabBar=0x7f1300b5;
+    public static final int Base_Widget_AppCompat_Light_ActionBar_TabText=0x7f1300b6;
+    public static final int Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f1300b7;
+    public static final int Base_Widget_AppCompat_Light_ActionBar_TabView=0x7f1300b8;
+    public static final int Base_Widget_AppCompat_Light_PopupMenu=0x7f1300b9;
+    public static final int Base_Widget_AppCompat_Light_PopupMenu_Overflow=0x7f1300ba;
+    public static final int Base_Widget_AppCompat_ListMenuView=0x7f1300bb;
+    public static final int Base_Widget_AppCompat_ListPopupWindow=0x7f1300bc;
+    public static final int Base_Widget_AppCompat_ListView=0x7f1300bd;
+    public static final int Base_Widget_AppCompat_ListView_DropDown=0x7f1300be;
+    public static final int Base_Widget_AppCompat_ListView_Menu=0x7f1300bf;
+    public static final int Base_Widget_AppCompat_PopupMenu=0x7f1300c0;
+    public static final int Base_Widget_AppCompat_PopupMenu_Overflow=0x7f1300c1;
+    public static final int Base_Widget_AppCompat_PopupWindow=0x7f1300c2;
+    public static final int Base_Widget_AppCompat_ProgressBar=0x7f1300c3;
+    public static final int Base_Widget_AppCompat_ProgressBar_Horizontal=0x7f1300c4;
+    public static final int Base_Widget_AppCompat_RatingBar=0x7f1300c5;
+    public static final int Base_Widget_AppCompat_RatingBar_Indicator=0x7f1300c6;
+    public static final int Base_Widget_AppCompat_RatingBar_Small=0x7f1300c7;
+    public static final int Base_Widget_AppCompat_SearchView=0x7f1300c8;
+    public static final int Base_Widget_AppCompat_SearchView_ActionBar=0x7f1300c9;
+    public static final int Base_Widget_AppCompat_SeekBar=0x7f1300ca;
+    public static final int Base_Widget_AppCompat_SeekBar_Discrete=0x7f1300cb;
+    public static final int Base_Widget_AppCompat_Spinner=0x7f1300cc;
+    public static final int Base_Widget_AppCompat_Spinner_Underlined=0x7f1300cd;
+    public static final int Base_Widget_AppCompat_TextView=0x7f1300ce;
+    public static final int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f1300cf;
+    public static final int Base_Widget_AppCompat_Toolbar=0x7f1300d0;
+    public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f1300d1;
+    public static final int Base_Widget_Design_TabLayout=0x7f1300d2;
+    public static final int Base_Widget_MaterialComponents_AutoCompleteTextView=0x7f1300d3;
+    public static final int Base_Widget_MaterialComponents_CheckedTextView=0x7f1300d4;
+    public static final int Base_Widget_MaterialComponents_Chip=0x7f1300d5;
+    public static final int Base_Widget_MaterialComponents_PopupMenu=0x7f1300d6;
+    public static final int Base_Widget_MaterialComponents_PopupMenu_ContextMenu=0x7f1300d7;
+    public static final int Base_Widget_MaterialComponents_PopupMenu_ListPopupWindow=0x7f1300d8;
+    public static final int Base_Widget_MaterialComponents_PopupMenu_Overflow=0x7f1300d9;
+    public static final int Base_Widget_MaterialComponents_TextInputEditText=0x7f1300da;
+    public static final int Base_Widget_MaterialComponents_TextInputLayout=0x7f1300db;
+    public static final int Base_Widget_MaterialComponents_TextView=0x7f1300dc;
+    public static final int CardView=0x7f1300dd;
+    public static final int CardView_Dark=0x7f1300de;
+    public static final int CardView_Light=0x7f1300df;
+    public static final int EmptyTheme=0x7f1300e0;
+    public static final int MaterialAlertDialog_MaterialComponents=0x7f1300e1;
+    public static final int MaterialAlertDialog_MaterialComponents_Body_Text=0x7f1300e2;
+    public static final int MaterialAlertDialog_MaterialComponents_Picker_Date_Calendar=0x7f1300e3;
+    public static final int MaterialAlertDialog_MaterialComponents_Picker_Date_Spinner=0x7f1300e4;
+    public static final int MaterialAlertDialog_MaterialComponents_Title_Icon=0x7f1300e5;
+    public static final int MaterialAlertDialog_MaterialComponents_Title_Icon_CenterStacked=0x7f1300e6;
+    public static final int MaterialAlertDialog_MaterialComponents_Title_Panel=0x7f1300e7;
+    public static final int MaterialAlertDialog_MaterialComponents_Title_Panel_CenterStacked=0x7f1300e8;
+    public static final int MaterialAlertDialog_MaterialComponents_Title_Text=0x7f1300e9;
+    public static final int MaterialAlertDialog_MaterialComponents_Title_Text_CenterStacked=0x7f1300ea;
+    public static final int Permissions_TransparentTheme=0x7f1300eb;
+    public static final int Platform_AppCompat=0x7f1300ec;
+    public static final int Platform_AppCompat_Light=0x7f1300ed;
+    public static final int Platform_MaterialComponents=0x7f1300ee;
+    public static final int Platform_MaterialComponents_Dialog=0x7f1300ef;
+    public static final int Platform_MaterialComponents_Light=0x7f1300f0;
+    public static final int Platform_MaterialComponents_Light_Dialog=0x7f1300f1;
+    public static final int Platform_ThemeOverlay_AppCompat=0x7f1300f2;
+    public static final int Platform_ThemeOverlay_AppCompat_Dark=0x7f1300f3;
+    public static final int Platform_ThemeOverlay_AppCompat_Light=0x7f1300f4;
+    public static final int Platform_V21_AppCompat=0x7f1300f5;
+    public static final int Platform_V21_AppCompat_Light=0x7f1300f6;
+    public static final int Platform_V25_AppCompat=0x7f1300f7;
+    public static final int Platform_V25_AppCompat_Light=0x7f1300f8;
+    public static final int Platform_Widget_AppCompat_Spinner=0x7f1300f9;
+    public static final int RtlOverlay_DialogWindowTitle_AppCompat=0x7f1300fa;
+    public static final int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem=0x7f1300fb;
+    public static final int RtlOverlay_Widget_AppCompat_DialogTitle_Icon=0x7f1300fc;
+    public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem=0x7f1300fd;
+    public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup=0x7f1300fe;
+    public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Shortcut=0x7f1300ff;
+    public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_SubmenuArrow=0x7f130100;
+    public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text=0x7f130101;
+    public static final int RtlOverlay_Widget_AppCompat_PopupMenuItem_Title=0x7f130102;
+    public static final int RtlOverlay_Widget_AppCompat_Search_DropDown=0x7f130103;
+    public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1=0x7f130104;
+    public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2=0x7f130105;
+    public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Query=0x7f130106;
+    public static final int RtlOverlay_Widget_AppCompat_Search_DropDown_Text=0x7f130107;
+    public static final int RtlOverlay_Widget_AppCompat_SearchView_MagIcon=0x7f130108;
+    public static final int RtlUnderlay_Widget_AppCompat_ActionButton=0x7f130109;
+    public static final int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow=0x7f13010a;
+    public static final int ShapeAppearance_MaterialComponents=0x7f13010b;
+    public static final int ShapeAppearance_MaterialComponents_LargeComponent=0x7f13010c;
+    public static final int ShapeAppearance_MaterialComponents_MediumComponent=0x7f13010d;
+    public static final int ShapeAppearance_MaterialComponents_SmallComponent=0x7f13010e;
+    public static final int ShapeAppearance_MaterialComponents_Test=0x7f13010f;
+    public static final int ShapeAppearanceOverlay=0x7f130110;
+    public static final int ShapeAppearanceOverlay_BottomLeftDifferentCornerSize=0x7f130111;
+    public static final int ShapeAppearanceOverlay_BottomRightCut=0x7f130112;
+    public static final int ShapeAppearanceOverlay_Cut=0x7f130113;
+    public static final int ShapeAppearanceOverlay_DifferentCornerSize=0x7f130114;
+    public static final int ShapeAppearanceOverlay_MaterialComponents_BottomSheet=0x7f130115;
+    public static final int ShapeAppearanceOverlay_MaterialComponents_Chip=0x7f130116;
+    public static final int ShapeAppearanceOverlay_MaterialComponents_ExtendedFloatingActionButton=0x7f130117;
+    public static final int ShapeAppearanceOverlay_MaterialComponents_FloatingActionButton=0x7f130118;
+    public static final int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day=0x7f130119;
+    public static final int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Window_Fullscreen=0x7f13011a;
+    public static final int ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Year=0x7f13011b;
+    public static final int ShapeAppearanceOverlay_MaterialComponents_TextInputLayout_FilledBox=0x7f13011c;
+    public static final int ShapeAppearanceOverlay_TopLeftCut=0x7f13011d;
+    public static final int ShapeAppearanceOverlay_TopRightDifferentCornerSize=0x7f13011e;
+    public static final int SpeechDialogStyle=0x7f13011f;
+    public static final int Test_ShapeAppearanceOverlay_MaterialComponents_MaterialCalendar_Day=0x7f130120;
+    public static final int Test_Theme_MaterialComponents_MaterialCalendar=0x7f130121;
+    public static final int Test_Widget_MaterialComponents_MaterialCalendar=0x7f130122;
+    public static final int Test_Widget_MaterialComponents_MaterialCalendar_Day=0x7f130123;
+    public static final int Test_Widget_MaterialComponents_MaterialCalendar_Day_Selected=0x7f130124;
+    public static final int TestStyleWithLineHeight=0x7f130125;
+    public static final int TestStyleWithLineHeightAppearance=0x7f130126;
+    public static final int TestStyleWithThemeLineHeightAttribute=0x7f130127;
+    public static final int TestStyleWithoutLineHeight=0x7f130128;
+    public static final int TestThemeWithLineHeight=0x7f130129;
+    public static final int TestThemeWithLineHeightDisabled=0x7f13012a;
+    public static final int TextAppearance_AppCompat=0x7f13012b;
+    public static final int TextAppearance_AppCompat_Body1=0x7f13012c;
+    public static final int TextAppearance_AppCompat_Body2=0x7f13012d;
+    public static final int TextAppearance_AppCompat_Button=0x7f13012e;
+    public static final int TextAppearance_AppCompat_Caption=0x7f13012f;
+    public static final int TextAppearance_AppCompat_Display1=0x7f130130;
+    public static final int TextAppearance_AppCompat_Display2=0x7f130131;
+    public static final int TextAppearance_AppCompat_Display3=0x7f130132;
+    public static final int TextAppearance_AppCompat_Display4=0x7f130133;
+    public static final int TextAppearance_AppCompat_Headline=0x7f130134;
+    public static final int TextAppearance_AppCompat_Inverse=0x7f130135;
+    public static final int TextAppearance_AppCompat_Large=0x7f130136;
+    public static final int TextAppearance_AppCompat_Large_Inverse=0x7f130137;
+    public static final int TextAppearance_AppCompat_Light_SearchResult_Subtitle=0x7f130138;
+    public static final int TextAppearance_AppCompat_Light_SearchResult_Title=0x7f130139;
+    public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large=0x7f13013a;
+    public static final int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small=0x7f13013b;
+    public static final int TextAppearance_AppCompat_Medium=0x7f13013c;
+    public static final int TextAppearance_AppCompat_Medium_Inverse=0x7f13013d;
+    public static final int TextAppearance_AppCompat_Menu=0x7f13013e;
+    public static final int TextAppearance_AppCompat_SearchResult_Subtitle=0x7f13013f;
+    public static final int TextAppearance_AppCompat_SearchResult_Title=0x7f130140;
+    public static final int TextAppearance_AppCompat_Small=0x7f130141;
+    public static final int TextAppearance_AppCompat_Small_Inverse=0x7f130142;
+    public static final int TextAppearance_AppCompat_Subhead=0x7f130143;
+    public static final int TextAppearance_AppCompat_Subhead_Inverse=0x7f130144;
+    public static final int TextAppearance_AppCompat_Title=0x7f130145;
+    public static final int TextAppearance_AppCompat_Title_Inverse=0x7f130146;
+    public static final int TextAppearance_AppCompat_Tooltip=0x7f130147;
+    public static final int TextAppearance_AppCompat_Widget_ActionBar_Menu=0x7f130148;
+    public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle=0x7f130149;
+    public static final int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse=0x7f13014a;
+    public static final int TextAppearance_AppCompat_Widget_ActionBar_Title=0x7f13014b;
+    public static final int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse=0x7f13014c;
+    public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle=0x7f13014d;
+    public static final int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse=0x7f13014e;
+    public static final int TextAppearance_AppCompat_Widget_ActionMode_Title=0x7f13014f;
+    public static final int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse=0x7f130150;
+    public static final int TextAppearance_AppCompat_Widget_Button=0x7f130151;
+    public static final int TextAppearance_AppCompat_Widget_Button_Borderless_Colored=0x7f130152;
+    public static final int TextAppearance_AppCompat_Widget_Button_Colored=0x7f130153;
+    public static final int TextAppearance_AppCompat_Widget_Button_Inverse=0x7f130154;
+    public static final int TextAppearance_AppCompat_Widget_DropDownItem=0x7f130155;
+    public static final int TextAppearance_AppCompat_Widget_PopupMenu_Header=0x7f130156;
+    public static final int TextAppearance_AppCompat_Widget_PopupMenu_Large=0x7f130157;
+    public static final int TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f130158;
+    public static final int TextAppearance_AppCompat_Widget_Switch=0x7f130159;
+    public static final int TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f13015a;
+    public static final int TextAppearance_Compat_Notification=0x7f13015b;
+    public static final int TextAppearance_Compat_Notification_Info=0x7f13015c;
+    public static final int TextAppearance_Compat_Notification_Info_Media=0x7f13015d;
+    public static final int TextAppearance_Compat_Notification_Line2=0x7f13015e;
+    public static final int TextAppearance_Compat_Notification_Line2_Media=0x7f13015f;
+    public static final int TextAppearance_Compat_Notification_Media=0x7f130160;
+    public static final int TextAppearance_Compat_Notification_Time=0x7f130161;
+    public static final int TextAppearance_Compat_Notification_Time_Media=0x7f130162;
+    public static final int TextAppearance_Compat_Notification_Title=0x7f130163;
+    public static final int TextAppearance_Compat_Notification_Title_Media=0x7f130164;
+    public static final int TextAppearance_Design_CollapsingToolbar_Expanded=0x7f130165;
+    public static final int TextAppearance_Design_Counter=0x7f130166;
+    public static final int TextAppearance_Design_Counter_Overflow=0x7f130167;
+    public static final int TextAppearance_Design_Error=0x7f130168;
+    public static final int TextAppearance_Design_HelperText=0x7f130169;
+    public static final int TextAppearance_Design_Hint=0x7f13016a;
+    public static final int TextAppearance_Design_Snackbar_Message=0x7f13016b;
+    public static final int TextAppearance_Design_Tab=0x7f13016c;
+    public static final int TextAppearance_MaterialComponents_Badge=0x7f13016d;
+    public static final int TextAppearance_MaterialComponents_Body1=0x7f13016e;
+    public static final int TextAppearance_MaterialComponents_Body2=0x7f13016f;
+    public static final int TextAppearance_MaterialComponents_Button=0x7f130170;
+    public static final int TextAppearance_MaterialComponents_Caption=0x7f130171;
+    public static final int TextAppearance_MaterialComponents_Chip=0x7f130172;
+    public static final int TextAppearance_MaterialComponents_Headline1=0x7f130173;
+    public static final int TextAppearance_MaterialComponents_Headline2=0x7f130174;
+    public static final int TextAppearance_MaterialComponents_Headline3=0x7f130175;
+    public static final int TextAppearance_MaterialComponents_Headline4=0x7f130176;
+    public static final int TextAppearance_MaterialComponents_Headline5=0x7f130177;
+    public static final int TextAppearance_MaterialComponents_Headline6=0x7f130178;
+    public static final int TextAppearance_MaterialComponents_Overline=0x7f130179;
+    public static final int TextAppearance_MaterialComponents_Subtitle1=0x7f13017a;
+    public static final int TextAppearance_MaterialComponents_Subtitle2=0x7f13017b;
+    public static final int TextAppearance_Widget_AppCompat_ExpandedMenu_Item=0x7f13017c;
+    public static final int TextAppearance_Widget_AppCompat_Toolbar_Subtitle=0x7f13017d;
+    public static final int TextAppearance_Widget_AppCompat_Toolbar_Title=0x7f13017e;
+    public static final int Theme_AppCompat=0x7f13017f;
+    public static final int Theme_AppCompat_CompactMenu=0x7f130180;
+    public static final int Theme_AppCompat_DayNight=0x7f130181;
+    public static final int Theme_AppCompat_DayNight_DarkActionBar=0x7f130182;
+    public static final int Theme_AppCompat_DayNight_Dialog=0x7f130183;
+    public static final int Theme_AppCompat_DayNight_Dialog_Alert=0x7f130184;
+    public static final int Theme_AppCompat_DayNight_Dialog_MinWidth=0x7f130185;
+    public static final int Theme_AppCompat_DayNight_DialogWhenLarge=0x7f130186;
+    public static final int Theme_AppCompat_DayNight_NoActionBar=0x7f130187;
+    public static final int Theme_AppCompat_Dialog=0x7f130188;
+    public static final int Theme_AppCompat_Dialog_Alert=0x7f130189;
+    public static final int Theme_AppCompat_Dialog_MinWidth=0x7f13018a;
+    public static final int Theme_AppCompat_DialogWhenLarge=0x7f13018b;
+    public static final int Theme_AppCompat_Light=0x7f13018c;
+    public static final int Theme_AppCompat_Light_DarkActionBar=0x7f13018d;
+    public static final int Theme_AppCompat_Light_Dialog=0x7f13018e;
+    public static final int Theme_AppCompat_Light_Dialog_Alert=0x7f13018f;
+    public static final int Theme_AppCompat_Light_Dialog_MinWidth=0x7f130190;
+    public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f130191;
+    public static final int Theme_AppCompat_Light_NoActionBar=0x7f130192;
+    public static final int Theme_AppCompat_NoActionBar=0x7f130193;
+    public static final int Theme_Design=0x7f130194;
+    public static final int Theme_Design_BottomSheetDialog=0x7f130195;
+    public static final int Theme_Design_Light=0x7f130196;
+    public static final int Theme_Design_Light_BottomSheetDialog=0x7f130197;
+    public static final int Theme_Design_Light_NoActionBar=0x7f130198;
+    public static final int Theme_Design_NoActionBar=0x7f130199;
+    public static final int Theme_MaterialComponents=0x7f13019a;
+    public static final int Theme_MaterialComponents_BottomSheetDialog=0x7f13019b;
+    public static final int Theme_MaterialComponents_Bridge=0x7f13019c;
+    public static final int Theme_MaterialComponents_CompactMenu=0x7f13019d;
+    public static final int Theme_MaterialComponents_DayNight=0x7f13019e;
+    public static final int Theme_MaterialComponents_DayNight_BottomSheetDialog=0x7f13019f;
+    public static final int Theme_MaterialComponents_DayNight_Bridge=0x7f1301a0;
+    public static final int Theme_MaterialComponents_DayNight_DarkActionBar=0x7f1301a1;
+    public static final int Theme_MaterialComponents_DayNight_DarkActionBar_Bridge=0x7f1301a2;
+    public static final int Theme_MaterialComponents_DayNight_Dialog=0x7f1301a3;
+    public static final int Theme_MaterialComponents_DayNight_Dialog_Alert=0x7f1301a4;
+    public static final int Theme_MaterialComponents_DayNight_Dialog_Alert_Bridge=0x7f1301a5;
+    public static final int Theme_MaterialComponents_DayNight_Dialog_Bridge=0x7f1301a6;
+    public static final int Theme_MaterialComponents_DayNight_Dialog_FixedSize=0x7f1301a7;
+    public static final int Theme_MaterialComponents_DayNight_Dialog_FixedSize_Bridge=0x7f1301a8;
+    public static final int Theme_MaterialComponents_DayNight_Dialog_MinWidth=0x7f1301a9;
+    public static final int Theme_MaterialComponents_DayNight_Dialog_MinWidth_Bridge=0x7f1301aa;
+    public static final int Theme_MaterialComponents_DayNight_DialogWhenLarge=0x7f1301ab;
+    public static final int Theme_MaterialComponents_DayNight_NoActionBar=0x7f1301ac;
+    public static final int Theme_MaterialComponents_DayNight_NoActionBar_Bridge=0x7f1301ad;
+    public static final int Theme_MaterialComponents_Dialog=0x7f1301ae;
+    public static final int Theme_MaterialComponents_Dialog_Alert=0x7f1301af;
+    public static final int Theme_MaterialComponents_Dialog_Alert_Bridge=0x7f1301b0;
+    public static final int Theme_MaterialComponents_Dialog_Bridge=0x7f1301b1;
+    public static final int Theme_MaterialComponents_Dialog_FixedSize=0x7f1301b2;
+    public static final int Theme_MaterialComponents_Dialog_FixedSize_Bridge=0x7f1301b3;
+    public static final int Theme_MaterialComponents_Dialog_MinWidth=0x7f1301b4;
+    public static final int Theme_MaterialComponents_Dialog_MinWidth_Bridge=0x7f1301b5;
+    public static final int Theme_MaterialComponents_DialogWhenLarge=0x7f1301b6;
+    public static final int Theme_MaterialComponents_Light=0x7f1301b7;
+    public static final int Theme_MaterialComponents_Light_BarSize=0x7f1301b8;
+    public static final int Theme_MaterialComponents_Light_BottomSheetDialog=0x7f1301b9;
+    public static final int Theme_MaterialComponents_Light_Bridge=0x7f1301ba;
+    public static final int Theme_MaterialComponents_Light_DarkActionBar=0x7f1301bb;
+    public static final int Theme_MaterialComponents_Light_DarkActionBar_Bridge=0x7f1301bc;
+    public static final int Theme_MaterialComponents_Light_Dialog=0x7f1301bd;
+    public static final int Theme_MaterialComponents_Light_Dialog_Alert=0x7f1301be;
+    public static final int Theme_MaterialComponents_Light_Dialog_Alert_Bridge=0x7f1301bf;
+    public static final int Theme_MaterialComponents_Light_Dialog_Bridge=0x7f1301c0;
+    public static final int Theme_MaterialComponents_Light_Dialog_FixedSize=0x7f1301c1;
+    public static final int Theme_MaterialComponents_Light_Dialog_FixedSize_Bridge=0x7f1301c2;
+    public static final int Theme_MaterialComponents_Light_Dialog_MinWidth=0x7f1301c3;
+    public static final int Theme_MaterialComponents_Light_Dialog_MinWidth_Bridge=0x7f1301c4;
+    public static final int Theme_MaterialComponents_Light_DialogWhenLarge=0x7f1301c5;
+    public static final int Theme_MaterialComponents_Light_LargeTouch=0x7f1301c6;
+    public static final int Theme_MaterialComponents_Light_NoActionBar=0x7f1301c7;
+    public static final int Theme_MaterialComponents_Light_NoActionBar_Bridge=0x7f1301c8;
+    public static final int Theme_MaterialComponents_NoActionBar=0x7f1301c9;
+    public static final int Theme_MaterialComponents_NoActionBar_Bridge=0x7f1301ca;
+    public static final int ThemeOverlay_AppCompat=0x7f1301cb;
+    public static final int ThemeOverlay_AppCompat_ActionBar=0x7f1301cc;
+    public static final int ThemeOverlay_AppCompat_Dark=0x7f1301cd;
+    public static final int ThemeOverlay_AppCompat_Dark_ActionBar=0x7f1301ce;
+    public static final int ThemeOverlay_AppCompat_DayNight=0x7f1301cf;
+    public static final int ThemeOverlay_AppCompat_DayNight_ActionBar=0x7f1301d0;
+    public static final int ThemeOverlay_AppCompat_Dialog=0x7f1301d1;
+    public static final int ThemeOverlay_AppCompat_Dialog_Alert=0x7f1301d2;
+    public static final int ThemeOverlay_AppCompat_Light=0x7f1301d3;
+    public static final int ThemeOverlay_Design_TextInputEditText=0x7f1301d4;
+    public static final int ThemeOverlay_MaterialComponents=0x7f1301d5;
+    public static final int ThemeOverlay_MaterialComponents_ActionBar=0x7f1301d6;
+    public static final int ThemeOverlay_MaterialComponents_ActionBar_Primary=0x7f1301d7;
+    public static final int ThemeOverlay_MaterialComponents_ActionBar_Surface=0x7f1301d8;
+    public static final int ThemeOverlay_MaterialComponents_AutoCompleteTextView=0x7f1301d9;
+    public static final int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox=0x7f1301da;
+    public static final int ThemeOverlay_MaterialComponents_AutoCompleteTextView_FilledBox_Dense=0x7f1301db;
+    public static final int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox=0x7f1301dc;
+    public static final int ThemeOverlay_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense=0x7f1301dd;
+    public static final int ThemeOverlay_MaterialComponents_BottomAppBar_Primary=0x7f1301de;
+    public static final int ThemeOverlay_MaterialComponents_BottomAppBar_Surface=0x7f1301df;
+    public static final int ThemeOverlay_MaterialComponents_BottomSheetDialog=0x7f1301e0;
+    public static final int ThemeOverlay_MaterialComponents_Dark=0x7f1301e1;
+    public static final int ThemeOverlay_MaterialComponents_Dark_ActionBar=0x7f1301e2;
+    public static final int ThemeOverlay_MaterialComponents_DayNight_BottomSheetDialog=0x7f1301e3;
+    public static final int ThemeOverlay_MaterialComponents_Dialog=0x7f1301e4;
+    public static final int ThemeOverlay_MaterialComponents_Dialog_Alert=0x7f1301e5;
+    public static final int ThemeOverlay_MaterialComponents_Light=0x7f1301e6;
+    public static final int ThemeOverlay_MaterialComponents_Light_BottomSheetDialog=0x7f1301e7;
+    public static final int ThemeOverlay_MaterialComponents_MaterialAlertDialog=0x7f1301e8;
+    public static final int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Centered=0x7f1301e9;
+    public static final int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date=0x7f1301ea;
+    public static final int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Calendar=0x7f1301eb;
+    public static final int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text=0x7f1301ec;
+    public static final int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Header_Text_Day=0x7f1301ed;
+    public static final int ThemeOverlay_MaterialComponents_MaterialAlertDialog_Picker_Date_Spinner=0x7f1301ee;
+    public static final int ThemeOverlay_MaterialComponents_MaterialCalendar=0x7f1301ef;
+    public static final int ThemeOverlay_MaterialComponents_MaterialCalendar_Fullscreen=0x7f1301f0;
+    public static final int ThemeOverlay_MaterialComponents_TextInputEditText=0x7f1301f1;
+    public static final int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox=0x7f1301f2;
+    public static final int ThemeOverlay_MaterialComponents_TextInputEditText_FilledBox_Dense=0x7f1301f3;
+    public static final int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox=0x7f1301f4;
+    public static final int ThemeOverlay_MaterialComponents_TextInputEditText_OutlinedBox_Dense=0x7f1301f5;
+    public static final int ThemeOverlay_MaterialComponents_Toolbar_Primary=0x7f1301f6;
+    public static final int ThemeOverlay_MaterialComponents_Toolbar_Surface=0x7f1301f7;
+    public static final int TvExtraHeadingStyle=0x7f1301f8;
+    public static final int TvHeadingStyle=0x7f1301f9;
+    public static final int TvNormalStyle=0x7f1301fa;
+    public static final int Widget_AppCompat_ActionBar=0x7f1301fb;
+    public static final int Widget_AppCompat_ActionBar_Solid=0x7f1301fc;
+    public static final int Widget_AppCompat_ActionBar_TabBar=0x7f1301fd;
+    public static final int Widget_AppCompat_ActionBar_TabText=0x7f1301fe;
+    public static final int Widget_AppCompat_ActionBar_TabView=0x7f1301ff;
+    public static final int Widget_AppCompat_ActionButton=0x7f130200;
+    public static final int Widget_AppCompat_ActionButton_CloseMode=0x7f130201;
+    public static final int Widget_AppCompat_ActionButton_Overflow=0x7f130202;
+    public static final int Widget_AppCompat_ActionMode=0x7f130203;
+    public static final int Widget_AppCompat_ActivityChooserView=0x7f130204;
+    public static final int Widget_AppCompat_AutoCompleteTextView=0x7f130205;
+    public static final int Widget_AppCompat_Button=0x7f130206;
+    public static final int Widget_AppCompat_Button_Borderless=0x7f130207;
+    public static final int Widget_AppCompat_Button_Borderless_Colored=0x7f130208;
+    public static final int Widget_AppCompat_Button_ButtonBar_AlertDialog=0x7f130209;
+    public static final int Widget_AppCompat_Button_Colored=0x7f13020a;
+    public static final int Widget_AppCompat_Button_Small=0x7f13020b;
+    public static final int Widget_AppCompat_ButtonBar=0x7f13020c;
+    public static final int Widget_AppCompat_ButtonBar_AlertDialog=0x7f13020d;
+    public static final int Widget_AppCompat_CompoundButton_CheckBox=0x7f13020e;
+    public static final int Widget_AppCompat_CompoundButton_RadioButton=0x7f13020f;
+    public static final int Widget_AppCompat_CompoundButton_Switch=0x7f130210;
+    public static final int Widget_AppCompat_DrawerArrowToggle=0x7f130211;
+    public static final int Widget_AppCompat_DropDownItem_Spinner=0x7f130212;
+    public static final int Widget_AppCompat_EditText=0x7f130213;
+    public static final int Widget_AppCompat_ImageButton=0x7f130214;
+    public static final int Widget_AppCompat_Light_ActionBar=0x7f130215;
+    public static final int Widget_AppCompat_Light_ActionBar_Solid=0x7f130216;
+    public static final int Widget_AppCompat_Light_ActionBar_Solid_Inverse=0x7f130217;
+    public static final int Widget_AppCompat_Light_ActionBar_TabBar=0x7f130218;
+    public static final int Widget_AppCompat_Light_ActionBar_TabBar_Inverse=0x7f130219;
+    public static final int Widget_AppCompat_Light_ActionBar_TabText=0x7f13021a;
+    public static final int Widget_AppCompat_Light_ActionBar_TabText_Inverse=0x7f13021b;
+    public static final int Widget_AppCompat_Light_ActionBar_TabView=0x7f13021c;
+    public static final int Widget_AppCompat_Light_ActionBar_TabView_Inverse=0x7f13021d;
+    public static final int Widget_AppCompat_Light_ActionButton=0x7f13021e;
+    public static final int Widget_AppCompat_Light_ActionButton_CloseMode=0x7f13021f;
+    public static final int Widget_AppCompat_Light_ActionButton_Overflow=0x7f130220;
+    public static final int Widget_AppCompat_Light_ActionMode_Inverse=0x7f130221;
+    public static final int Widget_AppCompat_Light_ActivityChooserView=0x7f130222;
+    public static final int Widget_AppCompat_Light_AutoCompleteTextView=0x7f130223;
+    public static final int Widget_AppCompat_Light_DropDownItem_Spinner=0x7f130224;
+    public static final int Widget_AppCompat_Light_ListPopupWindow=0x7f130225;
+    public static final int Widget_AppCompat_Light_ListView_DropDown=0x7f130226;
+    public static final int Widget_AppCompat_Light_PopupMenu=0x7f130227;
+    public static final int Widget_AppCompat_Light_PopupMenu_Overflow=0x7f130228;
+    public static final int Widget_AppCompat_Light_SearchView=0x7f130229;
+    public static final int Widget_AppCompat_Light_Spinner_DropDown_ActionBar=0x7f13022a;
+    public static final int Widget_AppCompat_ListMenuView=0x7f13022b;
+    public static final int Widget_AppCompat_ListPopupWindow=0x7f13022c;
+    public static final int Widget_AppCompat_ListView=0x7f13022d;
+    public static final int Widget_AppCompat_ListView_DropDown=0x7f13022e;
+    public static final int Widget_AppCompat_ListView_Menu=0x7f13022f;
+    public static final int Widget_AppCompat_PopupMenu=0x7f130230;
+    public static final int Widget_AppCompat_PopupMenu_Overflow=0x7f130231;
+    public static final int Widget_AppCompat_PopupWindow=0x7f130232;
+    public static final int Widget_AppCompat_ProgressBar=0x7f130233;
+    public static final int Widget_AppCompat_ProgressBar_Horizontal=0x7f130234;
+    public static final int Widget_AppCompat_RatingBar=0x7f130235;
+    public static final int Widget_AppCompat_RatingBar_Indicator=0x7f130236;
+    public static final int Widget_AppCompat_RatingBar_Small=0x7f130237;
+    public static final int Widget_AppCompat_SearchView=0x7f130238;
+    public static final int Widget_AppCompat_SearchView_ActionBar=0x7f130239;
+    public static final int Widget_AppCompat_SeekBar=0x7f13023a;
+    public static final int Widget_AppCompat_SeekBar_Discrete=0x7f13023b;
+    public static final int Widget_AppCompat_Spinner=0x7f13023c;
+    public static final int Widget_AppCompat_Spinner_DropDown=0x7f13023d;
+    public static final int Widget_AppCompat_Spinner_DropDown_ActionBar=0x7f13023e;
+    public static final int Widget_AppCompat_Spinner_Underlined=0x7f13023f;
+    public static final int Widget_AppCompat_TextView=0x7f130240;
+    public static final int Widget_AppCompat_TextView_SpinnerItem=0x7f130241;
+    public static final int Widget_AppCompat_Toolbar=0x7f130242;
+    public static final int Widget_AppCompat_Toolbar_Button_Navigation=0x7f130243;
+    public static final int Widget_Compat_NotificationActionContainer=0x7f130244;
+    public static final int Widget_Compat_NotificationActionText=0x7f130245;
+    public static final int Widget_Design_AppBarLayout=0x7f130246;
+    public static final int Widget_Design_BottomNavigationView=0x7f130247;
+    public static final int Widget_Design_BottomSheet_Modal=0x7f130248;
+    public static final int Widget_Design_CollapsingToolbar=0x7f130249;
+    public static final int Widget_Design_FloatingActionButton=0x7f13024a;
+    public static final int Widget_Design_NavigationView=0x7f13024b;
+    public static final int Widget_Design_ScrimInsetsFrameLayout=0x7f13024c;
+    public static final int Widget_Design_Snackbar=0x7f13024d;
+    public static final int Widget_Design_TabLayout=0x7f13024e;
+    public static final int Widget_Design_TextInputLayout=0x7f13024f;
+    public static final int Widget_MaterialComponents_ActionBar_Primary=0x7f130250;
+    public static final int Widget_MaterialComponents_ActionBar_PrimarySurface=0x7f130251;
+    public static final int Widget_MaterialComponents_ActionBar_Solid=0x7f130252;
+    public static final int Widget_MaterialComponents_ActionBar_Surface=0x7f130253;
+    public static final int Widget_MaterialComponents_AppBarLayout_Primary=0x7f130254;
+    public static final int Widget_MaterialComponents_AppBarLayout_PrimarySurface=0x7f130255;
+    public static final int Widget_MaterialComponents_AppBarLayout_Surface=0x7f130256;
+    public static final int Widget_MaterialComponents_AutoCompleteTextView_FilledBox=0x7f130257;
+    public static final int Widget_MaterialComponents_AutoCompleteTextView_FilledBox_Dense=0x7f130258;
+    public static final int Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox=0x7f130259;
+    public static final int Widget_MaterialComponents_AutoCompleteTextView_OutlinedBox_Dense=0x7f13025a;
+    public static final int Widget_MaterialComponents_Badge=0x7f13025b;
+    public static final int Widget_MaterialComponents_BottomAppBar=0x7f13025c;
+    public static final int Widget_MaterialComponents_BottomAppBar_Colored=0x7f13025d;
+    public static final int Widget_MaterialComponents_BottomAppBar_PrimarySurface=0x7f13025e;
+    public static final int Widget_MaterialComponents_BottomNavigationView=0x7f13025f;
+    public static final int Widget_MaterialComponents_BottomNavigationView_Colored=0x7f130260;
+    public static final int Widget_MaterialComponents_BottomNavigationView_PrimarySurface=0x7f130261;
+    public static final int Widget_MaterialComponents_BottomSheet=0x7f130262;
+    public static final int Widget_MaterialComponents_BottomSheet_Modal=0x7f130263;
+    public static final int Widget_MaterialComponents_Button=0x7f130264;
+    public static final int Widget_MaterialComponents_Button_Icon=0x7f130265;
+    public static final int Widget_MaterialComponents_Button_OutlinedButton=0x7f130266;
+    public static final int Widget_MaterialComponents_Button_OutlinedButton_Icon=0x7f130267;
+    public static final int Widget_MaterialComponents_Button_TextButton=0x7f130268;
+    public static final int Widget_MaterialComponents_Button_TextButton_Dialog=0x7f130269;
+    public static final int Widget_MaterialComponents_Button_TextButton_Dialog_Flush=0x7f13026a;
+    public static final int Widget_MaterialComponents_Button_TextButton_Dialog_Icon=0x7f13026b;
+    public static final int Widget_MaterialComponents_Button_TextButton_Icon=0x7f13026c;
+    public static final int Widget_MaterialComponents_Button_TextButton_Snackbar=0x7f13026d;
+    public static final int Widget_MaterialComponents_Button_UnelevatedButton=0x7f13026e;
+    public static final int Widget_MaterialComponents_Button_UnelevatedButton_Icon=0x7f13026f;
+    public static final int Widget_MaterialComponents_CardView=0x7f130270;
+    public static final int Widget_MaterialComponents_CheckedTextView=0x7f130271;
+    public static final int Widget_MaterialComponents_Chip_Action=0x7f130272;
+    public static final int Widget_MaterialComponents_Chip_Choice=0x7f130273;
+    public static final int Widget_MaterialComponents_Chip_Entry=0x7f130274;
+    public static final int Widget_MaterialComponents_Chip_Filter=0x7f130275;
+    public static final int Widget_MaterialComponents_ChipGroup=0x7f130276;
+    public static final int Widget_MaterialComponents_CompoundButton_CheckBox=0x7f130277;
+    public static final int Widget_MaterialComponents_CompoundButton_RadioButton=0x7f130278;
+    public static final int Widget_MaterialComponents_CompoundButton_Switch=0x7f130279;
+    public static final int Widget_MaterialComponents_ExtendedFloatingActionButton=0x7f13027a;
+    public static final int Widget_MaterialComponents_ExtendedFloatingActionButton_Icon=0x7f13027b;
+    public static final int Widget_MaterialComponents_FloatingActionButton=0x7f13027c;
+    public static final int Widget_MaterialComponents_Light_ActionBar_Solid=0x7f13027d;
+    public static final int Widget_MaterialComponents_MaterialButtonToggleGroup=0x7f13027e;
+    public static final int Widget_MaterialComponents_MaterialCalendar=0x7f13027f;
+    public static final int Widget_MaterialComponents_MaterialCalendar_Day=0x7f130280;
+    public static final int Widget_MaterialComponents_MaterialCalendar_Day_Invalid=0x7f130281;
+    public static final int Widget_MaterialComponents_MaterialCalendar_Day_Selected=0x7f130282;
+    public static final int Widget_MaterialComponents_MaterialCalendar_Day_Today=0x7f130283;
+    public static final int Widget_MaterialComponents_MaterialCalendar_DayTextView=0x7f130284;
+    public static final int Widget_MaterialComponents_MaterialCalendar_Fullscreen=0x7f130285;
+    public static final int Widget_MaterialComponents_MaterialCalendar_HeaderConfirmButton=0x7f130286;
+    public static final int Widget_MaterialComponents_MaterialCalendar_HeaderDivider=0x7f130287;
+    public static final int Widget_MaterialComponents_MaterialCalendar_HeaderLayout=0x7f130288;
+    public static final int Widget_MaterialComponents_MaterialCalendar_HeaderSelection=0x7f130289;
+    public static final int Widget_MaterialComponents_MaterialCalendar_HeaderSelection_Fullscreen=0x7f13028a;
+    public static final int Widget_MaterialComponents_MaterialCalendar_HeaderTitle=0x7f13028b;
+    public static final int Widget_MaterialComponents_MaterialCalendar_HeaderToggleButton=0x7f13028c;
+    public static final int Widget_MaterialComponents_MaterialCalendar_Item=0x7f13028d;
+    public static final int Widget_MaterialComponents_MaterialCalendar_Year=0x7f13028e;
+    public static final int Widget_MaterialComponents_MaterialCalendar_Year_Selected=0x7f13028f;
+    public static final int Widget_MaterialComponents_MaterialCalendar_Year_Today=0x7f130290;
+    public static final int Widget_MaterialComponents_NavigationView=0x7f130291;
+    public static final int Widget_MaterialComponents_PopupMenu=0x7f130292;
+    public static final int Widget_MaterialComponents_PopupMenu_ContextMenu=0x7f130293;
+    public static final int Widget_MaterialComponents_PopupMenu_ListPopupWindow=0x7f130294;
+    public static final int Widget_MaterialComponents_PopupMenu_Overflow=0x7f130295;
+    public static final int Widget_MaterialComponents_Snackbar=0x7f130296;
+    public static final int Widget_MaterialComponents_Snackbar_FullWidth=0x7f130297;
+    public static final int Widget_MaterialComponents_TabLayout=0x7f130298;
+    public static final int Widget_MaterialComponents_TabLayout_Colored=0x7f130299;
+    public static final int Widget_MaterialComponents_TabLayout_PrimarySurface=0x7f13029a;
+    public static final int Widget_MaterialComponents_TextInputEditText_FilledBox=0x7f13029b;
+    public static final int Widget_MaterialComponents_TextInputEditText_FilledBox_Dense=0x7f13029c;
+    public static final int Widget_MaterialComponents_TextInputEditText_OutlinedBox=0x7f13029d;
+    public static final int Widget_MaterialComponents_TextInputEditText_OutlinedBox_Dense=0x7f13029e;
+    public static final int Widget_MaterialComponents_TextInputLayout_FilledBox=0x7f13029f;
+    public static final int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense=0x7f1302a0;
+    public static final int Widget_MaterialComponents_TextInputLayout_FilledBox_Dense_ExposedDropdownMenu=0x7f1302a1;
+    public static final int Widget_MaterialComponents_TextInputLayout_FilledBox_ExposedDropdownMenu=0x7f1302a2;
+    public static final int Widget_MaterialComponents_TextInputLayout_OutlinedBox=0x7f1302a3;
+    public static final int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense=0x7f1302a4;
+    public static final int Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense_ExposedDropdownMenu=0x7f1302a5;
+    public static final int Widget_MaterialComponents_TextInputLayout_OutlinedBox_ExposedDropdownMenu=0x7f1302a6;
+    public static final int Widget_MaterialComponents_TextView=0x7f1302a7;
+    public static final int Widget_MaterialComponents_Toolbar=0x7f1302a8;
+    public static final int Widget_MaterialComponents_Toolbar_Primary=0x7f1302a9;
+    public static final int Widget_MaterialComponents_Toolbar_PrimarySurface=0x7f1302aa;
+    public static final int Widget_MaterialComponents_Toolbar_Surface=0x7f1302ab;
+    public static final int Widget_Support_CoordinatorLayout=0x7f1302ac;
+    public static final int buttonStyle=0x7f1302ad;
+    public static final int editTextStyle=0x7f1302ae;
+    public static final int layoutETStyle=0x7f1302af;
   }
   public static final class styleable {
     /**
@@ -10080,39 +10162,39 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.rapidzz.Kidcap:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.rapidzz.Kidcap:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.rapidzz.Kidcap:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.rapidzz.Kidcap:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.rapidzz.Kidcap:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #ActionBar_background com.rapidzz.kidcap:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.rapidzz.kidcap:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.rapidzz.kidcap:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.rapidzz.kidcap:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.rapidzz.kidcap:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.rapidzz.Kidcap:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.rapidzz.Kidcap:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.rapidzz.Kidcap:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.rapidzz.Kidcap:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.rapidzz.kidcap:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.rapidzz.kidcap:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.rapidzz.kidcap:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.rapidzz.kidcap:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.rapidzz.Kidcap:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.rapidzz.Kidcap:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.rapidzz.Kidcap:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.rapidzz.Kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.rapidzz.Kidcap:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.rapidzz.Kidcap:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.rapidzz.Kidcap:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.rapidzz.Kidcap:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.rapidzz.Kidcap:icon}</code></td><td>Icon drawable to display at the start of this view.</td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.rapidzz.Kidcap:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.rapidzz.Kidcap:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.rapidzz.kidcap:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.rapidzz.kidcap:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.rapidzz.kidcap:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.rapidzz.kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.rapidzz.kidcap:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.rapidzz.kidcap:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.rapidzz.kidcap:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.rapidzz.kidcap:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.rapidzz.kidcap:icon}</code></td><td>Icon drawable to display at the start of this view.</td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.rapidzz.kidcap:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.rapidzz.kidcap:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
      * system-provided items in the bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.rapidzz.Kidcap:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.rapidzz.Kidcap:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.rapidzz.Kidcap:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #ActionBar_logo com.rapidzz.kidcap:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.rapidzz.kidcap:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.rapidzz.kidcap:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.rapidzz.Kidcap:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.rapidzz.Kidcap:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.rapidzz.Kidcap:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.rapidzz.Kidcap:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.rapidzz.Kidcap:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.rapidzz.Kidcap:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.rapidzz.kidcap:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.rapidzz.kidcap:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.rapidzz.kidcap:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.rapidzz.kidcap:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.rapidzz.kidcap:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.rapidzz.kidcap:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -10164,7 +10246,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:background
+     * @attr name com.rapidzz.kidcap:background
      */
     public static final int ActionBar_background=0;
     /**
@@ -10180,7 +10262,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:backgroundSplit
+     * @attr name com.rapidzz.kidcap:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
@@ -10196,7 +10278,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:backgroundStacked
+     * @attr name com.rapidzz.kidcap:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
@@ -10211,7 +10293,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentInsetEnd
+     * @attr name com.rapidzz.kidcap:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
@@ -10226,7 +10308,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentInsetEndWithActions
+     * @attr name com.rapidzz.kidcap:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
@@ -10241,7 +10323,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentInsetLeft
+     * @attr name com.rapidzz.kidcap:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
@@ -10256,7 +10338,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentInsetRight
+     * @attr name com.rapidzz.kidcap:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
@@ -10271,7 +10353,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentInsetStart
+     * @attr name com.rapidzz.kidcap:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
@@ -10286,7 +10368,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentInsetStartWithNavigation
+     * @attr name com.rapidzz.kidcap:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
@@ -10299,7 +10381,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:customNavigationLayout
+     * @attr name com.rapidzz.kidcap:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
@@ -10322,7 +10404,7 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:displayOptions
+     * @attr name com.rapidzz.kidcap:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
@@ -10335,7 +10417,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:divider
+     * @attr name com.rapidzz.kidcap:divider
      */
     public static final int ActionBar_divider=11;
     /**
@@ -10349,7 +10431,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:elevation
+     * @attr name com.rapidzz.kidcap:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
@@ -10363,7 +10445,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:height
+     * @attr name com.rapidzz.kidcap:height
      */
     public static final int ActionBar_height=13;
     /**
@@ -10374,7 +10456,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:hideOnContentScroll
+     * @attr name com.rapidzz.kidcap:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
@@ -10387,7 +10469,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:homeAsUpIndicator
+     * @attr name com.rapidzz.kidcap:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
@@ -10400,7 +10482,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:homeLayout
+     * @attr name com.rapidzz.kidcap:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
@@ -10413,7 +10495,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:icon
+     * @attr name com.rapidzz.kidcap:icon
      */
     public static final int ActionBar_icon=17;
     /**
@@ -10426,7 +10508,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:indeterminateProgressStyle
+     * @attr name com.rapidzz.kidcap:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
@@ -10441,7 +10523,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:itemPadding
+     * @attr name com.rapidzz.kidcap:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
@@ -10454,7 +10536,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:logo
+     * @attr name com.rapidzz.kidcap:logo
      */
     public static final int ActionBar_logo=20;
     /**
@@ -10473,7 +10555,7 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td>The action bar will use a series of horizontal tabs for navigation.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:navigationMode
+     * @attr name com.rapidzz.kidcap:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
@@ -10487,7 +10569,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:popupTheme
+     * @attr name com.rapidzz.kidcap:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
@@ -10501,7 +10583,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:progressBarPadding
+     * @attr name com.rapidzz.kidcap:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
@@ -10514,7 +10596,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:progressBarStyle
+     * @attr name com.rapidzz.kidcap:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
@@ -10525,7 +10607,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:subtitle
+     * @attr name com.rapidzz.kidcap:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
@@ -10538,7 +10620,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:subtitleTextStyle
+     * @attr name com.rapidzz.kidcap:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
@@ -10549,7 +10631,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:title
+     * @attr name com.rapidzz.kidcap:title
      */
     public static final int ActionBar_title=27;
     /**
@@ -10562,7 +10644,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:titleTextStyle
+     * @attr name com.rapidzz.kidcap:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -10644,12 +10726,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.rapidzz.Kidcap:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.rapidzz.Kidcap:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.rapidzz.Kidcap:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.rapidzz.Kidcap:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.rapidzz.Kidcap:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.rapidzz.Kidcap:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.rapidzz.kidcap:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.rapidzz.kidcap:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.rapidzz.kidcap:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.rapidzz.kidcap:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.rapidzz.kidcap:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.rapidzz.kidcap:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -10672,7 +10754,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:background
+     * @attr name com.rapidzz.kidcap:background
      */
     public static final int ActionMode_background=0;
     /**
@@ -10688,7 +10770,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:backgroundSplit
+     * @attr name com.rapidzz.kidcap:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
@@ -10701,7 +10783,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:closeItemLayout
+     * @attr name com.rapidzz.kidcap:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
@@ -10715,7 +10797,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:height
+     * @attr name com.rapidzz.kidcap:height
      */
     public static final int ActionMode_height=3;
     /**
@@ -10728,7 +10810,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:subtitleTextStyle
+     * @attr name com.rapidzz.kidcap:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
@@ -10741,7 +10823,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:titleTextStyle
+     * @attr name com.rapidzz.kidcap:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -10751,8 +10833,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.rapidzz.Kidcap:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.rapidzz.Kidcap:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.rapidzz.kidcap:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.rapidzz.kidcap:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -10774,7 +10856,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:expandActivityOverflowButtonDrawable
+     * @attr name com.rapidzz.kidcap:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
@@ -10785,7 +10867,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:initialActivityCount
+     * @attr name com.rapidzz.kidcap:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -10796,10 +10878,10 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ActivityNavigator_android_name android:name}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityNavigator_action com.rapidzz.Kidcap:action}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityNavigator_data com.rapidzz.Kidcap:data}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityNavigator_dataPattern com.rapidzz.Kidcap:dataPattern}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityNavigator_targetPackage com.rapidzz.Kidcap:targetPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityNavigator_action com.rapidzz.kidcap:action}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityNavigator_data com.rapidzz.kidcap:data}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityNavigator_dataPattern com.rapidzz.kidcap:dataPattern}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityNavigator_targetPackage com.rapidzz.kidcap:targetPackage}</code></td><td></td></tr>
      * </table>
      * @see #ActivityNavigator_android_name
      * @see #ActivityNavigator_action
@@ -10822,43 +10904,43 @@ public final class R {
      */
     public static final int ActivityNavigator_android_name=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#action}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#action}
      * attribute's value can be found in the {@link #ActivityNavigator} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:action
+     * @attr name com.rapidzz.kidcap:action
      */
     public static final int ActivityNavigator_action=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#data}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#data}
      * attribute's value can be found in the {@link #ActivityNavigator} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:data
+     * @attr name com.rapidzz.kidcap:data
      */
     public static final int ActivityNavigator_data=2;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#dataPattern}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#dataPattern}
      * attribute's value can be found in the {@link #ActivityNavigator} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:dataPattern
+     * @attr name com.rapidzz.kidcap:dataPattern
      */
     public static final int ActivityNavigator_dataPattern=3;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#targetPackage}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#targetPackage}
      * attribute's value can be found in the {@link #ActivityNavigator} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:targetPackage
+     * @attr name com.rapidzz.kidcap:targetPackage
      */
     public static final int ActivityNavigator_targetPackage=4;
     /**
@@ -10869,13 +10951,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.rapidzz.Kidcap:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.rapidzz.Kidcap:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.rapidzz.Kidcap:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.rapidzz.Kidcap:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.rapidzz.Kidcap:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.rapidzz.Kidcap:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.rapidzz.Kidcap:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.rapidzz.kidcap:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.rapidzz.kidcap:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.rapidzz.kidcap:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.rapidzz.kidcap:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.rapidzz.kidcap:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.rapidzz.kidcap:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.rapidzz.kidcap:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -10903,7 +10985,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10912,11 +10994,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:buttonIconDimen
+     * @attr name com.rapidzz.kidcap:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10924,11 +11006,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:buttonPanelSideLayout
+     * @attr name com.rapidzz.kidcap:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10936,11 +11018,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:listItemLayout
+     * @attr name com.rapidzz.kidcap:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10948,11 +11030,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:listLayout
+     * @attr name com.rapidzz.kidcap:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10960,21 +11042,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:multiChoiceItemLayout
+     * @attr name com.rapidzz.kidcap:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:showTitle
+     * @attr name com.rapidzz.kidcap:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10982,7 +11064,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:singleChoiceItemLayout
+     * @attr name com.rapidzz.kidcap:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -11208,12 +11290,12 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation com.rapidzz.Kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded com.rapidzz.Kidcap:expanded}</code></td><td>The initial expanded state for the AppBarLayout.</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.rapidzz.Kidcap:liftOnScroll}</code></td><td>Whether the {@link AppBarLayout} should lift on scroll.</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_liftOnScrollTargetViewId com.rapidzz.Kidcap:liftOnScrollTargetViewId}</code></td><td>The id of the view that the {@link AppBarLayout} should use to determine whether
+     * <tr><td><code>{@link #AppBarLayout_elevation com.rapidzz.kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded com.rapidzz.kidcap:expanded}</code></td><td>The initial expanded state for the AppBarLayout.</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.rapidzz.kidcap:liftOnScroll}</code></td><td>Whether the {@link AppBarLayout} should lift on scroll.</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_liftOnScrollTargetViewId com.rapidzz.kidcap:liftOnScrollTargetViewId}</code></td><td>The id of the view that the {@link AppBarLayout} should use to determine whether
      * it should be lifted (i.e., only if {@link R.attr#liftOnScroll} is set to true).</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_statusBarForeground com.rapidzz.Kidcap:statusBarForeground}</code></td><td>The drawable to display in front of the layout's content, but behind the status bar.</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_statusBarForeground com.rapidzz.kidcap:statusBarForeground}</code></td><td>The drawable to display in front of the layout's content, but behind the status bar.</td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -11274,7 +11356,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:elevation
+     * @attr name com.rapidzz.kidcap:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
@@ -11286,7 +11368,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:expanded
+     * @attr name com.rapidzz.kidcap:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
@@ -11302,7 +11384,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:liftOnScroll
+     * @attr name com.rapidzz.kidcap:liftOnScroll
      */
     public static final int AppBarLayout_liftOnScroll=5;
     /**
@@ -11318,7 +11400,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:liftOnScrollTargetViewId
+     * @attr name com.rapidzz.kidcap:liftOnScrollTargetViewId
      */
     public static final int AppBarLayout_liftOnScrollTargetViewId=6;
     /**
@@ -11331,7 +11413,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:statusBarForeground
+     * @attr name com.rapidzz.kidcap:statusBarForeground
      */
     public static final int AppBarLayout_statusBarForeground=7;
     /**
@@ -11341,11 +11423,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.rapidzz.Kidcap:state_collapsed}</code></td><td>@deprecated in favor of {@link R.attr#state_lifted}.</td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.rapidzz.Kidcap:state_collapsible}</code></td><td>@deprecated in favor of {@link R.attr#state_liftable}.</td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.rapidzz.Kidcap:state_liftable}</code></td><td>State value for {@link com.google.android.material.appbar.AppBarLayout} set when the view
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.rapidzz.kidcap:state_collapsed}</code></td><td>@deprecated in favor of {@link R.attr#state_lifted}.</td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.rapidzz.kidcap:state_collapsible}</code></td><td>@deprecated in favor of {@link R.attr#state_liftable}.</td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.rapidzz.kidcap:state_liftable}</code></td><td>State value for {@link com.google.android.material.appbar.AppBarLayout} set when the view
      * is liftable (e.g., elevates on collapse or scroll).</td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.rapidzz.Kidcap:state_lifted}</code></td><td>State value for {@link com.google.android.material.appbar.AppBarLayout} set when the view
+     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.rapidzz.kidcap:state_lifted}</code></td><td>State value for {@link com.google.android.material.appbar.AppBarLayout} set when the view
      * is lifted (elevated).</td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
@@ -11365,7 +11447,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:state_collapsed
+     * @attr name com.rapidzz.kidcap:state_collapsed
      */
     @Deprecated
     public static final int AppBarLayoutStates_state_collapsed=0;
@@ -11377,7 +11459,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:state_collapsible
+     * @attr name com.rapidzz.kidcap:state_collapsible
      */
     @Deprecated
     public static final int AppBarLayoutStates_state_collapsible=1;
@@ -11390,7 +11472,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:state_liftable
+     * @attr name com.rapidzz.kidcap:state_liftable
      */
     public static final int AppBarLayoutStates_state_liftable=2;
     /**
@@ -11402,7 +11484,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:state_lifted
+     * @attr name com.rapidzz.kidcap:state_lifted
      */
     public static final int AppBarLayoutStates_state_lifted=3;
     /**
@@ -11412,8 +11494,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.rapidzz.Kidcap:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.rapidzz.Kidcap:layout_scrollInterpolator}</code></td><td>An interpolator to use when scrolling this View.</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.rapidzz.kidcap:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.rapidzz.kidcap:layout_scrollInterpolator}</code></td><td>An interpolator to use when scrolling this View.</td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -11422,7 +11504,7 @@ public final class R {
       0x7f030203, 0x7f030204
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11451,7 +11533,7 @@ public final class R {
      * top and bottom margins, as opposed to the edges of the view itself.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_scrollFlags
+     * @attr name com.rapidzz.kidcap:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
@@ -11465,7 +11547,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_scrollInterpolator
+     * @attr name com.rapidzz.kidcap:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -11476,9 +11558,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.rapidzz.Kidcap:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.rapidzz.Kidcap:tint}</code></td><td>Tint to apply to the image source.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.rapidzz.Kidcap:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.rapidzz.kidcap:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.rapidzz.kidcap:tint}</code></td><td>Tint to apply to the image source.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.rapidzz.kidcap:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -11514,7 +11596,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:srcCompat
+     * @attr name com.rapidzz.kidcap:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
@@ -11526,7 +11608,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:tint
+     * @attr name com.rapidzz.kidcap:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
@@ -11553,7 +11635,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:tintMode
+     * @attr name com.rapidzz.kidcap:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -11564,9 +11646,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.rapidzz.Kidcap:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.rapidzz.Kidcap:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.rapidzz.Kidcap:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.rapidzz.kidcap:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.rapidzz.kidcap:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.rapidzz.kidcap:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -11598,7 +11680,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:tickMark
+     * @attr name com.rapidzz.kidcap:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
@@ -11610,7 +11692,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:tickMarkTint
+     * @attr name com.rapidzz.kidcap:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
@@ -11637,7 +11719,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:tickMarkTintMode
+     * @attr name com.rapidzz.kidcap:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -11777,29 +11859,29 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.rapidzz.Kidcap:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.rapidzz.Kidcap:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.rapidzz.Kidcap:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.rapidzz.kidcap:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.rapidzz.kidcap:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.rapidzz.kidcap:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
      * <code>autoSizeTextType</code> set to <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.rapidzz.Kidcap:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.rapidzz.kidcap:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
      * <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.rapidzz.Kidcap:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableBottomCompat com.rapidzz.Kidcap:drawableBottomCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableEndCompat com.rapidzz.Kidcap:drawableEndCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableLeftCompat com.rapidzz.Kidcap:drawableLeftCompat}</code></td><td>Compound drawables allowing the use of vector drawable when running on older versions
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.rapidzz.kidcap:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableBottomCompat com.rapidzz.kidcap:drawableBottomCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableEndCompat com.rapidzz.kidcap:drawableEndCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableLeftCompat com.rapidzz.kidcap:drawableLeftCompat}</code></td><td>Compound drawables allowing the use of vector drawable when running on older versions
      * of the platform.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableRightCompat com.rapidzz.Kidcap:drawableRightCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableStartCompat com.rapidzz.Kidcap:drawableStartCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableTint com.rapidzz.Kidcap:drawableTint}</code></td><td>Tint to apply to the compound (left, top, etc.) drawables.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableTintMode com.rapidzz.Kidcap:drawableTintMode}</code></td><td>Blending mode used to apply the compound (left, top, etc.) drawables tint.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_drawableTopCompat com.rapidzz.Kidcap:drawableTopCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.rapidzz.Kidcap:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.rapidzz.Kidcap:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontVariationSettings com.rapidzz.Kidcap:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.rapidzz.Kidcap:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.rapidzz.Kidcap:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.rapidzz.Kidcap:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textLocale com.rapidzz.Kidcap:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
+     * <tr><td><code>{@link #AppCompatTextView_drawableRightCompat com.rapidzz.kidcap:drawableRightCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableStartCompat com.rapidzz.kidcap:drawableStartCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableTint com.rapidzz.kidcap:drawableTint}</code></td><td>Tint to apply to the compound (left, top, etc.) drawables.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableTintMode com.rapidzz.kidcap:drawableTintMode}</code></td><td>Blending mode used to apply the compound (left, top, etc.) drawables tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_drawableTopCompat com.rapidzz.kidcap:drawableTopCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.rapidzz.kidcap:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.rapidzz.kidcap:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontVariationSettings com.rapidzz.kidcap:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.rapidzz.kidcap:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.rapidzz.kidcap:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.rapidzz.kidcap:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textLocale com.rapidzz.kidcap:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
      * for example "ja-JP,zh-CN".</td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
@@ -11855,7 +11937,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:autoSizeMaxTextSize
+     * @attr name com.rapidzz.kidcap:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
@@ -11869,7 +11951,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:autoSizeMinTextSize
+     * @attr name com.rapidzz.kidcap:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
@@ -11884,7 +11966,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:autoSizePresetSizes
+     * @attr name com.rapidzz.kidcap:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
@@ -11900,7 +11982,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:autoSizeStepGranularity
+     * @attr name com.rapidzz.kidcap:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
@@ -11920,11 +12002,11 @@ public final class R {
      * container.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:autoSizeTextType
+     * @attr name com.rapidzz.kidcap:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#drawableBottomCompat}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#drawableBottomCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11932,11 +12014,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:drawableBottomCompat
+     * @attr name com.rapidzz.kidcap:drawableBottomCompat
      */
     public static final int AppCompatTextView_drawableBottomCompat=6;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#drawableEndCompat}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#drawableEndCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11944,7 +12026,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:drawableEndCompat
+     * @attr name com.rapidzz.kidcap:drawableEndCompat
      */
     public static final int AppCompatTextView_drawableEndCompat=7;
     /**
@@ -11958,11 +12040,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:drawableLeftCompat
+     * @attr name com.rapidzz.kidcap:drawableLeftCompat
      */
     public static final int AppCompatTextView_drawableLeftCompat=8;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#drawableRightCompat}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#drawableRightCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11970,11 +12052,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:drawableRightCompat
+     * @attr name com.rapidzz.kidcap:drawableRightCompat
      */
     public static final int AppCompatTextView_drawableRightCompat=9;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#drawableStartCompat}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#drawableStartCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11982,7 +12064,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:drawableStartCompat
+     * @attr name com.rapidzz.kidcap:drawableStartCompat
      */
     public static final int AppCompatTextView_drawableStartCompat=10;
     /**
@@ -11994,7 +12076,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:drawableTint
+     * @attr name com.rapidzz.kidcap:drawableTint
      */
     public static final int AppCompatTextView_drawableTint=11;
     /**
@@ -12021,11 +12103,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:drawableTintMode
+     * @attr name com.rapidzz.kidcap:drawableTintMode
      */
     public static final int AppCompatTextView_drawableTintMode=12;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#drawableTopCompat}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#drawableTopCompat}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12033,7 +12115,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:drawableTopCompat
+     * @attr name com.rapidzz.kidcap:drawableTopCompat
      */
     public static final int AppCompatTextView_drawableTopCompat=13;
     /**
@@ -12048,7 +12130,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:firstBaselineToTopHeight
+     * @attr name com.rapidzz.kidcap:firstBaselineToTopHeight
      */
     public static final int AppCompatTextView_firstBaselineToTopHeight=14;
     /**
@@ -12059,7 +12141,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:fontFamily
+     * @attr name com.rapidzz.kidcap:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=15;
     /**
@@ -12070,7 +12152,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:fontVariationSettings
+     * @attr name com.rapidzz.kidcap:fontVariationSettings
      */
     public static final int AppCompatTextView_fontVariationSettings=16;
     /**
@@ -12085,7 +12167,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:lastBaselineToBottomHeight
+     * @attr name com.rapidzz.kidcap:lastBaselineToBottomHeight
      */
     public static final int AppCompatTextView_lastBaselineToBottomHeight=17;
     /**
@@ -12100,7 +12182,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:lineHeight
+     * @attr name com.rapidzz.kidcap:lineHeight
      */
     public static final int AppCompatTextView_lineHeight=18;
     /**
@@ -12115,7 +12197,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:textAllCaps
+     * @attr name com.rapidzz.kidcap:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=19;
     /**
@@ -12130,7 +12212,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:textLocale
+     * @attr name com.rapidzz.kidcap:textLocale
      */
     public static final int AppCompatTextView_textLocale=20;
     /**
@@ -12142,146 +12224,146 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.rapidzz.Kidcap:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.rapidzz.Kidcap:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.rapidzz.Kidcap:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.rapidzz.kidcap:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.rapidzz.kidcap:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.rapidzz.kidcap:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.rapidzz.Kidcap:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.rapidzz.kidcap:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
      * bar used to present Action Modes.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.rapidzz.Kidcap:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.rapidzz.Kidcap:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.rapidzz.Kidcap:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.rapidzz.Kidcap:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.rapidzz.Kidcap:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.rapidzz.Kidcap:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.rapidzz.kidcap:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.rapidzz.kidcap:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.rapidzz.kidcap:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.rapidzz.kidcap:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.rapidzz.kidcap:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.rapidzz.kidcap:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
      * action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.rapidzz.Kidcap:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.rapidzz.kidcap:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
      * and layouts destined for the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.rapidzz.Kidcap:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.rapidzz.Kidcap:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.rapidzz.Kidcap:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.rapidzz.kidcap:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.rapidzz.kidcap:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.rapidzz.kidcap:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
      * appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.rapidzz.Kidcap:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.rapidzz.Kidcap:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.rapidzz.Kidcap:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.rapidzz.Kidcap:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.rapidzz.Kidcap:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.rapidzz.Kidcap:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.rapidzz.Kidcap:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.rapidzz.Kidcap:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.rapidzz.Kidcap:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.rapidzz.Kidcap:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.rapidzz.Kidcap:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.rapidzz.Kidcap:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.rapidzz.Kidcap:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.rapidzz.Kidcap:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.rapidzz.Kidcap:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.rapidzz.Kidcap:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.rapidzz.Kidcap:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.rapidzz.Kidcap:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.rapidzz.Kidcap:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.rapidzz.Kidcap:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.rapidzz.Kidcap:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.rapidzz.Kidcap:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.rapidzz.Kidcap:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.rapidzz.Kidcap:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.rapidzz.Kidcap:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.rapidzz.Kidcap:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.rapidzz.Kidcap:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.rapidzz.Kidcap:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.rapidzz.Kidcap:buttonStyle}</code></td><td>Normal Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.rapidzz.Kidcap:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.rapidzz.Kidcap:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.rapidzz.Kidcap:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.rapidzz.Kidcap:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.rapidzz.Kidcap:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.rapidzz.Kidcap:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.rapidzz.Kidcap:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.rapidzz.Kidcap:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.rapidzz.Kidcap:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.rapidzz.Kidcap:colorError}</code></td><td>Color used for error states and things that need to be drawn to
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.rapidzz.kidcap:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.rapidzz.kidcap:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.rapidzz.kidcap:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.rapidzz.kidcap:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.rapidzz.kidcap:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.rapidzz.kidcap:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.rapidzz.kidcap:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.rapidzz.kidcap:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.rapidzz.kidcap:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.rapidzz.kidcap:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.rapidzz.kidcap:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.rapidzz.kidcap:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.rapidzz.kidcap:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.rapidzz.kidcap:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.rapidzz.kidcap:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.rapidzz.kidcap:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.rapidzz.kidcap:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.rapidzz.kidcap:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.rapidzz.kidcap:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.rapidzz.kidcap:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.rapidzz.kidcap:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.rapidzz.kidcap:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.rapidzz.kidcap:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.rapidzz.kidcap:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.rapidzz.kidcap:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.rapidzz.kidcap:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.rapidzz.kidcap:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.rapidzz.kidcap:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.rapidzz.kidcap:buttonStyle}</code></td><td>Normal Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.rapidzz.kidcap:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.rapidzz.kidcap:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.rapidzz.kidcap:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.rapidzz.kidcap:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.rapidzz.kidcap:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.rapidzz.kidcap:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.rapidzz.kidcap:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.rapidzz.kidcap:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.rapidzz.kidcap:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.rapidzz.kidcap:colorError}</code></td><td>Color used for error states and things that need to be drawn to
      * the user's attention.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.rapidzz.Kidcap:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.rapidzz.Kidcap:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.rapidzz.Kidcap:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.rapidzz.Kidcap:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.rapidzz.Kidcap:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.rapidzz.Kidcap:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.rapidzz.Kidcap:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.rapidzz.Kidcap:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.rapidzz.Kidcap:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.rapidzz.Kidcap:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.rapidzz.Kidcap:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.rapidzz.Kidcap:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.rapidzz.Kidcap:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.rapidzz.Kidcap:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.rapidzz.Kidcap:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.rapidzz.Kidcap:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.rapidzz.Kidcap:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorMultipleAnimated com.rapidzz.Kidcap:listChoiceIndicatorMultipleAnimated}</code></td><td>Animated Drawable to use for single choice indicators.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorSingleAnimated com.rapidzz.Kidcap:listChoiceIndicatorSingleAnimated}</code></td><td>Animated Drawable to use for multiple choice indicators.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.rapidzz.Kidcap:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.rapidzz.Kidcap:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.rapidzz.Kidcap:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.rapidzz.Kidcap:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.rapidzz.Kidcap:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.rapidzz.Kidcap:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingEnd com.rapidzz.Kidcap:listPreferredItemPaddingEnd}</code></td><td>The preferred padding along the end edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.rapidzz.Kidcap:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.rapidzz.Kidcap:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingStart com.rapidzz.Kidcap:listPreferredItemPaddingStart}</code></td><td>The preferred padding along the start edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.rapidzz.Kidcap:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.rapidzz.Kidcap:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.rapidzz.Kidcap:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.rapidzz.Kidcap:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.rapidzz.Kidcap:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.rapidzz.Kidcap:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.rapidzz.Kidcap:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.rapidzz.Kidcap:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.rapidzz.Kidcap:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.rapidzz.Kidcap:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.rapidzz.Kidcap:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.rapidzz.Kidcap:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.rapidzz.kidcap:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.rapidzz.kidcap:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.rapidzz.kidcap:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.rapidzz.kidcap:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.rapidzz.kidcap:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.rapidzz.kidcap:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.rapidzz.kidcap:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.rapidzz.kidcap:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.rapidzz.kidcap:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.rapidzz.kidcap:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.rapidzz.kidcap:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.rapidzz.kidcap:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.rapidzz.kidcap:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.rapidzz.kidcap:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.rapidzz.kidcap:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.rapidzz.kidcap:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.rapidzz.kidcap:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorMultipleAnimated com.rapidzz.kidcap:listChoiceIndicatorMultipleAnimated}</code></td><td>Animated Drawable to use for single choice indicators.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceIndicatorSingleAnimated com.rapidzz.kidcap:listChoiceIndicatorSingleAnimated}</code></td><td>Animated Drawable to use for multiple choice indicators.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.rapidzz.kidcap:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.rapidzz.kidcap:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.rapidzz.kidcap:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.rapidzz.kidcap:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.rapidzz.kidcap:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.rapidzz.kidcap:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingEnd com.rapidzz.kidcap:listPreferredItemPaddingEnd}</code></td><td>The preferred padding along the end edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.rapidzz.kidcap:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.rapidzz.kidcap:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingStart com.rapidzz.kidcap:listPreferredItemPaddingStart}</code></td><td>The preferred padding along the start edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.rapidzz.kidcap:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.rapidzz.kidcap:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.rapidzz.kidcap:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.rapidzz.kidcap:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.rapidzz.kidcap:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.rapidzz.kidcap:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.rapidzz.kidcap:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.rapidzz.kidcap:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.rapidzz.kidcap:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.rapidzz.kidcap:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.rapidzz.kidcap:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.rapidzz.kidcap:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
      * that should react to pressed and focus states, but that do not
      * have a clear visual border along the edges.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.rapidzz.Kidcap:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.rapidzz.Kidcap:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.rapidzz.Kidcap:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.rapidzz.Kidcap:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.rapidzz.Kidcap:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.rapidzz.Kidcap:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.rapidzz.Kidcap:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.rapidzz.Kidcap:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.rapidzz.Kidcap:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.rapidzz.Kidcap:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.rapidzz.Kidcap:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.rapidzz.Kidcap:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.rapidzz.Kidcap:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.rapidzz.Kidcap:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.rapidzz.Kidcap:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.rapidzz.Kidcap:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.rapidzz.Kidcap:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.rapidzz.Kidcap:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.rapidzz.Kidcap:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.rapidzz.Kidcap:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.rapidzz.kidcap:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.rapidzz.kidcap:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.rapidzz.kidcap:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.rapidzz.kidcap:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.rapidzz.kidcap:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.rapidzz.kidcap:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.rapidzz.kidcap:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.rapidzz.kidcap:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.rapidzz.kidcap:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.rapidzz.kidcap:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.rapidzz.kidcap:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.rapidzz.kidcap:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.rapidzz.kidcap:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.rapidzz.kidcap:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.rapidzz.kidcap:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.rapidzz.kidcap:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.rapidzz.kidcap:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.rapidzz.kidcap:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.rapidzz.kidcap:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.rapidzz.kidcap:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
      * in place of the usual title bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.rapidzz.Kidcap:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.rapidzz.kidcap:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
      * application content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.rapidzz.Kidcap:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.rapidzz.kidcap:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
      * when there is not reserved space for their UI (such as an Action Bar).</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.rapidzz.Kidcap:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.rapidzz.kidcap:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.rapidzz.Kidcap:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.rapidzz.kidcap:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.rapidzz.Kidcap:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.rapidzz.kidcap:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.rapidzz.Kidcap:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.rapidzz.kidcap:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.rapidzz.Kidcap:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.rapidzz.kidcap:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.rapidzz.Kidcap:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.rapidzz.kidcap:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.rapidzz.Kidcap:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.rapidzz.kidcap:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -12475,7 +12557,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionBarDivider
+     * @attr name com.rapidzz.kidcap:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
@@ -12488,7 +12570,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionBarItemBackground
+     * @attr name com.rapidzz.kidcap:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
@@ -12502,7 +12584,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionBarPopupTheme
+     * @attr name com.rapidzz.kidcap:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
@@ -12525,7 +12607,7 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:actionBarSize
+     * @attr name com.rapidzz.kidcap:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
@@ -12541,7 +12623,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionBarSplitStyle
+     * @attr name com.rapidzz.kidcap:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
@@ -12554,11 +12636,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionBarStyle
+     * @attr name com.rapidzz.kidcap:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12566,7 +12648,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionBarTabBarStyle
+     * @attr name com.rapidzz.kidcap:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
@@ -12579,11 +12661,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionBarTabStyle
+     * @attr name com.rapidzz.kidcap:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12591,7 +12673,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionBarTabTextStyle
+     * @attr name com.rapidzz.kidcap:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
@@ -12606,7 +12688,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionBarTheme
+     * @attr name com.rapidzz.kidcap:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
@@ -12625,7 +12707,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionBarWidgetTheme
+     * @attr name com.rapidzz.kidcap:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
@@ -12638,7 +12720,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionButtonStyle
+     * @attr name com.rapidzz.kidcap:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
@@ -12651,7 +12733,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionDropDownStyle
+     * @attr name com.rapidzz.kidcap:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
@@ -12665,7 +12747,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionMenuTextAppearance
+     * @attr name com.rapidzz.kidcap:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
@@ -12681,7 +12763,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionMenuTextColor
+     * @attr name com.rapidzz.kidcap:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
@@ -12694,11 +12776,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionModeBackground
+     * @attr name com.rapidzz.kidcap:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12706,7 +12788,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionModeCloseButtonStyle
+     * @attr name com.rapidzz.kidcap:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
@@ -12719,7 +12801,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionModeCloseDrawable
+     * @attr name com.rapidzz.kidcap:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
@@ -12732,7 +12814,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionModeCopyDrawable
+     * @attr name com.rapidzz.kidcap:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
@@ -12745,7 +12827,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionModeCutDrawable
+     * @attr name com.rapidzz.kidcap:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
@@ -12758,7 +12840,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionModeFindDrawable
+     * @attr name com.rapidzz.kidcap:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
@@ -12771,7 +12853,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionModePasteDrawable
+     * @attr name com.rapidzz.kidcap:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
@@ -12784,7 +12866,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionModePopupWindowStyle
+     * @attr name com.rapidzz.kidcap:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
@@ -12797,7 +12879,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionModeSelectAllDrawable
+     * @attr name com.rapidzz.kidcap:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
@@ -12810,7 +12892,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionModeShareDrawable
+     * @attr name com.rapidzz.kidcap:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
@@ -12823,11 +12905,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionModeSplitBackground
+     * @attr name com.rapidzz.kidcap:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12835,7 +12917,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionModeStyle
+     * @attr name com.rapidzz.kidcap:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
@@ -12848,11 +12930,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionModeWebSearchDrawable
+     * @attr name com.rapidzz.kidcap:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12860,11 +12942,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionOverflowButtonStyle
+     * @attr name com.rapidzz.kidcap:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12872,7 +12954,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionOverflowMenuStyle
+     * @attr name com.rapidzz.kidcap:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
@@ -12885,11 +12967,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:activityChooserViewStyle
+     * @attr name com.rapidzz.kidcap:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12897,21 +12979,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:alertDialogButtonGroupStyle
+     * @attr name com.rapidzz.kidcap:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:alertDialogCenterButtons
+     * @attr name com.rapidzz.kidcap:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12919,7 +13001,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:alertDialogStyle
+     * @attr name com.rapidzz.kidcap:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
@@ -12932,7 +13014,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:alertDialogTheme
+     * @attr name com.rapidzz.kidcap:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -12945,7 +13027,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:autoCompleteTextViewStyle
+     * @attr name com.rapidzz.kidcap:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
@@ -12958,7 +13040,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:borderlessButtonStyle
+     * @attr name com.rapidzz.kidcap:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
@@ -12971,7 +13053,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:buttonBarButtonStyle
+     * @attr name com.rapidzz.kidcap:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
@@ -12984,7 +13066,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:buttonBarNegativeButtonStyle
+     * @attr name com.rapidzz.kidcap:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
@@ -12997,7 +13079,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:buttonBarNeutralButtonStyle
+     * @attr name com.rapidzz.kidcap:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
@@ -13010,7 +13092,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:buttonBarPositiveButtonStyle
+     * @attr name com.rapidzz.kidcap:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
@@ -13023,7 +13105,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:buttonBarStyle
+     * @attr name com.rapidzz.kidcap:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
@@ -13036,7 +13118,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:buttonStyle
+     * @attr name com.rapidzz.kidcap:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
@@ -13049,7 +13131,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:buttonStyleSmall
+     * @attr name com.rapidzz.kidcap:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
@@ -13062,7 +13144,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:checkboxStyle
+     * @attr name com.rapidzz.kidcap:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
@@ -13075,7 +13157,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:checkedTextViewStyle
+     * @attr name com.rapidzz.kidcap:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
@@ -13088,7 +13170,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:colorAccent
+     * @attr name com.rapidzz.kidcap:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
@@ -13100,7 +13182,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:colorBackgroundFloating
+     * @attr name com.rapidzz.kidcap:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
@@ -13112,7 +13194,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:colorButtonNormal
+     * @attr name com.rapidzz.kidcap:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
@@ -13124,7 +13206,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:colorControlActivated
+     * @attr name com.rapidzz.kidcap:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
@@ -13136,7 +13218,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:colorControlHighlight
+     * @attr name com.rapidzz.kidcap:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
@@ -13148,7 +13230,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:colorControlNormal
+     * @attr name com.rapidzz.kidcap:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
@@ -13165,7 +13247,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:colorError
+     * @attr name com.rapidzz.kidcap:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
@@ -13178,7 +13260,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:colorPrimary
+     * @attr name com.rapidzz.kidcap:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
@@ -13191,7 +13273,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:colorPrimaryDark
+     * @attr name com.rapidzz.kidcap:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
@@ -13203,7 +13285,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:colorSwitchThumbNormal
+     * @attr name com.rapidzz.kidcap:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
@@ -13216,7 +13298,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:controlBackground
+     * @attr name com.rapidzz.kidcap:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
@@ -13230,7 +13312,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:dialogCornerRadius
+     * @attr name com.rapidzz.kidcap:dialogCornerRadius
      */
     public static final int AppCompatTheme_dialogCornerRadius=59;
     /**
@@ -13244,7 +13326,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:dialogPreferredPadding
+     * @attr name com.rapidzz.kidcap:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=60;
     /**
@@ -13257,7 +13339,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:dialogTheme
+     * @attr name com.rapidzz.kidcap:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=61;
     /**
@@ -13270,7 +13352,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:dividerHorizontal
+     * @attr name com.rapidzz.kidcap:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=62;
     /**
@@ -13283,7 +13365,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:dividerVertical
+     * @attr name com.rapidzz.kidcap:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=63;
     /**
@@ -13296,7 +13378,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:dropDownListViewStyle
+     * @attr name com.rapidzz.kidcap:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=64;
     /**
@@ -13310,7 +13392,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:dropdownListPreferredItemHeight
+     * @attr name com.rapidzz.kidcap:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=65;
     /**
@@ -13323,7 +13405,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:editTextBackground
+     * @attr name com.rapidzz.kidcap:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=66;
     /**
@@ -13339,7 +13421,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:editTextColor
+     * @attr name com.rapidzz.kidcap:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=67;
     /**
@@ -13352,7 +13434,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:editTextStyle
+     * @attr name com.rapidzz.kidcap:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=68;
     /**
@@ -13365,7 +13447,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:homeAsUpIndicator
+     * @attr name com.rapidzz.kidcap:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=69;
     /**
@@ -13378,7 +13460,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:imageButtonStyle
+     * @attr name com.rapidzz.kidcap:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=70;
     /**
@@ -13391,7 +13473,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:listChoiceBackgroundIndicator
+     * @attr name com.rapidzz.kidcap:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=71;
     /**
@@ -13404,7 +13486,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:listChoiceIndicatorMultipleAnimated
+     * @attr name com.rapidzz.kidcap:listChoiceIndicatorMultipleAnimated
      */
     public static final int AppCompatTheme_listChoiceIndicatorMultipleAnimated=72;
     /**
@@ -13417,7 +13499,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:listChoiceIndicatorSingleAnimated
+     * @attr name com.rapidzz.kidcap:listChoiceIndicatorSingleAnimated
      */
     public static final int AppCompatTheme_listChoiceIndicatorSingleAnimated=73;
     /**
@@ -13430,7 +13512,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:listDividerAlertDialog
+     * @attr name com.rapidzz.kidcap:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=74;
     /**
@@ -13443,11 +13525,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:listMenuViewStyle
+     * @attr name com.rapidzz.kidcap:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=75;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13455,7 +13537,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:listPopupWindowStyle
+     * @attr name com.rapidzz.kidcap:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=76;
     /**
@@ -13469,7 +13551,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:listPreferredItemHeight
+     * @attr name com.rapidzz.kidcap:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=77;
     /**
@@ -13483,7 +13565,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:listPreferredItemHeightLarge
+     * @attr name com.rapidzz.kidcap:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=78;
     /**
@@ -13497,7 +13579,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:listPreferredItemHeightSmall
+     * @attr name com.rapidzz.kidcap:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=79;
     /**
@@ -13511,7 +13593,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:listPreferredItemPaddingEnd
+     * @attr name com.rapidzz.kidcap:listPreferredItemPaddingEnd
      */
     public static final int AppCompatTheme_listPreferredItemPaddingEnd=80;
     /**
@@ -13525,7 +13607,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:listPreferredItemPaddingLeft
+     * @attr name com.rapidzz.kidcap:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=81;
     /**
@@ -13539,7 +13621,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:listPreferredItemPaddingRight
+     * @attr name com.rapidzz.kidcap:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=82;
     /**
@@ -13553,7 +13635,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:listPreferredItemPaddingStart
+     * @attr name com.rapidzz.kidcap:listPreferredItemPaddingStart
      */
     public static final int AppCompatTheme_listPreferredItemPaddingStart=83;
     /**
@@ -13566,7 +13648,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:panelBackground
+     * @attr name com.rapidzz.kidcap:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=84;
     /**
@@ -13579,7 +13661,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:panelMenuListTheme
+     * @attr name com.rapidzz.kidcap:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=85;
     /**
@@ -13593,7 +13675,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:panelMenuListWidth
+     * @attr name com.rapidzz.kidcap:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=86;
     /**
@@ -13606,7 +13688,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:popupMenuStyle
+     * @attr name com.rapidzz.kidcap:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=87;
     /**
@@ -13619,7 +13701,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:popupWindowStyle
+     * @attr name com.rapidzz.kidcap:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=88;
     /**
@@ -13632,7 +13714,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:radioButtonStyle
+     * @attr name com.rapidzz.kidcap:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=89;
     /**
@@ -13645,7 +13727,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:ratingBarStyle
+     * @attr name com.rapidzz.kidcap:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=90;
     /**
@@ -13658,7 +13740,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:ratingBarStyleIndicator
+     * @attr name com.rapidzz.kidcap:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=91;
     /**
@@ -13671,7 +13753,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:ratingBarStyleSmall
+     * @attr name com.rapidzz.kidcap:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=92;
     /**
@@ -13684,7 +13766,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:searchViewStyle
+     * @attr name com.rapidzz.kidcap:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=93;
     /**
@@ -13697,7 +13779,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:seekBarStyle
+     * @attr name com.rapidzz.kidcap:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=94;
     /**
@@ -13712,7 +13794,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:selectableItemBackground
+     * @attr name com.rapidzz.kidcap:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=95;
     /**
@@ -13725,7 +13807,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:selectableItemBackgroundBorderless
+     * @attr name com.rapidzz.kidcap:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=96;
     /**
@@ -13738,7 +13820,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:spinnerDropDownItemStyle
+     * @attr name com.rapidzz.kidcap:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=97;
     /**
@@ -13751,7 +13833,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:spinnerStyle
+     * @attr name com.rapidzz.kidcap:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=98;
     /**
@@ -13764,7 +13846,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:switchStyle
+     * @attr name com.rapidzz.kidcap:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=99;
     /**
@@ -13777,7 +13859,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:textAppearanceLargePopupMenu
+     * @attr name com.rapidzz.kidcap:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=100;
     /**
@@ -13790,7 +13872,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:textAppearanceListItem
+     * @attr name com.rapidzz.kidcap:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=101;
     /**
@@ -13803,7 +13885,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:textAppearanceListItemSecondary
+     * @attr name com.rapidzz.kidcap:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=102;
     /**
@@ -13816,7 +13898,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:textAppearanceListItemSmall
+     * @attr name com.rapidzz.kidcap:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=103;
     /**
@@ -13829,7 +13911,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:textAppearancePopupMenuHeader
+     * @attr name com.rapidzz.kidcap:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=104;
     /**
@@ -13842,7 +13924,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:textAppearanceSearchResultSubtitle
+     * @attr name com.rapidzz.kidcap:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=105;
     /**
@@ -13855,7 +13937,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:textAppearanceSearchResultTitle
+     * @attr name com.rapidzz.kidcap:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=106;
     /**
@@ -13868,7 +13950,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:textAppearanceSmallPopupMenu
+     * @attr name com.rapidzz.kidcap:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=107;
     /**
@@ -13884,7 +13966,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:textColorAlertDialogListItem
+     * @attr name com.rapidzz.kidcap:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=108;
     /**
@@ -13900,7 +13982,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:textColorSearchUrl
+     * @attr name com.rapidzz.kidcap:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=109;
     /**
@@ -13913,7 +13995,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:toolbarNavigationButtonStyle
+     * @attr name com.rapidzz.kidcap:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=110;
     /**
@@ -13926,7 +14008,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:toolbarStyle
+     * @attr name com.rapidzz.kidcap:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=111;
     /**
@@ -13942,7 +14024,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:tooltipForegroundColor
+     * @attr name com.rapidzz.kidcap:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=112;
     /**
@@ -13955,17 +14037,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:tooltipFrameBackground
+     * @attr name com.rapidzz.kidcap:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=113;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:viewInflaterClass
+     * @attr name com.rapidzz.kidcap:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=114;
     /**
@@ -13977,7 +14059,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:windowActionBar
+     * @attr name com.rapidzz.kidcap:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=115;
     /**
@@ -13990,7 +14072,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:windowActionBarOverlay
+     * @attr name com.rapidzz.kidcap:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=116;
     /**
@@ -14002,7 +14084,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:windowActionModeOverlay
+     * @attr name com.rapidzz.kidcap:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=117;
     /**
@@ -14022,7 +14104,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.rapidzz.Kidcap:windowFixedHeightMajor
+     * @attr name com.rapidzz.kidcap:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=118;
     /**
@@ -14042,7 +14124,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.rapidzz.Kidcap:windowFixedHeightMinor
+     * @attr name com.rapidzz.kidcap:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=119;
     /**
@@ -14062,7 +14144,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.rapidzz.Kidcap:windowFixedWidthMajor
+     * @attr name com.rapidzz.kidcap:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=120;
     /**
@@ -14082,7 +14164,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.rapidzz.Kidcap:windowFixedWidthMinor
+     * @attr name com.rapidzz.kidcap:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=121;
     /**
@@ -14103,7 +14185,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.rapidzz.Kidcap:windowMinWidthMajor
+     * @attr name com.rapidzz.kidcap:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=122;
     /**
@@ -14124,7 +14206,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.rapidzz.Kidcap:windowMinWidthMinor
+     * @attr name com.rapidzz.kidcap:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=123;
     /**
@@ -14135,7 +14217,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:windowNoTitle
+     * @attr name com.rapidzz.kidcap:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=124;
     /**
@@ -14145,11 +14227,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Badge_backgroundColor com.rapidzz.Kidcap:backgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Badge_badgeGravity com.rapidzz.Kidcap:badgeGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Badge_badgeTextColor com.rapidzz.Kidcap:badgeTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Badge_maxCharacterCount com.rapidzz.Kidcap:maxCharacterCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Badge_number com.rapidzz.Kidcap:number}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_backgroundColor com.rapidzz.kidcap:backgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_badgeGravity com.rapidzz.kidcap:badgeGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_badgeTextColor com.rapidzz.kidcap:badgeTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_maxCharacterCount com.rapidzz.kidcap:maxCharacterCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Badge_number com.rapidzz.kidcap:number}</code></td><td></td></tr>
      * </table>
      * @see #Badge_backgroundColor
      * @see #Badge_badgeGravity
@@ -14162,18 +14244,18 @@ public final class R {
       0x7f030242
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#backgroundColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#backgroundColor}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:backgroundColor
+     * @attr name com.rapidzz.kidcap:backgroundColor
      */
     public static final int Badge_backgroundColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#badgeGravity}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#badgeGravity}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14188,36 +14270,36 @@ public final class R {
      * <tr><td>TOP_START</td><td>800033</td><td>Gravity.TOP | Gravity.START</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:badgeGravity
+     * @attr name com.rapidzz.kidcap:badgeGravity
      */
     public static final int Badge_badgeGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#badgeTextColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#badgeTextColor}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:badgeTextColor
+     * @attr name com.rapidzz.kidcap:badgeTextColor
      */
     public static final int Badge_badgeTextColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#maxCharacterCount}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#maxCharacterCount}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:maxCharacterCount
+     * @attr name com.rapidzz.kidcap:maxCharacterCount
      */
     public static final int Badge_maxCharacterCount=3;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#number}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#number}
      * attribute's value can be found in the {@link #Badge} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:number
+     * @attr name com.rapidzz.kidcap:number
      */
     public static final int Badge_number=4;
     /**
@@ -14227,14 +14309,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.rapidzz.Kidcap:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_elevation com.rapidzz.Kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.rapidzz.Kidcap:fabAlignmentMode}</code></td><td>The alignment of the fab relative to the BottomAppBar.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabAnimationMode com.rapidzz.Kidcap:fabAnimationMode}</code></td><td>The animation mode that should be used when the fab animates between alignment modes.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.rapidzz.Kidcap:fabCradleMargin}</code></td><td>The margin between the semi-circular cradle for the fab and the fab.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.rapidzz.Kidcap:fabCradleRoundedCornerRadius}</code></td><td>The radius of the rounded corners on each side of the cradle.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.rapidzz.Kidcap:fabCradleVerticalOffset}</code></td><td>The vertical offset between the fab from the cradle.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.rapidzz.Kidcap:hideOnScroll}</code></td><td>Whether the BottomAppBar should hide when a NestedScrollView is scrolled.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.rapidzz.kidcap:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_elevation com.rapidzz.kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.rapidzz.kidcap:fabAlignmentMode}</code></td><td>The alignment of the fab relative to the BottomAppBar.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabAnimationMode com.rapidzz.kidcap:fabAnimationMode}</code></td><td>The animation mode that should be used when the fab animates between alignment modes.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.rapidzz.kidcap:fabCradleMargin}</code></td><td>The margin between the semi-circular cradle for the fab and the fab.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.rapidzz.kidcap:fabCradleRoundedCornerRadius}</code></td><td>The radius of the rounded corners on each side of the cradle.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.rapidzz.kidcap:fabCradleVerticalOffset}</code></td><td>The vertical offset between the fab from the cradle.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.rapidzz.kidcap:hideOnScroll}</code></td><td>Whether the BottomAppBar should hide when a NestedScrollView is scrolled.</td></tr>
      * </table>
      * @see #BottomAppBar_backgroundTint
      * @see #BottomAppBar_elevation
@@ -14258,7 +14340,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:backgroundTint
+     * @attr name com.rapidzz.kidcap:backgroundTint
      */
     public static final int BottomAppBar_backgroundTint=0;
     /**
@@ -14272,7 +14354,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:elevation
+     * @attr name com.rapidzz.kidcap:elevation
      */
     public static final int BottomAppBar_elevation=1;
     /**
@@ -14290,7 +14372,7 @@ public final class R {
      * <tr><td>end</td><td>1</td><td>Mode that aligns the fab to the end.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:fabAlignmentMode
+     * @attr name com.rapidzz.kidcap:fabAlignmentMode
      */
     public static final int BottomAppBar_fabAlignmentMode=2;
     /**
@@ -14308,7 +14390,7 @@ public final class R {
      * <tr><td>slide</td><td>1</td><td>Mode that slides the fab from one alignment mode to the next.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:fabAnimationMode
+     * @attr name com.rapidzz.kidcap:fabAnimationMode
      */
     public static final int BottomAppBar_fabAnimationMode=3;
     /**
@@ -14322,7 +14404,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:fabCradleMargin
+     * @attr name com.rapidzz.kidcap:fabCradleMargin
      */
     public static final int BottomAppBar_fabCradleMargin=4;
     /**
@@ -14336,7 +14418,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:fabCradleRoundedCornerRadius
+     * @attr name com.rapidzz.kidcap:fabCradleRoundedCornerRadius
      */
     public static final int BottomAppBar_fabCradleRoundedCornerRadius=5;
     /**
@@ -14350,7 +14432,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:fabCradleVerticalOffset
+     * @attr name com.rapidzz.kidcap:fabCradleVerticalOffset
      */
     public static final int BottomAppBar_fabCradleVerticalOffset=6;
     /**
@@ -14361,7 +14443,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:hideOnScroll
+     * @attr name com.rapidzz.kidcap:hideOnScroll
      */
     public static final int BottomAppBar_hideOnScroll=7;
     /**
@@ -14371,19 +14453,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_backgroundTint com.rapidzz.Kidcap:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation com.rapidzz.Kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.rapidzz.Kidcap:itemBackground}</code></td><td>A background drawable to use for navigation items.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.rapidzz.Kidcap:itemHorizontalTranslationEnabled}</code></td><td>Whether the items translate horizontally when in "selected" label visibility mode.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.rapidzz.Kidcap:itemIconSize}</code></td><td>The size of the icon navigation items that display an icon</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.rapidzz.Kidcap:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemRippleColor com.rapidzz.Kidcap:itemRippleColor}</code></td><td>The ColorStateList to use for a ripple background.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.rapidzz.Kidcap:itemTextAppearanceActive}</code></td><td>The text appearance to apply to the active navigation item label.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.rapidzz.Kidcap:itemTextAppearanceInactive}</code></td><td>The text appearance to apply to the inactive navigation item labels.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.rapidzz.Kidcap:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.rapidzz.Kidcap:labelVisibilityMode}</code></td><td>Whether navigation items display with a label, without a label, or with a label during
+     * <tr><td><code>{@link #BottomNavigationView_backgroundTint com.rapidzz.kidcap:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation com.rapidzz.kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.rapidzz.kidcap:itemBackground}</code></td><td>A background drawable to use for navigation items.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.rapidzz.kidcap:itemHorizontalTranslationEnabled}</code></td><td>Whether the items translate horizontally when in "selected" label visibility mode.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.rapidzz.kidcap:itemIconSize}</code></td><td>The size of the icon navigation items that display an icon</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.rapidzz.kidcap:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemRippleColor com.rapidzz.kidcap:itemRippleColor}</code></td><td>The ColorStateList to use for a ripple background.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.rapidzz.kidcap:itemTextAppearanceActive}</code></td><td>The text appearance to apply to the active navigation item label.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.rapidzz.kidcap:itemTextAppearanceInactive}</code></td><td>The text appearance to apply to the inactive navigation item labels.</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.rapidzz.kidcap:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.rapidzz.kidcap:labelVisibilityMode}</code></td><td>Whether navigation items display with a label, without a label, or with a label during
      * selected state.</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu com.rapidzz.Kidcap:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu com.rapidzz.kidcap:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
      * </table>
      * @see #BottomNavigationView_backgroundTint
      * @see #BottomNavigationView_elevation
@@ -14412,7 +14494,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:backgroundTint
+     * @attr name com.rapidzz.kidcap:backgroundTint
      */
     public static final int BottomNavigationView_backgroundTint=0;
     /**
@@ -14426,7 +14508,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:elevation
+     * @attr name com.rapidzz.kidcap:elevation
      */
     public static final int BottomNavigationView_elevation=1;
     /**
@@ -14440,7 +14522,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemBackground
+     * @attr name com.rapidzz.kidcap:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=2;
     /**
@@ -14451,7 +14533,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemHorizontalTranslationEnabled
+     * @attr name com.rapidzz.kidcap:itemHorizontalTranslationEnabled
      */
     public static final int BottomNavigationView_itemHorizontalTranslationEnabled=3;
     /**
@@ -14465,7 +14547,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:itemIconSize
+     * @attr name com.rapidzz.kidcap:itemIconSize
      */
     public static final int BottomNavigationView_itemIconSize=4;
     /**
@@ -14478,7 +14560,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemIconTint
+     * @attr name com.rapidzz.kidcap:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=5;
     /**
@@ -14492,7 +14574,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemRippleColor
+     * @attr name com.rapidzz.kidcap:itemRippleColor
      */
     public static final int BottomNavigationView_itemRippleColor=6;
     /**
@@ -14507,7 +14589,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemTextAppearanceActive
+     * @attr name com.rapidzz.kidcap:itemTextAppearanceActive
      */
     public static final int BottomNavigationView_itemTextAppearanceActive=7;
     /**
@@ -14523,7 +14605,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemTextAppearanceInactive
+     * @attr name com.rapidzz.kidcap:itemTextAppearanceInactive
      */
     public static final int BottomNavigationView_itemTextAppearanceInactive=8;
     /**
@@ -14537,7 +14619,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemTextColor
+     * @attr name com.rapidzz.kidcap:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=9;
     /**
@@ -14560,7 +14642,7 @@ public final class R {
      * <tr><td>unlabeled</td><td>2</td><td>Label is not shown on any navigation items.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:labelVisibilityMode
+     * @attr name com.rapidzz.kidcap:labelVisibilityMode
      */
     public static final int BottomNavigationView_labelVisibilityMode=10;
     /**
@@ -14574,7 +14656,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:menu
+     * @attr name com.rapidzz.kidcap:menu
      */
     public static final int BottomNavigationView_menu=11;
     /**
@@ -14585,17 +14667,17 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #BottomSheetBehavior_Layout_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_backgroundTint com.rapidzz.Kidcap:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_expandedOffset com.rapidzz.Kidcap:behavior_expandedOffset}</code></td><td>The top offset of the BottomSheet in the expanded-state when fitsToContent is false.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.rapidzz.Kidcap:behavior_fitToContents}</code></td><td>Whether height of expanded sheet wraps content or not</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_halfExpandedRatio com.rapidzz.Kidcap:behavior_halfExpandedRatio}</code></td><td>The ratio to be used to set the height of half-expanded state in proportion to parent, when
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_backgroundTint com.rapidzz.kidcap:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_expandedOffset com.rapidzz.kidcap:behavior_expandedOffset}</code></td><td>The top offset of the BottomSheet in the expanded-state when fitsToContent is false.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.rapidzz.kidcap:behavior_fitToContents}</code></td><td>Whether height of expanded sheet wraps content or not</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_halfExpandedRatio com.rapidzz.kidcap:behavior_halfExpandedRatio}</code></td><td>The ratio to be used to set the height of half-expanded state in proportion to parent, when
      * fitToContents is false.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.rapidzz.Kidcap:behavior_hideable}</code></td><td>Whether this bottom sheet can be hidden by dragging it further downwards</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.rapidzz.Kidcap:behavior_peekHeight}</code></td><td>The height of the bottom sheet when it is collapsed.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_saveFlags com.rapidzz.Kidcap:behavior_saveFlags}</code></td><td>Behavior properties will be saved and restored by evaluating each flag.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.rapidzz.Kidcap:behavior_skipCollapsed}</code></td><td>Skip the collapsed state once expanded; no effect unless it is hideable</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_shapeAppearance com.rapidzz.Kidcap:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_shapeAppearanceOverlay com.rapidzz.Kidcap:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.rapidzz.kidcap:behavior_hideable}</code></td><td>Whether this bottom sheet can be hidden by dragging it further downwards</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.rapidzz.kidcap:behavior_peekHeight}</code></td><td>The height of the bottom sheet when it is collapsed.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_saveFlags com.rapidzz.kidcap:behavior_saveFlags}</code></td><td>Behavior properties will be saved and restored by evaluating each flag.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.rapidzz.kidcap:behavior_skipCollapsed}</code></td><td>Skip the collapsed state once expanded; no effect unless it is hideable</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_shapeAppearance com.rapidzz.kidcap:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_shapeAppearanceOverlay com.rapidzz.kidcap:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_android_elevation
      * @see #BottomSheetBehavior_Layout_backgroundTint
@@ -14638,7 +14720,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:backgroundTint
+     * @attr name com.rapidzz.kidcap:backgroundTint
      */
     public static final int BottomSheetBehavior_Layout_backgroundTint=1;
     /**
@@ -14653,7 +14735,7 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:behavior_expandedOffset
+     * @attr name com.rapidzz.kidcap:behavior_expandedOffset
      */
     public static final int BottomSheetBehavior_Layout_behavior_expandedOffset=2;
     /**
@@ -14664,7 +14746,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:behavior_fitToContents
+     * @attr name com.rapidzz.kidcap:behavior_fitToContents
      */
     public static final int BottomSheetBehavior_Layout_behavior_fitToContents=3;
     /**
@@ -14681,7 +14763,7 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:behavior_halfExpandedRatio
+     * @attr name com.rapidzz.kidcap:behavior_halfExpandedRatio
      */
     public static final int BottomSheetBehavior_Layout_behavior_halfExpandedRatio=4;
     /**
@@ -14692,7 +14774,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:behavior_hideable
+     * @attr name com.rapidzz.kidcap:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=5;
     /**
@@ -14714,7 +14796,7 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td>Peek at the 16:9 ratio keyline of its parent</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:behavior_peekHeight
+     * @attr name com.rapidzz.kidcap:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=6;
     /**
@@ -14739,7 +14821,7 @@ public final class R {
      * <tr><td>skipCollapsed</td><td>8</td><td>This flag will preserve the skipCollapsed boolean value on configuration change.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:behavior_saveFlags
+     * @attr name com.rapidzz.kidcap:behavior_saveFlags
      */
     public static final int BottomSheetBehavior_Layout_behavior_saveFlags=7;
     /**
@@ -14750,7 +14832,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:behavior_skipCollapsed
+     * @attr name com.rapidzz.kidcap:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=8;
     /**
@@ -14764,7 +14846,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:shapeAppearance
+     * @attr name com.rapidzz.kidcap:shapeAppearance
      */
     public static final int BottomSheetBehavior_Layout_shapeAppearance=9;
     /**
@@ -14778,7 +14860,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:shapeAppearanceOverlay
+     * @attr name com.rapidzz.kidcap:shapeAppearanceOverlay
      */
     public static final int BottomSheetBehavior_Layout_shapeAppearanceOverlay=10;
     /**
@@ -14788,7 +14870,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.rapidzz.Kidcap:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.rapidzz.kidcap:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
      * enough space to lay them out side-by-side.</td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
@@ -14805,7 +14887,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:allowStacking
+     * @attr name com.rapidzz.kidcap:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -14817,17 +14899,17 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardBackgroundColor com.rapidzz.Kidcap:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardCornerRadius com.rapidzz.Kidcap:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardElevation com.rapidzz.Kidcap:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardMaxElevation com.rapidzz.Kidcap:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.rapidzz.Kidcap:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
-     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.rapidzz.Kidcap:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPadding com.rapidzz.Kidcap:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingBottom com.rapidzz.Kidcap:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingLeft com.rapidzz.Kidcap:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingRight com.rapidzz.Kidcap:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingTop com.rapidzz.Kidcap:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor com.rapidzz.kidcap:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius com.rapidzz.kidcap:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation com.rapidzz.kidcap:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation com.rapidzz.kidcap:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.rapidzz.kidcap:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.rapidzz.kidcap:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding com.rapidzz.kidcap:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom com.rapidzz.kidcap:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft com.rapidzz.kidcap:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight com.rapidzz.kidcap:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop com.rapidzz.kidcap:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
      * </table>
      * @see #CardView_android_minWidth
      * @see #CardView_android_minHeight
@@ -14886,7 +14968,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:cardBackgroundColor
+     * @attr name com.rapidzz.kidcap:cardBackgroundColor
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
@@ -14900,7 +14982,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:cardCornerRadius
+     * @attr name com.rapidzz.kidcap:cardCornerRadius
      */
     public static final int CardView_cardCornerRadius=3;
     /**
@@ -14914,7 +14996,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:cardElevation
+     * @attr name com.rapidzz.kidcap:cardElevation
      */
     public static final int CardView_cardElevation=4;
     /**
@@ -14928,7 +15010,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:cardMaxElevation
+     * @attr name com.rapidzz.kidcap:cardMaxElevation
      */
     public static final int CardView_cardMaxElevation=5;
     /**
@@ -14939,7 +15021,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:cardPreventCornerOverlap
+     * @attr name com.rapidzz.kidcap:cardPreventCornerOverlap
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
@@ -14950,7 +15032,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:cardUseCompatPadding
+     * @attr name com.rapidzz.kidcap:cardUseCompatPadding
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
@@ -14964,7 +15046,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentPadding
+     * @attr name com.rapidzz.kidcap:contentPadding
      */
     public static final int CardView_contentPadding=8;
     /**
@@ -14978,7 +15060,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentPaddingBottom
+     * @attr name com.rapidzz.kidcap:contentPaddingBottom
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
@@ -14992,7 +15074,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentPaddingLeft
+     * @attr name com.rapidzz.kidcap:contentPaddingLeft
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
@@ -15006,7 +15088,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentPaddingRight
+     * @attr name com.rapidzz.kidcap:contentPaddingRight
      */
     public static final int CardView_contentPaddingRight=11;
     /**
@@ -15020,7 +15102,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentPaddingTop
+     * @attr name com.rapidzz.kidcap:contentPaddingTop
      */
     public static final int CardView_contentPaddingTop=12;
     /**
@@ -15036,40 +15118,40 @@ public final class R {
      * <tr><td><code>{@link #Chip_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_text android:text}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIcon com.rapidzz.Kidcap:checkedIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconEnabled com.rapidzz.Kidcap:checkedIconEnabled}</code></td><td>Deprecated.</td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconVisible com.rapidzz.Kidcap:checkedIconVisible}</code></td><td>Whether to show the checked icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipBackgroundColor com.rapidzz.Kidcap:chipBackgroundColor}</code></td><td>Background color to apply to the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_chipCornerRadius com.rapidzz.Kidcap:chipCornerRadius}</code></td><td>Corner radius to apply to the chip's shape.</td></tr>
-     * <tr><td><code>{@link #Chip_chipEndPadding com.rapidzz.Kidcap:chipEndPadding}</code></td><td>Padding at the end of the chip, after the close icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipIcon com.rapidzz.Kidcap:chipIcon}</code></td><td>Icon drawable to display at the start of the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_chipIconEnabled com.rapidzz.Kidcap:chipIconEnabled}</code></td><td>Deprecated.</td></tr>
-     * <tr><td><code>{@link #Chip_chipIconSize com.rapidzz.Kidcap:chipIconSize}</code></td><td>Size of the chip's icon and checked icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipIconTint com.rapidzz.Kidcap:chipIconTint}</code></td><td>Tint to apply to the chip icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipIconVisible com.rapidzz.Kidcap:chipIconVisible}</code></td><td>Whether to show the chip icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipMinHeight com.rapidzz.Kidcap:chipMinHeight}</code></td><td>Min height to apply to the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_chipMinTouchTargetSize com.rapidzz.Kidcap:chipMinTouchTargetSize}</code></td><td>Minimum size of chip's touch target, by default, Android recommended 48dp.</td></tr>
-     * <tr><td><code>{@link #Chip_chipStartPadding com.rapidzz.Kidcap:chipStartPadding}</code></td><td>Padding at the start of the chip, before the icon.</td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeColor com.rapidzz.Kidcap:chipStrokeColor}</code></td><td>Stroke color to apply to the chip's outline.</td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeWidth com.rapidzz.Kidcap:chipStrokeWidth}</code></td><td>Stroke width to apply to the chip's outline.</td></tr>
-     * <tr><td><code>{@link #Chip_chipSurfaceColor com.rapidzz.Kidcap:chipSurfaceColor}</code></td><td>Surface layer color to apply to the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIcon com.rapidzz.Kidcap:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEnabled com.rapidzz.Kidcap:closeIconEnabled}</code></td><td>Deprecated.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEndPadding com.rapidzz.Kidcap:closeIconEndPadding}</code></td><td>Padding at the end of the close icon, before the end of the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconSize com.rapidzz.Kidcap:closeIconSize}</code></td><td>Size of the chip's close icon.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconStartPadding com.rapidzz.Kidcap:closeIconStartPadding}</code></td><td>Padding at the start of the close icon, after the text.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconTint com.rapidzz.Kidcap:closeIconTint}</code></td><td>Tint to apply to the chip's close icon.</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconVisible com.rapidzz.Kidcap:closeIconVisible}</code></td><td>Whether to show the close icon.</td></tr>
-     * <tr><td><code>{@link #Chip_ensureMinTouchTargetSize com.rapidzz.Kidcap:ensureMinTouchTargetSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_hideMotionSpec com.rapidzz.Kidcap:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconEndPadding com.rapidzz.Kidcap:iconEndPadding}</code></td><td>Padding at the end of the icon, before the text.</td></tr>
-     * <tr><td><code>{@link #Chip_iconStartPadding com.rapidzz.Kidcap:iconStartPadding}</code></td><td>Padding at the start of the icon, after the start of the chip.</td></tr>
-     * <tr><td><code>{@link #Chip_rippleColor com.rapidzz.Kidcap:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_shapeAppearance com.rapidzz.Kidcap:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #Chip_shapeAppearanceOverlay com.rapidzz.Kidcap:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #Chip_showMotionSpec com.rapidzz.Kidcap:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textEndPadding com.rapidzz.Kidcap:textEndPadding}</code></td><td>Padding at the end of the text, before the close icon.</td></tr>
-     * <tr><td><code>{@link #Chip_textStartPadding com.rapidzz.Kidcap:textStartPadding}</code></td><td>Padding at the start of the text, after the icon.</td></tr>
+     * <tr><td><code>{@link #Chip_checkedIcon com.rapidzz.kidcap:checkedIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconEnabled com.rapidzz.kidcap:checkedIconEnabled}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconVisible com.rapidzz.kidcap:checkedIconVisible}</code></td><td>Whether to show the checked icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipBackgroundColor com.rapidzz.kidcap:chipBackgroundColor}</code></td><td>Background color to apply to the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_chipCornerRadius com.rapidzz.kidcap:chipCornerRadius}</code></td><td>Corner radius to apply to the chip's shape.</td></tr>
+     * <tr><td><code>{@link #Chip_chipEndPadding com.rapidzz.kidcap:chipEndPadding}</code></td><td>Padding at the end of the chip, after the close icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipIcon com.rapidzz.kidcap:chipIcon}</code></td><td>Icon drawable to display at the start of the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_chipIconEnabled com.rapidzz.kidcap:chipIconEnabled}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #Chip_chipIconSize com.rapidzz.kidcap:chipIconSize}</code></td><td>Size of the chip's icon and checked icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipIconTint com.rapidzz.kidcap:chipIconTint}</code></td><td>Tint to apply to the chip icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipIconVisible com.rapidzz.kidcap:chipIconVisible}</code></td><td>Whether to show the chip icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipMinHeight com.rapidzz.kidcap:chipMinHeight}</code></td><td>Min height to apply to the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_chipMinTouchTargetSize com.rapidzz.kidcap:chipMinTouchTargetSize}</code></td><td>Minimum size of chip's touch target, by default, Android recommended 48dp.</td></tr>
+     * <tr><td><code>{@link #Chip_chipStartPadding com.rapidzz.kidcap:chipStartPadding}</code></td><td>Padding at the start of the chip, before the icon.</td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeColor com.rapidzz.kidcap:chipStrokeColor}</code></td><td>Stroke color to apply to the chip's outline.</td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeWidth com.rapidzz.kidcap:chipStrokeWidth}</code></td><td>Stroke width to apply to the chip's outline.</td></tr>
+     * <tr><td><code>{@link #Chip_chipSurfaceColor com.rapidzz.kidcap:chipSurfaceColor}</code></td><td>Surface layer color to apply to the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIcon com.rapidzz.kidcap:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEnabled com.rapidzz.kidcap:closeIconEnabled}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEndPadding com.rapidzz.kidcap:closeIconEndPadding}</code></td><td>Padding at the end of the close icon, before the end of the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconSize com.rapidzz.kidcap:closeIconSize}</code></td><td>Size of the chip's close icon.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconStartPadding com.rapidzz.kidcap:closeIconStartPadding}</code></td><td>Padding at the start of the close icon, after the text.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconTint com.rapidzz.kidcap:closeIconTint}</code></td><td>Tint to apply to the chip's close icon.</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconVisible com.rapidzz.kidcap:closeIconVisible}</code></td><td>Whether to show the close icon.</td></tr>
+     * <tr><td><code>{@link #Chip_ensureMinTouchTargetSize com.rapidzz.kidcap:ensureMinTouchTargetSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_hideMotionSpec com.rapidzz.kidcap:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconEndPadding com.rapidzz.kidcap:iconEndPadding}</code></td><td>Padding at the end of the icon, before the text.</td></tr>
+     * <tr><td><code>{@link #Chip_iconStartPadding com.rapidzz.kidcap:iconStartPadding}</code></td><td>Padding at the start of the icon, after the start of the chip.</td></tr>
+     * <tr><td><code>{@link #Chip_rippleColor com.rapidzz.kidcap:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_shapeAppearance com.rapidzz.kidcap:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #Chip_shapeAppearanceOverlay com.rapidzz.kidcap:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #Chip_showMotionSpec com.rapidzz.kidcap:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textEndPadding com.rapidzz.kidcap:textEndPadding}</code></td><td>Padding at the end of the text, before the close icon.</td></tr>
+     * <tr><td><code>{@link #Chip_textStartPadding com.rapidzz.kidcap:textStartPadding}</code></td><td>Padding at the start of the text, after the icon.</td></tr>
      * </table>
      * @see #Chip_android_textAppearance
      * @see #Chip_android_textColor
@@ -15221,7 +15303,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:checkedIcon
+     * @attr name com.rapidzz.kidcap:checkedIcon
      */
     public static final int Chip_checkedIcon=6;
     /**
@@ -15232,7 +15314,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:checkedIconEnabled
+     * @attr name com.rapidzz.kidcap:checkedIconEnabled
      */
     public static final int Chip_checkedIconEnabled=7;
     /**
@@ -15243,7 +15325,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:checkedIconVisible
+     * @attr name com.rapidzz.kidcap:checkedIconVisible
      */
     public static final int Chip_checkedIconVisible=8;
     /**
@@ -15255,7 +15337,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:chipBackgroundColor
+     * @attr name com.rapidzz.kidcap:chipBackgroundColor
      */
     public static final int Chip_chipBackgroundColor=9;
     /**
@@ -15269,7 +15351,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:chipCornerRadius
+     * @attr name com.rapidzz.kidcap:chipCornerRadius
      */
     public static final int Chip_chipCornerRadius=10;
     /**
@@ -15283,7 +15365,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:chipEndPadding
+     * @attr name com.rapidzz.kidcap:chipEndPadding
      */
     public static final int Chip_chipEndPadding=11;
     /**
@@ -15296,7 +15378,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:chipIcon
+     * @attr name com.rapidzz.kidcap:chipIcon
      */
     public static final int Chip_chipIcon=12;
     /**
@@ -15307,7 +15389,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:chipIconEnabled
+     * @attr name com.rapidzz.kidcap:chipIconEnabled
      */
     public static final int Chip_chipIconEnabled=13;
     /**
@@ -15321,7 +15403,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:chipIconSize
+     * @attr name com.rapidzz.kidcap:chipIconSize
      */
     public static final int Chip_chipIconSize=14;
     /**
@@ -15333,7 +15415,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:chipIconTint
+     * @attr name com.rapidzz.kidcap:chipIconTint
      */
     public static final int Chip_chipIconTint=15;
     /**
@@ -15344,7 +15426,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:chipIconVisible
+     * @attr name com.rapidzz.kidcap:chipIconVisible
      */
     public static final int Chip_chipIconVisible=16;
     /**
@@ -15358,7 +15440,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:chipMinHeight
+     * @attr name com.rapidzz.kidcap:chipMinHeight
      */
     public static final int Chip_chipMinHeight=17;
     /**
@@ -15372,7 +15454,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:chipMinTouchTargetSize
+     * @attr name com.rapidzz.kidcap:chipMinTouchTargetSize
      */
     public static final int Chip_chipMinTouchTargetSize=18;
     /**
@@ -15386,7 +15468,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:chipStartPadding
+     * @attr name com.rapidzz.kidcap:chipStartPadding
      */
     public static final int Chip_chipStartPadding=19;
     /**
@@ -15398,7 +15480,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:chipStrokeColor
+     * @attr name com.rapidzz.kidcap:chipStrokeColor
      */
     public static final int Chip_chipStrokeColor=20;
     /**
@@ -15412,7 +15494,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:chipStrokeWidth
+     * @attr name com.rapidzz.kidcap:chipStrokeWidth
      */
     public static final int Chip_chipStrokeWidth=21;
     /**
@@ -15424,7 +15506,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:chipSurfaceColor
+     * @attr name com.rapidzz.kidcap:chipSurfaceColor
      */
     public static final int Chip_chipSurfaceColor=22;
     /**
@@ -15437,7 +15519,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:closeIcon
+     * @attr name com.rapidzz.kidcap:closeIcon
      */
     public static final int Chip_closeIcon=23;
     /**
@@ -15448,7 +15530,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:closeIconEnabled
+     * @attr name com.rapidzz.kidcap:closeIconEnabled
      */
     public static final int Chip_closeIconEnabled=24;
     /**
@@ -15462,7 +15544,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:closeIconEndPadding
+     * @attr name com.rapidzz.kidcap:closeIconEndPadding
      */
     public static final int Chip_closeIconEndPadding=25;
     /**
@@ -15476,7 +15558,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:closeIconSize
+     * @attr name com.rapidzz.kidcap:closeIconSize
      */
     public static final int Chip_closeIconSize=26;
     /**
@@ -15490,7 +15572,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:closeIconStartPadding
+     * @attr name com.rapidzz.kidcap:closeIconStartPadding
      */
     public static final int Chip_closeIconStartPadding=27;
     /**
@@ -15502,7 +15584,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:closeIconTint
+     * @attr name com.rapidzz.kidcap:closeIconTint
      */
     public static final int Chip_closeIconTint=28;
     /**
@@ -15513,7 +15595,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:closeIconVisible
+     * @attr name com.rapidzz.kidcap:closeIconVisible
      */
     public static final int Chip_closeIconVisible=29;
     /**
@@ -15524,7 +15606,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ensureMinTouchTargetSize
+     * @attr name com.rapidzz.kidcap:ensureMinTouchTargetSize
      */
     public static final int Chip_ensureMinTouchTargetSize=30;
     /**
@@ -15537,7 +15619,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:hideMotionSpec
+     * @attr name com.rapidzz.kidcap:hideMotionSpec
      */
     public static final int Chip_hideMotionSpec=31;
     /**
@@ -15551,7 +15633,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:iconEndPadding
+     * @attr name com.rapidzz.kidcap:iconEndPadding
      */
     public static final int Chip_iconEndPadding=32;
     /**
@@ -15565,7 +15647,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:iconStartPadding
+     * @attr name com.rapidzz.kidcap:iconStartPadding
      */
     public static final int Chip_iconStartPadding=33;
     /**
@@ -15577,7 +15659,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:rippleColor
+     * @attr name com.rapidzz.kidcap:rippleColor
      */
     public static final int Chip_rippleColor=34;
     /**
@@ -15591,7 +15673,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:shapeAppearance
+     * @attr name com.rapidzz.kidcap:shapeAppearance
      */
     public static final int Chip_shapeAppearance=35;
     /**
@@ -15605,7 +15687,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:shapeAppearanceOverlay
+     * @attr name com.rapidzz.kidcap:shapeAppearanceOverlay
      */
     public static final int Chip_shapeAppearanceOverlay=36;
     /**
@@ -15618,7 +15700,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:showMotionSpec
+     * @attr name com.rapidzz.kidcap:showMotionSpec
      */
     public static final int Chip_showMotionSpec=37;
     /**
@@ -15632,7 +15714,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:textEndPadding
+     * @attr name com.rapidzz.kidcap:textEndPadding
      */
     public static final int Chip_textEndPadding=38;
     /**
@@ -15646,7 +15728,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:textStartPadding
+     * @attr name com.rapidzz.kidcap:textStartPadding
      */
     public static final int Chip_textStartPadding=39;
     /**
@@ -15656,12 +15738,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ChipGroup_checkedChip com.rapidzz.Kidcap:checkedChip}</code></td><td>The id of the child chip that should be checked by default within this chip group.</td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacing com.rapidzz.Kidcap:chipSpacing}</code></td><td>Horizontal and vertical spacing between chips in this group.</td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.rapidzz.Kidcap:chipSpacingHorizontal}</code></td><td>Horizontal spacing between chips in this group.</td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.rapidzz.Kidcap:chipSpacingVertical}</code></td><td>Vertical spacing between chips in this group.</td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleLine com.rapidzz.Kidcap:singleLine}</code></td><td>Constrains the chips in this group to a single horizontal line.</td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleSelection com.rapidzz.Kidcap:singleSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_checkedChip com.rapidzz.kidcap:checkedChip}</code></td><td>The id of the child chip that should be checked by default within this chip group.</td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacing com.rapidzz.kidcap:chipSpacing}</code></td><td>Horizontal and vertical spacing between chips in this group.</td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.rapidzz.kidcap:chipSpacingHorizontal}</code></td><td>Horizontal spacing between chips in this group.</td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.rapidzz.kidcap:chipSpacingVertical}</code></td><td>Vertical spacing between chips in this group.</td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleLine com.rapidzz.kidcap:singleLine}</code></td><td>Constrains the chips in this group to a single horizontal line.</td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleSelection com.rapidzz.kidcap:singleSelection}</code></td><td></td></tr>
      * </table>
      * @see #ChipGroup_checkedChip
      * @see #ChipGroup_chipSpacing
@@ -15684,7 +15766,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:checkedChip
+     * @attr name com.rapidzz.kidcap:checkedChip
      */
     public static final int ChipGroup_checkedChip=0;
     /**
@@ -15698,7 +15780,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:chipSpacing
+     * @attr name com.rapidzz.kidcap:chipSpacing
      */
     public static final int ChipGroup_chipSpacing=1;
     /**
@@ -15712,7 +15794,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:chipSpacingHorizontal
+     * @attr name com.rapidzz.kidcap:chipSpacingHorizontal
      */
     public static final int ChipGroup_chipSpacingHorizontal=2;
     /**
@@ -15726,7 +15808,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:chipSpacingVertical
+     * @attr name com.rapidzz.kidcap:chipSpacingVertical
      */
     public static final int ChipGroup_chipSpacingVertical=3;
     /**
@@ -15740,7 +15822,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:singleLine
+     * @attr name com.rapidzz.kidcap:singleLine
      */
     public static final int ChipGroup_singleLine=4;
     /**
@@ -15752,7 +15834,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:singleSelection
+     * @attr name com.rapidzz.kidcap:singleSelection
      */
     public static final int ChipGroup_singleSelection=5;
     /**
@@ -15762,10 +15844,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CircleImageView_civ_border_color com.rapidzz.Kidcap:civ_border_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CircleImageView_civ_border_overlay com.rapidzz.Kidcap:civ_border_overlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CircleImageView_civ_border_width com.rapidzz.Kidcap:civ_border_width}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CircleImageView_civ_circle_background_color com.rapidzz.Kidcap:civ_circle_background_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CircleImageView_civ_border_color com.rapidzz.kidcap:civ_border_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CircleImageView_civ_border_overlay com.rapidzz.kidcap:civ_border_overlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CircleImageView_civ_border_width com.rapidzz.kidcap:civ_border_width}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CircleImageView_civ_circle_background_color com.rapidzz.kidcap:civ_circle_background_color}</code></td><td></td></tr>
      * </table>
      * @see #CircleImageView_civ_border_color
      * @see #CircleImageView_civ_border_overlay
@@ -15776,28 +15858,28 @@ public final class R {
       0x7f0300cc, 0x7f0300cd, 0x7f0300ce, 0x7f0300cf
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#civ_border_color}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#civ_border_color}
      * attribute's value can be found in the {@link #CircleImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:civ_border_color
+     * @attr name com.rapidzz.kidcap:civ_border_color
      */
     public static final int CircleImageView_civ_border_color=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#civ_border_overlay}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#civ_border_overlay}
      * attribute's value can be found in the {@link #CircleImageView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:civ_border_overlay
+     * @attr name com.rapidzz.kidcap:civ_border_overlay
      */
     public static final int CircleImageView_civ_border_overlay=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#civ_border_width}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#civ_border_width}
      * attribute's value can be found in the {@link #CircleImageView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15806,18 +15888,18 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:civ_border_width
+     * @attr name com.rapidzz.kidcap:civ_border_width
      */
     public static final int CircleImageView_civ_border_width=2;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#civ_circle_background_color}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#civ_circle_background_color}
      * attribute's value can be found in the {@link #CircleImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:civ_circle_background_color
+     * @attr name com.rapidzz.kidcap:civ_circle_background_color
      */
     public static final int CircleImageView_civ_circle_background_color=3;
     /**
@@ -15827,9 +15909,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CirclePinField_circleRadius com.rapidzz.Kidcap:circleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CirclePinField_fillerColor com.rapidzz.Kidcap:fillerColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CirclePinField_fillerRadius com.rapidzz.Kidcap:fillerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CirclePinField_circleRadius com.rapidzz.kidcap:circleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CirclePinField_fillerColor com.rapidzz.kidcap:fillerColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CirclePinField_fillerRadius com.rapidzz.kidcap:fillerRadius}</code></td><td></td></tr>
      * </table>
      * @see #CirclePinField_circleRadius
      * @see #CirclePinField_fillerColor
@@ -15839,7 +15921,7 @@ public final class R {
       0x7f0300cb, 0x7f03016c, 0x7f03016d
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#circleRadius}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#circleRadius}
      * attribute's value can be found in the {@link #CirclePinField} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15848,22 +15930,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:circleRadius
+     * @attr name com.rapidzz.kidcap:circleRadius
      */
     public static final int CirclePinField_circleRadius=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#fillerColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#fillerColor}
      * attribute's value can be found in the {@link #CirclePinField} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:fillerColor
+     * @attr name com.rapidzz.kidcap:fillerColor
      */
     public static final int CirclePinField_fillerColor=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#fillerRadius}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#fillerRadius}
      * attribute's value can be found in the {@link #CirclePinField} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15872,7 +15954,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:fillerRadius
+     * @attr name com.rapidzz.kidcap:fillerRadius
      */
     public static final int CirclePinField_fillerRadius=2;
     /**
@@ -15882,28 +15964,28 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.rapidzz.Kidcap:collapsedTitleGravity}</code></td><td>Specifies how the title should be positioned when collapsed.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.rapidzz.Kidcap:collapsedTitleTextAppearance}</code></td><td>The text appearance of the CollapsingToolbarLayouts title when it is fully
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.rapidzz.kidcap:collapsedTitleGravity}</code></td><td>Specifies how the title should be positioned when collapsed.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.rapidzz.kidcap:collapsedTitleTextAppearance}</code></td><td>The text appearance of the CollapsingToolbarLayouts title when it is fully
      * 'collapsed'</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.rapidzz.Kidcap:contentScrim}</code></td><td>The drawable to use as a scrim on top of the CollapsingToolbarLayouts content when
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.rapidzz.kidcap:contentScrim}</code></td><td>The drawable to use as a scrim on top of the CollapsingToolbarLayouts content when
      * it has been scrolled sufficiently off screen.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.rapidzz.Kidcap:expandedTitleGravity}</code></td><td>Specifies how the title should be positioned when expanded.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.rapidzz.Kidcap:expandedTitleMargin}</code></td><td>Specifies extra space on the start, top, end and bottom
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.rapidzz.kidcap:expandedTitleGravity}</code></td><td>Specifies how the title should be positioned when expanded.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.rapidzz.kidcap:expandedTitleMargin}</code></td><td>Specifies extra space on the start, top, end and bottom
      * sides of the the expanded title text.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.rapidzz.Kidcap:expandedTitleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the the expanded title text.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.rapidzz.Kidcap:expandedTitleMarginEnd}</code></td><td>Specifies extra space on the end side of the the expanded title text.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.rapidzz.Kidcap:expandedTitleMarginStart}</code></td><td>Specifies extra space on the start side of the the expanded title text.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.rapidzz.Kidcap:expandedTitleMarginTop}</code></td><td>Specifies extra space on the top side of the the expanded title text.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.rapidzz.Kidcap:expandedTitleTextAppearance}</code></td><td>The text appearance of the CollapsingToolbarLayout's title when it is fully
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.rapidzz.kidcap:expandedTitleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the the expanded title text.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.rapidzz.kidcap:expandedTitleMarginEnd}</code></td><td>Specifies extra space on the end side of the the expanded title text.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.rapidzz.kidcap:expandedTitleMarginStart}</code></td><td>Specifies extra space on the start side of the the expanded title text.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.rapidzz.kidcap:expandedTitleMarginTop}</code></td><td>Specifies extra space on the top side of the the expanded title text.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.rapidzz.kidcap:expandedTitleTextAppearance}</code></td><td>The text appearance of the CollapsingToolbarLayout's title when it is fully
      * 'expanded'</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.rapidzz.Kidcap:scrimAnimationDuration}</code></td><td>Specifies the duration used for scrim visibility animations.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.rapidzz.Kidcap:scrimVisibleHeightTrigger}</code></td><td>Specifies the amount of visible height in pixels used to define when to trigger a
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.rapidzz.kidcap:scrimAnimationDuration}</code></td><td>Specifies the duration used for scrim visibility animations.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.rapidzz.kidcap:scrimVisibleHeightTrigger}</code></td><td>Specifies the amount of visible height in pixels used to define when to trigger a
      * scrim visibility change.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.rapidzz.Kidcap:statusBarScrim}</code></td><td>The drawable to use as a scrim for the status bar content when the
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.rapidzz.kidcap:statusBarScrim}</code></td><td>The drawable to use as a scrim for the status bar content when the
      * CollapsingToolbarLayout has been scrolled sufficiently off screen.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.rapidzz.Kidcap:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.rapidzz.Kidcap:titleEnabled}</code></td><td>Whether the CollapsingToolbarLayout should draw its own shrinking/growing title.</td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.rapidzz.Kidcap:toolbarId}</code></td><td>The id of the primary Toolbar child that you wish to use for the purpose of collapsing.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.rapidzz.kidcap:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.rapidzz.kidcap:titleEnabled}</code></td><td>Whether the CollapsingToolbarLayout should draw its own shrinking/growing title.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.rapidzz.kidcap:toolbarId}</code></td><td>The id of the primary Toolbar child that you wish to use for the purpose of collapsing.</td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -15951,7 +16033,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push title to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:collapsedTitleGravity
+     * @attr name com.rapidzz.kidcap:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
@@ -15965,7 +16047,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:collapsedTitleTextAppearance
+     * @attr name com.rapidzz.kidcap:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
@@ -15978,7 +16060,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:contentScrim
+     * @attr name com.rapidzz.kidcap:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
@@ -16004,7 +16086,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push title to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:expandedTitleGravity
+     * @attr name com.rapidzz.kidcap:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
@@ -16019,7 +16101,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:expandedTitleMargin
+     * @attr name com.rapidzz.kidcap:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
@@ -16034,7 +16116,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:expandedTitleMarginBottom
+     * @attr name com.rapidzz.kidcap:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
@@ -16049,7 +16131,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:expandedTitleMarginEnd
+     * @attr name com.rapidzz.kidcap:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
@@ -16064,7 +16146,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:expandedTitleMarginStart
+     * @attr name com.rapidzz.kidcap:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
@@ -16079,7 +16161,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:expandedTitleMarginTop
+     * @attr name com.rapidzz.kidcap:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
@@ -16093,7 +16175,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:expandedTitleTextAppearance
+     * @attr name com.rapidzz.kidcap:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
@@ -16103,7 +16185,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:scrimAnimationDuration
+     * @attr name com.rapidzz.kidcap:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
@@ -16118,7 +16200,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:scrimVisibleHeightTrigger
+     * @attr name com.rapidzz.kidcap:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
@@ -16132,7 +16214,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:statusBarScrim
+     * @attr name com.rapidzz.kidcap:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
@@ -16143,7 +16225,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:title
+     * @attr name com.rapidzz.kidcap:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
@@ -16154,7 +16236,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:titleEnabled
+     * @attr name com.rapidzz.kidcap:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
@@ -16169,7 +16251,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:toolbarId
+     * @attr name com.rapidzz.kidcap:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -16179,8 +16261,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.rapidzz.Kidcap:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.rapidzz.Kidcap:layout_collapseParallaxMultiplier}</code></td><td>The multiplier used when layout_collapseMode is set to 'parallax'.</td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.rapidzz.kidcap:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.rapidzz.kidcap:layout_collapseParallaxMultiplier}</code></td><td>The multiplier used when layout_collapseMode is set to 'parallax'.</td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -16189,7 +16271,7 @@ public final class R {
       0x7f0301cc, 0x7f0301cd
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16204,7 +16286,7 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td>The view will pin in place.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_collapseMode
+     * @attr name com.rapidzz.kidcap:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
@@ -16215,7 +16297,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_collapseParallaxMultiplier
+     * @attr name com.rapidzz.kidcap:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
@@ -16227,7 +16309,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.rapidzz.Kidcap:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.rapidzz.kidcap:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -16264,7 +16346,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:alpha
+     * @attr name com.rapidzz.kidcap:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -16275,9 +16357,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonCompat com.rapidzz.Kidcap:buttonCompat}</code></td><td>Compat attr to load backported drawable types</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.rapidzz.Kidcap:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.rapidzz.Kidcap:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonCompat com.rapidzz.kidcap:buttonCompat}</code></td><td>Compat attr to load backported drawable types</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.rapidzz.kidcap:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.rapidzz.kidcap:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonCompat
@@ -16309,7 +16391,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:buttonCompat
+     * @attr name com.rapidzz.kidcap:buttonCompat
      */
     public static final int CompoundButton_buttonCompat=1;
     /**
@@ -16321,7 +16403,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:buttonTint
+     * @attr name com.rapidzz.kidcap:buttonTint
      */
     public static final int CompoundButton_buttonTint=2;
     /**
@@ -16348,7 +16430,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:buttonTintMode
+     * @attr name com.rapidzz.kidcap:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=3;
     /**
@@ -16363,61 +16445,61 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_maxHeight android:maxHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.rapidzz.Kidcap:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.rapidzz.Kidcap:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.rapidzz.Kidcap:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.rapidzz.Kidcap:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.rapidzz.Kidcap:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.rapidzz.Kidcap:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.rapidzz.Kidcap:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.rapidzz.Kidcap:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.rapidzz.Kidcap:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.rapidzz.Kidcap:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.rapidzz.Kidcap:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.rapidzz.Kidcap:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.rapidzz.Kidcap:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.rapidzz.Kidcap:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.rapidzz.Kidcap:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.rapidzz.Kidcap:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.rapidzz.Kidcap:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.rapidzz.Kidcap:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.rapidzz.Kidcap:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.rapidzz.Kidcap:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.rapidzz.Kidcap:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.rapidzz.Kidcap:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.rapidzz.Kidcap:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.rapidzz.Kidcap:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.rapidzz.Kidcap:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.rapidzz.Kidcap:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.rapidzz.Kidcap:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.rapidzz.Kidcap:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.rapidzz.Kidcap:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.rapidzz.Kidcap:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.rapidzz.Kidcap:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.rapidzz.Kidcap:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.rapidzz.Kidcap:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.rapidzz.Kidcap:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.rapidzz.Kidcap:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.rapidzz.Kidcap:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.rapidzz.Kidcap:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.rapidzz.Kidcap:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.rapidzz.Kidcap:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.rapidzz.Kidcap:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.rapidzz.Kidcap:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.rapidzz.Kidcap:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.rapidzz.Kidcap:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.rapidzz.Kidcap:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.rapidzz.Kidcap:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.rapidzz.Kidcap:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.rapidzz.Kidcap:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.rapidzz.Kidcap:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.rapidzz.Kidcap:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.rapidzz.Kidcap:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.rapidzz.Kidcap:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.rapidzz.Kidcap:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.rapidzz.Kidcap:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.rapidzz.Kidcap:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.rapidzz.Kidcap:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.rapidzz.kidcap:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.rapidzz.kidcap:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.rapidzz.kidcap:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.rapidzz.kidcap:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.rapidzz.kidcap:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.rapidzz.kidcap:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.rapidzz.kidcap:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.rapidzz.kidcap:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.rapidzz.kidcap:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.rapidzz.kidcap:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.rapidzz.kidcap:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.rapidzz.kidcap:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.rapidzz.kidcap:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.rapidzz.kidcap:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.rapidzz.kidcap:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.rapidzz.kidcap:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.rapidzz.kidcap:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.rapidzz.kidcap:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.rapidzz.kidcap:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.rapidzz.kidcap:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.rapidzz.kidcap:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.rapidzz.kidcap:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.rapidzz.kidcap:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.rapidzz.kidcap:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.rapidzz.kidcap:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.rapidzz.kidcap:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.rapidzz.kidcap:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.rapidzz.kidcap:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.rapidzz.kidcap:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.rapidzz.kidcap:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.rapidzz.kidcap:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.rapidzz.kidcap:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.rapidzz.kidcap:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.rapidzz.kidcap:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.rapidzz.kidcap:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.rapidzz.kidcap:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.rapidzz.kidcap:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.rapidzz.kidcap:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.rapidzz.kidcap:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.rapidzz.kidcap:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.rapidzz.kidcap:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.rapidzz.kidcap:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.rapidzz.kidcap:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.rapidzz.kidcap:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.rapidzz.kidcap:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.rapidzz.kidcap:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.rapidzz.kidcap:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.rapidzz.kidcap:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.rapidzz.kidcap:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.rapidzz.kidcap:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.rapidzz.kidcap:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.rapidzz.kidcap:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.rapidzz.kidcap:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.rapidzz.kidcap:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.rapidzz.kidcap:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_maxWidth
@@ -16567,17 +16649,17 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_minHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:barrierAllowsGoneWidgets
+     * @attr name com.rapidzz.kidcap:barrierAllowsGoneWidgets
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=5;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16594,21 +16676,21 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:barrierDirection
+     * @attr name com.rapidzz.kidcap:barrierDirection
      */
     public static final int ConstraintLayout_Layout_barrierDirection=6;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:chainUseRtl
+     * @attr name com.rapidzz.kidcap:chainUseRtl
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=7;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16616,50 +16698,50 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:constraintSet
+     * @attr name com.rapidzz.kidcap:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=8;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:constraint_referenced_ids
+     * @attr name com.rapidzz.kidcap:constraint_referenced_ids
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=9;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constrainedHeight
+     * @attr name com.rapidzz.kidcap:layout_constrainedHeight
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constrainedWidth
+     * @attr name com.rapidzz.kidcap:layout_constrainedWidth
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=11;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintBaseline_creator
+     * @attr name com.rapidzz.kidcap:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=12;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16675,20 +16757,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintBaseline_toBaselineOf
+     * @attr name com.rapidzz.kidcap:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=13;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintBottom_creator
+     * @attr name com.rapidzz.kidcap:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=14;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16704,11 +16786,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintBottom_toBottomOf
+     * @attr name com.rapidzz.kidcap:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=15;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16724,11 +16806,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintBottom_toTopOf
+     * @attr name com.rapidzz.kidcap:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=16;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16736,20 +16818,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintCircle
+     * @attr name com.rapidzz.kidcap:layout_constraintCircle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintCircleAngle
+     * @attr name com.rapidzz.kidcap:layout_constraintCircleAngle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16758,21 +16840,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintCircleRadius
+     * @attr name com.rapidzz.kidcap:layout_constraintCircleRadius
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=19;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintDimensionRatio
+     * @attr name com.rapidzz.kidcap:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=20;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16788,11 +16870,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintEnd_toEndOf
+     * @attr name com.rapidzz.kidcap:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=21;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16808,11 +16890,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintEnd_toStartOf
+     * @attr name com.rapidzz.kidcap:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=22;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16821,11 +16903,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintGuide_begin
+     * @attr name com.rapidzz.kidcap:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=23;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16834,20 +16916,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintGuide_end
+     * @attr name com.rapidzz.kidcap:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=24;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintGuide_percent
+     * @attr name com.rapidzz.kidcap:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=25;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16861,11 +16943,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintHeight_default
+     * @attr name com.rapidzz.kidcap:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=26;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16882,11 +16964,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintHeight_max
+     * @attr name com.rapidzz.kidcap:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=27;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16903,29 +16985,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintHeight_min
+     * @attr name com.rapidzz.kidcap:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=28;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintHeight_percent
+     * @attr name com.rapidzz.kidcap:layout_constraintHeight_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=29;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintHorizontal_bias
+     * @attr name com.rapidzz.kidcap:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=30;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16939,29 +17021,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintHorizontal_chainStyle
+     * @attr name com.rapidzz.kidcap:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintHorizontal_weight
+     * @attr name com.rapidzz.kidcap:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=32;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintLeft_creator
+     * @attr name com.rapidzz.kidcap:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16977,11 +17059,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintLeft_toLeftOf
+     * @attr name com.rapidzz.kidcap:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16997,20 +17079,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintLeft_toRightOf
+     * @attr name com.rapidzz.kidcap:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=35;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintRight_creator
+     * @attr name com.rapidzz.kidcap:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=36;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17026,11 +17108,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintRight_toLeftOf
+     * @attr name com.rapidzz.kidcap:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17046,11 +17128,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintRight_toRightOf
+     * @attr name com.rapidzz.kidcap:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=38;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17066,11 +17148,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintStart_toEndOf
+     * @attr name com.rapidzz.kidcap:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=39;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17086,20 +17168,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintStart_toStartOf
+     * @attr name com.rapidzz.kidcap:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=40;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintTop_creator
+     * @attr name com.rapidzz.kidcap:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17115,11 +17197,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintTop_toBottomOf
+     * @attr name com.rapidzz.kidcap:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17135,20 +17217,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintTop_toTopOf
+     * @attr name com.rapidzz.kidcap:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintVertical_bias
+     * @attr name com.rapidzz.kidcap:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=44;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17162,20 +17244,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintVertical_chainStyle
+     * @attr name com.rapidzz.kidcap:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintVertical_weight
+     * @attr name com.rapidzz.kidcap:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=46;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17189,11 +17271,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintWidth_default
+     * @attr name com.rapidzz.kidcap:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17210,11 +17292,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintWidth_max
+     * @attr name com.rapidzz.kidcap:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17231,20 +17313,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintWidth_min
+     * @attr name com.rapidzz.kidcap:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintWidth_percent
+     * @attr name com.rapidzz.kidcap:layout_constraintWidth_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17253,11 +17335,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_editor_absoluteX
+     * @attr name com.rapidzz.kidcap:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=51;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17266,11 +17348,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_editor_absoluteY
+     * @attr name com.rapidzz.kidcap:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=52;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17279,11 +17361,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_goneMarginBottom
+     * @attr name com.rapidzz.kidcap:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=53;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17292,11 +17374,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_goneMarginEnd
+     * @attr name com.rapidzz.kidcap:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=54;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17305,11 +17387,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_goneMarginLeft
+     * @attr name com.rapidzz.kidcap:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=55;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17318,11 +17400,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_goneMarginRight
+     * @attr name com.rapidzz.kidcap:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=56;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17331,11 +17413,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_goneMarginStart
+     * @attr name com.rapidzz.kidcap:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=57;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17344,11 +17426,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_goneMarginTop
+     * @attr name com.rapidzz.kidcap:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=58;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -17366,7 +17448,7 @@ public final class R {
      * <tr><td>standard</td><td>7</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_optimizationLevel
+     * @attr name com.rapidzz.kidcap:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=59;
     /**
@@ -17376,8 +17458,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.rapidzz.Kidcap:content}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.rapidzz.Kidcap:emptyVisibility}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.rapidzz.kidcap:content}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.rapidzz.kidcap:emptyVisibility}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_placeholder_content
      * @see #ConstraintLayout_placeholder_emptyVisibility
@@ -17386,7 +17468,7 @@ public final class R {
       0x7f0300f6, 0x7f03013d
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#content}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17394,11 +17476,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:content
+     * @attr name com.rapidzz.kidcap:content
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#emptyVisibility}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17411,7 +17493,7 @@ public final class R {
      * <tr><td>invisible</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:emptyVisibility
+     * @attr name com.rapidzz.kidcap:emptyVisibility
      */
     public static final int ConstraintLayout_placeholder_emptyVisibility=1;
     /**
@@ -17448,59 +17530,59 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.rapidzz.Kidcap:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.rapidzz.Kidcap:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.rapidzz.Kidcap:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.rapidzz.Kidcap:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.rapidzz.Kidcap:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.rapidzz.Kidcap:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.rapidzz.Kidcap:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.rapidzz.Kidcap:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.rapidzz.Kidcap:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.rapidzz.Kidcap:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.rapidzz.Kidcap:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.rapidzz.Kidcap:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.rapidzz.Kidcap:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.rapidzz.Kidcap:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.rapidzz.Kidcap:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.rapidzz.Kidcap:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.rapidzz.Kidcap:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.rapidzz.Kidcap:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.rapidzz.Kidcap:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.rapidzz.Kidcap:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.rapidzz.Kidcap:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.rapidzz.Kidcap:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.rapidzz.Kidcap:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.rapidzz.Kidcap:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.rapidzz.Kidcap:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.rapidzz.Kidcap:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.rapidzz.Kidcap:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.rapidzz.Kidcap:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.rapidzz.Kidcap:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.rapidzz.Kidcap:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.rapidzz.Kidcap:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.rapidzz.Kidcap:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.rapidzz.Kidcap:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.rapidzz.Kidcap:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.rapidzz.Kidcap:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.rapidzz.Kidcap:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.rapidzz.Kidcap:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.rapidzz.Kidcap:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.rapidzz.Kidcap:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.rapidzz.Kidcap:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.rapidzz.Kidcap:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.rapidzz.Kidcap:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.rapidzz.Kidcap:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.rapidzz.Kidcap:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.rapidzz.Kidcap:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.rapidzz.Kidcap:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.rapidzz.Kidcap:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.rapidzz.Kidcap:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.rapidzz.Kidcap:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.rapidzz.Kidcap:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.rapidzz.Kidcap:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.rapidzz.Kidcap:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.rapidzz.Kidcap:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.rapidzz.kidcap:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.rapidzz.kidcap:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.rapidzz.kidcap:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.rapidzz.kidcap:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.rapidzz.kidcap:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.rapidzz.kidcap:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.rapidzz.kidcap:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.rapidzz.kidcap:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.rapidzz.kidcap:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.rapidzz.kidcap:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.rapidzz.kidcap:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.rapidzz.kidcap:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.rapidzz.kidcap:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.rapidzz.kidcap:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.rapidzz.kidcap:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.rapidzz.kidcap:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.rapidzz.kidcap:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.rapidzz.kidcap:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.rapidzz.kidcap:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.rapidzz.kidcap:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.rapidzz.kidcap:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.rapidzz.kidcap:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.rapidzz.kidcap:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.rapidzz.kidcap:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.rapidzz.kidcap:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.rapidzz.kidcap:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.rapidzz.kidcap:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.rapidzz.kidcap:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.rapidzz.kidcap:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.rapidzz.kidcap:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.rapidzz.kidcap:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.rapidzz.kidcap:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.rapidzz.kidcap:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.rapidzz.kidcap:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.rapidzz.kidcap:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.rapidzz.kidcap:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.rapidzz.kidcap:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.rapidzz.kidcap:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.rapidzz.kidcap:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.rapidzz.kidcap:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.rapidzz.kidcap:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.rapidzz.kidcap:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.rapidzz.kidcap:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.rapidzz.kidcap:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.rapidzz.kidcap:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.rapidzz.kidcap:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.rapidzz.kidcap:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.rapidzz.kidcap:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.rapidzz.kidcap:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.rapidzz.kidcap:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.rapidzz.kidcap:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.rapidzz.kidcap:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.rapidzz.kidcap:layout_goneMarginTop}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -17961,17 +18043,17 @@ public final class R {
      */
     public static final int ConstraintSet_android_elevation=26;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:barrierAllowsGoneWidgets
+     * @attr name com.rapidzz.kidcap:barrierAllowsGoneWidgets
      */
     public static final int ConstraintSet_barrierAllowsGoneWidgets=27;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17988,60 +18070,60 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:barrierDirection
+     * @attr name com.rapidzz.kidcap:barrierDirection
      */
     public static final int ConstraintSet_barrierDirection=28;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:chainUseRtl
+     * @attr name com.rapidzz.kidcap:chainUseRtl
      */
     public static final int ConstraintSet_chainUseRtl=29;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:constraint_referenced_ids
+     * @attr name com.rapidzz.kidcap:constraint_referenced_ids
      */
     public static final int ConstraintSet_constraint_referenced_ids=30;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constrainedHeight
+     * @attr name com.rapidzz.kidcap:layout_constrainedHeight
      */
     public static final int ConstraintSet_layout_constrainedHeight=31;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constrainedWidth
+     * @attr name com.rapidzz.kidcap:layout_constrainedWidth
      */
     public static final int ConstraintSet_layout_constrainedWidth=32;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintBaseline_creator
+     * @attr name com.rapidzz.kidcap:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18057,20 +18139,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintBaseline_toBaselineOf
+     * @attr name com.rapidzz.kidcap:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintBottom_creator
+     * @attr name com.rapidzz.kidcap:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=35;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18086,11 +18168,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintBottom_toBottomOf
+     * @attr name com.rapidzz.kidcap:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=36;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18106,11 +18188,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintBottom_toTopOf
+     * @attr name com.rapidzz.kidcap:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18118,20 +18200,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintCircle
+     * @attr name com.rapidzz.kidcap:layout_constraintCircle
      */
     public static final int ConstraintSet_layout_constraintCircle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintCircleAngle
+     * @attr name com.rapidzz.kidcap:layout_constraintCircleAngle
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18140,21 +18222,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintCircleRadius
+     * @attr name com.rapidzz.kidcap:layout_constraintCircleRadius
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=40;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintDimensionRatio
+     * @attr name com.rapidzz.kidcap:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=41;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18170,11 +18252,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintEnd_toEndOf
+     * @attr name com.rapidzz.kidcap:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18190,11 +18272,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintEnd_toStartOf
+     * @attr name com.rapidzz.kidcap:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18203,11 +18285,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintGuide_begin
+     * @attr name com.rapidzz.kidcap:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=44;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18216,20 +18298,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintGuide_end
+     * @attr name com.rapidzz.kidcap:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=45;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintGuide_percent
+     * @attr name com.rapidzz.kidcap:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=46;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18243,11 +18325,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintHeight_default
+     * @attr name com.rapidzz.kidcap:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18264,11 +18346,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintHeight_max
+     * @attr name com.rapidzz.kidcap:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18285,29 +18367,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintHeight_min
+     * @attr name com.rapidzz.kidcap:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintHeight_percent
+     * @attr name com.rapidzz.kidcap:layout_constraintHeight_percent
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintHorizontal_bias
+     * @attr name com.rapidzz.kidcap:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=51;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18321,29 +18403,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintHorizontal_chainStyle
+     * @attr name com.rapidzz.kidcap:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=52;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintHorizontal_weight
+     * @attr name com.rapidzz.kidcap:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=53;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintLeft_creator
+     * @attr name com.rapidzz.kidcap:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=54;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18359,11 +18441,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintLeft_toLeftOf
+     * @attr name com.rapidzz.kidcap:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=55;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18379,20 +18461,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintLeft_toRightOf
+     * @attr name com.rapidzz.kidcap:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=56;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintRight_creator
+     * @attr name com.rapidzz.kidcap:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=57;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18408,11 +18490,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintRight_toLeftOf
+     * @attr name com.rapidzz.kidcap:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=58;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18428,11 +18510,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintRight_toRightOf
+     * @attr name com.rapidzz.kidcap:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=59;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18448,11 +18530,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintStart_toEndOf
+     * @attr name com.rapidzz.kidcap:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=60;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18468,20 +18550,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintStart_toStartOf
+     * @attr name com.rapidzz.kidcap:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=61;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintTop_creator
+     * @attr name com.rapidzz.kidcap:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=62;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18497,11 +18579,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintTop_toBottomOf
+     * @attr name com.rapidzz.kidcap:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=63;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18517,20 +18599,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintTop_toTopOf
+     * @attr name com.rapidzz.kidcap:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=64;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintVertical_bias
+     * @attr name com.rapidzz.kidcap:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=65;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18544,20 +18626,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintVertical_chainStyle
+     * @attr name com.rapidzz.kidcap:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=66;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintVertical_weight
+     * @attr name com.rapidzz.kidcap:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=67;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18571,11 +18653,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintWidth_default
+     * @attr name com.rapidzz.kidcap:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=68;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18592,11 +18674,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintWidth_max
+     * @attr name com.rapidzz.kidcap:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=69;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18613,20 +18695,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintWidth_min
+     * @attr name com.rapidzz.kidcap:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=70;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_constraintWidth_percent
+     * @attr name com.rapidzz.kidcap:layout_constraintWidth_percent
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=71;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18635,11 +18717,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_editor_absoluteX
+     * @attr name com.rapidzz.kidcap:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=72;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18648,11 +18730,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_editor_absoluteY
+     * @attr name com.rapidzz.kidcap:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=73;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18661,11 +18743,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_goneMarginBottom
+     * @attr name com.rapidzz.kidcap:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=74;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18674,11 +18756,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_goneMarginEnd
+     * @attr name com.rapidzz.kidcap:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=75;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18687,11 +18769,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_goneMarginLeft
+     * @attr name com.rapidzz.kidcap:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=76;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18700,11 +18782,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_goneMarginRight
+     * @attr name com.rapidzz.kidcap:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=77;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18713,11 +18795,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_goneMarginStart
+     * @attr name com.rapidzz.kidcap:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=78;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18726,7 +18808,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:layout_goneMarginTop
+     * @attr name com.rapidzz.kidcap:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=79;
     /**
@@ -18736,9 +18818,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.rapidzz.Kidcap:keylines}</code></td><td>A reference to an array of integers representing the
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.rapidzz.kidcap:keylines}</code></td><td>A reference to an array of integers representing the
      * locations of horizontal keylines in dp from the starting edge.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.rapidzz.Kidcap:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.rapidzz.kidcap:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -18760,7 +18842,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:keylines
+     * @attr name com.rapidzz.kidcap:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
@@ -18776,7 +18858,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:statusBarBackground
+     * @attr name com.rapidzz.kidcap:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -18787,15 +18869,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.rapidzz.Kidcap:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.rapidzz.Kidcap:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.rapidzz.kidcap:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.rapidzz.kidcap:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
      * within its parent's bounds.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.rapidzz.Kidcap:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.rapidzz.kidcap:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
      * for this child view.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.rapidzz.Kidcap:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.rapidzz.Kidcap:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.rapidzz.kidcap:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.rapidzz.kidcap:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
      * dodge it.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.rapidzz.Kidcap:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.rapidzz.kidcap:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -18848,7 +18930,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_anchor
+     * @attr name com.rapidzz.kidcap:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
@@ -18885,7 +18967,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_anchorGravity
+     * @attr name com.rapidzz.kidcap:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
@@ -18897,7 +18979,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:layout_behavior
+     * @attr name com.rapidzz.kidcap:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
@@ -18921,7 +19003,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Dodge the top inset edge.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_dodgeInsetEdges
+     * @attr name com.rapidzz.kidcap:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
@@ -18945,7 +19027,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Inset the top edge.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:layout_insetEdge
+     * @attr name com.rapidzz.kidcap:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
@@ -18957,7 +19039,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout_keyline
+     * @attr name com.rapidzz.kidcap:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -18967,51 +19049,51 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_allowSearch com.rapidzz.Kidcap:ccpDialog_allowSearch}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_backgroundColor com.rapidzz.Kidcap:ccpDialog_backgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_fastScroller_bubbleColor com.rapidzz.Kidcap:ccpDialog_fastScroller_bubbleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_fastScroller_bubbleTextAppearance com.rapidzz.Kidcap:ccpDialog_fastScroller_bubbleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_fastScroller_handleColor com.rapidzz.Kidcap:ccpDialog_fastScroller_handleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_initialScrollToSelection com.rapidzz.Kidcap:ccpDialog_initialScrollToSelection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_keyboardAutoPopup com.rapidzz.Kidcap:ccpDialog_keyboardAutoPopup}</code></td><td>CCP Dialog properties</td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_searchEditTextTint com.rapidzz.Kidcap:ccpDialog_searchEditTextTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_showCloseIcon com.rapidzz.Kidcap:ccpDialog_showCloseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_showFastScroller com.rapidzz.Kidcap:ccpDialog_showFastScroller}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_showFlag com.rapidzz.Kidcap:ccpDialog_showFlag}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_showNameCode com.rapidzz.Kidcap:ccpDialog_showNameCode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_showPhoneCode com.rapidzz.Kidcap:ccpDialog_showPhoneCode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_showTitle com.rapidzz.Kidcap:ccpDialog_showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_textColor com.rapidzz.Kidcap:ccpDialog_textColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_areaCodeDetectedCountry com.rapidzz.Kidcap:ccp_areaCodeDetectedCountry}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_arrowColor com.rapidzz.Kidcap:ccp_arrowColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_arrowSize com.rapidzz.Kidcap:ccp_arrowSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_autoDetectCountry com.rapidzz.Kidcap:ccp_autoDetectCountry}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_autoDetectLanguage com.rapidzz.Kidcap:ccp_autoDetectLanguage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_autoFormatNumber com.rapidzz.Kidcap:ccp_autoFormatNumber}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_clickable com.rapidzz.Kidcap:ccp_clickable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_contentColor com.rapidzz.Kidcap:ccp_contentColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_countryAutoDetectionPref com.rapidzz.Kidcap:ccp_countryAutoDetectionPref}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_countryPreference com.rapidzz.Kidcap:ccp_countryPreference}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_customMasterCountries com.rapidzz.Kidcap:ccp_customMasterCountries}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_defaultLanguage com.rapidzz.Kidcap:ccp_defaultLanguage}</code></td><td>Make sure: order in this list must match order of Language Enum in CountryCodePicker.java.</td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_defaultNameCode com.rapidzz.Kidcap:ccp_defaultNameCode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_defaultPhoneCode com.rapidzz.Kidcap:ccp_defaultPhoneCode}</code></td><td>{@deprecated Use defaultNameCode instead.}</td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_excludedCountries com.rapidzz.Kidcap:ccp_excludedCountries}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_flagBorderColor com.rapidzz.Kidcap:ccp_flagBorderColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_hintExampleNumber com.rapidzz.Kidcap:ccp_hintExampleNumber}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_hintExampleNumberType com.rapidzz.Kidcap:ccp_hintExampleNumberType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_internationalFormattingOnly com.rapidzz.Kidcap:ccp_internationalFormattingOnly}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_rememberLastSelection com.rapidzz.Kidcap:ccp_rememberLastSelection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_selectionMemoryTag com.rapidzz.Kidcap:ccp_selectionMemoryTag}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_showArrow com.rapidzz.Kidcap:ccp_showArrow}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_showFlag com.rapidzz.Kidcap:ccp_showFlag}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_showFullName com.rapidzz.Kidcap:ccp_showFullName}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_showNameCode com.rapidzz.Kidcap:ccp_showNameCode}</code></td><td>CCP bool properties</td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_showPhoneCode com.rapidzz.Kidcap:ccp_showPhoneCode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_textGravity com.rapidzz.Kidcap:ccp_textGravity}</code></td><td>beta</td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_textSize com.rapidzz.Kidcap:ccp_textSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_useDummyEmojiForPreview com.rapidzz.Kidcap:ccp_useDummyEmojiForPreview}</code></td><td>beta</td></tr>
-     * <tr><td><code>{@link #CountryCodePicker_ccp_useFlagEmoji com.rapidzz.Kidcap:ccp_useFlagEmoji}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_allowSearch com.rapidzz.kidcap:ccpDialog_allowSearch}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_backgroundColor com.rapidzz.kidcap:ccpDialog_backgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_fastScroller_bubbleColor com.rapidzz.kidcap:ccpDialog_fastScroller_bubbleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_fastScroller_bubbleTextAppearance com.rapidzz.kidcap:ccpDialog_fastScroller_bubbleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_fastScroller_handleColor com.rapidzz.kidcap:ccpDialog_fastScroller_handleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_initialScrollToSelection com.rapidzz.kidcap:ccpDialog_initialScrollToSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_keyboardAutoPopup com.rapidzz.kidcap:ccpDialog_keyboardAutoPopup}</code></td><td>CCP Dialog properties</td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_searchEditTextTint com.rapidzz.kidcap:ccpDialog_searchEditTextTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_showCloseIcon com.rapidzz.kidcap:ccpDialog_showCloseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_showFastScroller com.rapidzz.kidcap:ccpDialog_showFastScroller}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_showFlag com.rapidzz.kidcap:ccpDialog_showFlag}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_showNameCode com.rapidzz.kidcap:ccpDialog_showNameCode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_showPhoneCode com.rapidzz.kidcap:ccpDialog_showPhoneCode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_showTitle com.rapidzz.kidcap:ccpDialog_showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccpDialog_textColor com.rapidzz.kidcap:ccpDialog_textColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_areaCodeDetectedCountry com.rapidzz.kidcap:ccp_areaCodeDetectedCountry}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_arrowColor com.rapidzz.kidcap:ccp_arrowColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_arrowSize com.rapidzz.kidcap:ccp_arrowSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_autoDetectCountry com.rapidzz.kidcap:ccp_autoDetectCountry}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_autoDetectLanguage com.rapidzz.kidcap:ccp_autoDetectLanguage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_autoFormatNumber com.rapidzz.kidcap:ccp_autoFormatNumber}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_clickable com.rapidzz.kidcap:ccp_clickable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_contentColor com.rapidzz.kidcap:ccp_contentColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_countryAutoDetectionPref com.rapidzz.kidcap:ccp_countryAutoDetectionPref}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_countryPreference com.rapidzz.kidcap:ccp_countryPreference}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_customMasterCountries com.rapidzz.kidcap:ccp_customMasterCountries}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_defaultLanguage com.rapidzz.kidcap:ccp_defaultLanguage}</code></td><td>Make sure: order in this list must match order of Language Enum in CountryCodePicker.java.</td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_defaultNameCode com.rapidzz.kidcap:ccp_defaultNameCode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_defaultPhoneCode com.rapidzz.kidcap:ccp_defaultPhoneCode}</code></td><td>{@deprecated Use defaultNameCode instead.}</td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_excludedCountries com.rapidzz.kidcap:ccp_excludedCountries}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_flagBorderColor com.rapidzz.kidcap:ccp_flagBorderColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_hintExampleNumber com.rapidzz.kidcap:ccp_hintExampleNumber}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_hintExampleNumberType com.rapidzz.kidcap:ccp_hintExampleNumberType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_internationalFormattingOnly com.rapidzz.kidcap:ccp_internationalFormattingOnly}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_rememberLastSelection com.rapidzz.kidcap:ccp_rememberLastSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_selectionMemoryTag com.rapidzz.kidcap:ccp_selectionMemoryTag}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_showArrow com.rapidzz.kidcap:ccp_showArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_showFlag com.rapidzz.kidcap:ccp_showFlag}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_showFullName com.rapidzz.kidcap:ccp_showFullName}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_showNameCode com.rapidzz.kidcap:ccp_showNameCode}</code></td><td>CCP bool properties</td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_showPhoneCode com.rapidzz.kidcap:ccp_showPhoneCode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_textGravity com.rapidzz.kidcap:ccp_textGravity}</code></td><td>beta</td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_textSize com.rapidzz.kidcap:ccp_textSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_useDummyEmojiForPreview com.rapidzz.kidcap:ccp_useDummyEmojiForPreview}</code></td><td>beta</td></tr>
+     * <tr><td><code>{@link #CountryCodePicker_ccp_useFlagEmoji com.rapidzz.kidcap:ccp_useFlagEmoji}</code></td><td></td></tr>
      * </table>
      * @see #CountryCodePicker_ccpDialog_allowSearch
      * @see #CountryCodePicker_ccpDialog_backgroundColor
@@ -19075,39 +19157,39 @@ public final class R {
       0x7f0300ac
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccpDialog_allowSearch}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccpDialog_allowSearch}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccpDialog_allowSearch
+     * @attr name com.rapidzz.kidcap:ccpDialog_allowSearch
      */
     public static final int CountryCodePicker_ccpDialog_allowSearch=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccpDialog_backgroundColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccpDialog_backgroundColor}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccpDialog_backgroundColor
+     * @attr name com.rapidzz.kidcap:ccpDialog_backgroundColor
      */
     public static final int CountryCodePicker_ccpDialog_backgroundColor=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccpDialog_fastScroller_bubbleColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccpDialog_fastScroller_bubbleColor}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccpDialog_fastScroller_bubbleColor
+     * @attr name com.rapidzz.kidcap:ccpDialog_fastScroller_bubbleColor
      */
     public static final int CountryCodePicker_ccpDialog_fastScroller_bubbleColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccpDialog_fastScroller_bubbleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccpDialog_fastScroller_bubbleTextAppearance}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19115,28 +19197,28 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccpDialog_fastScroller_bubbleTextAppearance
+     * @attr name com.rapidzz.kidcap:ccpDialog_fastScroller_bubbleTextAppearance
      */
     public static final int CountryCodePicker_ccpDialog_fastScroller_bubbleTextAppearance=3;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccpDialog_fastScroller_handleColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccpDialog_fastScroller_handleColor}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccpDialog_fastScroller_handleColor
+     * @attr name com.rapidzz.kidcap:ccpDialog_fastScroller_handleColor
      */
     public static final int CountryCodePicker_ccpDialog_fastScroller_handleColor=4;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccpDialog_initialScrollToSelection}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccpDialog_initialScrollToSelection}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccpDialog_initialScrollToSelection
+     * @attr name com.rapidzz.kidcap:ccpDialog_initialScrollToSelection
      */
     public static final int CountryCodePicker_ccpDialog_initialScrollToSelection=5;
     /**
@@ -19147,114 +19229,114 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccpDialog_keyboardAutoPopup
+     * @attr name com.rapidzz.kidcap:ccpDialog_keyboardAutoPopup
      */
     public static final int CountryCodePicker_ccpDialog_keyboardAutoPopup=6;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccpDialog_searchEditTextTint}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccpDialog_searchEditTextTint}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccpDialog_searchEditTextTint
+     * @attr name com.rapidzz.kidcap:ccpDialog_searchEditTextTint
      */
     public static final int CountryCodePicker_ccpDialog_searchEditTextTint=7;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccpDialog_showCloseIcon}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccpDialog_showCloseIcon}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccpDialog_showCloseIcon
+     * @attr name com.rapidzz.kidcap:ccpDialog_showCloseIcon
      */
     public static final int CountryCodePicker_ccpDialog_showCloseIcon=8;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccpDialog_showFastScroller}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccpDialog_showFastScroller}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccpDialog_showFastScroller
+     * @attr name com.rapidzz.kidcap:ccpDialog_showFastScroller
      */
     public static final int CountryCodePicker_ccpDialog_showFastScroller=9;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccpDialog_showFlag}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccpDialog_showFlag}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccpDialog_showFlag
+     * @attr name com.rapidzz.kidcap:ccpDialog_showFlag
      */
     public static final int CountryCodePicker_ccpDialog_showFlag=10;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccpDialog_showNameCode}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccpDialog_showNameCode}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccpDialog_showNameCode
+     * @attr name com.rapidzz.kidcap:ccpDialog_showNameCode
      */
     public static final int CountryCodePicker_ccpDialog_showNameCode=11;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccpDialog_showPhoneCode}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccpDialog_showPhoneCode}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccpDialog_showPhoneCode
+     * @attr name com.rapidzz.kidcap:ccpDialog_showPhoneCode
      */
     public static final int CountryCodePicker_ccpDialog_showPhoneCode=12;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccpDialog_showTitle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccpDialog_showTitle}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccpDialog_showTitle
+     * @attr name com.rapidzz.kidcap:ccpDialog_showTitle
      */
     public static final int CountryCodePicker_ccpDialog_showTitle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccpDialog_textColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccpDialog_textColor}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccpDialog_textColor
+     * @attr name com.rapidzz.kidcap:ccpDialog_textColor
      */
     public static final int CountryCodePicker_ccpDialog_textColor=14;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_areaCodeDetectedCountry}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_areaCodeDetectedCountry}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_areaCodeDetectedCountry
+     * @attr name com.rapidzz.kidcap:ccp_areaCodeDetectedCountry
      */
     public static final int CountryCodePicker_ccp_areaCodeDetectedCountry=15;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_arrowColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_arrowColor}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_arrowColor
+     * @attr name com.rapidzz.kidcap:ccp_arrowColor
      */
     public static final int CountryCodePicker_ccp_arrowColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_arrowSize}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_arrowSize}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19263,62 +19345,62 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:ccp_arrowSize
+     * @attr name com.rapidzz.kidcap:ccp_arrowSize
      */
     public static final int CountryCodePicker_ccp_arrowSize=17;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_autoDetectCountry}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_autoDetectCountry}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_autoDetectCountry
+     * @attr name com.rapidzz.kidcap:ccp_autoDetectCountry
      */
     public static final int CountryCodePicker_ccp_autoDetectCountry=18;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_autoDetectLanguage}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_autoDetectLanguage}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_autoDetectLanguage
+     * @attr name com.rapidzz.kidcap:ccp_autoDetectLanguage
      */
     public static final int CountryCodePicker_ccp_autoDetectLanguage=19;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_autoFormatNumber}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_autoFormatNumber}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_autoFormatNumber
+     * @attr name com.rapidzz.kidcap:ccp_autoFormatNumber
      */
     public static final int CountryCodePicker_ccp_autoFormatNumber=20;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_clickable}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_clickable}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_clickable
+     * @attr name com.rapidzz.kidcap:ccp_clickable
      */
     public static final int CountryCodePicker_ccp_clickable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_contentColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_contentColor}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_contentColor
+     * @attr name com.rapidzz.kidcap:ccp_contentColor
      */
     public static final int CountryCodePicker_ccp_contentColor=22;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_countryAutoDetectionPref}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_countryAutoDetectionPref}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19344,27 +19426,27 @@ public final class R {
      * <tr><td>SIM_ONLY</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:ccp_countryAutoDetectionPref
+     * @attr name com.rapidzz.kidcap:ccp_countryAutoDetectionPref
      */
     public static final int CountryCodePicker_ccp_countryAutoDetectionPref=23;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_countryPreference}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_countryPreference}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:ccp_countryPreference
+     * @attr name com.rapidzz.kidcap:ccp_countryPreference
      */
     public static final int CountryCodePicker_ccp_countryPreference=24;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_customMasterCountries}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_customMasterCountries}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:ccp_customMasterCountries
+     * @attr name com.rapidzz.kidcap:ccp_customMasterCountries
      */
     public static final int CountryCodePicker_ccp_customMasterCountries=25;
     /**
@@ -19413,17 +19495,17 @@ public final class R {
      * <tr><td>VIETNAMESE</td><td>20</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:ccp_defaultLanguage
+     * @attr name com.rapidzz.kidcap:ccp_defaultLanguage
      */
     public static final int CountryCodePicker_ccp_defaultLanguage=26;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_defaultNameCode}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_defaultNameCode}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:ccp_defaultNameCode
+     * @attr name com.rapidzz.kidcap:ccp_defaultNameCode
      */
     public static final int CountryCodePicker_ccp_defaultNameCode=27;
     /**
@@ -19433,43 +19515,43 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_defaultPhoneCode
+     * @attr name com.rapidzz.kidcap:ccp_defaultPhoneCode
      */
     @Deprecated
     public static final int CountryCodePicker_ccp_defaultPhoneCode=28;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_excludedCountries}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_excludedCountries}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:ccp_excludedCountries
+     * @attr name com.rapidzz.kidcap:ccp_excludedCountries
      */
     public static final int CountryCodePicker_ccp_excludedCountries=29;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_flagBorderColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_flagBorderColor}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_flagBorderColor
+     * @attr name com.rapidzz.kidcap:ccp_flagBorderColor
      */
     public static final int CountryCodePicker_ccp_flagBorderColor=30;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_hintExampleNumber}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_hintExampleNumber}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_hintExampleNumber
+     * @attr name com.rapidzz.kidcap:ccp_hintExampleNumber
      */
     public static final int CountryCodePicker_ccp_hintExampleNumber=31;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_hintExampleNumberType}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_hintExampleNumberType}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19492,67 +19574,67 @@ public final class R {
      * <tr><td>VOIP</td><td>6</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:ccp_hintExampleNumberType
+     * @attr name com.rapidzz.kidcap:ccp_hintExampleNumberType
      */
     public static final int CountryCodePicker_ccp_hintExampleNumberType=32;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_internationalFormattingOnly}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_internationalFormattingOnly}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_internationalFormattingOnly
+     * @attr name com.rapidzz.kidcap:ccp_internationalFormattingOnly
      */
     public static final int CountryCodePicker_ccp_internationalFormattingOnly=33;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_rememberLastSelection}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_rememberLastSelection}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_rememberLastSelection
+     * @attr name com.rapidzz.kidcap:ccp_rememberLastSelection
      */
     public static final int CountryCodePicker_ccp_rememberLastSelection=34;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_selectionMemoryTag}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_selectionMemoryTag}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:ccp_selectionMemoryTag
+     * @attr name com.rapidzz.kidcap:ccp_selectionMemoryTag
      */
     public static final int CountryCodePicker_ccp_selectionMemoryTag=35;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_showArrow}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_showArrow}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_showArrow
+     * @attr name com.rapidzz.kidcap:ccp_showArrow
      */
     public static final int CountryCodePicker_ccp_showArrow=36;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_showFlag}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_showFlag}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_showFlag
+     * @attr name com.rapidzz.kidcap:ccp_showFlag
      */
     public static final int CountryCodePicker_ccp_showFlag=37;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_showFullName}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_showFullName}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_showFullName
+     * @attr name com.rapidzz.kidcap:ccp_showFullName
      */
     public static final int CountryCodePicker_ccp_showFullName=38;
     /**
@@ -19563,17 +19645,17 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_showNameCode
+     * @attr name com.rapidzz.kidcap:ccp_showNameCode
      */
     public static final int CountryCodePicker_ccp_showNameCode=39;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_showPhoneCode}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_showPhoneCode}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_showPhoneCode
+     * @attr name com.rapidzz.kidcap:ccp_showPhoneCode
      */
     public static final int CountryCodePicker_ccp_showPhoneCode=40;
     /**
@@ -19592,11 +19674,11 @@ public final class R {
      * <tr><td>RIGHT</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:ccp_textGravity
+     * @attr name com.rapidzz.kidcap:ccp_textGravity
      */
     public static final int CountryCodePicker_ccp_textGravity=41;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_textSize}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_textSize}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -19605,7 +19687,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:ccp_textSize
+     * @attr name com.rapidzz.kidcap:ccp_textSize
      */
     public static final int CountryCodePicker_ccp_textSize=42;
     /**
@@ -19616,17 +19698,17 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_useDummyEmojiForPreview
+     * @attr name com.rapidzz.kidcap:ccp_useDummyEmojiForPreview
      */
     public static final int CountryCodePicker_ccp_useDummyEmojiForPreview=43;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ccp_useFlagEmoji}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ccp_useFlagEmoji}
      * attribute's value can be found in the {@link #CountryCodePicker} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ccp_useFlagEmoji
+     * @attr name com.rapidzz.kidcap:ccp_useFlagEmoji
      */
     public static final int CountryCodePicker_ccp_useFlagEmoji=44;
     /**
@@ -19636,12 +19718,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DateTimePickerEditText_dateFormat com.rapidzz.Kidcap:dateFormat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DateTimePickerEditText_is24HourView com.rapidzz.Kidcap:is24HourView}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DateTimePickerEditText_maxDate com.rapidzz.Kidcap:maxDate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DateTimePickerEditText_minDate com.rapidzz.Kidcap:minDate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DateTimePickerEditText_theme com.rapidzz.Kidcap:theme}</code></td><td>Deprecated.</td></tr>
-     * <tr><td><code>{@link #DateTimePickerEditText_timeFormat com.rapidzz.Kidcap:timeFormat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DateTimePickerEditText_dateFormat com.rapidzz.kidcap:dateFormat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DateTimePickerEditText_is24HourView com.rapidzz.kidcap:is24HourView}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DateTimePickerEditText_maxDate com.rapidzz.kidcap:maxDate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DateTimePickerEditText_minDate com.rapidzz.kidcap:minDate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DateTimePickerEditText_theme com.rapidzz.kidcap:theme}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #DateTimePickerEditText_timeFormat com.rapidzz.kidcap:timeFormat}</code></td><td></td></tr>
      * </table>
      * @see #DateTimePickerEditText_dateFormat
      * @see #DateTimePickerEditText_is24HourView
@@ -19655,43 +19737,43 @@ public final class R {
       0x7f0302dc, 0x7f0302e5
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#dateFormat}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#dateFormat}
      * attribute's value can be found in the {@link #DateTimePickerEditText} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:dateFormat
+     * @attr name com.rapidzz.kidcap:dateFormat
      */
     public static final int DateTimePickerEditText_dateFormat=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#is24HourView}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#is24HourView}
      * attribute's value can be found in the {@link #DateTimePickerEditText} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:is24HourView
+     * @attr name com.rapidzz.kidcap:is24HourView
      */
     public static final int DateTimePickerEditText_is24HourView=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#maxDate}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#maxDate}
      * attribute's value can be found in the {@link #DateTimePickerEditText} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:maxDate
+     * @attr name com.rapidzz.kidcap:maxDate
      */
     public static final int DateTimePickerEditText_maxDate=2;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#minDate}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#minDate}
      * attribute's value can be found in the {@link #DateTimePickerEditText} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:minDate
+     * @attr name com.rapidzz.kidcap:minDate
      */
     public static final int DateTimePickerEditText_minDate=3;
     /**
@@ -19704,17 +19786,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:theme
+     * @attr name com.rapidzz.kidcap:theme
      */
     public static final int DateTimePickerEditText_theme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#timeFormat}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#timeFormat}
      * attribute's value can be found in the {@link #DateTimePickerEditText} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:timeFormat
+     * @attr name com.rapidzz.kidcap:timeFormat
      */
     public static final int DateTimePickerEditText_timeFormat=5;
     /**
@@ -19748,14 +19830,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.rapidzz.Kidcap:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.rapidzz.Kidcap:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.rapidzz.Kidcap:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.rapidzz.Kidcap:color}</code></td><td>The drawing color for the bars</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.rapidzz.Kidcap:drawableSize}</code></td><td>The total size of the drawable</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.rapidzz.Kidcap:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.rapidzz.Kidcap:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.rapidzz.Kidcap:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.rapidzz.kidcap:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.rapidzz.kidcap:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.rapidzz.kidcap:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.rapidzz.kidcap:color}</code></td><td>The drawing color for the bars</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.rapidzz.kidcap:drawableSize}</code></td><td>The total size of the drawable</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.rapidzz.kidcap:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.rapidzz.kidcap:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.rapidzz.kidcap:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -19781,7 +19863,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:arrowHeadLength
+     * @attr name com.rapidzz.kidcap:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
@@ -19795,7 +19877,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:arrowShaftLength
+     * @attr name com.rapidzz.kidcap:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
@@ -19809,7 +19891,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:barLength
+     * @attr name com.rapidzz.kidcap:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
@@ -19821,7 +19903,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:color
+     * @attr name com.rapidzz.kidcap:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
@@ -19835,7 +19917,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:drawableSize
+     * @attr name com.rapidzz.kidcap:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
@@ -19849,7 +19931,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:gapBetweenBars
+     * @attr name com.rapidzz.kidcap:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
@@ -19860,7 +19942,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:spinBars
+     * @attr name com.rapidzz.kidcap:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
@@ -19874,7 +19956,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:thickness
+     * @attr name com.rapidzz.kidcap:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -19884,11 +19966,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_elevation com.rapidzz.Kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_extendMotionSpec com.rapidzz.Kidcap:extendMotionSpec}</code></td><td>Motion spec for extend animation.</td></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_hideMotionSpec com.rapidzz.Kidcap:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_showMotionSpec com.rapidzz.Kidcap:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_shrinkMotionSpec com.rapidzz.Kidcap:shrinkMotionSpec}</code></td><td>Motion spec for shrink animation.</td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_elevation com.rapidzz.kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_extendMotionSpec com.rapidzz.kidcap:extendMotionSpec}</code></td><td>Motion spec for extend animation.</td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_hideMotionSpec com.rapidzz.kidcap:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_showMotionSpec com.rapidzz.kidcap:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_shrinkMotionSpec com.rapidzz.kidcap:shrinkMotionSpec}</code></td><td>Motion spec for shrink animation.</td></tr>
      * </table>
      * @see #ExtendedFloatingActionButton_elevation
      * @see #ExtendedFloatingActionButton_extendMotionSpec
@@ -19911,7 +19993,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:elevation
+     * @attr name com.rapidzz.kidcap:elevation
      */
     public static final int ExtendedFloatingActionButton_elevation=0;
     /**
@@ -19924,7 +20006,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:extendMotionSpec
+     * @attr name com.rapidzz.kidcap:extendMotionSpec
      */
     public static final int ExtendedFloatingActionButton_extendMotionSpec=1;
     /**
@@ -19937,7 +20019,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:hideMotionSpec
+     * @attr name com.rapidzz.kidcap:hideMotionSpec
      */
     public static final int ExtendedFloatingActionButton_hideMotionSpec=2;
     /**
@@ -19950,7 +20032,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:showMotionSpec
+     * @attr name com.rapidzz.kidcap:showMotionSpec
      */
     public static final int ExtendedFloatingActionButton_showMotionSpec=3;
     /**
@@ -19963,7 +20045,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:shrinkMotionSpec
+     * @attr name com.rapidzz.kidcap:shrinkMotionSpec
      */
     public static final int ExtendedFloatingActionButton_shrinkMotionSpec=4;
     /**
@@ -19973,8 +20055,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide com.rapidzz.Kidcap:behavior_autoHide}</code></td><td>Whether the FAB should automatically hide when there is no space for it.</td></tr>
-     * <tr><td><code>{@link #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink com.rapidzz.Kidcap:behavior_autoShrink}</code></td><td>Whether the extended FAB should automatically shrink when there is no space for it.</td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide com.rapidzz.kidcap:behavior_autoHide}</code></td><td>Whether the FAB should automatically hide when there is no space for it.</td></tr>
+     * <tr><td><code>{@link #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink com.rapidzz.kidcap:behavior_autoShrink}</code></td><td>Whether the extended FAB should automatically shrink when there is no space for it.</td></tr>
      * </table>
      * @see #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide
      * @see #ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink
@@ -19990,7 +20072,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:behavior_autoHide
+     * @attr name com.rapidzz.kidcap:behavior_autoHide
      */
     public static final int ExtendedFloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -20001,7 +20083,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:behavior_autoShrink
+     * @attr name com.rapidzz.kidcap:behavior_autoShrink
      */
     public static final int ExtendedFloatingActionButton_Behavior_Layout_behavior_autoShrink=1;
     /**
@@ -20011,22 +20093,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.rapidzz.Kidcap:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.rapidzz.Kidcap:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.rapidzz.Kidcap:borderWidth}</code></td><td>The width of the border around the FAB.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation com.rapidzz.Kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_ensureMinTouchTargetSize com.rapidzz.Kidcap:ensureMinTouchTargetSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.rapidzz.Kidcap:fabCustomSize}</code></td><td>Custom size for the FAB.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize com.rapidzz.Kidcap:fabSize}</code></td><td>Size for the FAB.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.rapidzz.Kidcap:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.rapidzz.Kidcap:hoveredFocusedTranslationZ}</code></td><td>TranslationZ value for the FAB when hovered, focused, or hovered and focused.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.rapidzz.Kidcap:maxImageSize}</code></td><td>Maximum icon image size.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.rapidzz.Kidcap:pressedTranslationZ}</code></td><td>TranslationZ value for the FAB when pressed</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.rapidzz.Kidcap:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_shapeAppearance com.rapidzz.Kidcap:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_shapeAppearanceOverlay com.rapidzz.Kidcap:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.rapidzz.Kidcap:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.rapidzz.Kidcap:useCompatPadding}</code></td><td>Enable compat padding.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.rapidzz.kidcap:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.rapidzz.kidcap:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.rapidzz.kidcap:borderWidth}</code></td><td>The width of the border around the FAB.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation com.rapidzz.kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_ensureMinTouchTargetSize com.rapidzz.kidcap:ensureMinTouchTargetSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.rapidzz.kidcap:fabCustomSize}</code></td><td>Custom size for the FAB.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize com.rapidzz.kidcap:fabSize}</code></td><td>Size for the FAB.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.rapidzz.kidcap:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.rapidzz.kidcap:hoveredFocusedTranslationZ}</code></td><td>TranslationZ value for the FAB when hovered, focused, or hovered and focused.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.rapidzz.kidcap:maxImageSize}</code></td><td>Maximum icon image size.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.rapidzz.kidcap:pressedTranslationZ}</code></td><td>TranslationZ value for the FAB when pressed</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.rapidzz.kidcap:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_shapeAppearance com.rapidzz.kidcap:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_shapeAppearanceOverlay com.rapidzz.kidcap:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.rapidzz.kidcap:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.rapidzz.kidcap:useCompatPadding}</code></td><td>Enable compat padding.</td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -20060,7 +20142,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:backgroundTint
+     * @attr name com.rapidzz.kidcap:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
@@ -20087,7 +20169,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:backgroundTintMode
+     * @attr name com.rapidzz.kidcap:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
@@ -20101,7 +20183,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:borderWidth
+     * @attr name com.rapidzz.kidcap:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
@@ -20115,7 +20197,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:elevation
+     * @attr name com.rapidzz.kidcap:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
@@ -20127,7 +20209,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ensureMinTouchTargetSize
+     * @attr name com.rapidzz.kidcap:ensureMinTouchTargetSize
      */
     public static final int FloatingActionButton_ensureMinTouchTargetSize=4;
     /**
@@ -20141,7 +20223,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:fabCustomSize
+     * @attr name com.rapidzz.kidcap:fabCustomSize
      */
     public static final int FloatingActionButton_fabCustomSize=5;
     /**
@@ -20160,7 +20242,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td>The normal sized button.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:fabSize
+     * @attr name com.rapidzz.kidcap:fabSize
      */
     public static final int FloatingActionButton_fabSize=6;
     /**
@@ -20173,7 +20255,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:hideMotionSpec
+     * @attr name com.rapidzz.kidcap:hideMotionSpec
      */
     public static final int FloatingActionButton_hideMotionSpec=7;
     /**
@@ -20187,7 +20269,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:hoveredFocusedTranslationZ
+     * @attr name com.rapidzz.kidcap:hoveredFocusedTranslationZ
      */
     public static final int FloatingActionButton_hoveredFocusedTranslationZ=8;
     /**
@@ -20201,7 +20283,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:maxImageSize
+     * @attr name com.rapidzz.kidcap:maxImageSize
      */
     public static final int FloatingActionButton_maxImageSize=9;
     /**
@@ -20215,7 +20297,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:pressedTranslationZ
+     * @attr name com.rapidzz.kidcap:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=10;
     /**
@@ -20227,7 +20309,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:rippleColor
+     * @attr name com.rapidzz.kidcap:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=11;
     /**
@@ -20241,7 +20323,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:shapeAppearance
+     * @attr name com.rapidzz.kidcap:shapeAppearance
      */
     public static final int FloatingActionButton_shapeAppearance=12;
     /**
@@ -20254,7 +20336,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:shapeAppearanceOverlay
+     * @attr name com.rapidzz.kidcap:shapeAppearanceOverlay
      */
     public static final int FloatingActionButton_shapeAppearanceOverlay=13;
     /**
@@ -20267,7 +20349,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:showMotionSpec
+     * @attr name com.rapidzz.kidcap:showMotionSpec
      */
     public static final int FloatingActionButton_showMotionSpec=14;
     /**
@@ -20278,7 +20360,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:useCompatPadding
+     * @attr name com.rapidzz.kidcap:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=15;
     /**
@@ -20288,7 +20370,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.rapidzz.Kidcap:behavior_autoHide}</code></td><td>Whether the FAB should automatically hide when there is no space for it.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.rapidzz.kidcap:behavior_autoHide}</code></td><td>Whether the FAB should automatically hide when there is no space for it.</td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -20303,7 +20385,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:behavior_autoHide
+     * @attr name com.rapidzz.kidcap:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -20313,8 +20395,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FlowLayout_itemSpacing com.rapidzz.Kidcap:itemSpacing}</code></td><td>Horizontal spacing between two items being laid out.</td></tr>
-     * <tr><td><code>{@link #FlowLayout_lineSpacing com.rapidzz.Kidcap:lineSpacing}</code></td><td>Vertical Spacing between two lines of items being laid out.</td></tr>
+     * <tr><td><code>{@link #FlowLayout_itemSpacing com.rapidzz.kidcap:itemSpacing}</code></td><td>Horizontal spacing between two items being laid out.</td></tr>
+     * <tr><td><code>{@link #FlowLayout_lineSpacing com.rapidzz.kidcap:lineSpacing}</code></td><td>Vertical Spacing between two lines of items being laid out.</td></tr>
      * </table>
      * @see #FlowLayout_itemSpacing
      * @see #FlowLayout_lineSpacing
@@ -20333,7 +20415,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:itemSpacing
+     * @attr name com.rapidzz.kidcap:itemSpacing
      */
     public static final int FlowLayout_itemSpacing=0;
     /**
@@ -20347,7 +20429,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:lineSpacing
+     * @attr name com.rapidzz.kidcap:lineSpacing
      */
     public static final int FlowLayout_lineSpacing=1;
     /**
@@ -20357,12 +20439,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.rapidzz.Kidcap:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.rapidzz.Kidcap:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.rapidzz.Kidcap:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.rapidzz.Kidcap:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.rapidzz.Kidcap:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.rapidzz.Kidcap:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.rapidzz.kidcap:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.rapidzz.kidcap:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.rapidzz.kidcap:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.rapidzz.kidcap:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.rapidzz.kidcap:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.rapidzz.kidcap:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -20383,7 +20465,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:fontProviderAuthority
+     * @attr name com.rapidzz.kidcap:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
@@ -20400,7 +20482,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:fontProviderCerts
+     * @attr name com.rapidzz.kidcap:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
@@ -20432,7 +20514,7 @@ public final class R {
      * default typeface will be used instead.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:fontProviderFetchStrategy
+     * @attr name com.rapidzz.kidcap:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
@@ -20451,7 +20533,7 @@ public final class R {
      * timeout and wait until a reply is received from the font provider.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:fontProviderFetchTimeout
+     * @attr name com.rapidzz.kidcap:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
@@ -20463,7 +20545,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:fontProviderPackage
+     * @attr name com.rapidzz.kidcap:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
@@ -20475,7 +20557,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:fontProviderQuery
+     * @attr name com.rapidzz.kidcap:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -20490,11 +20572,11 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.rapidzz.Kidcap:font}</code></td><td>The reference to the font file to be used.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.rapidzz.Kidcap:fontStyle}</code></td><td>The style of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.rapidzz.Kidcap:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.rapidzz.Kidcap:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.rapidzz.Kidcap:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.rapidzz.kidcap:font}</code></td><td>The reference to the font file to be used.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.rapidzz.kidcap:fontStyle}</code></td><td>The style of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.rapidzz.kidcap:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.rapidzz.kidcap:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.rapidzz.kidcap:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -20581,7 +20663,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:font
+     * @attr name com.rapidzz.kidcap:font
      */
     public static final int FontFamilyFont_font=5;
     /**
@@ -20601,7 +20683,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:fontStyle
+     * @attr name com.rapidzz.kidcap:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=6;
     /**
@@ -20615,7 +20697,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:fontVariationSettings
+     * @attr name com.rapidzz.kidcap:fontVariationSettings
      */
     public static final int FontFamilyFont_fontVariationSettings=7;
     /**
@@ -20629,7 +20711,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:fontWeight
+     * @attr name com.rapidzz.kidcap:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=8;
     /**
@@ -20640,7 +20722,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ttcIndex
+     * @attr name com.rapidzz.kidcap:ttcIndex
      */
     public static final int FontFamilyFont_ttcIndex=9;
     /**
@@ -20652,7 +20734,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.rapidzz.Kidcap:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.rapidzz.kidcap:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -20704,13 +20786,13 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:foregroundInsidePadding
+     * @attr name com.rapidzz.kidcap:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -21073,7 +21155,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #LinePinField_bottomTextPaddingDp com.rapidzz.Kidcap:bottomTextPaddingDp}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinePinField_bottomTextPaddingDp com.rapidzz.kidcap:bottomTextPaddingDp}</code></td><td></td></tr>
      * </table>
      * @see #LinePinField_bottomTextPaddingDp
      */
@@ -21081,7 +21163,7 @@ public final class R {
       0x7f030058
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#bottomTextPaddingDp}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#bottomTextPaddingDp}
      * attribute's value can be found in the {@link #LinePinField} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21090,7 +21172,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:bottomTextPaddingDp
+     * @attr name com.rapidzz.kidcap:bottomTextPaddingDp
      */
     public static final int LinePinField_bottomTextPaddingDp=0;
     /**
@@ -21136,11 +21218,11 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.rapidzz.Kidcap:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.rapidzz.Kidcap:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.rapidzz.Kidcap:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.rapidzz.kidcap:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.rapidzz.kidcap:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.rapidzz.kidcap:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
      * the minimum size of the largest child.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.rapidzz.Kidcap:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.rapidzz.kidcap:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -21255,7 +21337,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:divider
+     * @attr name com.rapidzz.kidcap:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
@@ -21269,7 +21351,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:dividerPadding
+     * @attr name com.rapidzz.kidcap:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
@@ -21282,7 +21364,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:measureWithLargestChild
+     * @attr name com.rapidzz.kidcap:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
@@ -21302,7 +21384,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:showDividers
+     * @attr name com.rapidzz.kidcap:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -21460,9 +21542,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #LoadingImageView_circleCrop com.rapidzz.Kidcap:circleCrop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.rapidzz.Kidcap:imageAspectRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.rapidzz.Kidcap:imageAspectRatioAdjust}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_circleCrop com.rapidzz.kidcap:circleCrop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.rapidzz.kidcap:imageAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.rapidzz.kidcap:imageAspectRatioAdjust}</code></td><td></td></tr>
      * </table>
      * @see #LoadingImageView_circleCrop
      * @see #LoadingImageView_imageAspectRatio
@@ -21472,26 +21554,26 @@ public final class R {
       0x7f0300ca, 0x7f03019c, 0x7f03019d
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#circleCrop}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#circleCrop}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:circleCrop
+     * @attr name com.rapidzz.kidcap:circleCrop
      */
     public static final int LoadingImageView_circleCrop=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#imageAspectRatio}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#imageAspectRatio}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:imageAspectRatio
+     * @attr name com.rapidzz.kidcap:imageAspectRatio
      */
     public static final int LoadingImageView_imageAspectRatio=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#imageAspectRatioAdjust}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#imageAspectRatioAdjust}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -21505,7 +21587,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:imageAspectRatioAdjust
+     * @attr name com.rapidzz.kidcap:imageAspectRatioAdjust
      */
     public static final int LoadingImageView_imageAspectRatioAdjust=2;
     /**
@@ -21515,30 +21597,30 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MapAttrs_ambientEnabled com.rapidzz.Kidcap:ambientEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraBearing com.rapidzz.Kidcap:cameraBearing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraMaxZoomPreference com.rapidzz.Kidcap:cameraMaxZoomPreference}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraMinZoomPreference com.rapidzz.Kidcap:cameraMinZoomPreference}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraTargetLat com.rapidzz.Kidcap:cameraTargetLat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraTargetLng com.rapidzz.Kidcap:cameraTargetLng}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraTilt com.rapidzz.Kidcap:cameraTilt}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_cameraZoom com.rapidzz.Kidcap:cameraZoom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLatitude com.rapidzz.Kidcap:latLngBoundsNorthEastLatitude}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLongitude com.rapidzz.Kidcap:latLngBoundsNorthEastLongitude}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLatitude com.rapidzz.Kidcap:latLngBoundsSouthWestLatitude}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLongitude com.rapidzz.Kidcap:latLngBoundsSouthWestLongitude}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_liteMode com.rapidzz.Kidcap:liteMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_mapType com.rapidzz.Kidcap:mapType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiCompass com.rapidzz.Kidcap:uiCompass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiMapToolbar com.rapidzz.Kidcap:uiMapToolbar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiRotateGestures com.rapidzz.Kidcap:uiRotateGestures}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiScrollGestures com.rapidzz.Kidcap:uiScrollGestures}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiScrollGesturesDuringRotateOrZoom com.rapidzz.Kidcap:uiScrollGesturesDuringRotateOrZoom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiTiltGestures com.rapidzz.Kidcap:uiTiltGestures}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiZoomControls com.rapidzz.Kidcap:uiZoomControls}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_uiZoomGestures com.rapidzz.Kidcap:uiZoomGestures}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_useViewLifecycle com.rapidzz.Kidcap:useViewLifecycle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MapAttrs_zOrderOnTop com.rapidzz.Kidcap:zOrderOnTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_ambientEnabled com.rapidzz.kidcap:ambientEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraBearing com.rapidzz.kidcap:cameraBearing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraMaxZoomPreference com.rapidzz.kidcap:cameraMaxZoomPreference}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraMinZoomPreference com.rapidzz.kidcap:cameraMinZoomPreference}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraTargetLat com.rapidzz.kidcap:cameraTargetLat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraTargetLng com.rapidzz.kidcap:cameraTargetLng}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraTilt com.rapidzz.kidcap:cameraTilt}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_cameraZoom com.rapidzz.kidcap:cameraZoom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLatitude com.rapidzz.kidcap:latLngBoundsNorthEastLatitude}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_latLngBoundsNorthEastLongitude com.rapidzz.kidcap:latLngBoundsNorthEastLongitude}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLatitude com.rapidzz.kidcap:latLngBoundsSouthWestLatitude}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_latLngBoundsSouthWestLongitude com.rapidzz.kidcap:latLngBoundsSouthWestLongitude}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_liteMode com.rapidzz.kidcap:liteMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_mapType com.rapidzz.kidcap:mapType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiCompass com.rapidzz.kidcap:uiCompass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiMapToolbar com.rapidzz.kidcap:uiMapToolbar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiRotateGestures com.rapidzz.kidcap:uiRotateGestures}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiScrollGestures com.rapidzz.kidcap:uiScrollGestures}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiScrollGesturesDuringRotateOrZoom com.rapidzz.kidcap:uiScrollGesturesDuringRotateOrZoom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiTiltGestures com.rapidzz.kidcap:uiTiltGestures}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiZoomControls com.rapidzz.kidcap:uiZoomControls}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_uiZoomGestures com.rapidzz.kidcap:uiZoomGestures}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_useViewLifecycle com.rapidzz.kidcap:useViewLifecycle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MapAttrs_zOrderOnTop com.rapidzz.kidcap:zOrderOnTop}</code></td><td></td></tr>
      * </table>
      * @see #MapAttrs_ambientEnabled
      * @see #MapAttrs_cameraBearing
@@ -21574,126 +21656,126 @@ public final class R {
       0x7f030303, 0x7f030304, 0x7f030308, 0x7f030318
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#ambientEnabled}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#ambientEnabled}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:ambientEnabled
+     * @attr name com.rapidzz.kidcap:ambientEnabled
      */
     public static final int MapAttrs_ambientEnabled=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#cameraBearing}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#cameraBearing}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:cameraBearing
+     * @attr name com.rapidzz.kidcap:cameraBearing
      */
     public static final int MapAttrs_cameraBearing=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#cameraMaxZoomPreference}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#cameraMaxZoomPreference}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:cameraMaxZoomPreference
+     * @attr name com.rapidzz.kidcap:cameraMaxZoomPreference
      */
     public static final int MapAttrs_cameraMaxZoomPreference=2;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#cameraMinZoomPreference}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#cameraMinZoomPreference}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:cameraMinZoomPreference
+     * @attr name com.rapidzz.kidcap:cameraMinZoomPreference
      */
     public static final int MapAttrs_cameraMinZoomPreference=3;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#cameraTargetLat}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#cameraTargetLat}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:cameraTargetLat
+     * @attr name com.rapidzz.kidcap:cameraTargetLat
      */
     public static final int MapAttrs_cameraTargetLat=4;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#cameraTargetLng}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#cameraTargetLng}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:cameraTargetLng
+     * @attr name com.rapidzz.kidcap:cameraTargetLng
      */
     public static final int MapAttrs_cameraTargetLng=5;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#cameraTilt}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#cameraTilt}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:cameraTilt
+     * @attr name com.rapidzz.kidcap:cameraTilt
      */
     public static final int MapAttrs_cameraTilt=6;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#cameraZoom}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#cameraZoom}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:cameraZoom
+     * @attr name com.rapidzz.kidcap:cameraZoom
      */
     public static final int MapAttrs_cameraZoom=7;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#latLngBoundsNorthEastLatitude}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#latLngBoundsNorthEastLatitude}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:latLngBoundsNorthEastLatitude
+     * @attr name com.rapidzz.kidcap:latLngBoundsNorthEastLatitude
      */
     public static final int MapAttrs_latLngBoundsNorthEastLatitude=8;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#latLngBoundsNorthEastLongitude}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#latLngBoundsNorthEastLongitude}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:latLngBoundsNorthEastLongitude
+     * @attr name com.rapidzz.kidcap:latLngBoundsNorthEastLongitude
      */
     public static final int MapAttrs_latLngBoundsNorthEastLongitude=9;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#latLngBoundsSouthWestLatitude}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#latLngBoundsSouthWestLatitude}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:latLngBoundsSouthWestLatitude
+     * @attr name com.rapidzz.kidcap:latLngBoundsSouthWestLatitude
      */
     public static final int MapAttrs_latLngBoundsSouthWestLatitude=10;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#latLngBoundsSouthWestLongitude}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#latLngBoundsSouthWestLongitude}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:latLngBoundsSouthWestLongitude
+     * @attr name com.rapidzz.kidcap:latLngBoundsSouthWestLongitude
      */
     public static final int MapAttrs_latLngBoundsSouthWestLongitude=11;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#liteMode}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#liteMode}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:liteMode
+     * @attr name com.rapidzz.kidcap:liteMode
      */
     public static final int MapAttrs_liteMode=12;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#mapType}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#mapType}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -21709,107 +21791,107 @@ public final class R {
      * <tr><td>terrain</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:mapType
+     * @attr name com.rapidzz.kidcap:mapType
      */
     public static final int MapAttrs_mapType=13;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#uiCompass}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#uiCompass}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:uiCompass
+     * @attr name com.rapidzz.kidcap:uiCompass
      */
     public static final int MapAttrs_uiCompass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#uiMapToolbar}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#uiMapToolbar}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:uiMapToolbar
+     * @attr name com.rapidzz.kidcap:uiMapToolbar
      */
     public static final int MapAttrs_uiMapToolbar=15;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#uiRotateGestures}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#uiRotateGestures}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:uiRotateGestures
+     * @attr name com.rapidzz.kidcap:uiRotateGestures
      */
     public static final int MapAttrs_uiRotateGestures=16;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#uiScrollGestures}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#uiScrollGestures}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:uiScrollGestures
+     * @attr name com.rapidzz.kidcap:uiScrollGestures
      */
     public static final int MapAttrs_uiScrollGestures=17;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#uiScrollGesturesDuringRotateOrZoom}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#uiScrollGesturesDuringRotateOrZoom}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:uiScrollGesturesDuringRotateOrZoom
+     * @attr name com.rapidzz.kidcap:uiScrollGesturesDuringRotateOrZoom
      */
     public static final int MapAttrs_uiScrollGesturesDuringRotateOrZoom=18;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#uiTiltGestures}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#uiTiltGestures}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:uiTiltGestures
+     * @attr name com.rapidzz.kidcap:uiTiltGestures
      */
     public static final int MapAttrs_uiTiltGestures=19;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#uiZoomControls}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#uiZoomControls}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:uiZoomControls
+     * @attr name com.rapidzz.kidcap:uiZoomControls
      */
     public static final int MapAttrs_uiZoomControls=20;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#uiZoomGestures}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#uiZoomGestures}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:uiZoomGestures
+     * @attr name com.rapidzz.kidcap:uiZoomGestures
      */
     public static final int MapAttrs_uiZoomGestures=21;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#useViewLifecycle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#useViewLifecycle}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:useViewLifecycle
+     * @attr name com.rapidzz.kidcap:useViewLifecycle
      */
     public static final int MapAttrs_useViewLifecycle=22;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#zOrderOnTop}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#zOrderOnTop}
      * attribute's value can be found in the {@link #MapAttrs} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:zOrderOnTop
+     * @attr name com.rapidzz.kidcap:zOrderOnTop
      */
     public static final int MapAttrs_zOrderOnTop=23;
     /**
@@ -21819,10 +21901,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetBottom com.rapidzz.Kidcap:backgroundInsetBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetEnd com.rapidzz.Kidcap:backgroundInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetStart com.rapidzz.Kidcap:backgroundInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetTop com.rapidzz.Kidcap:backgroundInsetTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetBottom com.rapidzz.kidcap:backgroundInsetBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetEnd com.rapidzz.kidcap:backgroundInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetStart com.rapidzz.kidcap:backgroundInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialog_backgroundInsetTop com.rapidzz.kidcap:backgroundInsetTop}</code></td><td></td></tr>
      * </table>
      * @see #MaterialAlertDialog_backgroundInsetBottom
      * @see #MaterialAlertDialog_backgroundInsetEnd
@@ -21833,7 +21915,7 @@ public final class R {
       0x7f030039, 0x7f03003a, 0x7f03003b, 0x7f03003c
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#backgroundInsetBottom}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#backgroundInsetBottom}
      * attribute's value can be found in the {@link #MaterialAlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21842,11 +21924,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:backgroundInsetBottom
+     * @attr name com.rapidzz.kidcap:backgroundInsetBottom
      */
     public static final int MaterialAlertDialog_backgroundInsetBottom=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#backgroundInsetEnd}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#backgroundInsetEnd}
      * attribute's value can be found in the {@link #MaterialAlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21855,11 +21937,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:backgroundInsetEnd
+     * @attr name com.rapidzz.kidcap:backgroundInsetEnd
      */
     public static final int MaterialAlertDialog_backgroundInsetEnd=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#backgroundInsetStart}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#backgroundInsetStart}
      * attribute's value can be found in the {@link #MaterialAlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21868,11 +21950,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:backgroundInsetStart
+     * @attr name com.rapidzz.kidcap:backgroundInsetStart
      */
     public static final int MaterialAlertDialog_backgroundInsetStart=2;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#backgroundInsetTop}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#backgroundInsetTop}
      * attribute's value can be found in the {@link #MaterialAlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21881,7 +21963,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:backgroundInsetTop
+     * @attr name com.rapidzz.kidcap:backgroundInsetTop
      */
     public static final int MaterialAlertDialog_backgroundInsetTop=3;
     /**
@@ -21891,11 +21973,11 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle com.rapidzz.Kidcap:materialAlertDialogBodyTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTheme com.rapidzz.Kidcap:materialAlertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle com.rapidzz.Kidcap:materialAlertDialogTitleIconStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle com.rapidzz.Kidcap:materialAlertDialogTitlePanelStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle com.rapidzz.Kidcap:materialAlertDialogTitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle com.rapidzz.kidcap:materialAlertDialogBodyTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTheme com.rapidzz.kidcap:materialAlertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle com.rapidzz.kidcap:materialAlertDialogTitleIconStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle com.rapidzz.kidcap:materialAlertDialogTitlePanelStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle com.rapidzz.kidcap:materialAlertDialogTitleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle
      * @see #MaterialAlertDialogTheme_materialAlertDialogTheme
@@ -21908,7 +21990,7 @@ public final class R {
       0x7f030221
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#materialAlertDialogBodyTextStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#materialAlertDialogBodyTextStyle}
      * attribute's value can be found in the {@link #MaterialAlertDialogTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21916,11 +21998,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:materialAlertDialogBodyTextStyle
+     * @attr name com.rapidzz.kidcap:materialAlertDialogBodyTextStyle
      */
     public static final int MaterialAlertDialogTheme_materialAlertDialogBodyTextStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#materialAlertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#materialAlertDialogTheme}
      * attribute's value can be found in the {@link #MaterialAlertDialogTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21928,11 +22010,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:materialAlertDialogTheme
+     * @attr name com.rapidzz.kidcap:materialAlertDialogTheme
      */
     public static final int MaterialAlertDialogTheme_materialAlertDialogTheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#materialAlertDialogTitleIconStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#materialAlertDialogTitleIconStyle}
      * attribute's value can be found in the {@link #MaterialAlertDialogTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21940,11 +22022,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:materialAlertDialogTitleIconStyle
+     * @attr name com.rapidzz.kidcap:materialAlertDialogTitleIconStyle
      */
     public static final int MaterialAlertDialogTheme_materialAlertDialogTitleIconStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#materialAlertDialogTitlePanelStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#materialAlertDialogTitlePanelStyle}
      * attribute's value can be found in the {@link #MaterialAlertDialogTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21952,11 +22034,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:materialAlertDialogTitlePanelStyle
+     * @attr name com.rapidzz.kidcap:materialAlertDialogTitlePanelStyle
      */
     public static final int MaterialAlertDialogTheme_materialAlertDialogTitlePanelStyle=3;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#materialAlertDialogTitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#materialAlertDialogTitleTextStyle}
      * attribute's value can be found in the {@link #MaterialAlertDialogTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21964,7 +22046,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:materialAlertDialogTitleTextStyle
+     * @attr name com.rapidzz.kidcap:materialAlertDialogTitleTextStyle
      */
     public static final int MaterialAlertDialogTheme_materialAlertDialogTitleTextStyle=4;
     /**
@@ -21979,21 +22061,21 @@ public final class R {
      * <tr><td><code>{@link #MaterialButton_android_insetTop android:insetTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetBottom android:insetBottom}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTint com.rapidzz.Kidcap:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.rapidzz.Kidcap:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_cornerRadius com.rapidzz.Kidcap:cornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_elevation com.rapidzz.Kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #MaterialButton_icon com.rapidzz.Kidcap:icon}</code></td><td>Icon drawable to display at the start of this view.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconGravity com.rapidzz.Kidcap:iconGravity}</code></td><td>Specifies how the icon should be positioned on the X axis.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconPadding com.rapidzz.Kidcap:iconPadding}</code></td><td>Padding between icon and button text.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconSize com.rapidzz.Kidcap:iconSize}</code></td><td>Specifies the width and height to use for the icon drawable.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTint com.rapidzz.Kidcap:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTintMode com.rapidzz.Kidcap:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_rippleColor com.rapidzz.Kidcap:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_shapeAppearance com.rapidzz.Kidcap:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_shapeAppearanceOverlay com.rapidzz.Kidcap:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeColor com.rapidzz.Kidcap:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeWidth com.rapidzz.Kidcap:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTint com.rapidzz.kidcap:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.rapidzz.kidcap:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_cornerRadius com.rapidzz.kidcap:cornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_elevation com.rapidzz.kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #MaterialButton_icon com.rapidzz.kidcap:icon}</code></td><td>Icon drawable to display at the start of this view.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconGravity com.rapidzz.kidcap:iconGravity}</code></td><td>Specifies how the icon should be positioned on the X axis.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconPadding com.rapidzz.kidcap:iconPadding}</code></td><td>Padding between icon and button text.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconSize com.rapidzz.kidcap:iconSize}</code></td><td>Specifies the width and height to use for the icon drawable.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTint com.rapidzz.kidcap:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTintMode com.rapidzz.kidcap:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_rippleColor com.rapidzz.kidcap:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_shapeAppearance com.rapidzz.kidcap:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_shapeAppearanceOverlay com.rapidzz.kidcap:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeColor com.rapidzz.kidcap:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeWidth com.rapidzz.kidcap:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialButton_android_insetLeft
      * @see #MaterialButton_android_insetRight
@@ -22111,7 +22193,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:backgroundTint
+     * @attr name com.rapidzz.kidcap:backgroundTint
      */
     public static final int MaterialButton_backgroundTint=5;
     /**
@@ -22138,7 +22220,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:backgroundTintMode
+     * @attr name com.rapidzz.kidcap:backgroundTintMode
      */
     public static final int MaterialButton_backgroundTintMode=6;
     /**
@@ -22152,7 +22234,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:cornerRadius
+     * @attr name com.rapidzz.kidcap:cornerRadius
      */
     public static final int MaterialButton_cornerRadius=7;
     /**
@@ -22166,7 +22248,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:elevation
+     * @attr name com.rapidzz.kidcap:elevation
      */
     public static final int MaterialButton_elevation=8;
     /**
@@ -22179,7 +22261,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:icon
+     * @attr name com.rapidzz.kidcap:icon
      */
     public static final int MaterialButton_icon=9;
     /**
@@ -22201,7 +22283,7 @@ public final class R {
      * {@link R.attr#iconPadding} from the text.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:iconGravity
+     * @attr name com.rapidzz.kidcap:iconGravity
      */
     public static final int MaterialButton_iconGravity=10;
     /**
@@ -22215,7 +22297,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:iconPadding
+     * @attr name com.rapidzz.kidcap:iconPadding
      */
     public static final int MaterialButton_iconPadding=11;
     /**
@@ -22229,7 +22311,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:iconSize
+     * @attr name com.rapidzz.kidcap:iconSize
      */
     public static final int MaterialButton_iconSize=12;
     /**
@@ -22241,7 +22323,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:iconTint
+     * @attr name com.rapidzz.kidcap:iconTint
      */
     public static final int MaterialButton_iconTint=13;
     /**
@@ -22268,7 +22350,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:iconTintMode
+     * @attr name com.rapidzz.kidcap:iconTintMode
      */
     public static final int MaterialButton_iconTintMode=14;
     /**
@@ -22281,7 +22363,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:rippleColor
+     * @attr name com.rapidzz.kidcap:rippleColor
      */
     public static final int MaterialButton_rippleColor=15;
     /**
@@ -22295,7 +22377,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:shapeAppearance
+     * @attr name com.rapidzz.kidcap:shapeAppearance
      */
     public static final int MaterialButton_shapeAppearance=16;
     /**
@@ -22309,7 +22391,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:shapeAppearanceOverlay
+     * @attr name com.rapidzz.kidcap:shapeAppearanceOverlay
      */
     public static final int MaterialButton_shapeAppearanceOverlay=17;
     /**
@@ -22322,7 +22404,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:strokeColor
+     * @attr name com.rapidzz.kidcap:strokeColor
      */
     public static final int MaterialButton_strokeColor=18;
     /**
@@ -22337,7 +22419,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:strokeWidth
+     * @attr name com.rapidzz.kidcap:strokeWidth
      */
     public static final int MaterialButton_strokeWidth=19;
     /**
@@ -22347,8 +22429,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialButtonToggleGroup_checkedButton com.rapidzz.Kidcap:checkedButton}</code></td><td>The id of the child button that should be checked by default within this button group.</td></tr>
-     * <tr><td><code>{@link #MaterialButtonToggleGroup_singleSelection com.rapidzz.Kidcap:singleSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButtonToggleGroup_checkedButton com.rapidzz.kidcap:checkedButton}</code></td><td>The id of the child button that should be checked by default within this button group.</td></tr>
+     * <tr><td><code>{@link #MaterialButtonToggleGroup_singleSelection com.rapidzz.kidcap:singleSelection}</code></td><td></td></tr>
      * </table>
      * @see #MaterialButtonToggleGroup_checkedButton
      * @see #MaterialButtonToggleGroup_singleSelection
@@ -22366,7 +22448,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:checkedButton
+     * @attr name com.rapidzz.kidcap:checkedButton
      */
     public static final int MaterialButtonToggleGroup_checkedButton=0;
     /**
@@ -22379,7 +22461,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:singleSelection
+     * @attr name com.rapidzz.kidcap:singleSelection
      */
     public static final int MaterialButtonToggleGroup_singleSelection=1;
     /**
@@ -22390,14 +22472,14 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #MaterialCalendar_android_windowFullscreen android:windowFullscreen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_dayInvalidStyle com.rapidzz.Kidcap:dayInvalidStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_daySelectedStyle com.rapidzz.Kidcap:daySelectedStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_dayStyle com.rapidzz.Kidcap:dayStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_dayTodayStyle com.rapidzz.Kidcap:dayTodayStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_rangeFillColor com.rapidzz.Kidcap:rangeFillColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_yearSelectedStyle com.rapidzz.Kidcap:yearSelectedStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_yearStyle com.rapidzz.Kidcap:yearStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendar_yearTodayStyle com.rapidzz.Kidcap:yearTodayStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_dayInvalidStyle com.rapidzz.kidcap:dayInvalidStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_daySelectedStyle com.rapidzz.kidcap:daySelectedStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_dayStyle com.rapidzz.kidcap:dayStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_dayTodayStyle com.rapidzz.kidcap:dayTodayStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_rangeFillColor com.rapidzz.kidcap:rangeFillColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_yearSelectedStyle com.rapidzz.kidcap:yearSelectedStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_yearStyle com.rapidzz.kidcap:yearStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendar_yearTodayStyle com.rapidzz.kidcap:yearTodayStyle}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCalendar_android_windowFullscreen
      * @see #MaterialCalendar_dayInvalidStyle
@@ -22425,7 +22507,7 @@ public final class R {
      */
     public static final int MaterialCalendar_android_windowFullscreen=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#dayInvalidStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#dayInvalidStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22433,11 +22515,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:dayInvalidStyle
+     * @attr name com.rapidzz.kidcap:dayInvalidStyle
      */
     public static final int MaterialCalendar_dayInvalidStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#daySelectedStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#daySelectedStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22445,11 +22527,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:daySelectedStyle
+     * @attr name com.rapidzz.kidcap:daySelectedStyle
      */
     public static final int MaterialCalendar_daySelectedStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#dayStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#dayStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22457,11 +22539,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:dayStyle
+     * @attr name com.rapidzz.kidcap:dayStyle
      */
     public static final int MaterialCalendar_dayStyle=3;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#dayTodayStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#dayTodayStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22469,22 +22551,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:dayTodayStyle
+     * @attr name com.rapidzz.kidcap:dayTodayStyle
      */
     public static final int MaterialCalendar_dayTodayStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#rangeFillColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#rangeFillColor}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:rangeFillColor
+     * @attr name com.rapidzz.kidcap:rangeFillColor
      */
     public static final int MaterialCalendar_rangeFillColor=5;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#yearSelectedStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#yearSelectedStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22492,11 +22574,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:yearSelectedStyle
+     * @attr name com.rapidzz.kidcap:yearSelectedStyle
      */
     public static final int MaterialCalendar_yearSelectedStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#yearStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#yearStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22504,11 +22586,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:yearStyle
+     * @attr name com.rapidzz.kidcap:yearStyle
      */
     public static final int MaterialCalendar_yearStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#yearTodayStyle}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#yearTodayStyle}
      * attribute's value can be found in the {@link #MaterialCalendar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22516,7 +22598,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:yearTodayStyle
+     * @attr name com.rapidzz.kidcap:yearTodayStyle
      */
     public static final int MaterialCalendar_yearTodayStyle=8;
     /**
@@ -22530,12 +22612,12 @@ public final class R {
      * <tr><td><code>{@link #MaterialCalendarItem_android_insetRight android:insetRight}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialCalendarItem_android_insetTop android:insetTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialCalendarItem_android_insetBottom android:insetBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemFillColor com.rapidzz.Kidcap:itemFillColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemShapeAppearance com.rapidzz.Kidcap:itemShapeAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemShapeAppearanceOverlay com.rapidzz.Kidcap:itemShapeAppearanceOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemStrokeColor com.rapidzz.Kidcap:itemStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemStrokeWidth com.rapidzz.Kidcap:itemStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCalendarItem_itemTextColor com.rapidzz.Kidcap:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemFillColor com.rapidzz.kidcap:itemFillColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemShapeAppearance com.rapidzz.kidcap:itemShapeAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemShapeAppearanceOverlay com.rapidzz.kidcap:itemShapeAppearanceOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemStrokeColor com.rapidzz.kidcap:itemStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemStrokeWidth com.rapidzz.kidcap:itemStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCalendarItem_itemTextColor com.rapidzz.kidcap:itemTextColor}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCalendarItem_android_insetLeft
      * @see #MaterialCalendarItem_android_insetRight
@@ -22622,18 +22704,18 @@ public final class R {
      */
     public static final int MaterialCalendarItem_android_insetBottom=3;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#itemFillColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#itemFillColor}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemFillColor
+     * @attr name com.rapidzz.kidcap:itemFillColor
      */
     public static final int MaterialCalendarItem_itemFillColor=4;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#itemShapeAppearance}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#itemShapeAppearance}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22641,11 +22723,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemShapeAppearance
+     * @attr name com.rapidzz.kidcap:itemShapeAppearance
      */
     public static final int MaterialCalendarItem_itemShapeAppearance=5;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#itemShapeAppearanceOverlay}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#itemShapeAppearanceOverlay}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22653,22 +22735,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemShapeAppearanceOverlay
+     * @attr name com.rapidzz.kidcap:itemShapeAppearanceOverlay
      */
     public static final int MaterialCalendarItem_itemShapeAppearanceOverlay=6;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#itemStrokeColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#itemStrokeColor}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemStrokeColor
+     * @attr name com.rapidzz.kidcap:itemStrokeColor
      */
     public static final int MaterialCalendarItem_itemStrokeColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#itemStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#itemStrokeWidth}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -22677,18 +22759,18 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:itemStrokeWidth
+     * @attr name com.rapidzz.kidcap:itemStrokeWidth
      */
     public static final int MaterialCalendarItem_itemStrokeWidth=8;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #MaterialCalendarItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemTextColor
+     * @attr name com.rapidzz.kidcap:itemTextColor
      */
     public static final int MaterialCalendarItem_itemTextColor=9;
     /**
@@ -22699,15 +22781,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #MaterialCardView_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_cardForegroundColor com.rapidzz.Kidcap:cardForegroundColor}</code></td><td>Foreground color for CardView.</td></tr>
-     * <tr><td><code>{@link #MaterialCardView_checkedIcon com.rapidzz.Kidcap:checkedIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_checkedIconTint com.rapidzz.Kidcap:checkedIconTint}</code></td><td>Tint color for the checked icon.</td></tr>
-     * <tr><td><code>{@link #MaterialCardView_rippleColor com.rapidzz.Kidcap:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_shapeAppearance com.rapidzz.Kidcap:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #MaterialCardView_shapeAppearanceOverlay com.rapidzz.Kidcap:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #MaterialCardView_state_dragged com.rapidzz.Kidcap:state_dragged}</code></td><td>State when a Card is being dragged.</td></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeColor com.rapidzz.Kidcap:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.rapidzz.Kidcap:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_cardForegroundColor com.rapidzz.kidcap:cardForegroundColor}</code></td><td>Foreground color for CardView.</td></tr>
+     * <tr><td><code>{@link #MaterialCardView_checkedIcon com.rapidzz.kidcap:checkedIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_checkedIconTint com.rapidzz.kidcap:checkedIconTint}</code></td><td>Tint color for the checked icon.</td></tr>
+     * <tr><td><code>{@link #MaterialCardView_rippleColor com.rapidzz.kidcap:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_shapeAppearance com.rapidzz.kidcap:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #MaterialCardView_shapeAppearanceOverlay com.rapidzz.kidcap:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #MaterialCardView_state_dragged com.rapidzz.kidcap:state_dragged}</code></td><td>State when a Card is being dragged.</td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeColor com.rapidzz.kidcap:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.rapidzz.kidcap:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCardView_android_checkable
      * @see #MaterialCardView_cardForegroundColor
@@ -22745,7 +22827,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:cardForegroundColor
+     * @attr name com.rapidzz.kidcap:cardForegroundColor
      */
     public static final int MaterialCardView_cardForegroundColor=1;
     /**
@@ -22758,7 +22840,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:checkedIcon
+     * @attr name com.rapidzz.kidcap:checkedIcon
      */
     public static final int MaterialCardView_checkedIcon=2;
     /**
@@ -22770,7 +22852,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:checkedIconTint
+     * @attr name com.rapidzz.kidcap:checkedIconTint
      */
     public static final int MaterialCardView_checkedIconTint=3;
     /**
@@ -22782,7 +22864,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:rippleColor
+     * @attr name com.rapidzz.kidcap:rippleColor
      */
     public static final int MaterialCardView_rippleColor=4;
     /**
@@ -22796,7 +22878,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:shapeAppearance
+     * @attr name com.rapidzz.kidcap:shapeAppearance
      */
     public static final int MaterialCardView_shapeAppearance=5;
     /**
@@ -22810,7 +22892,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:shapeAppearanceOverlay
+     * @attr name com.rapidzz.kidcap:shapeAppearanceOverlay
      */
     public static final int MaterialCardView_shapeAppearanceOverlay=6;
     /**
@@ -22821,7 +22903,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:state_dragged
+     * @attr name com.rapidzz.kidcap:state_dragged
      */
     public static final int MaterialCardView_state_dragged=7;
     /**
@@ -22834,7 +22916,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:strokeColor
+     * @attr name com.rapidzz.kidcap:strokeColor
      */
     public static final int MaterialCardView_strokeColor=8;
     /**
@@ -22849,7 +22931,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:strokeWidth
+     * @attr name com.rapidzz.kidcap:strokeWidth
      */
     public static final int MaterialCardView_strokeWidth=9;
     /**
@@ -22859,8 +22941,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialCheckBox_buttonTint com.rapidzz.Kidcap:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
-     * <tr><td><code>{@link #MaterialCheckBox_useMaterialThemeColors com.rapidzz.Kidcap:useMaterialThemeColors}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCheckBox_buttonTint com.rapidzz.kidcap:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #MaterialCheckBox_useMaterialThemeColors com.rapidzz.kidcap:useMaterialThemeColors}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCheckBox_buttonTint
      * @see #MaterialCheckBox_useMaterialThemeColors
@@ -22877,7 +22959,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:buttonTint
+     * @attr name com.rapidzz.kidcap:buttonTint
      */
     public static final int MaterialCheckBox_buttonTint=0;
     /**
@@ -22891,7 +22973,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:useMaterialThemeColors
+     * @attr name com.rapidzz.kidcap:useMaterialThemeColors
      */
     public static final int MaterialCheckBox_useMaterialThemeColors=1;
     /**
@@ -22901,7 +22983,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialRadioButton_useMaterialThemeColors com.rapidzz.Kidcap:useMaterialThemeColors}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialRadioButton_useMaterialThemeColors com.rapidzz.kidcap:useMaterialThemeColors}</code></td><td></td></tr>
      * </table>
      * @see #MaterialRadioButton_useMaterialThemeColors
      */
@@ -22919,7 +23001,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:useMaterialThemeColors
+     * @attr name com.rapidzz.kidcap:useMaterialThemeColors
      */
     public static final int MaterialRadioButton_useMaterialThemeColors=0;
     /**
@@ -22929,8 +23011,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialShape_shapeAppearance com.rapidzz.Kidcap:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #MaterialShape_shapeAppearanceOverlay com.rapidzz.Kidcap:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #MaterialShape_shapeAppearance com.rapidzz.kidcap:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #MaterialShape_shapeAppearanceOverlay com.rapidzz.kidcap:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
      * </table>
      * @see #MaterialShape_shapeAppearance
      * @see #MaterialShape_shapeAppearanceOverlay
@@ -22948,7 +23030,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:shapeAppearance
+     * @attr name com.rapidzz.kidcap:shapeAppearance
      */
     public static final int MaterialShape_shapeAppearance=0;
     /**
@@ -22961,7 +23043,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:shapeAppearanceOverlay
+     * @attr name com.rapidzz.kidcap:shapeAppearanceOverlay
      */
     public static final int MaterialShape_shapeAppearanceOverlay=1;
     /**
@@ -22972,7 +23054,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #MaterialTextAppearance_android_lineHeight android:lineHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialTextAppearance_lineHeight com.rapidzz.Kidcap:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #MaterialTextAppearance_lineHeight com.rapidzz.kidcap:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
      * </table>
      * @see #MaterialTextAppearance_android_lineHeight
      * @see #MaterialTextAppearance_lineHeight
@@ -23007,7 +23089,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:lineHeight
+     * @attr name com.rapidzz.kidcap:lineHeight
      */
     public static final int MaterialTextAppearance_lineHeight=1;
     /**
@@ -23019,7 +23101,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #MaterialTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialTextView_android_lineHeight android:lineHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialTextView_lineHeight com.rapidzz.Kidcap:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #MaterialTextView_lineHeight com.rapidzz.kidcap:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
      * </table>
      * @see #MaterialTextView_android_textAppearance
      * @see #MaterialTextView_android_lineHeight
@@ -23065,7 +23147,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:lineHeight
+     * @attr name com.rapidzz.kidcap:lineHeight
      */
     public static final int MaterialTextView_lineHeight=2;
     /**
@@ -23199,18 +23281,18 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.rapidzz.Kidcap:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.rapidzz.Kidcap:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
+     * <tr><td><code>{@link #MenuItem_actionLayout com.rapidzz.kidcap:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.rapidzz.kidcap:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
      * and perform operations such as default action for that menu item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.rapidzz.Kidcap:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.rapidzz.kidcap:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
      * action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.rapidzz.Kidcap:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.rapidzz.Kidcap:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.rapidzz.Kidcap:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.rapidzz.Kidcap:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.rapidzz.Kidcap:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.rapidzz.Kidcap:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.rapidzz.Kidcap:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.rapidzz.kidcap:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.rapidzz.kidcap:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.rapidzz.kidcap:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.rapidzz.kidcap:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.rapidzz.kidcap:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.rapidzz.kidcap:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.rapidzz.kidcap:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -23419,7 +23501,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionLayout
+     * @attr name com.rapidzz.kidcap:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
@@ -23433,7 +23515,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:actionProviderClass
+     * @attr name com.rapidzz.kidcap:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
@@ -23446,7 +23528,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:actionViewClass
+     * @attr name com.rapidzz.kidcap:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
@@ -23469,7 +23551,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:alphabeticModifiers
+     * @attr name com.rapidzz.kidcap:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -23480,7 +23562,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:contentDescription
+     * @attr name com.rapidzz.kidcap:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
@@ -23492,7 +23574,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:iconTint
+     * @attr name com.rapidzz.kidcap:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
@@ -23519,7 +23601,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:iconTintMode
+     * @attr name com.rapidzz.kidcap:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
@@ -23542,7 +23624,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:numericModifiers
+     * @attr name com.rapidzz.kidcap:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
@@ -23572,7 +23654,7 @@ public final class R {
      * label with it even if it has an icon representation.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:showAsAction
+     * @attr name com.rapidzz.kidcap:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
@@ -23583,7 +23665,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:tooltipText
+     * @attr name com.rapidzz.kidcap:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -23600,8 +23682,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.rapidzz.Kidcap:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.rapidzz.Kidcap:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.rapidzz.kidcap:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.rapidzz.kidcap:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -23720,7 +23802,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:preserveIconSpacing
+     * @attr name com.rapidzz.kidcap:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
@@ -23733,7 +23815,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:subMenuArrow
+     * @attr name com.rapidzz.kidcap:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -23744,14 +23826,14 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #NavAction_android_id android:id}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_destination com.rapidzz.Kidcap:destination}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_enterAnim com.rapidzz.Kidcap:enterAnim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_exitAnim com.rapidzz.Kidcap:exitAnim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_launchSingleTop com.rapidzz.Kidcap:launchSingleTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_popEnterAnim com.rapidzz.Kidcap:popEnterAnim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_popExitAnim com.rapidzz.Kidcap:popExitAnim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_popUpTo com.rapidzz.Kidcap:popUpTo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavAction_popUpToInclusive com.rapidzz.Kidcap:popUpToInclusive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_destination com.rapidzz.kidcap:destination}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_enterAnim com.rapidzz.kidcap:enterAnim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_exitAnim com.rapidzz.kidcap:exitAnim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_launchSingleTop com.rapidzz.kidcap:launchSingleTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_popEnterAnim com.rapidzz.kidcap:popEnterAnim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_popExitAnim com.rapidzz.kidcap:popExitAnim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_popUpTo com.rapidzz.kidcap:popUpTo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavAction_popUpToInclusive com.rapidzz.kidcap:popUpToInclusive}</code></td><td></td></tr>
      * </table>
      * @see #NavAction_android_id
      * @see #NavAction_destination
@@ -23781,7 +23863,7 @@ public final class R {
      */
     public static final int NavAction_android_id=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#destination}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#destination}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23789,11 +23871,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:destination
+     * @attr name com.rapidzz.kidcap:destination
      */
     public static final int NavAction_destination=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#enterAnim}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#enterAnim}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23801,11 +23883,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:enterAnim
+     * @attr name com.rapidzz.kidcap:enterAnim
      */
     public static final int NavAction_enterAnim=2;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#exitAnim}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#exitAnim}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23813,21 +23895,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:exitAnim
+     * @attr name com.rapidzz.kidcap:exitAnim
      */
     public static final int NavAction_exitAnim=3;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#launchSingleTop}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#launchSingleTop}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:launchSingleTop
+     * @attr name com.rapidzz.kidcap:launchSingleTop
      */
     public static final int NavAction_launchSingleTop=4;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#popEnterAnim}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#popEnterAnim}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23835,11 +23917,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:popEnterAnim
+     * @attr name com.rapidzz.kidcap:popEnterAnim
      */
     public static final int NavAction_popEnterAnim=5;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#popExitAnim}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#popExitAnim}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23847,11 +23929,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:popExitAnim
+     * @attr name com.rapidzz.kidcap:popExitAnim
      */
     public static final int NavAction_popExitAnim=6;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#popUpTo}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#popUpTo}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23859,17 +23941,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:popUpTo
+     * @attr name com.rapidzz.kidcap:popUpTo
      */
     public static final int NavAction_popUpTo=7;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#popUpToInclusive}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#popUpToInclusive}
      * attribute's value can be found in the {@link #NavAction} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:popUpToInclusive
+     * @attr name com.rapidzz.kidcap:popUpToInclusive
      */
     public static final int NavAction_popUpToInclusive=8;
     /**
@@ -23881,8 +23963,8 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #NavArgument_android_name android:name}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavArgument_android_defaultValue android:defaultValue}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavArgument_argType com.rapidzz.Kidcap:argType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavArgument_nullable com.rapidzz.Kidcap:nullable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavArgument_argType com.rapidzz.kidcap:argType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavArgument_nullable com.rapidzz.kidcap:nullable}</code></td><td></td></tr>
      * </table>
      * @see #NavArgument_android_name
      * @see #NavArgument_android_defaultValue
@@ -23921,23 +24003,23 @@ public final class R {
      */
     public static final int NavArgument_android_defaultValue=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#argType}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#argType}
      * attribute's value can be found in the {@link #NavArgument} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:argType
+     * @attr name com.rapidzz.kidcap:argType
      */
     public static final int NavArgument_argType=2;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#nullable}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#nullable}
      * attribute's value can be found in the {@link #NavArgument} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:nullable
+     * @attr name com.rapidzz.kidcap:nullable
      */
     public static final int NavArgument_nullable=3;
     /**
@@ -23948,7 +24030,7 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #NavDeepLink_android_autoVerify android:autoVerify}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavDeepLink_uri com.rapidzz.Kidcap:uri}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavDeepLink_uri com.rapidzz.kidcap:uri}</code></td><td></td></tr>
      * </table>
      * @see #NavDeepLink_android_autoVerify
      * @see #NavDeepLink_uri
@@ -23967,13 +24049,13 @@ public final class R {
      */
     public static final int NavDeepLink_android_autoVerify=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#uri}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#uri}
      * attribute's value can be found in the {@link #NavDeepLink} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:uri
+     * @attr name com.rapidzz.kidcap:uri
      */
     public static final int NavDeepLink_uri=1;
     /**
@@ -23983,7 +24065,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #NavGraphNavigator_startDestination com.rapidzz.Kidcap:startDestination}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavGraphNavigator_startDestination com.rapidzz.kidcap:startDestination}</code></td><td></td></tr>
      * </table>
      * @see #NavGraphNavigator_startDestination
      */
@@ -23991,7 +24073,7 @@ public final class R {
       0x7f030288
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#startDestination}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#startDestination}
      * attribute's value can be found in the {@link #NavGraphNavigator} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23999,7 +24081,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:startDestination
+     * @attr name com.rapidzz.kidcap:startDestination
      */
     public static final int NavGraphNavigator_startDestination=0;
     /**
@@ -24009,7 +24091,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #NavHost_navGraph com.rapidzz.Kidcap:navGraph}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavHost_navGraph com.rapidzz.kidcap:navGraph}</code></td><td></td></tr>
      * </table>
      * @see #NavHost_navGraph
      */
@@ -24017,7 +24099,7 @@ public final class R {
       0x7f03023b
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#navGraph}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#navGraph}
      * attribute's value can be found in the {@link #NavHost} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24025,7 +24107,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:navGraph
+     * @attr name com.rapidzz.kidcap:navGraph
      */
     public static final int NavHost_navGraph=0;
     /**
@@ -24035,7 +24117,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #NavHostFragment_defaultNavHost com.rapidzz.Kidcap:defaultNavHost}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavHostFragment_defaultNavHost com.rapidzz.kidcap:defaultNavHost}</code></td><td></td></tr>
      * </table>
      * @see #NavHostFragment_defaultNavHost
      */
@@ -24043,13 +24125,13 @@ public final class R {
       0x7f03011f
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#defaultNavHost}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#defaultNavHost}
      * attribute's value can be found in the {@link #NavHostFragment} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:defaultNavHost
+     * @attr name com.rapidzz.kidcap:defaultNavHost
      */
     public static final int NavHostFragment_defaultNavHost=0;
     /**
@@ -24059,7 +24141,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #NavInclude_graph com.rapidzz.Kidcap:graph}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavInclude_graph com.rapidzz.kidcap:graph}</code></td><td></td></tr>
      * </table>
      * @see #NavInclude_graph
      */
@@ -24067,7 +24149,7 @@ public final class R {
       0x7f03017e
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#graph}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#graph}
      * attribute's value can be found in the {@link #NavInclude} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24075,7 +24157,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:graph
+     * @attr name com.rapidzz.kidcap:graph
      */
     public static final int NavInclude_graph=0;
     /**
@@ -24088,24 +24170,24 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation com.rapidzz.Kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout com.rapidzz.Kidcap:headerLayout}</code></td><td>Layout resource to inflate as the header</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground com.rapidzz.Kidcap:itemBackground}</code></td><td>A background drawable to use for navigation items.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.rapidzz.Kidcap:itemHorizontalPadding}</code></td><td>Horizontal padding (left and right) of navigation items, around the icon & text</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconPadding com.rapidzz.Kidcap:itemIconPadding}</code></td><td>Padding between the icon and the text for navigation items that display an icon</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconSize com.rapidzz.Kidcap:itemIconSize}</code></td><td>The size of the icon navigation items that display an icon</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint com.rapidzz.Kidcap:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemMaxLines com.rapidzz.Kidcap:itemMaxLines}</code></td><td>Makes the TextView of the item text be at most this many lines tall.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeAppearance com.rapidzz.Kidcap:itemShapeAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeAppearanceOverlay com.rapidzz.Kidcap:itemShapeAppearanceOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeFillColor com.rapidzz.Kidcap:itemShapeFillColor}</code></td><td>Fill color for the item background shape.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeInsetBottom com.rapidzz.Kidcap:itemShapeInsetBottom}</code></td><td>Inset bottom margin for the item background shape.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeInsetEnd com.rapidzz.Kidcap:itemShapeInsetEnd}</code></td><td>Inset end margin for the item background shape.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeInsetStart com.rapidzz.Kidcap:itemShapeInsetStart}</code></td><td>Inset start margin for the item background shape.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemShapeInsetTop com.rapidzz.Kidcap:itemShapeInsetTop}</code></td><td>Inset top margin for the item background shape.</td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.rapidzz.Kidcap:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor com.rapidzz.Kidcap:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu com.rapidzz.Kidcap:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation com.rapidzz.kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout com.rapidzz.kidcap:headerLayout}</code></td><td>Layout resource to inflate as the header</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground com.rapidzz.kidcap:itemBackground}</code></td><td>A background drawable to use for navigation items.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.rapidzz.kidcap:itemHorizontalPadding}</code></td><td>Horizontal padding (left and right) of navigation items, around the icon & text</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconPadding com.rapidzz.kidcap:itemIconPadding}</code></td><td>Padding between the icon and the text for navigation items that display an icon</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconSize com.rapidzz.kidcap:itemIconSize}</code></td><td>The size of the icon navigation items that display an icon</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint com.rapidzz.kidcap:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemMaxLines com.rapidzz.kidcap:itemMaxLines}</code></td><td>Makes the TextView of the item text be at most this many lines tall.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeAppearance com.rapidzz.kidcap:itemShapeAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeAppearanceOverlay com.rapidzz.kidcap:itemShapeAppearanceOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeFillColor com.rapidzz.kidcap:itemShapeFillColor}</code></td><td>Fill color for the item background shape.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeInsetBottom com.rapidzz.kidcap:itemShapeInsetBottom}</code></td><td>Inset bottom margin for the item background shape.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeInsetEnd com.rapidzz.kidcap:itemShapeInsetEnd}</code></td><td>Inset end margin for the item background shape.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeInsetStart com.rapidzz.kidcap:itemShapeInsetStart}</code></td><td>Inset start margin for the item background shape.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemShapeInsetTop com.rapidzz.kidcap:itemShapeInsetTop}</code></td><td>Inset top margin for the item background shape.</td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.rapidzz.kidcap:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor com.rapidzz.kidcap:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu com.rapidzz.kidcap:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -24186,7 +24268,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:elevation
+     * @attr name com.rapidzz.kidcap:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
@@ -24199,7 +24281,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:headerLayout
+     * @attr name com.rapidzz.kidcap:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
@@ -24213,7 +24295,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemBackground
+     * @attr name com.rapidzz.kidcap:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
@@ -24227,7 +24309,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:itemHorizontalPadding
+     * @attr name com.rapidzz.kidcap:itemHorizontalPadding
      */
     public static final int NavigationView_itemHorizontalPadding=6;
     /**
@@ -24241,7 +24323,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:itemIconPadding
+     * @attr name com.rapidzz.kidcap:itemIconPadding
      */
     public static final int NavigationView_itemIconPadding=7;
     /**
@@ -24255,18 +24337,18 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:itemIconSize
+     * @attr name com.rapidzz.kidcap:itemIconSize
      */
     public static final int NavigationView_itemIconSize=8;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemIconTint
+     * @attr name com.rapidzz.kidcap:itemIconTint
      */
     public static final int NavigationView_itemIconTint=9;
     /**
@@ -24276,7 +24358,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemMaxLines
+     * @attr name com.rapidzz.kidcap:itemMaxLines
      */
     public static final int NavigationView_itemMaxLines=10;
     /**
@@ -24291,7 +24373,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemShapeAppearance
+     * @attr name com.rapidzz.kidcap:itemShapeAppearance
      */
     public static final int NavigationView_itemShapeAppearance=11;
     /**
@@ -24307,7 +24389,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemShapeAppearanceOverlay
+     * @attr name com.rapidzz.kidcap:itemShapeAppearanceOverlay
      */
     public static final int NavigationView_itemShapeAppearanceOverlay=12;
     /**
@@ -24320,7 +24402,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemShapeFillColor
+     * @attr name com.rapidzz.kidcap:itemShapeFillColor
      */
     public static final int NavigationView_itemShapeFillColor=13;
     /**
@@ -24335,7 +24417,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:itemShapeInsetBottom
+     * @attr name com.rapidzz.kidcap:itemShapeInsetBottom
      */
     public static final int NavigationView_itemShapeInsetBottom=14;
     /**
@@ -24350,7 +24432,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:itemShapeInsetEnd
+     * @attr name com.rapidzz.kidcap:itemShapeInsetEnd
      */
     public static final int NavigationView_itemShapeInsetEnd=15;
     /**
@@ -24365,7 +24447,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:itemShapeInsetStart
+     * @attr name com.rapidzz.kidcap:itemShapeInsetStart
      */
     public static final int NavigationView_itemShapeInsetStart=16;
     /**
@@ -24380,11 +24462,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:itemShapeInsetTop
+     * @attr name com.rapidzz.kidcap:itemShapeInsetTop
      */
     public static final int NavigationView_itemShapeInsetTop=17;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24392,18 +24474,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemTextAppearance
+     * @attr name com.rapidzz.kidcap:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:itemTextColor
+     * @attr name com.rapidzz.kidcap:itemTextColor
      */
     public static final int NavigationView_itemTextColor=19;
     /**
@@ -24416,7 +24498,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:menu
+     * @attr name com.rapidzz.kidcap:menu
      */
     public static final int NavigationView_menu=20;
     /**
@@ -24468,17 +24550,17 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PinField_distanceInBetween com.rapidzz.Kidcap:distanceInBetween}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PinField_fieldBgColor com.rapidzz.Kidcap:fieldBgColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PinField_fieldColor com.rapidzz.Kidcap:fieldColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PinField_highlightColor com.rapidzz.Kidcap:highlightColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PinField_highlightEnabled com.rapidzz.Kidcap:highlightEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PinField_highlightSingleFieldMode com.rapidzz.Kidcap:highlightSingleFieldMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PinField_highlightType com.rapidzz.Kidcap:highlightType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PinField_isCursorEnabled com.rapidzz.Kidcap:isCursorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PinField_isCustomBackground com.rapidzz.Kidcap:isCustomBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PinField_lineThickness com.rapidzz.Kidcap:lineThickness}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PinField_noOfFields com.rapidzz.Kidcap:noOfFields}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PinField_distanceInBetween com.rapidzz.kidcap:distanceInBetween}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PinField_fieldBgColor com.rapidzz.kidcap:fieldBgColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PinField_fieldColor com.rapidzz.kidcap:fieldColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PinField_highlightColor com.rapidzz.kidcap:highlightColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PinField_highlightEnabled com.rapidzz.kidcap:highlightEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PinField_highlightSingleFieldMode com.rapidzz.kidcap:highlightSingleFieldMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PinField_highlightType com.rapidzz.kidcap:highlightType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PinField_isCursorEnabled com.rapidzz.kidcap:isCursorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PinField_isCustomBackground com.rapidzz.kidcap:isCustomBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PinField_lineThickness com.rapidzz.kidcap:lineThickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PinField_noOfFields com.rapidzz.kidcap:noOfFields}</code></td><td></td></tr>
      * </table>
      * @see #PinField_distanceInBetween
      * @see #PinField_fieldBgColor
@@ -24498,7 +24580,7 @@ public final class R {
       0x7f0301a4, 0x7f030209, 0x7f030240
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#distanceInBetween}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#distanceInBetween}
      * attribute's value can be found in the {@link #PinField} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -24507,64 +24589,64 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:distanceInBetween
+     * @attr name com.rapidzz.kidcap:distanceInBetween
      */
     public static final int PinField_distanceInBetween=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#fieldBgColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#fieldBgColor}
      * attribute's value can be found in the {@link #PinField} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:fieldBgColor
+     * @attr name com.rapidzz.kidcap:fieldBgColor
      */
     public static final int PinField_fieldBgColor=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#fieldColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#fieldColor}
      * attribute's value can be found in the {@link #PinField} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:fieldColor
+     * @attr name com.rapidzz.kidcap:fieldColor
      */
     public static final int PinField_fieldColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#highlightColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#highlightColor}
      * attribute's value can be found in the {@link #PinField} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:highlightColor
+     * @attr name com.rapidzz.kidcap:highlightColor
      */
     public static final int PinField_highlightColor=3;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#highlightEnabled}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#highlightEnabled}
      * attribute's value can be found in the {@link #PinField} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:highlightEnabled
+     * @attr name com.rapidzz.kidcap:highlightEnabled
      */
     public static final int PinField_highlightEnabled=4;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#highlightSingleFieldMode}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#highlightSingleFieldMode}
      * attribute's value can be found in the {@link #PinField} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:highlightSingleFieldMode
+     * @attr name com.rapidzz.kidcap:highlightSingleFieldMode
      */
     public static final int PinField_highlightSingleFieldMode=5;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#highlightType}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#highlightType}
      * attribute's value can be found in the {@link #PinField} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -24579,31 +24661,31 @@ public final class R {
      * <tr><td>noFields</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:highlightType
+     * @attr name com.rapidzz.kidcap:highlightType
      */
     public static final int PinField_highlightType=6;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#isCursorEnabled}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#isCursorEnabled}
      * attribute's value can be found in the {@link #PinField} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:isCursorEnabled
+     * @attr name com.rapidzz.kidcap:isCursorEnabled
      */
     public static final int PinField_isCursorEnabled=7;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#isCustomBackground}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#isCustomBackground}
      * attribute's value can be found in the {@link #PinField} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:isCustomBackground
+     * @attr name com.rapidzz.kidcap:isCustomBackground
      */
     public static final int PinField_isCustomBackground=8;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#lineThickness}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#lineThickness}
      * attribute's value can be found in the {@link #PinField} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -24612,16 +24694,16 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:lineThickness
+     * @attr name com.rapidzz.kidcap:lineThickness
      */
     public static final int PinField_lineThickness=9;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#noOfFields}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#noOfFields}
      * attribute's value can be found in the {@link #PinField} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:noOfFields
+     * @attr name com.rapidzz.kidcap:noOfFields
      */
     public static final int PinField_noOfFields=10;
     /**
@@ -24633,7 +24715,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.rapidzz.Kidcap:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.rapidzz.kidcap:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -24677,7 +24759,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:overlapAnchor
+     * @attr name com.rapidzz.kidcap:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -24687,7 +24769,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.rapidzz.Kidcap:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.rapidzz.kidcap:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -24702,7 +24784,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:state_above_anchor
+     * @attr name com.rapidzz.kidcap:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -24712,8 +24794,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.rapidzz.Kidcap:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.rapidzz.Kidcap:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.rapidzz.kidcap:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.rapidzz.kidcap:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -24732,7 +24814,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:paddingBottomNoButtons
+     * @attr name com.rapidzz.kidcap:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
@@ -24746,7 +24828,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:paddingTopNoTitle
+     * @attr name com.rapidzz.kidcap:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -24759,15 +24841,15 @@ public final class R {
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_clipToPadding android:clipToPadding}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.rapidzz.Kidcap:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.rapidzz.Kidcap:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.rapidzz.Kidcap:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.rapidzz.Kidcap:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.rapidzz.Kidcap:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.rapidzz.Kidcap:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.rapidzz.Kidcap:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.rapidzz.Kidcap:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.rapidzz.Kidcap:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.rapidzz.kidcap:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.rapidzz.kidcap:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.rapidzz.kidcap:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.rapidzz.kidcap:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.rapidzz.kidcap:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.rapidzz.kidcap:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.rapidzz.kidcap:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.rapidzz.kidcap:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.rapidzz.kidcap:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_clipToPadding
@@ -24833,17 +24915,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=2;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:fastScrollEnabled
+     * @attr name com.rapidzz.kidcap:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=3;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24851,11 +24933,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:fastScrollHorizontalThumbDrawable
+     * @attr name com.rapidzz.kidcap:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24863,11 +24945,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:fastScrollHorizontalTrackDrawable
+     * @attr name com.rapidzz.kidcap:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24875,11 +24957,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:fastScrollVerticalThumbDrawable
+     * @attr name com.rapidzz.kidcap:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=6;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24887,7 +24969,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:fastScrollVerticalTrackDrawable
+     * @attr name com.rapidzz.kidcap:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=7;
     /**
@@ -24906,36 +24988,36 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:layoutManager
+     * @attr name com.rapidzz.kidcap:layoutManager
      */
     public static final int RecyclerView_layoutManager=8;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:reverseLayout
+     * @attr name com.rapidzz.kidcap:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:spanCount
+     * @attr name com.rapidzz.kidcap:spanCount
      */
     public static final int RecyclerView_spanCount=10;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:stackFromEnd
+     * @attr name com.rapidzz.kidcap:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=11;
     /**
@@ -24945,7 +25027,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.rapidzz.Kidcap:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.rapidzz.kidcap:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -24953,7 +25035,7 @@ public final class R {
       0x7f0301a1
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24964,7 +25046,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:insetForeground
+     * @attr name com.rapidzz.kidcap:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -24974,7 +25056,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.rapidzz.Kidcap:behavior_overlapTop}</code></td><td>The amount that the scrolling view should overlap the bottom of any AppBarLayout</td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.rapidzz.kidcap:behavior_overlapTop}</code></td><td>The amount that the scrolling view should overlap the bottom of any AppBarLayout</td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -24992,7 +25074,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:behavior_overlapTop
+     * @attr name com.rapidzz.kidcap:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -25006,20 +25088,20 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.rapidzz.Kidcap:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.rapidzz.Kidcap:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.rapidzz.Kidcap:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
+     * <tr><td><code>{@link #SearchView_closeIcon com.rapidzz.kidcap:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.rapidzz.kidcap:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.rapidzz.kidcap:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
      * the search view's {@code SearchableInfo} does not provide a hint.</td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.rapidzz.Kidcap:goIcon}</code></td><td>Go button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.rapidzz.Kidcap:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.rapidzz.Kidcap:layout}</code></td><td>The layout to use for the search view.</td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.rapidzz.Kidcap:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.rapidzz.Kidcap:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.rapidzz.Kidcap:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.rapidzz.Kidcap:searchIcon}</code></td><td>Search icon</td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.rapidzz.Kidcap:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.rapidzz.Kidcap:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.rapidzz.Kidcap:voiceIcon}</code></td><td>Voice button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.rapidzz.kidcap:goIcon}</code></td><td>Go button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.rapidzz.kidcap:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.rapidzz.kidcap:layout}</code></td><td>The layout to use for the search view.</td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.rapidzz.kidcap:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.rapidzz.kidcap:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.rapidzz.kidcap:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.rapidzz.kidcap:searchIcon}</code></td><td>Search icon</td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.rapidzz.kidcap:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.rapidzz.kidcap:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.rapidzz.kidcap:voiceIcon}</code></td><td>Voice button icon</td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -25169,7 +25251,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:closeIcon
+     * @attr name com.rapidzz.kidcap:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
@@ -25182,7 +25264,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:commitIcon
+     * @attr name com.rapidzz.kidcap:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
@@ -25194,7 +25276,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:defaultQueryHint
+     * @attr name com.rapidzz.kidcap:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
@@ -25207,7 +25289,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:goIcon
+     * @attr name com.rapidzz.kidcap:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
@@ -25219,7 +25301,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:iconifiedByDefault
+     * @attr name com.rapidzz.kidcap:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
@@ -25232,7 +25314,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:layout
+     * @attr name com.rapidzz.kidcap:layout
      */
     public static final int SearchView_layout=9;
     /**
@@ -25245,7 +25327,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:queryBackground
+     * @attr name com.rapidzz.kidcap:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
@@ -25256,7 +25338,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:queryHint
+     * @attr name com.rapidzz.kidcap:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
@@ -25269,7 +25351,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:searchHintIcon
+     * @attr name com.rapidzz.kidcap:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
@@ -25282,7 +25364,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:searchIcon
+     * @attr name com.rapidzz.kidcap:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
@@ -25295,7 +25377,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:submitBackground
+     * @attr name com.rapidzz.kidcap:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
@@ -25308,7 +25390,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:suggestionRowLayout
+     * @attr name com.rapidzz.kidcap:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
@@ -25321,7 +25403,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:voiceIcon
+     * @attr name com.rapidzz.kidcap:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -25331,16 +25413,16 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerFamily com.rapidzz.Kidcap:cornerFamily}</code></td><td>Corner family to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyBottomLeft com.rapidzz.Kidcap:cornerFamilyBottomLeft}</code></td><td>Bottom left corner family to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyBottomRight com.rapidzz.Kidcap:cornerFamilyBottomRight}</code></td><td>Bottom right corner family to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyTopLeft com.rapidzz.Kidcap:cornerFamilyTopLeft}</code></td><td>Top left corner family to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyTopRight com.rapidzz.Kidcap:cornerFamilyTopRight}</code></td><td>Top right corner family to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerSize com.rapidzz.Kidcap:cornerSize}</code></td><td>Corner size to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerSizeBottomLeft com.rapidzz.Kidcap:cornerSizeBottomLeft}</code></td><td>Bottom left corner size to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerSizeBottomRight com.rapidzz.Kidcap:cornerSizeBottomRight}</code></td><td>Bottom right corner size to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerSizeTopLeft com.rapidzz.Kidcap:cornerSizeTopLeft}</code></td><td>Top left corner size to be used in the ShapeAppearance.</td></tr>
-     * <tr><td><code>{@link #ShapeAppearance_cornerSizeTopRight com.rapidzz.Kidcap:cornerSizeTopRight}</code></td><td>Top right corner size to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerFamily com.rapidzz.kidcap:cornerFamily}</code></td><td>Corner family to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyBottomLeft com.rapidzz.kidcap:cornerFamilyBottomLeft}</code></td><td>Bottom left corner family to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyBottomRight com.rapidzz.kidcap:cornerFamilyBottomRight}</code></td><td>Bottom right corner family to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyTopLeft com.rapidzz.kidcap:cornerFamilyTopLeft}</code></td><td>Top left corner family to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerFamilyTopRight com.rapidzz.kidcap:cornerFamilyTopRight}</code></td><td>Top right corner family to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerSize com.rapidzz.kidcap:cornerSize}</code></td><td>Corner size to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerSizeBottomLeft com.rapidzz.kidcap:cornerSizeBottomLeft}</code></td><td>Bottom left corner size to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerSizeBottomRight com.rapidzz.kidcap:cornerSizeBottomRight}</code></td><td>Bottom right corner size to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerSizeTopLeft com.rapidzz.kidcap:cornerSizeTopLeft}</code></td><td>Top left corner size to be used in the ShapeAppearance.</td></tr>
+     * <tr><td><code>{@link #ShapeAppearance_cornerSizeTopRight com.rapidzz.kidcap:cornerSizeTopRight}</code></td><td>Top right corner size to be used in the ShapeAppearance.</td></tr>
      * </table>
      * @see #ShapeAppearance_cornerFamily
      * @see #ShapeAppearance_cornerFamilyBottomLeft
@@ -25373,7 +25455,7 @@ public final class R {
      * <tr><td>rounded</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:cornerFamily
+     * @attr name com.rapidzz.kidcap:cornerFamily
      */
     public static final int ShapeAppearance_cornerFamily=0;
     /**
@@ -25391,7 +25473,7 @@ public final class R {
      * <tr><td>rounded</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:cornerFamilyBottomLeft
+     * @attr name com.rapidzz.kidcap:cornerFamilyBottomLeft
      */
     public static final int ShapeAppearance_cornerFamilyBottomLeft=1;
     /**
@@ -25409,7 +25491,7 @@ public final class R {
      * <tr><td>rounded</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:cornerFamilyBottomRight
+     * @attr name com.rapidzz.kidcap:cornerFamilyBottomRight
      */
     public static final int ShapeAppearance_cornerFamilyBottomRight=2;
     /**
@@ -25427,7 +25509,7 @@ public final class R {
      * <tr><td>rounded</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:cornerFamilyTopLeft
+     * @attr name com.rapidzz.kidcap:cornerFamilyTopLeft
      */
     public static final int ShapeAppearance_cornerFamilyTopLeft=3;
     /**
@@ -25445,7 +25527,7 @@ public final class R {
      * <tr><td>rounded</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:cornerFamilyTopRight
+     * @attr name com.rapidzz.kidcap:cornerFamilyTopRight
      */
     public static final int ShapeAppearance_cornerFamilyTopRight=4;
     /**
@@ -25463,7 +25545,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.rapidzz.Kidcap:cornerSize
+     * @attr name com.rapidzz.kidcap:cornerSize
      */
     public static final int ShapeAppearance_cornerSize=5;
     /**
@@ -25481,7 +25563,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.rapidzz.Kidcap:cornerSizeBottomLeft
+     * @attr name com.rapidzz.kidcap:cornerSizeBottomLeft
      */
     public static final int ShapeAppearance_cornerSizeBottomLeft=6;
     /**
@@ -25499,7 +25581,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.rapidzz.Kidcap:cornerSizeBottomRight
+     * @attr name com.rapidzz.kidcap:cornerSizeBottomRight
      */
     public static final int ShapeAppearance_cornerSizeBottomRight=7;
     /**
@@ -25517,7 +25599,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.rapidzz.Kidcap:cornerSizeTopLeft
+     * @attr name com.rapidzz.kidcap:cornerSizeTopLeft
      */
     public static final int ShapeAppearance_cornerSizeTopLeft=8;
     /**
@@ -25535,7 +25617,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.rapidzz.Kidcap:cornerSizeTopRight
+     * @attr name com.rapidzz.kidcap:cornerSizeTopRight
      */
     public static final int ShapeAppearance_cornerSizeTopRight=9;
     /**
@@ -25545,9 +25627,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SignInButton_buttonSize com.rapidzz.Kidcap:buttonSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_colorScheme com.rapidzz.Kidcap:colorScheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_scopeUris com.rapidzz.Kidcap:scopeUris}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_buttonSize com.rapidzz.kidcap:buttonSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_colorScheme com.rapidzz.kidcap:colorScheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_scopeUris com.rapidzz.kidcap:scopeUris}</code></td><td></td></tr>
      * </table>
      * @see #SignInButton_buttonSize
      * @see #SignInButton_colorScheme
@@ -25557,7 +25639,7 @@ public final class R {
       0x7f03006c, 0x7f0300ee, 0x7f030267
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#buttonSize}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#buttonSize}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25575,11 +25657,11 @@ public final class R {
      * <tr><td>wide</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:buttonSize
+     * @attr name com.rapidzz.kidcap:buttonSize
      */
     public static final int SignInButton_buttonSize=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#colorScheme}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#colorScheme}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25597,11 +25679,11 @@ public final class R {
      * <tr><td>light</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:colorScheme
+     * @attr name com.rapidzz.kidcap:colorScheme
      */
     public static final int SignInButton_colorScheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#scopeUris}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#scopeUris}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -25611,7 +25693,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:scopeUris
+     * @attr name com.rapidzz.kidcap:scopeUris
      */
     public static final int SignInButton_scopeUris=2;
     /**
@@ -25621,8 +25703,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.rapidzz.Kidcap:snackbarButtonStyle}</code></td><td>Style to use for action button within a Snackbar in this theme.</td></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarStyle com.rapidzz.Kidcap:snackbarStyle}</code></td><td>Style to use for Snackbars in this theme.</td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.rapidzz.kidcap:snackbarButtonStyle}</code></td><td>Style to use for action button within a Snackbar in this theme.</td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarStyle com.rapidzz.kidcap:snackbarStyle}</code></td><td>Style to use for Snackbars in this theme.</td></tr>
      * </table>
      * @see #Snackbar_snackbarButtonStyle
      * @see #Snackbar_snackbarStyle
@@ -25640,7 +25722,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:snackbarButtonStyle
+     * @attr name com.rapidzz.kidcap:snackbarButtonStyle
      */
     public static final int Snackbar_snackbarButtonStyle=0;
     /**
@@ -25653,7 +25735,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:snackbarStyle
+     * @attr name com.rapidzz.kidcap:snackbarStyle
      */
     public static final int Snackbar_snackbarStyle=1;
     /**
@@ -25664,12 +25746,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_actionTextColorAlpha com.rapidzz.Kidcap:actionTextColorAlpha}</code></td><td>Alpha level for the action button text, to allow for adjusting the lightness or darkness of
+     * <tr><td><code>{@link #SnackbarLayout_actionTextColorAlpha com.rapidzz.kidcap:actionTextColorAlpha}</code></td><td>Alpha level for the action button text, to allow for adjusting the lightness or darkness of
      * the theme color used for Snackbar text buttons (e.g., colorPrimary).</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_animationMode com.rapidzz.Kidcap:animationMode}</code></td><td>Sets the enter and exit animations for a Snackbar.</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_backgroundOverlayColorAlpha com.rapidzz.Kidcap:backgroundOverlayColorAlpha}</code></td><td>Alpha level for the color that is overlaid on top of the background color.</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation com.rapidzz.Kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.rapidzz.Kidcap:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_animationMode com.rapidzz.kidcap:animationMode}</code></td><td>Sets the enter and exit animations for a Snackbar.</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_backgroundOverlayColorAlpha com.rapidzz.kidcap:backgroundOverlayColorAlpha}</code></td><td>Alpha level for the color that is overlaid on top of the background color.</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation com.rapidzz.kidcap:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.rapidzz.kidcap:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_actionTextColorAlpha
@@ -25703,7 +25785,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:actionTextColorAlpha
+     * @attr name com.rapidzz.kidcap:actionTextColorAlpha
      */
     public static final int SnackbarLayout_actionTextColorAlpha=1;
     /**
@@ -25721,7 +25803,7 @@ public final class R {
      * <tr><td>slide</td><td>0</td><td>Mode that corresponds to the slide in and out animations.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:animationMode
+     * @attr name com.rapidzz.kidcap:animationMode
      */
     public static final int SnackbarLayout_animationMode=2;
     /**
@@ -25731,7 +25813,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.rapidzz.Kidcap:backgroundOverlayColorAlpha
+     * @attr name com.rapidzz.kidcap:backgroundOverlayColorAlpha
      */
     public static final int SnackbarLayout_backgroundOverlayColorAlpha=3;
     /**
@@ -25745,11 +25827,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:elevation
+     * @attr name com.rapidzz.kidcap:elevation
      */
     public static final int SnackbarLayout_elevation=4;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25758,7 +25840,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:maxActionInlineWidth
+     * @attr name com.rapidzz.kidcap:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=5;
     /**
@@ -25772,7 +25854,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.rapidzz.Kidcap:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Spinner_popupTheme com.rapidzz.kidcap:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
      * </table>
      * @see #Spinner_android_entries
@@ -25861,7 +25943,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:popupTheme
+     * @attr name com.rapidzz.kidcap:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -25871,7 +25953,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SquarePinField_cornerRadius com.rapidzz.Kidcap:cornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SquarePinField_cornerRadius com.rapidzz.kidcap:cornerRadius}</code></td><td></td></tr>
      * </table>
      * @see #SquarePinField_cornerRadius
      */
@@ -25879,7 +25961,7 @@ public final class R {
       0x7f03010b
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#cornerRadius}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#cornerRadius}
      * attribute's value can be found in the {@link #SquarePinField} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -25888,7 +25970,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:cornerRadius
+     * @attr name com.rapidzz.kidcap:cornerRadius
      */
     public static final int SquarePinField_cornerRadius=0;
     /**
@@ -26028,17 +26110,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.rapidzz.Kidcap:showText}</code></td><td>Whether to draw on/off text.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.rapidzz.Kidcap:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.rapidzz.Kidcap:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.rapidzz.Kidcap:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.rapidzz.Kidcap:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.rapidzz.Kidcap:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.rapidzz.Kidcap:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.rapidzz.Kidcap:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.rapidzz.Kidcap:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.rapidzz.Kidcap:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.rapidzz.Kidcap:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.rapidzz.kidcap:showText}</code></td><td>Whether to draw on/off text.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.rapidzz.kidcap:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.rapidzz.kidcap:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.rapidzz.kidcap:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.rapidzz.kidcap:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.rapidzz.kidcap:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.rapidzz.kidcap:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.rapidzz.kidcap:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.rapidzz.kidcap:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.rapidzz.kidcap:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.rapidzz.kidcap:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -26104,7 +26186,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:showText
+     * @attr name com.rapidzz.kidcap:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
@@ -26115,7 +26197,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:splitTrack
+     * @attr name com.rapidzz.kidcap:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
@@ -26129,7 +26211,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:switchMinWidth
+     * @attr name com.rapidzz.kidcap:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
@@ -26143,7 +26225,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:switchPadding
+     * @attr name com.rapidzz.kidcap:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
@@ -26156,7 +26238,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:switchTextAppearance
+     * @attr name com.rapidzz.kidcap:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
@@ -26170,7 +26252,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:thumbTextPadding
+     * @attr name com.rapidzz.kidcap:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
@@ -26182,7 +26264,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:thumbTint
+     * @attr name com.rapidzz.kidcap:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
@@ -26209,7 +26291,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:thumbTintMode
+     * @attr name com.rapidzz.kidcap:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
@@ -26222,7 +26304,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:track
+     * @attr name com.rapidzz.kidcap:track
      */
     public static final int SwitchCompat_track=11;
     /**
@@ -26234,7 +26316,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:trackTint
+     * @attr name com.rapidzz.kidcap:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
@@ -26261,7 +26343,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:trackTintMode
+     * @attr name com.rapidzz.kidcap:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -26271,7 +26353,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SwitchMaterial_useMaterialThemeColors com.rapidzz.Kidcap:useMaterialThemeColors}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchMaterial_useMaterialThemeColors com.rapidzz.kidcap:useMaterialThemeColors}</code></td><td></td></tr>
      * </table>
      * @see #SwitchMaterial_useMaterialThemeColors
      */
@@ -26289,7 +26371,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:useMaterialThemeColors
+     * @attr name com.rapidzz.kidcap:useMaterialThemeColors
      */
     public static final int SwitchMaterial_useMaterialThemeColors=0;
     /**
@@ -26354,35 +26436,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground com.rapidzz.Kidcap:tabBackground}</code></td><td>Reference to a background to be applied to tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart com.rapidzz.Kidcap:tabContentStart}</code></td><td>Position in the Y axis from the starting edge that tabs should be positioned from.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity com.rapidzz.Kidcap:tabGravity}</code></td><td>Gravity constant for tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTint com.rapidzz.Kidcap:tabIconTint}</code></td><td>Tint to apply to tab icons, if present.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.rapidzz.Kidcap:tabIconTintMode}</code></td><td>Blending mode to apply to tab icons.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicator com.rapidzz.Kidcap:tabIndicator}</code></td><td>Reference to a drawable to use as selection indicator for tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.rapidzz.Kidcap:tabIndicatorAnimationDuration}</code></td><td>Duration in milliseconds for the animation of the selection indicator from one tab item
+     * <tr><td><code>{@link #TabLayout_tabBackground com.rapidzz.kidcap:tabBackground}</code></td><td>Reference to a background to be applied to tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart com.rapidzz.kidcap:tabContentStart}</code></td><td>Position in the Y axis from the starting edge that tabs should be positioned from.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity com.rapidzz.kidcap:tabGravity}</code></td><td>Gravity constant for tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTint com.rapidzz.kidcap:tabIconTint}</code></td><td>Tint to apply to tab icons, if present.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.rapidzz.kidcap:tabIconTintMode}</code></td><td>Blending mode to apply to tab icons.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicator com.rapidzz.kidcap:tabIndicator}</code></td><td>Reference to a drawable to use as selection indicator for tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.rapidzz.kidcap:tabIndicatorAnimationDuration}</code></td><td>Duration in milliseconds for the animation of the selection indicator from one tab item
      * to another.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.rapidzz.Kidcap:tabIndicatorColor}</code></td><td>Color of the indicator used to show the currently selected tab.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.rapidzz.Kidcap:tabIndicatorFullWidth}</code></td><td>Whether the selection indicator width should fill the full width of the tab item,
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.rapidzz.kidcap:tabIndicatorColor}</code></td><td>Color of the indicator used to show the currently selected tab.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.rapidzz.kidcap:tabIndicatorFullWidth}</code></td><td>Whether the selection indicator width should fill the full width of the tab item,
      * or if it should be fitted to the content of the tab text label.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.rapidzz.Kidcap:tabIndicatorGravity}</code></td><td>Gravity constant for tab selection indicator.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.rapidzz.Kidcap:tabIndicatorHeight}</code></td><td>{@deprecated Instead, set the intrinsic size of the custom drawable provided to the
+     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.rapidzz.kidcap:tabIndicatorGravity}</code></td><td>Gravity constant for tab selection indicator.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.rapidzz.kidcap:tabIndicatorHeight}</code></td><td>{@deprecated Instead, set the intrinsic size of the custom drawable provided to the
      * tabIndicator attribute in order to change the indicator height.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.rapidzz.Kidcap:tabInlineLabel}</code></td><td>Whether to display tab labels horizontally inline with icons, or underneath icons.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.rapidzz.Kidcap:tabMaxWidth}</code></td><td>The maximum width for tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth com.rapidzz.Kidcap:tabMinWidth}</code></td><td>The minimum width for tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode com.rapidzz.Kidcap:tabMode}</code></td><td>The behavior mode for the Tabs in this layout</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding com.rapidzz.Kidcap:tabPadding}</code></td><td>The preferred padding along all edges of tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.rapidzz.Kidcap:tabPaddingBottom}</code></td><td>The preferred padding along the bottom edge of tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.rapidzz.Kidcap:tabPaddingEnd}</code></td><td>The preferred padding along the end edge of tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.rapidzz.Kidcap:tabPaddingStart}</code></td><td>The preferred padding along the start edge of tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.rapidzz.Kidcap:tabPaddingTop}</code></td><td>The preferred padding along the top edge of tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabRippleColor com.rapidzz.Kidcap:tabRippleColor}</code></td><td>Ripple color for the tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.rapidzz.Kidcap:tabSelectedTextColor}</code></td><td>{@deprecated Instead, provide a ColorStateList to the tabTextColor attribute with a
+     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.rapidzz.kidcap:tabInlineLabel}</code></td><td>Whether to display tab labels horizontally inline with icons, or underneath icons.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.rapidzz.kidcap:tabMaxWidth}</code></td><td>The maximum width for tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth com.rapidzz.kidcap:tabMinWidth}</code></td><td>The minimum width for tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode com.rapidzz.kidcap:tabMode}</code></td><td>The behavior mode for the Tabs in this layout</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding com.rapidzz.kidcap:tabPadding}</code></td><td>The preferred padding along all edges of tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.rapidzz.kidcap:tabPaddingBottom}</code></td><td>The preferred padding along the bottom edge of tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.rapidzz.kidcap:tabPaddingEnd}</code></td><td>The preferred padding along the end edge of tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.rapidzz.kidcap:tabPaddingStart}</code></td><td>The preferred padding along the start edge of tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.rapidzz.kidcap:tabPaddingTop}</code></td><td>The preferred padding along the top edge of tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabRippleColor com.rapidzz.kidcap:tabRippleColor}</code></td><td>Ripple color for the tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.rapidzz.kidcap:tabSelectedTextColor}</code></td><td>{@deprecated Instead, provide a ColorStateList to the tabTextColor attribute with a
      * selected color set.}</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.rapidzz.Kidcap:tabTextAppearance}</code></td><td>A reference to a TextAppearance style to be applied to tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor com.rapidzz.Kidcap:tabTextColor}</code></td><td>The default text color to be applied to tabs.</td></tr>
-     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.rapidzz.Kidcap:tabUnboundedRipple}</code></td><td>Whether to use unbounded ripple effect for tabs, or if ripple should instead be bound to
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.rapidzz.kidcap:tabTextAppearance}</code></td><td>A reference to a TextAppearance style to be applied to tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor com.rapidzz.kidcap:tabTextColor}</code></td><td>The default text color to be applied to tabs.</td></tr>
+     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.rapidzz.kidcap:tabUnboundedRipple}</code></td><td>Whether to use unbounded ripple effect for tabs, or if ripple should instead be bound to
      * tab item bounds.</td></tr>
      * </table>
      * @see #TabLayout_tabBackground
@@ -26431,7 +26513,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:tabBackground
+     * @attr name com.rapidzz.kidcap:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
@@ -26445,7 +26527,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:tabContentStart
+     * @attr name com.rapidzz.kidcap:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
@@ -26463,7 +26545,7 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:tabGravity
+     * @attr name com.rapidzz.kidcap:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
@@ -26475,7 +26557,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:tabIconTint
+     * @attr name com.rapidzz.kidcap:tabIconTint
      */
     public static final int TabLayout_tabIconTint=3;
     /**
@@ -26497,7 +26579,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:tabIconTintMode
+     * @attr name com.rapidzz.kidcap:tabIconTintMode
      */
     public static final int TabLayout_tabIconTintMode=4;
     /**
@@ -26511,7 +26593,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:tabIndicator
+     * @attr name com.rapidzz.kidcap:tabIndicator
      */
     public static final int TabLayout_tabIndicator=5;
     /**
@@ -26522,7 +26604,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:tabIndicatorAnimationDuration
+     * @attr name com.rapidzz.kidcap:tabIndicatorAnimationDuration
      */
     public static final int TabLayout_tabIndicatorAnimationDuration=6;
     /**
@@ -26534,7 +26616,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:tabIndicatorColor
+     * @attr name com.rapidzz.kidcap:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=7;
     /**
@@ -26547,7 +26629,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:tabIndicatorFullWidth
+     * @attr name com.rapidzz.kidcap:tabIndicatorFullWidth
      */
     public static final int TabLayout_tabIndicatorFullWidth=8;
     /**
@@ -26567,7 +26649,7 @@ public final class R {
      * <tr><td>top</td><td>2</td><td>Align indicator to the top of this tab layout.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:tabIndicatorGravity
+     * @attr name com.rapidzz.kidcap:tabIndicatorGravity
      */
     public static final int TabLayout_tabIndicatorGravity=9;
     /**
@@ -26583,7 +26665,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:tabIndicatorHeight
+     * @attr name com.rapidzz.kidcap:tabIndicatorHeight
      */
     @Deprecated
     public static final int TabLayout_tabIndicatorHeight=10;
@@ -26595,7 +26677,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:tabInlineLabel
+     * @attr name com.rapidzz.kidcap:tabInlineLabel
      */
     public static final int TabLayout_tabInlineLabel=11;
     /**
@@ -26609,7 +26691,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:tabMaxWidth
+     * @attr name com.rapidzz.kidcap:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=12;
     /**
@@ -26623,7 +26705,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:tabMinWidth
+     * @attr name com.rapidzz.kidcap:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=13;
     /**
@@ -26642,7 +26724,7 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:tabMode
+     * @attr name com.rapidzz.kidcap:tabMode
      */
     public static final int TabLayout_tabMode=14;
     /**
@@ -26656,7 +26738,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:tabPadding
+     * @attr name com.rapidzz.kidcap:tabPadding
      */
     public static final int TabLayout_tabPadding=15;
     /**
@@ -26670,7 +26752,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:tabPaddingBottom
+     * @attr name com.rapidzz.kidcap:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=16;
     /**
@@ -26684,7 +26766,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:tabPaddingEnd
+     * @attr name com.rapidzz.kidcap:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=17;
     /**
@@ -26698,7 +26780,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:tabPaddingStart
+     * @attr name com.rapidzz.kidcap:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=18;
     /**
@@ -26712,7 +26794,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:tabPaddingTop
+     * @attr name com.rapidzz.kidcap:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=19;
     /**
@@ -26725,7 +26807,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:tabRippleColor
+     * @attr name com.rapidzz.kidcap:tabRippleColor
      */
     public static final int TabLayout_tabRippleColor=20;
     /**
@@ -26738,7 +26820,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:tabSelectedTextColor
+     * @attr name com.rapidzz.kidcap:tabSelectedTextColor
      */
     @Deprecated
     public static final int TabLayout_tabSelectedTextColor=21;
@@ -26752,7 +26834,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:tabTextAppearance
+     * @attr name com.rapidzz.kidcap:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=22;
     /**
@@ -26764,7 +26846,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:tabTextColor
+     * @attr name com.rapidzz.kidcap:tabTextColor
      */
     public static final int TabLayout_tabTextColor=23;
     /**
@@ -26776,7 +26858,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:tabUnboundedRipple
+     * @attr name com.rapidzz.kidcap:tabUnboundedRipple
      */
     public static final int TabLayout_tabUnboundedRipple=24;
     /**
@@ -26798,10 +26880,10 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_textFontWeight android:textFontWeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.rapidzz.Kidcap:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontVariationSettings com.rapidzz.Kidcap:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.rapidzz.Kidcap:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textLocale com.rapidzz.Kidcap:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.rapidzz.kidcap:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontVariationSettings com.rapidzz.kidcap:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.rapidzz.kidcap:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textLocale com.rapidzz.kidcap:textLocale}</code></td><td>Set the textLocale by a comma-separated language tag string,
      * for example "ja-JP,zh-CN".</td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
@@ -26987,7 +27069,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:fontFamily
+     * @attr name com.rapidzz.kidcap:fontFamily
      */
     public static final int TextAppearance_fontFamily=12;
     /**
@@ -26998,7 +27080,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:fontVariationSettings
+     * @attr name com.rapidzz.kidcap:fontVariationSettings
      */
     public static final int TextAppearance_fontVariationSettings=13;
     /**
@@ -27013,7 +27095,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:textAllCaps
+     * @attr name com.rapidzz.kidcap:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=14;
     /**
@@ -27028,7 +27110,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:textLocale
+     * @attr name com.rapidzz.kidcap:textLocale
      */
     public static final int TextAppearance_textLocale=15;
     /**
@@ -27040,57 +27122,57 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.rapidzz.Kidcap:boxBackgroundColor}</code></td><td>The color to use for the box's background color when in filled box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.rapidzz.Kidcap:boxBackgroundMode}</code></td><td>Whether the text input area should be drawn as a filled box, an outline box, or not as a box.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.rapidzz.Kidcap:boxCollapsedPaddingTop}</code></td><td>Value to use for the EditText's collapsed top padding in box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.rapidzz.Kidcap:boxCornerRadiusBottomEnd}</code></td><td>The value to use for the box's bottom end corner radius when in box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.rapidzz.Kidcap:boxCornerRadiusBottomStart}</code></td><td>The value to use for the box's bottom start corner radius when in box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.rapidzz.Kidcap:boxCornerRadiusTopEnd}</code></td><td>The value to use for the box's top end corner radius when in box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.rapidzz.Kidcap:boxCornerRadiusTopStart}</code></td><td>The value to use for the box's top start corner radius when in box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.rapidzz.Kidcap:boxStrokeColor}</code></td><td>The color to use for the box's stroke when in outline box mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.rapidzz.Kidcap:boxStrokeWidth}</code></td><td>The value to use for the box's stroke when in outline box mode, or for the underline stroke
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.rapidzz.kidcap:boxBackgroundColor}</code></td><td>The color to use for the box's background color when in filled box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.rapidzz.kidcap:boxBackgroundMode}</code></td><td>Whether the text input area should be drawn as a filled box, an outline box, or not as a box.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.rapidzz.kidcap:boxCollapsedPaddingTop}</code></td><td>Value to use for the EditText's collapsed top padding in box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.rapidzz.kidcap:boxCornerRadiusBottomEnd}</code></td><td>The value to use for the box's bottom end corner radius when in box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.rapidzz.kidcap:boxCornerRadiusBottomStart}</code></td><td>The value to use for the box's bottom start corner radius when in box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.rapidzz.kidcap:boxCornerRadiusTopEnd}</code></td><td>The value to use for the box's top end corner radius when in box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.rapidzz.kidcap:boxCornerRadiusTopStart}</code></td><td>The value to use for the box's top start corner radius when in box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.rapidzz.kidcap:boxStrokeColor}</code></td><td>The color to use for the box's stroke when in outline box mode.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.rapidzz.kidcap:boxStrokeWidth}</code></td><td>The value to use for the box's stroke when in outline box mode, or for the underline stroke
      * in filled mode.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidthFocused com.rapidzz.Kidcap:boxStrokeWidthFocused}</code></td><td>The value to use for the focused box's stroke when in outline box mode, or for the focused
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidthFocused com.rapidzz.kidcap:boxStrokeWidthFocused}</code></td><td>The value to use for the focused box's stroke when in outline box mode, or for the focused
      * underline stroke in filled mode..</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.rapidzz.Kidcap:counterEnabled}</code></td><td>Whether the layout is laid out as if the character counter will be displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.rapidzz.Kidcap:counterMaxLength}</code></td><td>The max length to display in the character counter.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.rapidzz.Kidcap:counterOverflowTextAppearance}</code></td><td>TextAppearance of the character counter when the text is longer than the max.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextColor com.rapidzz.Kidcap:counterOverflowTextColor}</code></td><td>Text color of the character counter when the text is longer than the max.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.rapidzz.Kidcap:counterTextAppearance}</code></td><td>TextAppearance of the character counter.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextColor com.rapidzz.Kidcap:counterTextColor}</code></td><td>Text color of the character counter.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconCheckable com.rapidzz.Kidcap:endIconCheckable}</code></td><td>Whether the end icon is checkable.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconContentDescription com.rapidzz.Kidcap:endIconContentDescription}</code></td><td>Text to set as the content description for the end icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconDrawable com.rapidzz.Kidcap:endIconDrawable}</code></td><td>Drawable to use for the end icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconMode com.rapidzz.Kidcap:endIconMode}</code></td><td>The end icon mode of the TextInputLayout.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconTint com.rapidzz.Kidcap:endIconTint}</code></td><td>Tint color to use for the end icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_endIconTintMode com.rapidzz.Kidcap:endIconTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.rapidzz.Kidcap:errorEnabled}</code></td><td>Whether the layout is laid out as if an error will be displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorIconDrawable com.rapidzz.Kidcap:errorIconDrawable}</code></td><td>End icon to be shown when an error is displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorIconTint com.rapidzz.Kidcap:errorIconTint}</code></td><td>Tint color to use for the error icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorIconTintMode com.rapidzz.Kidcap:errorIconTintMode}</code></td><td>Blending mode used to apply the error icon tint.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.rapidzz.Kidcap:errorTextAppearance}</code></td><td>TextAppearance of any error message displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextColor com.rapidzz.Kidcap:errorTextColor}</code></td><td>Text color for any error message displayed.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperText com.rapidzz.Kidcap:helperText}</code></td><td>The text to display as helper text underneath the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.rapidzz.Kidcap:helperTextEnabled}</code></td><td>Whether the layout's helper text functionality is enabled.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.rapidzz.Kidcap:helperTextTextAppearance}</code></td><td>TextAppearance of the helper text displayed underneath the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextTextColor com.rapidzz.Kidcap:helperTextTextColor}</code></td><td>Text color of the helper text displayed underneath the text input area.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.rapidzz.Kidcap:hintAnimationEnabled}</code></td><td>Whether to animate hint state changes.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.rapidzz.Kidcap:hintEnabled}</code></td><td>Whether the layout's floating label functionality is enabled.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.rapidzz.Kidcap:hintTextAppearance}</code></td><td>TextAppearance of the hint in the collapsed floating label.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextColor com.rapidzz.Kidcap:hintTextColor}</code></td><td>Text color of the hint in the collapsed floating label.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.rapidzz.Kidcap:passwordToggleContentDescription}</code></td><td>Text to set as the content description for the password input visibility toggle.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.rapidzz.Kidcap:passwordToggleDrawable}</code></td><td>Drawable to use as the password input visibility toggle icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.rapidzz.Kidcap:passwordToggleEnabled}</code></td><td>Whether the view will display a toggle when the EditText has a password.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.rapidzz.Kidcap:passwordToggleTint}</code></td><td>Icon to use for the password input visibility toggle
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.rapidzz.kidcap:counterEnabled}</code></td><td>Whether the layout is laid out as if the character counter will be displayed.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.rapidzz.kidcap:counterMaxLength}</code></td><td>The max length to display in the character counter.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.rapidzz.kidcap:counterOverflowTextAppearance}</code></td><td>TextAppearance of the character counter when the text is longer than the max.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextColor com.rapidzz.kidcap:counterOverflowTextColor}</code></td><td>Text color of the character counter when the text is longer than the max.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.rapidzz.kidcap:counterTextAppearance}</code></td><td>TextAppearance of the character counter.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextColor com.rapidzz.kidcap:counterTextColor}</code></td><td>Text color of the character counter.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconCheckable com.rapidzz.kidcap:endIconCheckable}</code></td><td>Whether the end icon is checkable.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconContentDescription com.rapidzz.kidcap:endIconContentDescription}</code></td><td>Text to set as the content description for the end icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconDrawable com.rapidzz.kidcap:endIconDrawable}</code></td><td>Drawable to use for the end icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconMode com.rapidzz.kidcap:endIconMode}</code></td><td>The end icon mode of the TextInputLayout.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconTint com.rapidzz.kidcap:endIconTint}</code></td><td>Tint color to use for the end icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_endIconTintMode com.rapidzz.kidcap:endIconTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.rapidzz.kidcap:errorEnabled}</code></td><td>Whether the layout is laid out as if an error will be displayed.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorIconDrawable com.rapidzz.kidcap:errorIconDrawable}</code></td><td>End icon to be shown when an error is displayed.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorIconTint com.rapidzz.kidcap:errorIconTint}</code></td><td>Tint color to use for the error icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorIconTintMode com.rapidzz.kidcap:errorIconTintMode}</code></td><td>Blending mode used to apply the error icon tint.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.rapidzz.kidcap:errorTextAppearance}</code></td><td>TextAppearance of any error message displayed.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextColor com.rapidzz.kidcap:errorTextColor}</code></td><td>Text color for any error message displayed.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperText com.rapidzz.kidcap:helperText}</code></td><td>The text to display as helper text underneath the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.rapidzz.kidcap:helperTextEnabled}</code></td><td>Whether the layout's helper text functionality is enabled.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.rapidzz.kidcap:helperTextTextAppearance}</code></td><td>TextAppearance of the helper text displayed underneath the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextTextColor com.rapidzz.kidcap:helperTextTextColor}</code></td><td>Text color of the helper text displayed underneath the text input area.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.rapidzz.kidcap:hintAnimationEnabled}</code></td><td>Whether to animate hint state changes.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.rapidzz.kidcap:hintEnabled}</code></td><td>Whether the layout's floating label functionality is enabled.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.rapidzz.kidcap:hintTextAppearance}</code></td><td>TextAppearance of the hint in the collapsed floating label.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextColor com.rapidzz.kidcap:hintTextColor}</code></td><td>Text color of the hint in the collapsed floating label.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.rapidzz.kidcap:passwordToggleContentDescription}</code></td><td>Text to set as the content description for the password input visibility toggle.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.rapidzz.kidcap:passwordToggleDrawable}</code></td><td>Drawable to use as the password input visibility toggle icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.rapidzz.kidcap:passwordToggleEnabled}</code></td><td>Whether the view will display a toggle when the EditText has a password.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.rapidzz.kidcap:passwordToggleTint}</code></td><td>Icon to use for the password input visibility toggle
      * Deprecated.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.rapidzz.Kidcap:passwordToggleTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_shapeAppearance com.rapidzz.Kidcap:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_shapeAppearanceOverlay com.rapidzz.Kidcap:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_startIconCheckable com.rapidzz.Kidcap:startIconCheckable}</code></td><td>Whether the start icon is checkable.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_startIconContentDescription com.rapidzz.Kidcap:startIconContentDescription}</code></td><td>Text to set as the content description for the start icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_startIconDrawable com.rapidzz.Kidcap:startIconDrawable}</code></td><td>Drawable to use for the start icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_startIconTint com.rapidzz.Kidcap:startIconTint}</code></td><td>Tint color to use for the start icon.</td></tr>
-     * <tr><td><code>{@link #TextInputLayout_startIconTintMode com.rapidzz.Kidcap:startIconTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.rapidzz.kidcap:passwordToggleTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_shapeAppearance com.rapidzz.kidcap:shapeAppearance}</code></td><td>Shape appearance style reference to be used to construct a ShapeAppearanceModel.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_shapeAppearanceOverlay com.rapidzz.kidcap:shapeAppearanceOverlay}</code></td><td>Shape appearance overlay style reference to be used to modify the shapeAppearance.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_startIconCheckable com.rapidzz.kidcap:startIconCheckable}</code></td><td>Whether the start icon is checkable.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_startIconContentDescription com.rapidzz.kidcap:startIconContentDescription}</code></td><td>Text to set as the content description for the start icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_startIconDrawable com.rapidzz.kidcap:startIconDrawable}</code></td><td>Drawable to use for the start icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_startIconTint com.rapidzz.kidcap:startIconTint}</code></td><td>Tint color to use for the start icon.</td></tr>
+     * <tr><td><code>{@link #TextInputLayout_startIconTintMode com.rapidzz.kidcap:startIconTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -27194,7 +27276,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:boxBackgroundColor
+     * @attr name com.rapidzz.kidcap:boxBackgroundColor
      */
     public static final int TextInputLayout_boxBackgroundColor=2;
     /**
@@ -27213,7 +27295,7 @@ public final class R {
      * <tr><td>outline</td><td>2</td><td>Outline box mode for the text input box.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:boxBackgroundMode
+     * @attr name com.rapidzz.kidcap:boxBackgroundMode
      */
     public static final int TextInputLayout_boxBackgroundMode=3;
     /**
@@ -27227,7 +27309,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:boxCollapsedPaddingTop
+     * @attr name com.rapidzz.kidcap:boxCollapsedPaddingTop
      */
     public static final int TextInputLayout_boxCollapsedPaddingTop=4;
     /**
@@ -27241,7 +27323,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:boxCornerRadiusBottomEnd
+     * @attr name com.rapidzz.kidcap:boxCornerRadiusBottomEnd
      */
     public static final int TextInputLayout_boxCornerRadiusBottomEnd=5;
     /**
@@ -27255,7 +27337,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:boxCornerRadiusBottomStart
+     * @attr name com.rapidzz.kidcap:boxCornerRadiusBottomStart
      */
     public static final int TextInputLayout_boxCornerRadiusBottomStart=6;
     /**
@@ -27269,7 +27351,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:boxCornerRadiusTopEnd
+     * @attr name com.rapidzz.kidcap:boxCornerRadiusTopEnd
      */
     public static final int TextInputLayout_boxCornerRadiusTopEnd=7;
     /**
@@ -27283,7 +27365,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:boxCornerRadiusTopStart
+     * @attr name com.rapidzz.kidcap:boxCornerRadiusTopStart
      */
     public static final int TextInputLayout_boxCornerRadiusTopStart=8;
     /**
@@ -27295,7 +27377,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:boxStrokeColor
+     * @attr name com.rapidzz.kidcap:boxStrokeColor
      */
     public static final int TextInputLayout_boxStrokeColor=9;
     /**
@@ -27310,7 +27392,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:boxStrokeWidth
+     * @attr name com.rapidzz.kidcap:boxStrokeWidth
      */
     public static final int TextInputLayout_boxStrokeWidth=10;
     /**
@@ -27325,7 +27407,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:boxStrokeWidthFocused
+     * @attr name com.rapidzz.kidcap:boxStrokeWidthFocused
      */
     public static final int TextInputLayout_boxStrokeWidthFocused=11;
     /**
@@ -27336,7 +27418,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:counterEnabled
+     * @attr name com.rapidzz.kidcap:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=12;
     /**
@@ -27346,7 +27428,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.rapidzz.Kidcap:counterMaxLength
+     * @attr name com.rapidzz.kidcap:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=13;
     /**
@@ -27359,7 +27441,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:counterOverflowTextAppearance
+     * @attr name com.rapidzz.kidcap:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=14;
     /**
@@ -27373,7 +27455,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:counterOverflowTextColor
+     * @attr name com.rapidzz.kidcap:counterOverflowTextColor
      */
     public static final int TextInputLayout_counterOverflowTextColor=15;
     /**
@@ -27386,7 +27468,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:counterTextAppearance
+     * @attr name com.rapidzz.kidcap:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=16;
     /**
@@ -27400,7 +27482,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:counterTextColor
+     * @attr name com.rapidzz.kidcap:counterTextColor
      */
     public static final int TextInputLayout_counterTextColor=17;
     /**
@@ -27411,7 +27493,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:endIconCheckable
+     * @attr name com.rapidzz.kidcap:endIconCheckable
      */
     public static final int TextInputLayout_endIconCheckable=18;
     /**
@@ -27422,7 +27504,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:endIconContentDescription
+     * @attr name com.rapidzz.kidcap:endIconContentDescription
      */
     public static final int TextInputLayout_endIconContentDescription=19;
     /**
@@ -27435,7 +27517,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:endIconDrawable
+     * @attr name com.rapidzz.kidcap:endIconDrawable
      */
     public static final int TextInputLayout_endIconDrawable=20;
     /**
@@ -27457,7 +27539,7 @@ public final class R {
      * <tr><td>password_toggle</td><td>1</td><td>The view will display a toggle when the EditText has a password.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:endIconMode
+     * @attr name com.rapidzz.kidcap:endIconMode
      */
     public static final int TextInputLayout_endIconMode=21;
     /**
@@ -27469,7 +27551,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:endIconTint
+     * @attr name com.rapidzz.kidcap:endIconTint
      */
     public static final int TextInputLayout_endIconTint=22;
     /**
@@ -27494,7 +27576,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:endIconTintMode
+     * @attr name com.rapidzz.kidcap:endIconTintMode
      */
     public static final int TextInputLayout_endIconTintMode=23;
     /**
@@ -27505,7 +27587,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:errorEnabled
+     * @attr name com.rapidzz.kidcap:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=24;
     /**
@@ -27518,7 +27600,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:errorIconDrawable
+     * @attr name com.rapidzz.kidcap:errorIconDrawable
      */
     public static final int TextInputLayout_errorIconDrawable=25;
     /**
@@ -27531,7 +27613,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:errorIconTint
+     * @attr name com.rapidzz.kidcap:errorIconTint
      */
     public static final int TextInputLayout_errorIconTint=26;
     /**
@@ -27556,7 +27638,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:errorIconTintMode
+     * @attr name com.rapidzz.kidcap:errorIconTintMode
      */
     public static final int TextInputLayout_errorIconTintMode=27;
     /**
@@ -27569,7 +27651,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:errorTextAppearance
+     * @attr name com.rapidzz.kidcap:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=28;
     /**
@@ -27582,7 +27664,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:errorTextColor
+     * @attr name com.rapidzz.kidcap:errorTextColor
      */
     public static final int TextInputLayout_errorTextColor=29;
     /**
@@ -27593,7 +27675,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:helperText
+     * @attr name com.rapidzz.kidcap:helperText
      */
     public static final int TextInputLayout_helperText=30;
     /**
@@ -27604,7 +27686,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:helperTextEnabled
+     * @attr name com.rapidzz.kidcap:helperTextEnabled
      */
     public static final int TextInputLayout_helperTextEnabled=31;
     /**
@@ -27617,7 +27699,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:helperTextTextAppearance
+     * @attr name com.rapidzz.kidcap:helperTextTextAppearance
      */
     public static final int TextInputLayout_helperTextTextAppearance=32;
     /**
@@ -27630,7 +27712,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:helperTextTextColor
+     * @attr name com.rapidzz.kidcap:helperTextTextColor
      */
     public static final int TextInputLayout_helperTextTextColor=33;
     /**
@@ -27641,7 +27723,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:hintAnimationEnabled
+     * @attr name com.rapidzz.kidcap:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=34;
     /**
@@ -27652,7 +27734,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:hintEnabled
+     * @attr name com.rapidzz.kidcap:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=35;
     /**
@@ -27665,7 +27747,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:hintTextAppearance
+     * @attr name com.rapidzz.kidcap:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=36;
     /**
@@ -27678,7 +27760,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:hintTextColor
+     * @attr name com.rapidzz.kidcap:hintTextColor
      */
     public static final int TextInputLayout_hintTextColor=37;
     /**
@@ -27690,7 +27772,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:passwordToggleContentDescription
+     * @attr name com.rapidzz.kidcap:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=38;
     /**
@@ -27704,7 +27786,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:passwordToggleDrawable
+     * @attr name com.rapidzz.kidcap:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=39;
     /**
@@ -27716,7 +27798,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:passwordToggleEnabled
+     * @attr name com.rapidzz.kidcap:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=40;
     /**
@@ -27729,7 +27811,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:passwordToggleTint
+     * @attr name com.rapidzz.kidcap:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=41;
     /**
@@ -27755,7 +27837,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:passwordToggleTintMode
+     * @attr name com.rapidzz.kidcap:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=42;
     /**
@@ -27769,7 +27851,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:shapeAppearance
+     * @attr name com.rapidzz.kidcap:shapeAppearance
      */
     public static final int TextInputLayout_shapeAppearance=43;
     /**
@@ -27784,7 +27866,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:shapeAppearanceOverlay
+     * @attr name com.rapidzz.kidcap:shapeAppearanceOverlay
      */
     public static final int TextInputLayout_shapeAppearanceOverlay=44;
     /**
@@ -27795,7 +27877,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:startIconCheckable
+     * @attr name com.rapidzz.kidcap:startIconCheckable
      */
     public static final int TextInputLayout_startIconCheckable=45;
     /**
@@ -27806,7 +27888,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:startIconContentDescription
+     * @attr name com.rapidzz.kidcap:startIconContentDescription
      */
     public static final int TextInputLayout_startIconContentDescription=46;
     /**
@@ -27819,7 +27901,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:startIconDrawable
+     * @attr name com.rapidzz.kidcap:startIconDrawable
      */
     public static final int TextInputLayout_startIconDrawable=47;
     /**
@@ -27831,7 +27913,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:startIconTint
+     * @attr name com.rapidzz.kidcap:startIconTint
      */
     public static final int TextInputLayout_startIconTint=48;
     /**
@@ -27856,7 +27938,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:startIconTintMode
+     * @attr name com.rapidzz.kidcap:startIconTintMode
      */
     public static final int TextInputLayout_startIconTintMode=49;
     /**
@@ -27867,10 +27949,10 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ThemeEnforcement_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.rapidzz.Kidcap:enforceMaterialTheme}</code></td><td>Internal flag used to denote that a style uses new attributes defined by
+     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.rapidzz.kidcap:enforceMaterialTheme}</code></td><td>Internal flag used to denote that a style uses new attributes defined by
      * Theme.MaterialComponents, and that the component should check via ThemeEnforcement that the
      * client's app theme inherits from Theme.MaterialComponents.</td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.rapidzz.Kidcap:enforceTextAppearance}</code></td><td>Internal flag used to denote that a style requires that the textAppearance attribute is
+     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.rapidzz.kidcap:enforceTextAppearance}</code></td><td>Internal flag used to denote that a style requires that the textAppearance attribute is
      * specified and evaluates to a valid text appearance.</td></tr>
      * </table>
      * @see #ThemeEnforcement_android_textAppearance
@@ -27907,7 +27989,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:enforceMaterialTheme
+     * @attr name com.rapidzz.kidcap:enforceMaterialTheme
      */
     public static final int ThemeEnforcement_enforceMaterialTheme=1;
     /**
@@ -27919,7 +28001,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.rapidzz.Kidcap:enforceTextAppearance
+     * @attr name com.rapidzz.kidcap:enforceTextAppearance
      */
     public static final int ThemeEnforcement_enforceTextAppearance=2;
     /**
@@ -27931,41 +28013,41 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.rapidzz.Kidcap:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.rapidzz.Kidcap:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.rapidzz.Kidcap:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.rapidzz.Kidcap:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.rapidzz.Kidcap:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.rapidzz.kidcap:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.rapidzz.kidcap:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.rapidzz.kidcap:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.rapidzz.kidcap:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.rapidzz.kidcap:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.rapidzz.Kidcap:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.rapidzz.Kidcap:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.rapidzz.Kidcap:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.rapidzz.Kidcap:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.rapidzz.kidcap:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.rapidzz.kidcap:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.rapidzz.kidcap:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.rapidzz.kidcap:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.rapidzz.Kidcap:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.rapidzz.Kidcap:logoDescription}</code></td><td>A content description string to describe the appearance of the
+     * <tr><td><code>{@link #Toolbar_logo com.rapidzz.kidcap:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.rapidzz.kidcap:logoDescription}</code></td><td>A content description string to describe the appearance of the
      * associated logo image.</td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.rapidzz.Kidcap:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_menu com.rapidzz.Kidcap:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.rapidzz.Kidcap:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.rapidzz.kidcap:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_menu com.rapidzz.kidcap:menu}</code></td><td>Menu resource to inflate to be shown in the toolbar</td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.rapidzz.kidcap:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
      * located at the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.rapidzz.Kidcap:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.rapidzz.kidcap:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
      * the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.rapidzz.Kidcap:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Toolbar_popupTheme com.rapidzz.kidcap:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.rapidzz.Kidcap:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.rapidzz.Kidcap:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.rapidzz.Kidcap:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.rapidzz.Kidcap:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.rapidzz.Kidcap:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
+     * <tr><td><code>{@link #Toolbar_subtitle com.rapidzz.kidcap:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.rapidzz.kidcap:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.rapidzz.kidcap:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.rapidzz.kidcap:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.rapidzz.kidcap:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
      * of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.rapidzz.Kidcap:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.rapidzz.Kidcap:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.rapidzz.Kidcap:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.rapidzz.Kidcap:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.rapidzz.Kidcap:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.rapidzz.Kidcap:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.rapidzz.Kidcap:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.rapidzz.kidcap:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.rapidzz.kidcap:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.rapidzz.kidcap:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.rapidzz.kidcap:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.rapidzz.kidcap:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.rapidzz.kidcap:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.rapidzz.kidcap:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -28052,7 +28134,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -28066,7 +28148,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:buttonGravity
+     * @attr name com.rapidzz.kidcap:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
@@ -28077,7 +28159,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:collapseContentDescription
+     * @attr name com.rapidzz.kidcap:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
@@ -28090,7 +28172,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:collapseIcon
+     * @attr name com.rapidzz.kidcap:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
@@ -28105,7 +28187,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentInsetEnd
+     * @attr name com.rapidzz.kidcap:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
@@ -28120,7 +28202,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentInsetEndWithActions
+     * @attr name com.rapidzz.kidcap:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
@@ -28135,7 +28217,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentInsetLeft
+     * @attr name com.rapidzz.kidcap:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
@@ -28150,7 +28232,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentInsetRight
+     * @attr name com.rapidzz.kidcap:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
@@ -28165,7 +28247,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentInsetStart
+     * @attr name com.rapidzz.kidcap:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
@@ -28180,7 +28262,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:contentInsetStartWithNavigation
+     * @attr name com.rapidzz.kidcap:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
@@ -28194,7 +28276,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:logo
+     * @attr name com.rapidzz.kidcap:logo
      */
     public static final int Toolbar_logo=11;
     /**
@@ -28206,11 +28288,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:logoDescription
+     * @attr name com.rapidzz.kidcap:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -28219,7 +28301,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:maxButtonHeight
+     * @attr name com.rapidzz.kidcap:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
@@ -28232,7 +28314,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:menu
+     * @attr name com.rapidzz.kidcap:menu
      */
     public static final int Toolbar_menu=14;
     /**
@@ -28244,7 +28326,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:navigationContentDescription
+     * @attr name com.rapidzz.kidcap:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=15;
     /**
@@ -28258,7 +28340,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:navigationIcon
+     * @attr name com.rapidzz.kidcap:navigationIcon
      */
     public static final int Toolbar_navigationIcon=16;
     /**
@@ -28272,7 +28354,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:popupTheme
+     * @attr name com.rapidzz.kidcap:popupTheme
      */
     public static final int Toolbar_popupTheme=17;
     /**
@@ -28283,11 +28365,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:subtitle
+     * @attr name com.rapidzz.kidcap:subtitle
      */
     public static final int Toolbar_subtitle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -28295,7 +28377,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:subtitleTextAppearance
+     * @attr name com.rapidzz.kidcap:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=19;
     /**
@@ -28307,17 +28389,17 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:subtitleTextColor
+     * @attr name com.rapidzz.kidcap:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=20;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.rapidzz.Kidcap:title
+     * @attr name com.rapidzz.kidcap:title
      */
     public static final int Toolbar_title=21;
     /**
@@ -28332,7 +28414,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:titleMargin
+     * @attr name com.rapidzz.kidcap:titleMargin
      */
     public static final int Toolbar_titleMargin=22;
     /**
@@ -28348,7 +28430,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:titleMarginBottom
+     * @attr name com.rapidzz.kidcap:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=23;
     /**
@@ -28364,7 +28446,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:titleMarginEnd
+     * @attr name com.rapidzz.kidcap:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=24;
     /**
@@ -28380,7 +28462,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:titleMarginStart
+     * @attr name com.rapidzz.kidcap:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=25;
     /**
@@ -28396,7 +28478,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:titleMarginTop
+     * @attr name com.rapidzz.kidcap:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=26;
     /**
@@ -28410,12 +28492,12 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:titleMargins
+     * @attr name com.rapidzz.kidcap:titleMargins
      */
     @Deprecated
     public static final int Toolbar_titleMargins=27;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -28423,7 +28505,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:titleTextAppearance
+     * @attr name com.rapidzz.kidcap:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=28;
     /**
@@ -28435,7 +28517,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:titleTextColor
+     * @attr name com.rapidzz.kidcap:titleTextColor
      */
     public static final int Toolbar_titleTextColor=29;
     /**
@@ -28447,9 +28529,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.rapidzz.Kidcap:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.rapidzz.Kidcap:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_theme com.rapidzz.Kidcap:theme}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.rapidzz.kidcap:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.rapidzz.kidcap:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_theme com.rapidzz.kidcap:theme}</code></td><td>Deprecated.</td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -28511,7 +28593,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:paddingEnd
+     * @attr name com.rapidzz.kidcap:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
@@ -28525,7 +28607,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.rapidzz.Kidcap:paddingStart
+     * @attr name com.rapidzz.kidcap:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
@@ -28538,7 +28620,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:theme
+     * @attr name com.rapidzz.kidcap:theme
      */
     public static final int View_theme=4;
     /**
@@ -28549,8 +28631,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.rapidzz.Kidcap:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.rapidzz.Kidcap:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.rapidzz.kidcap:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.rapidzz.kidcap:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -28583,7 +28665,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:backgroundTint
+     * @attr name com.rapidzz.kidcap:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
@@ -28610,7 +28692,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.rapidzz.Kidcap:backgroundTintMode
+     * @attr name com.rapidzz.kidcap:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**
@@ -28709,9 +28791,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #fastscroll__fastScroller_fastscroll__bubbleColor com.rapidzz.Kidcap:fastscroll__bubbleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #fastscroll__fastScroller_fastscroll__bubbleTextAppearance com.rapidzz.Kidcap:fastscroll__bubbleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #fastscroll__fastScroller_fastscroll__handleColor com.rapidzz.Kidcap:fastscroll__handleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #fastscroll__fastScroller_fastscroll__bubbleColor com.rapidzz.kidcap:fastscroll__bubbleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #fastscroll__fastScroller_fastscroll__bubbleTextAppearance com.rapidzz.kidcap:fastscroll__bubbleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #fastscroll__fastScroller_fastscroll__handleColor com.rapidzz.kidcap:fastscroll__handleColor}</code></td><td></td></tr>
      * </table>
      * @see #fastscroll__fastScroller_fastscroll__bubbleColor
      * @see #fastscroll__fastScroller_fastscroll__bubbleTextAppearance
@@ -28721,18 +28803,18 @@ public final class R {
       0x7f030166, 0x7f030167, 0x7f030168
     };
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#fastscroll__bubbleColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#fastscroll__bubbleColor}
      * attribute's value can be found in the {@link #fastscroll__fastScroller} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:fastscroll__bubbleColor
+     * @attr name com.rapidzz.kidcap:fastscroll__bubbleColor
      */
     public static final int fastscroll__fastScroller_fastscroll__bubbleColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#fastscroll__bubbleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#fastscroll__bubbleTextAppearance}
      * attribute's value can be found in the {@link #fastscroll__fastScroller} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -28740,25 +28822,25 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:fastscroll__bubbleTextAppearance
+     * @attr name com.rapidzz.kidcap:fastscroll__bubbleTextAppearance
      */
     public static final int fastscroll__fastScroller_fastscroll__bubbleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link com.rapidzz.Kidcap.R.attr#fastscroll__handleColor}
+     * <p>This symbol is the offset where the {@link com.rapidzz.kidcap.R.attr#fastscroll__handleColor}
      * attribute's value can be found in the {@link #fastscroll__fastScroller} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.rapidzz.Kidcap:fastscroll__handleColor
+     * @attr name com.rapidzz.kidcap:fastscroll__handleColor
      */
     public static final int fastscroll__fastScroller_fastscroll__handleColor=2;
   }
   public static final class xml {
-    public static final int standalone_badge=0x7f130000;
-    public static final int standalone_badge_gravity_bottom_end=0x7f130001;
-    public static final int standalone_badge_gravity_bottom_start=0x7f130002;
-    public static final int standalone_badge_gravity_top_start=0x7f130003;
+    public static final int standalone_badge=0x7f150000;
+    public static final int standalone_badge_gravity_bottom_end=0x7f150001;
+    public static final int standalone_badge_gravity_bottom_start=0x7f150002;
+    public static final int standalone_badge_gravity_top_start=0x7f150003;
   }
 }
