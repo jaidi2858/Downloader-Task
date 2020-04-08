@@ -41,14 +41,17 @@
         android:usesCleartextTraffic="true" >
         <activity
             android:name="com.rapidzz.kidcap.Views.activities.RegistrationActivity"
+            android:configChanges="uiMode"
             android:label="@string/title_activity_registration"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.rapidzz.kidcap.Views.activities.MainActivity"
+            android:configChanges="uiMode"
             android:label="@string/title_activity_main"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.rapidzz.kidcap.Views.activities.SplashActivity"
+            android:configChanges="uiMode"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" >
             <intent-filter>
@@ -58,7 +61,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.rapidzz.kidcap.Views.activities.PhoneVerificationActivity" />
+        <activity
+            android:name="com.rapidzz.kidcap.Views.activities.PhoneVerificationActivity"
+            android:configChanges="uiMode" />
         <activity
             android:name="com.nabinbhandari.android.permissions.PermissionsActivity"
             android:theme="@style/Permissions.TransparentTheme" />

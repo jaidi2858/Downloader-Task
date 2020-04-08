@@ -13,7 +13,7 @@ class RetrofitClientInstance(ctx : Context) {
     private val httpClient = OkHttpClient.Builder()
     var context: Context
 
-    val BASE_URL = "http://mashghol.com/tawrid/public/api/v1/restaurant/"
+    val BASE_URL = "http://mashghol.com/kidcap_laravel/public/api/"
 
     init {
         context = ctx

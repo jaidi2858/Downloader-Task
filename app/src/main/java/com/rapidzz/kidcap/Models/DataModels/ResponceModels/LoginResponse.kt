@@ -5,5 +5,5 @@ import com.rapidzz.kidcap.Models.DataModels.GeneralModels.User
 import com.rapidzz.kidcap.Models.DataModels.UtilityModels.BaseResponse
 import java.io.Serializable
 
-data class LoginResponse( val data: User
+data class LoginResponse( val detail: User
 ): BaseResponse(), Serializable

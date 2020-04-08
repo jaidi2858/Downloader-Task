@@ -14,6 +14,7 @@ import com.rapidzz.kidcap.Utils.GeneralUtils.AppConstants.Companion.NOTIFY_STATU
 import com.rapidzz.kidcap.Utils.GeneralUtils.AppConstants.Companion.PHONE_NUMBER
 import com.rapidzz.kidcap.Utils.GeneralUtils.AppConstants.Companion.PREF_NAME
 import com.rapidzz.kidcap.Utils.GeneralUtils.AppConstants.Companion.PROFILE_PIC
+import com.rapidzz.kidcap.Utils.GeneralUtils.AppConstants.Companion.PROFILE_STATUS
 import com.rapidzz.kidcap.Utils.GeneralUtils.AppConstants.Companion.USER_ID
 
 class SessionManager {
@@ -151,15 +152,18 @@ class SessionManager {
 
 
 
-    fun setNotifyStatus(status: Int) {
-        with(pref.edit()) {
-            putInt(NOTIFY_STATUS, status)
-            apply()
+    fun setInfoStatus(status: Int?) {
+        status?.let {
+            with(pref.edit()) {
+                putInt(PROFILE_STATUS, status)
+                apply()
+            }
         }
+
     }
 
-    fun isNotifyEnabled(): Boolean {
-        return pref.getInt(NOTIFY_STATUS,1)==1
+    fun isProfileCompleted(): Boolean {
+        return pref.getInt(PROFILE_STATUS,1)==1
 
     }
 
@@ -187,7 +191,7 @@ class SessionManager {
         setAuthToken("")
         setFCMToken("")
         setAddress("")
-        setNotifyStatus(0)
+        setInfoStatus(0)
     }
 
     fun setUser(u: User) {
@@ -196,10 +200,10 @@ class SessionManager {
         setEmail(u.email)
         setLoggedIn(true)
         setAddress(u.address)
-        setPhoneNumber(u.phone_num.toString())
+        setPhoneNumber(u.phone_num)
         setPicture(u.image)
         setAuthToken(u.Token)
-        setNotifyStatus(u.notification_status)
+        setInfoStatus(u.all_info)
     }
 
     fun getLocale(): String {

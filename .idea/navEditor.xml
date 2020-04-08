@@ -23,6 +23,18 @@
             <LayoutPositions>
               <option name="myPositions">
                 <map>
+                  <entry key="completeInfoFragment">
+                    <value>
+                      <LayoutPositions>
+                        <option name="myPosition">
+                          <Point>
+                            <option name="x" value="-23" />
+                            <option name="y" value="80" />
+                          </Point>
+                        </option>
+                      </LayoutPositions>
+                    </value>
+                  </entry>
                   <entry key="forgotPasswordFragment">
                     <value>
                       <LayoutPositions>
@@ -46,6 +58,11 @@
                         </option>
                         <option name="myPositions">
                           <map>
+                            <entry key="action_signInFragment_to_completeInfoFragment">
+                              <value>
+                                <LayoutPositions />
+                              </value>
+                            </entry>
                             <entry key="action_signInFragment_to_forgotPasswordFragment">
                               <value>
                                 <LayoutPositions />

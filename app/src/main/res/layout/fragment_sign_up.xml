@@ -33,9 +33,7 @@
                 android:textAllCaps="true" />
 
 
-
-
-                <EditText
+            <EditText
                     android:id="@+id/etName"
                     style="@style/editTextStyle"
                     android:hint="Enter Your Name..."
@@ -48,6 +46,7 @@
 
             <TextView
                 style="@style/TvHeadingStyle"
+
                 android:layout_marginBottom="@dimen/_5sdp"
                 android:textAlignment="viewStart"
                 android:paddingStart="@dimen/_15sdp"

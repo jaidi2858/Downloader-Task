@@ -8,6 +8,7 @@
     <string name="password">Password</string>
     <string name="re_type_password">RE TYPE PASSWORD</string>
     <string name="register">Register</string>
+    <string name="submit_details">Submit details</string>
     <string name="verify">Verify</string>
     <string name="please_verify">Please verify your phone number </string>
 
@@ -23,6 +24,7 @@
     <string name="req_name">Name Required !!</string>
     <string name="req_email">Email Required !!</string>
     <string name="invalid_email">Email Invalid !!</string>
+    <string name="invalid_phone">Phone Invalid !!</string>
     <string name="req_subject">Subject Required !!</string>
     <string name="req_password">Password Required !!</string>
     <string name="req_message">Message Required !!</string>
@@ -49,4 +51,23 @@
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
     <string name="title_activity_registration">RegistrationActivity</string>
+
+
+
+    <string name="father_name">Father name </string>
+    <string name="mother_name">Mother name </string>
+    <string name="father_qualification">Father qualification</string>
+    <string name="mother_qualification">Mother qualification </string>
+    <string name="father_contact">Father contact </string>
+    <string name="mother_contact">Mother contact </string>
+    <string name="father_email">Father Email </string>
+    <string name="mother_email">Mother Email </string>
+    <string name="father_profession">Father profession </string>
+    <string name="mother_profession">Mother profession </string>
+    <string name="father_designation">Father designation </string>
+    <string name="mother_designation">Mother designation </string>
+    <string name="father_annual_income">Father Annual Income </string>
+    <string name="mother_annual_income">Mother annual income </string>
+    <string name="father_pan">Father PAN </string>
+    <string name="mother_pan">Mother PAN </string>
 </resources>

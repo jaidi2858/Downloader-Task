@@ -22,14 +22,17 @@
         <activity
             android:name=".Views.activities.RegistrationActivity"
             android:label="@string/title_activity_registration"
+            android:configChanges="uiMode"
             android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity
             android:name=".Views.activities.MainActivity"
             android:label="@string/title_activity_main"
+            android:configChanges="uiMode"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".Views.activities.SplashActivity"
             android:screenOrientation="portrait"
+            android:configChanges="uiMode"
             android:windowSoftInputMode="adjustPan">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -39,7 +42,8 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".Views.activities.PhoneVerificationActivity" />
+        <activity android:name=".Views.activities.PhoneVerificationActivity"
+            android:configChanges="uiMode"/>
     </application>
 
 </manifest>

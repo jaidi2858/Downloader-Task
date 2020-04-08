@@ -10,9 +10,7 @@ import androidx.core.view.isVisible
 import androidx.lifecycle.Observer
 import com.rapidzz.kidcap.Models.Source.Repository.UserDataSource
 import com.rapidzz.kidcap.R
-import com.rapidzz.kidcap.Utils.Application.isEmailValid
-import com.rapidzz.kidcap.Utils.Application.isVisibleToUser
-import com.rapidzz.kidcap.Utils.Application.obtainViewModel
+import com.rapidzz.kidcap.Utils.Application.*
 import com.rapidzz.kidcap.ViewModels.LoginViewModel
 import com.rapidzz.kidcap.Views.activities.PhoneVerificationActivity
 import kotlinx.android.synthetic.main.fragment_sign_up.*
@@ -55,6 +53,13 @@ class SignUpFragment : BaseFragment(), View.OnClickListener {
                     showAlertDialog(it)
                 }
             })
+
+            userLiveData.observe(viewLifecycleOwner, Observer {
+                it.getContentIfNotHandled()?.let {
+                    sessionManager.setUser(it)
+                    showSnackBar(btnRegister,"Success")
+                }
+            })
         }
 
     }
@@ -85,37 +90,31 @@ class SignUpFragment : BaseFragment(), View.OnClickListener {
     }
 
     private fun isExtraValidated(): Boolean {
-
-
         if (!etEmail.isEmailValid()) {
-            checkValidation(etEmail, getString(R.string.invalid_email))
+            etEmail.Error(getString(R.string.invalid_email))
             return false
         }
         else if (btnVerify.isVisibleToUser()) {
-            checkValidation(etPhoneNumber, getString(R.string.req_phone_verify))
+            etPhoneNumber.Error(getString(R.string.req_phone_verify))
             return false
         }
         else if (!etReTypePassword.text.toString().equals(etPassword.text.toString(),true)) {
-            checkValidation(etReTypePassword,  getString(R.string.retype_password))
+            etReTypePassword.Error(getString(R.string.retype_password))
             return false
         }else
             return true
     }
 
     private fun doSignUp() {
-      /*  viewModel.registerUser(
-            etName.text.toString(),
-            etPhoneNumber.text.toString(),
+        viewModel.signupUser(
+            etName.string(),
+            etPhoneNumber.string(),
             etEmail.text.toString(),
             etPassword.text.toString(),
-            sessionManager.getFCMToken(),
-            imagePath
-        )*/
+            sessionManager.getFCMToken()
+        )
     }
-    private fun checkValidation(editText: EditText, errorMsg: String) {
-        editText.error = errorMsg
-        editText.requestFocus()
-    }
+
 
 
     private fun verifyPhone()
@@ -125,7 +124,7 @@ class SignUpFragment : BaseFragment(), View.OnClickListener {
             intent.putExtra("mobile", ccp.fullNumberWithPlus)
             activity!!.startActivityForResult(intent, 200)
         } else {
-            showToast("Invalid phone")
+            showToast(getString(R.string.req_phone_verify))
 
         }
     }

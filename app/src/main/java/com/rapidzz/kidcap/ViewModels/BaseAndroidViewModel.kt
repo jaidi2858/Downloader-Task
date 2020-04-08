@@ -40,14 +40,14 @@ open class BaseAndroidViewModel() : ViewModel() {
         }
     }
 
-    protected fun isSuccess(result:ResultWrapper<Any>):Boolean {
-        if((result as BaseResponse).status==200)
+    protected fun isSuccess(result:BaseResponse):Boolean {
+        if(result.code==200)
         {
             return true
         }
         else
         {
-            showSnackbarMessage((result as BaseResponse).message)
+            showSnackbarMessage(result.message)
             return false
         }
     }

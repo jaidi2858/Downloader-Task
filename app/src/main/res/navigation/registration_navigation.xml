@@ -18,14 +18,29 @@
         android:label="SignInFragment" >
         <action
             android:id="@+id/action_signInFragment_to_signupFragment"
+            app:enterAnim="@anim/enter_from_right"
+            app:popExitAnim="@anim/exit_to_right"
             app:destination="@id/signupFragment" />
         <action
             android:id="@+id/action_signInFragment_to_forgotPasswordFragment"
+            app:enterAnim="@anim/enter_from_right"
+            app:popExitAnim="@anim/exit_to_right"
             app:destination="@id/forgotPasswordFragment" />
+        <action
+            android:id="@+id/action_signInFragment_to_completeInfoFragment"
+            app:enterAnim="@anim/enter_from_right"
+            app:popExitAnim="@anim/exit_to_right"
+            app:popUpTo="@string/sign_in"
+            app:popUpToInclusive="true"
+            app:destination="@id/completeInfoFragment" />
     </fragment>
     <fragment
         android:id="@+id/forgotPasswordFragment"
         android:name="com.rapidzz.tawridcustomer.view.fragments.registration.ForgotPasswordFragment"
         android:label="ForgotPasswordFragment" />
+    <fragment
+        android:id="@+id/completeInfoFragment"
+        android:name="com.rapidzz.kidcap.Views.fragments.CompleteInfoFragment"
+        android:label="CompleteInfoFragment" />
 
 </navigation>

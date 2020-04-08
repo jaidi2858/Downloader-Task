@@ -71,8 +71,20 @@ class SignInFragment : BaseFragment(){
             })
 
             userLiveData.observe(viewLifecycleOwner, Observer {
-                sessionManager.setUser(it)
-                (activity as BaseActivity).gotoMainActivity()
+                it.getContentIfNotHandled()?.let {
+                    sessionManager.setUser(it)
+                    if(it.all_info==0) {
+                        navigateRegFragment(
+                            R.id.action_signInFragment_to_completeInfoFragment,
+                            null
+                        )
+                    }
+                    else
+                    {
+                        (requireActivity() as BaseActivity).gotoMainActivity()
+                    }
+                }
+
             })
         }
 

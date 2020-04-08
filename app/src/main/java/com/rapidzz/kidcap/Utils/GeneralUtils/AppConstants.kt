@@ -9,10 +9,14 @@ class AppConstants {
 
 
 
-        const val BASE_URL = "http://mashghol.com/tawrid/public/api/v1/restaurant/"
         // api's name
-        const val SIGNIN_API = "login"
-        const val SIGNUP_API = "register"
+        const val SIGNIN_API = "user-login"
+        const val SIGNUP_API = "user-register"
+        const val QUALIFICATIONS = "qualification"
+        const val PROFESSIONS = "profession"
+        const val COMPLETE_INFO = "parents-info"
+
+
         const val UPDATE_FCM_TOKEN_API = "update_fcm_token"
         const val FORGOT_PASSWORD_API = "forgot_password"
         const val GET_CATEGORIES_API = "all-category"
@@ -37,6 +41,9 @@ class AppConstants {
 
 
 
+
+
+
         // param's name
         const val USER_ID = "user_id"
         const val EMAIL = "email"
@@ -46,8 +53,12 @@ class AppConstants {
         const val PASSWORD = "password"
         const val NAME = "name"
         const val CATEGORY_ID = "category_id"
-
         const val NOTIFY_STATUS = "notify_status"
+        const val PROFILE_STATUS = "PROFILE_STATUS"
+
+
+
+
 
         const val SUPPLIER_ID = "supplier_id"
 

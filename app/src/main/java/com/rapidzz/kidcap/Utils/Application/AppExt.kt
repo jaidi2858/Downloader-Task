@@ -19,8 +19,10 @@ import com.rapidzz.kidcap.Utils.factory.ViewModelFactory
 import android.widget.*
 import androidx.swiperefreshlayout.widget.CircularProgressDrawable
 import com.bumptech.glide.Glide
+import com.rapidzz.kidcap.Models.DataModels.GeneralModels.DDItem
 import com.rapidzz.kidcap.Models.DataModels.UtilityModels.ApiErrorResponse
 import com.rapidzz.kidcap.Models.DataModels.UtilityModels.ErrorResponse
+import com.rapidzz.kidcap.R
 import com.rapidzz.kidcap.Utils.GeneralUtils.ErrorUtils
 import com.rapidzz.kidcap.Utils.NetworkUtils.ResultWrapper
 import kotlinx.coroutines.CoroutineDispatcher
@@ -152,6 +154,32 @@ fun View.gone() {
 fun View.isVisibleToUser():Boolean
 {
     return visibility==View.VISIBLE
+}
+
+fun EditText.string():String
+{
+    return this.text.toString()
+}
+
+fun EditText.Error(errorMessage:String?)
+{
+    error=context.getString(R.string.field_req)
+    errorMessage?.let {
+        error=errorMessage
+    }
+    requestFocus()
+}
+
+
+fun AutoCompleteTextView.findId(allValues:ArrayList<DDItem>):Int
+{
+    var id=1
+   allValues.find { it.name.equals(text.toString(),true) }?.let {
+       id=it.id
+   }
+
+    return id
+
 }
 
 

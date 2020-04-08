@@ -33,7 +33,7 @@ suspend fun <T> safeApiCall(dispatcher: CoroutineDispatcher, apiCall: suspend ()
 private fun convertErrorBody(throwable: HttpException): ApiErrorResponse? {
     return try {
         throwable.response()?.errorBody()?.let {
-            return ErrorUtils.parseError(it.toString())
+            return ErrorUtils.parseError(it.string())
         }
     } catch (exception: Exception) {
         null

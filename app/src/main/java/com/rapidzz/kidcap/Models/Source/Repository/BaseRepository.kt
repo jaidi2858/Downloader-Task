@@ -37,6 +37,8 @@ open class BaseRepository(ctx: Context) {
 
 
 
+
+
     fun checkInternetConnection(callback: BaseDataSource): Boolean {
         if (!isOnline(context)) {
             callback.onPayloadError(

@@ -212,8 +212,7 @@ abstract class BaseFragment : Fragment() {
 
 
     fun navigateRegFragment(action: Int, bundle: Bundle?) {
-        val navController =
-            Navigation.findNavController(activity as RegistrationActivity, R.id.nav_host_fragment)
+        val navController = Navigation.findNavController(activity as RegistrationActivity, R.id.nav_host_fragment)
         navController.navigate(action, bundle)
     }
 

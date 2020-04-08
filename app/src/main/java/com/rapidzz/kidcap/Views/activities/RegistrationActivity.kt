@@ -14,6 +14,7 @@ import com.google.android.material.navigation.NavigationView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.Toolbar
 import android.view.Menu
+import com.google.firebase.iid.FirebaseInstanceId
 import com.rapidzz.kidcap.R
 
 class RegistrationActivity : BaseActivity() {
@@ -28,6 +29,7 @@ class RegistrationActivity : BaseActivity() {
 
     override fun initViews() {
 
+        getToken()
     }
 
     override fun onSupportNavigateUp(): Boolean {
@@ -44,6 +46,16 @@ class RegistrationActivity : BaseActivity() {
             val navHostFragment = supportFragmentManager.findFragmentById(R.id.nav_host_fragment)
             val childFragments = navHostFragment?.childFragmentManager?.fragments
             childFragments?.forEach { it.onActivityResult(requestCode, resultCode, data) }
+        }
+    }
+
+
+    private fun getToken()
+    {
+        
+
+        FirebaseInstanceId.getInstance().instanceId.addOnSuccessListener {
+            sessionManager.setFCMToken(it.token)
         }
     }
 }

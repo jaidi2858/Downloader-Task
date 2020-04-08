@@ -3,6 +3,7 @@ package com.rapidzz.kidcap.Views.activities
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatDelegate
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
 import com.rapidzz.kidcap.R
@@ -15,7 +16,9 @@ abstract class BaseActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        AppCompatDelegate.MODE_NIGHT_YES
         setContentView(getLayoutId())
+
         sessionManager = SessionManager(this)
         initViews()
     }
