@@ -27,7 +27,7 @@
                 style="@style/TvHeadingStyle"
                 android:layout_marginBottom="@dimen/_5sdp"
                 android:textAlignment="viewStart"
-                android:paddingStart="@dimen/_15sdp"
+                android:paddingStart="@dimen/_10sdp"
                 android:layout_marginTop="@dimen/_30sdp"
                 android:text="@string/name"
                 android:textAllCaps="true" />
@@ -49,7 +49,7 @@
 
                 android:layout_marginBottom="@dimen/_5sdp"
                 android:textAlignment="viewStart"
-                android:paddingStart="@dimen/_15sdp"
+                android:paddingStart="@dimen/_10sdp"
 
                 android:text="@string/email" />
 
@@ -70,7 +70,7 @@
                 style="@style/TvHeadingStyle"
                 android:layout_marginBottom="@dimen/_5sdp"
                 android:textAlignment="viewStart"
-                android:paddingStart="@dimen/_15sdp"
+                android:paddingStart="@dimen/_10sdp"
                 android:text="@string/phone_number" />
 
 
@@ -91,7 +91,7 @@
                         app:ccp_defaultNameCode="PK"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:gravity="center" />
+                        android:gravity="start" />
                 <EditText
                         android:id="@+id/etPhoneNumber"
                         android:background="@null"
@@ -154,7 +154,8 @@
                 style="@style/TvHeadingStyle"
                 android:layout_marginBottom="@dimen/_5sdp"
                 android:textAlignment="viewStart"
-                android:paddingStart="@dimen/_15sdp"
+                android:layout_marginTop="@dimen/margin_small"
+                android:paddingStart="@dimen/_10sdp"
                 android:text="@string/password" />
 
             <EditText
@@ -167,7 +168,7 @@
                 style="@style/TvHeadingStyle"
                 android:layout_marginBottom="@dimen/_5sdp"
                 android:textAlignment="viewStart"
-                android:paddingStart="@dimen/_15sdp"
+                android:paddingStart="@dimen/_10sdp"
                 android:text="@string/re_type_password" />
 
             <EditText

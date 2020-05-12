@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Rapidzz\\Official Projects\\Kidcap App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
+            "outputFile": "D:\\Rapidzz\\Official Projects\\Garage App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pt-rPT\\values-pt-rPT.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Amjad\\.gradle\\caches\\transforms-2\\files-2.1\\c1ab65c12831dd079c9d545549c16fb8\\res\\values-pt-rPT\\values.xml",
@@ -35,6 +35,23 @@
                         "startOffsets": "2848,2955,3150,3280,3390,3617,3747,3899,4241,4488,4598,4799,4932,5150,5358,5456,5555",
                         "endColumns": "106,194,129,109,226,129,151,137,246,109,200,132,217,207,97,98,115",
                         "endOffsets": "2950,3145,3275,3385,3612,3742,3894,4032,4483,4593,4794,4927,5145,5353,5451,5550,5666"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Amjad\\.gradle\\caches\\transforms-2\\files-2.1\\7763a8c3176c23c6d7db7ab48da3f048\\res\\values-pt-rPT\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "203",
+                        "endOffsets": "454"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "4037",
+                        "endColumns": "203",
+                        "endOffsets": "4236"
                     }
                 },
                 {
@@ -72,24 +89,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Amjad\\.gradle\\caches\\transforms-2\\files-2.1\\b705c0eee05d198939ec5a340c687590\\res\\values-pt-rPT\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "211",
-                        "endColumns": "102",
-                        "endOffsets": "313"
-                    },
-                    "to": {
-                        "startLines": "47",
-                        "startColumns": "4",
-                        "startOffsets": "5671",
-                        "endColumns": "106",
-                        "endOffsets": "5773"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Amjad\\.gradle\\caches\\transforms-2\\files-2.1\\3594229cc3dd44708cc06a87ec2b7ec1\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "source": "C:\\Users\\Amjad\\.gradle\\caches\\transforms-2\\files-2.1\\9504067e65e74f8d49f8fb8cca5b1bbe\\res\\values-pt-rPT\\values-pt-rPT.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -106,20 +106,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Amjad\\.gradle\\caches\\transforms-2\\files-2.1\\a6c6c3d852afca263e84c2bd8de1a187\\res\\values-pt-rPT\\values.xml",
+                    "source": "C:\\Users\\Amjad\\.gradle\\caches\\transforms-2\\files-2.1\\f47c46c520575a09f641e210c5cafdbc\\res\\values-pt-rPT\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
-                        "startOffsets": "251",
-                        "endColumns": "203",
-                        "endOffsets": "454"
+                        "startOffsets": "211",
+                        "endColumns": "102",
+                        "endOffsets": "313"
                     },
                     "to": {
-                        "startLines": "37",
+                        "startLines": "47",
                         "startColumns": "4",
-                        "startOffsets": "4037",
-                        "endColumns": "203",
-                        "endOffsets": "4236"
+                        "startOffsets": "5671",
+                        "endColumns": "106",
+                        "endOffsets": "5773"
                     }
                 }
             ]

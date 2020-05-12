@@ -28,22 +28,24 @@
                 style="@style/TvHeadingStyle"
                 android:layout_marginBottom="@dimen/_5sdp"
                 android:textAlignment="viewStart"
-                android:paddingStart="@dimen/_15sdp"
+                android:paddingStart="@dimen/_10sdp"
                 android:layout_marginTop="@dimen/_30sdp"
                 android:text="Email" />
 
-            <EditText
-                android:id="@+id/etEmailOrUsername"
-                style="@style/editTextStyle"
-                android:hint="Enter your email..."
-                android:inputType="textEmailAddress"
-                android:textColorHint="#C6C6C6" />
+
+                <EditText
+                    android:id="@+id/etEmailOrUsername"
+                    style="@style/editTextStyle"
+                    android:hint="Enter your email..."
+                    android:inputType="textEmailAddress"
+                    android:textColorHint="#C6C6C6" />
+
 
             <TextView
                 style="@style/TvHeadingStyle"
                 android:layout_marginBottom="@dimen/_5sdp"
                 android:textAlignment="viewStart"
-                android:paddingStart="@dimen/_15sdp"
+                android:paddingStart="@dimen/_10sdp"
                 android:layout_marginTop="15dp"
                 android:text="PASSWORD" />
 
@@ -54,19 +56,7 @@
                 android:inputType="textPassword"
                 android:textColorHint="#C6C6C6" />
 
-            <TextView
-                android:id="@+id/tvForgetPassword"
-                style="@style/TvHeadingStyle"
-                android:layout_height="wrap_content"
-                android:layout_marginTop="15dp"
-                android:layout_marginRight="@dimen/margin_large"
-                android:gravity="end"
-                android:text="@string/forgot_password"
-                android:textAlignment="viewEnd"
-                android:textColor="#C6C6C6"
-                android:textSize="@dimen/_14sdp"
-                android:textStyle="normal"
-                android:visibility="visible" />
+
 
 
             <Button
@@ -77,13 +67,12 @@
                 android:background="@drawable/button_background"
                 android:text="@string/sign_in" />
 
-
             <TextView
-                android:id="@+id/tvSignup"
-                style="@style/TvHeadingStyle"
-                android:layout_marginTop="15dp"
-                android:text="@string/dont_have_account"
-                android:visibility="visible" />
+                android:id="@+id/tvForgetPassword"
+                android:text="@string/forgot_password"
+                style="@style/TvHeadingStyle" />
+
+
         </LinearLayout>
     </ScrollView>
 </LinearLayout>

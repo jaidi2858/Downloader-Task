@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Rapidzz\\Official Projects\\Kidcap App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
+            "outputFile": "D:\\Rapidzz\\Official Projects\\Garage App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\Amjad\\.gradle\\caches\\transforms-2\\files-2.1\\9504067e65e74f8d49f8fb8cca5b1bbe\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,161",
+                        "endColumns": "105,116",
+                        "endOffsets": "156,273"
+                    },
+                    "to": {
+                        "startLines": "29,30",
+                        "startColumns": "4,4",
+                        "startOffsets": "2762,2868",
+                        "endColumns": "105,116",
+                        "endOffsets": "2863,2980"
+                    }
+                },
                 {
                     "source": "C:\\Users\\Amjad\\.gradle\\caches\\transforms-2\\files-2.1\\b7a64002e40398d08f733c457403973b\\res\\values-en-rAU\\values-en-rAU.xml",
                     "from": {
@@ -35,23 +52,6 @@
                         "startOffsets": "3067",
                         "endColumns": "100",
                         "endOffsets": "3163"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Amjad\\.gradle\\caches\\transforms-2\\files-2.1\\3594229cc3dd44708cc06a87ec2b7ec1\\res\\values-en-rAU\\values-en-rAU.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,161",
-                        "endColumns": "105,116",
-                        "endOffsets": "156,273"
-                    },
-                    "to": {
-                        "startLines": "29,30",
-                        "startColumns": "4,4",
-                        "startOffsets": "2762,2868",
-                        "endColumns": "105,116",
-                        "endOffsets": "2863,2980"
                     }
                 }
             ]

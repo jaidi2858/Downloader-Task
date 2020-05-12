@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorWhite"
+    android:weightSum="1">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="@dimen/margin_large"
+        android:orientation="vertical">
+
+
+
+            <Button
+                android:id="@+id/btnGetStarted"
+                style="@style/buttonStyle"
+                android:backgroundTint="@null"
+                android:textColor="@color/colorPrimary"
+                android:background="@drawable/bg_outline_button"
+                android:text="@string/get_started" />
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_15sdp"
+                android:layout_marginBottom="@dimen/_25sdp"
+                android:gravity="center"
+                android:id="@+id/llLogin"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/TvHeadingStyle"
+                    android:layout_width="wrap_content"
+                    android:textAlignment="viewStart"
+                    android:text="@string/already_have_an_account"
+                   />
+
+                <TextView
+                    style="@style/TvHeadingStyle"
+                    android:text="@string/login"
+                    android:layout_marginStart="@dimen/margin_small"
+                    android:textColor="@color/colorPrimary"
+                    android:layout_width="wrap_content"
+                    android:textStyle="bold" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</RelativeLayout>
+

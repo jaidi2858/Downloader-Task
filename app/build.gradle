@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-kapt'
-
+apply plugin: 'io.fabric'
 apply plugin: 'com.google.gms.google-services'
 
 
@@ -10,8 +10,8 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.2"
     defaultConfig {
-        applicationId "com.rapidzz.kidcap"
-        minSdkVersion 17
+        applicationId "com.rapidzz.garageapp"
+        minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
         versionName "1.0"
@@ -36,6 +36,15 @@ android {
     kotlinOptions {
         jvmTarget = JavaVersion.VERSION_1_8.toString()
     }
+
+
+    /*
+
+        ======== FIREBASE ACCOUNT ==========
+        EMAIL: rapidzztest@gmail.com
+        Pass : test@1122
+
+     */
 }
 
 dependencies {
@@ -44,7 +53,7 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.1.0'
     implementation 'androidx.core:core-ktx:1.2.0'
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
-    implementation 'com.google.android.material:material:1.1.0'
+    implementation 'com.google.android.material:material:1.2.0-alpha06'
     implementation 'androidx.multidex:multidex:2.0.1'
 
     //General Dependency
@@ -52,19 +61,14 @@ dependencies {
     implementation 'com.intuit.sdp:sdp-android:1.0.6'
     implementation 'de.hdodenhof:circleimageview:3.1.0'
     implementation 'com.github.bumptech.glide:glide:4.9.0'
-    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
-    implementation 'androidx.navigation:navigation-fragment:2.2.1'
-    implementation 'androidx.navigation:navigation-ui:2.2.1'
-    implementation 'androidx.navigation:navigation-fragment-ktx:2.2.1'
-    implementation 'androidx.navigation:navigation-ui-ktx:2.2.1'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.9.0'
-    implementation 'com.scottyab:rootbeer-lib:0.0.7'
     implementation 'org.greenrobot:eventbus:3.1.1'
     implementation 'com.nabinbhandari.android:permissions:3.8'
     implementation 'io.nlopez.smartlocation:library:3.3.3'
     implementation 'com.afollestad:vvalidator:0.5.2'
     implementation 'com.poovam:pin-edittext-field:1.2.1'
-    implementation 'com.github.BlackBoxVision:datetimepicker-edittext:v0.4.0'
+    implementation 'me.srodrigo:androidhintspinner:1.0.0'
+   // implementation 'com.github.BlackBoxVision:datetimepicker-edittext:v0.4.0'
 
 
     //Retrofit Dependencies
@@ -80,23 +84,24 @@ dependencies {
     implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
     implementation 'io.reactivex.rxjava2:rxjava:2.2.8'
     implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
-    implementation "androidx.navigation:navigation-fragment-ktx:$rootProject.nav_version"
-    implementation "androidx.navigation:navigation-ui-ktx:$rootProject.nav_version"
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation 'androidx.navigation:navigation-fragment:2.2.0'
+    implementation 'androidx.navigation:navigation-ui:2.2.0'
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.2.0'
+    implementation 'androidx.navigation:navigation-ui-ktx:2.2.0'
     implementation "androidx.lifecycle:lifecycle-extensions:$rootProject.lifecycle_version"
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$rootProject.lifecycle_version"
 
 
     //Google Utils
     implementation 'com.google.firebase:firebase-messaging:20.1.3'
+    implementation 'com.google.firebase:firebase-analytics:17.2.2'
+    implementation 'com.crashlytics.sdk.android:crashlytics:2.10.1'
     implementation 'com.google.firebase:firebase-auth:19.3.0'
     implementation 'com.google.firebase:firebase-core:17.2.3'
     implementation "com.google.android.gms:play-services-maps:$rootProject.mapVersion"
     implementation "com.google.android.gms:play-services-location:$rootProject.mapVersion"
     implementation "com.google.android.gms:play-services-places:$rootProject.mapVersion"
-
-
-    //implementation 'com.google.firebase:firebase-analytics:17.2.1'
-    //implementation 'com.crashlytics.sdk.android:crashlytics:2.10.1'
 
 
     //Testing

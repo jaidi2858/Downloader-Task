@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorWhite">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_large"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:id="@+id/llLookup"
+                android:layout_marginTop="@dimen/margin_large"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:src="@drawable/ic_add_image"
+                    android:padding="@dimen/_2sdp"
+
+                    android:layout_margin="@dimen/_5sdp"
+                    android:background="@drawable/bg_outline_grey"
+                    android:layout_height="@dimen/_95sdp">
+
+                </ImageView>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:orientation="horizontal">
+                    <EditText
+                        style="@style/editTextOutlineStyle"
+                        android:layout_width="0dp"
+                        android:hint="Registration Number"
+                        android:layout_weight="0.75">
+
+                    </EditText>
+
+                    <Button
+                        style="@style/buttonStyle"
+                        android:layout_width="0dp"
+                        android:text="Lookup"
+                        android:id="@+id/btnLookup"
+                        android:background="@drawable/button_background"
+                        android:layout_weight="0.25">
+
+                    </Button>
+
+
+                </LinearLayout>
+                <TextView
+                    style="@style/TvNormalStyle"
+                    android:text="No License lookup">
+
+                </TextView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_below="@+id/llLookup"
+                android:orientation="vertical"
+                android:layout_marginTop="@dimen/margin_xxlarge"
+                android:layout_height="wrap_content">
+                <Spinner
+                   style="@style/spinnerStyle"
+                    android:entries="@array/dummy"
+                    >
+
+                </Spinner>
+                <Spinner
+                    style="@style/spinnerStyle"
+                    android:entries="@array/dummy">
+
+                </Spinner>
+                <Spinner
+                    style="@style/spinnerStyle"
+                    android:entries="@array/dummy">
+
+                </Spinner>
+
+                <Spinner
+                    style="@style/spinnerStyle"
+                    android:entries="@array/dummy">
+
+                </Spinner>
+
+                <Spinner
+                    style="@style/spinnerStyle"
+                    android:entries="@array/dummy">
+
+                </Spinner>
+
+                <Button
+                    style="@style/buttonStyle"
+                    android:text="Go"
+                    android:id="@+id/btnGo"
+                    android:background="@drawable/button_background">
+
+                </Button>
+
+            </LinearLayout>
+
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
+

@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Kidcap</string>
+    <string name="app_name">Garage App</string>
 
     <string name="google_places_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDqnJ4wFLv1fP2_E3rDkpvFg8G9gVCh9h0</string>
-    <string name="forgot_password">Forgot Password</string>
+    <string name="forgot_password">Forgot Password ?</string>
     <string name="sign_in">Sign In</string>
     <string name="dont_have_account">Dont have account ? SIGN UP</string>
     <string name="password">Password</string>
@@ -51,23 +51,18 @@
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
     <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="login">Login</string>
+    <string name="get_started">Get started</string>
 
 
 
-    <string name="father_name">Father name </string>
-    <string name="mother_name">Mother name </string>
-    <string name="father_qualification">Father qualification</string>
-    <string name="mother_qualification">Mother qualification </string>
-    <string name="father_contact">Father contact </string>
-    <string name="mother_contact">Mother contact </string>
-    <string name="father_email">Father Email </string>
-    <string name="mother_email">Mother Email </string>
-    <string name="father_profession">Father profession </string>
-    <string name="mother_profession">Mother profession </string>
-    <string name="father_designation">Father designation </string>
-    <string name="mother_designation">Mother designation </string>
-    <string name="father_annual_income">Father Annual Income </string>
-    <string name="mother_annual_income">Mother annual income </string>
-    <string name="father_pan">Father PAN </string>
-    <string name="mother_pan">Mother PAN </string>
+    <array name="dummy">
+        <item>dummy 1</item>
+        <item>dummy 2</item>
+        <item>dummy 3</item>
+        <item>dummy 4</item>
+    </array>
+
+
 </resources>

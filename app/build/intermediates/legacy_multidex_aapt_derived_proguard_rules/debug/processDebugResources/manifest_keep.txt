@@ -1,4 +1,4 @@
-# Referenced at D:\Rapidzz\Official Projects\Kidcap App\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:29
+# Referenced at D:\Rapidzz\Official Projects\Garage App\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:29
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
-# Referenced at D:\Rapidzz\Official Projects\Kidcap App\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:29
--keep class com.rapidzz.kidcap.Utils.Application.KidcapApplication { <init>(); }
+# Referenced at D:\Rapidzz\Official Projects\Garage App\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:29
+-keep class com.rapidzz.garageapp.Utils.Application.GarageApplication { <init>(); }
