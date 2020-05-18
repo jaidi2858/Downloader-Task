@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.firebase:firebase-encoders-json:16.0.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2968a7485b8740aff6b99c06cb2ce660/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2968a7485b8740aff6b99c06cb2ce660/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/25d34d584f38830e010c6e7f138b4f2f/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/25d34d584f38830e010c6e7f138b4f2f/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-encoders-json/16.0.0/ab9c0e744cb8696974b03ae85286413fd98e50e8/firebase-encoders-json-16.0.0-javadoc.jar!/" />

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardCornerRadius="25dp"
+    app:cardElevation="@dimen/_5sdp"
+    app:cardPreventCornerOverlap="false">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_height="match_parent">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="@dimen/_10sdp">
+
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:padding="@dimen/_15sdp"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:layout_width="@dimen/_200sdp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/car_img"
+                        android:layout_height="@dimen/_100sdp"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:orientation="vertical"
+                        android:layout_marginTop="@dimen/_15sdp"
+                        android:padding="@dimen/_5sdp"
+                        android:background="@drawable/edittext_background_new"
+                        android:layout_height="wrap_content">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:orientation="horizontal"
+                            android:weightSum="1"
+
+                            android:layout_height="wrap_content">
+                            <TextView
+                                style="@style/TvTitleStyle"
+                                android:layout_width="0dp"
+                                android:layout_weight=".5"
+                                android:textAlignment="viewStart"
+                                android:textStyle="normal"
+                                android:text="@string/reg_no"/>
+                            <TextView
+                                style="@style/TvTitleStyle"
+                                android:layout_width="0dp"
+                                android:layout_weight=".5"
+                                android:textStyle="normal"
+                                android:textAlignment="viewEnd"
+                                android:text="LCIAREW"/>
+                        </LinearLayout>
+
+                        <TextView
+                            style="@style/TvTitleStyle"
+                            android:textStyle="normal"
+                            android:textAlignment="center"
+                            android:text="Volvo XC 90 Estate 2,4 D5\nDiesel 01/11 - 12/12"/>
+
+                    </LinearLayout>
+
+                    <TextView
+                        style="@style/TvTitleStyle"
+                        android:layout_marginTop="@dimen/_15sdp"
+                        android:textAlignment="center"
+                        android:text="Is this vehicle \nyou are looking for?"/>
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                        <Button
+                            android:text="No"
+                            android:layout_width="wrap_content"
+                            android:layout_marginTop="@dimen/_20sdp"
+                            style="@style/buttonStyle"/>
+                        <Button
+                            android:text="Yes"
+                            android:layout_width="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginTop="@dimen/_20sdp"
+                            style="@style/buttonStyle"/>
+                    </RelativeLayout>
+
+                </LinearLayout>
+
+            </RelativeLayout>
+        </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
