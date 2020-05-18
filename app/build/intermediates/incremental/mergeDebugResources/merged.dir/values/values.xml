@@ -1375,7 +1375,7 @@
     <dimen name="mtrl_tooltip_minWidth">32dp</dimen>
     <dimen name="mtrl_tooltip_padding">12dp</dimen>
     <dimen name="mtrl_transition_shared_axis_slide_distance">30dp</dimen>
-    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_header_height">170dp</dimen>
     <dimen name="nav_header_vertical_spacing">8dp</dimen>
     <dimen name="notification_action_icon_size">32dp</dimen>
     <dimen name="notification_action_text_size">13sp</dimen>
@@ -1575,12 +1575,14 @@
     <string name="app_name">Garage App</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="change_password">Change password</string>
+    <string name="change_your_current_password">Change your current password</string>
     <string name="character_counter_content_description">Characters entered %1$d of %2$d</string>
     <string name="character_counter_overflowed_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern" translatable="false">%1$d/%2$d</string>
     <string name="chip_text">Chip text</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
-    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">e6e52f40-1c63-4e4c-9165-209d74bde9cb</string>
+    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">20a75e5a-c7a8-4d77-b76c-fe4f8e1a5313</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -1599,10 +1601,16 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="confirm_password">Confirm password</string>
     <string name="confrim_password_required">Confrim Password Required!!</string>
     <string name="default_web_client_id" translatable="false">884260417610-aqtjfkub0k3s7qjglb57dnt9391vn18k.apps.googleusercontent.com</string>
     <string name="dont_have_account">Dont have account ? SIGN UP</string>
     <string name="email">EMAIL</string>
+    <string name="enter_6_digits_nrecovery_code">Enter 6-digits\n Recovery code</string>
+    <string name="enter_current_password">Enter current password</string>
+    <string name="enter_new_password">Enter new password</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_your_email">Enter your email</string>
     <string name="error_icon_content_description">Error</string>
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="fab_transformation_scrim_behavior" translatable="false">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
@@ -1611,6 +1619,7 @@
     <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
     <string name="field_req">Field Required!!</string>
     <string name="firebase_database_url" translatable="false">https://garage-app-6e006.firebaseio.com</string>
+    <string name="forgot_npassword">Forgot Password</string>
     <string name="forgot_password">Forgot Password ?</string>
     <string name="gcm_defaultSenderId" translatable="false">884260417610</string>
     <string name="get_started">Get started</string>
@@ -1625,12 +1634,12 @@
     <string name="invalid_email">Email Invalid !!</string>
     <string name="invalid_phone">Phone Invalid !!</string>
     <string name="login">Login</string>
-    <string name="menu_gallery">Gallery</string>
+    <string name="menu_help">Help / Support</string>
     <string name="menu_home">Home</string>
-    <string name="menu_send">Send</string>
-    <string name="menu_share">Share</string>
-    <string name="menu_slideshow">Slideshow</string>
-    <string name="menu_tools">Tools</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_my_orders">My Orders</string>
+    <string name="menu_payment">Payments</string>
+    <string name="menu_profile">Profile</string>
     <string description="Content description for new notification (no number count) [CHAR_LIMIT=NONE]" name="mtrl_badge_numberless_content_description">New notification</string>
     <string description="Content description for a close icon that lets the user remove content from the screen" name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
     <string name="mtrl_exceed_max_badge_number_suffix" translatable="false"><ns1:g example="999" id="maximum number">%1$d</ns1:g><ns1:g example="+" id="suffix">%2$s</ns1:g></string>
@@ -1680,6 +1689,7 @@
     <string name="password">Password</string>
     <string name="password_not_matched">Password Not Matched!!</string>
     <string name="password_toggle_content_description">Show password</string>
+    <string name="paste_code_here">Paste code here</string>
     <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
@@ -1687,26 +1697,33 @@
     <string name="phone_number">PHONE NUMBER</string>
     <string name="place_autocomplete_clear_button">Clear search</string>
     <string name="place_autocomplete_search_hint">Search</string>
+    <string name="please_enter_code">Please enter code</string>
+    <string name="please_enter_email_on_which_n_you_have_account">Please enter email on which \nyou have account</string>
     <string name="please_verify">Please verify your phone number </string>
     <string name="project_id" translatable="false">garage-app-6e006</string>
     <string name="re_type_password">RE TYPE PASSWORD</string>
     <string name="register">Register</string>
+    <string name="req_code">Invalid code !!</string>
     <string name="req_email">Email Required !!</string>
     <string name="req_message">Message Required !!</string>
     <string name="req_name">Name Required !!</string>
     <string name="req_password">Password Required !!</string>
     <string name="req_phone">Phone Number Required !!</string>
     <string name="req_phone_verify">Phone Number not verified !!</string>
-    <string name="req_subject">Subject Required !!</string>
+    <string name="reset">Reset</string>
     <string name="retype_password">Password doesn\'t match !!</string>
     <string name="search_hint">Search...</string>
     <string name="search_menu_title">Search</string>
     <string name="select_country">Select a county</string>
+    <string name="send_instructions">Send Instructions</string>
     <string name="sign_in">Sign In</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="submit_details">Submit details</string>
+    <string name="the_recovery_code_sent_to">The recovery code sent to \n %1$s</string>
     <string name="title_activity_main">MainActivity</string>
     <string name="title_activity_registration">RegistrationActivity</string>
+    <string name="update_password">Update password</string>
+    <string name="update_your_password_by_entering_new_password_here">Update your password by\nentering new password here</string>
     <string name="verify">Verify</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
@@ -1735,7 +1752,7 @@
         <item name="android:gravity">center</item>
     </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        
+        <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
@@ -1747,7 +1764,7 @@
     </style>
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
     <style name="AppThemeNoBar" parent="Theme.AppCompat.Light.NoActionBar">
-        
+        <!-- Customize your theme here. -->
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
@@ -3627,6 +3644,13 @@
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
     </style>
     <style name="EmptyTheme"/>
+    <style name="GeneralDialogStyle" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowMinWidthMajor">80%</item>
+        <item name="android:windowMinWidthMinor">80%</item>
+        <item name="android:gravity">center</item>
+    </style>
     <style name="MaterialAlertDialog.MaterialComponents" parent="AlertDialog.AppCompat">
     <item name="android:layout">@layout/mtrl_alert_dialog</item>
     <item name="listItemLayout">@layout/mtrl_alert_select_dialog_item</item>
@@ -3960,13 +3984,6 @@
     <style name="ShapeAppearanceOverlay.TopRightDifferentCornerSize">
     <item name="cornerSizeTopRight">20px</item>
   </style>
-    <style name="SpeechDialogStyle" parent="Theme.AppCompat.Light.Dialog">
-        <item name="android:windowBackground">@color/colorDarkGrey</item>
-        <item name="android:background">@color/colorDarkGrey</item>
-        <item name="android:windowMinWidthMajor">100%</item>
-        <item name="android:windowMinWidthMinor">100%</item>
-        <item name="android:gravity">center</item>
-    </style>
     <style name="Test.ShapeAppearanceOverlay.MaterialComponents.MaterialCalendar.Day" parent="">
     <item name="cornerFamily">rounded</item>
     <item name="cornerSize">@dimen/test_mtrl_calendar_day_cornerSize</item>
@@ -4541,6 +4558,14 @@
         <item name="android:textAlignment">center</item>
         <item name="android:textSize">@dimen/_14sdp</item>
         <item name="android:fontFamily">@font/sf_compact_regular</item>
+    </style>
+    <style name="TvNormalHintStyle">
+        <item name="android:textColor">@color/colorDarkGrey</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">@dimen/_12sdp</item>
+        <item name="android:fontFamily">@font/sf_compact_thin</item>
     </style>
     <style name="TvNormalStyle">
         <item name="android:textColor">@color/colorBlack</item>
@@ -5418,8 +5443,11 @@
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">@dimen/_40sdp</item>
         <item name="android:spinnerMode">dropdown</item>
+        <item name="android:drawableEnd">@drawable/ic_home</item>
         <item name="android:textColor">@color/colorBlack</item>
-        <item name="android:background">@drawable/bg_outline_et</item>
+        <item name="android:background">@drawable/spinner_test_background</item>
+        <item name="colorControlNormal">@color/colorBlack</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
         <item name="android:layout_marginLeft">@dimen/_5sdp</item>
         <item name="android:layout_marginRight">@dimen/_5sdp</item>
         <item name="android:layout_marginBottom">@dimen/_10sdp</item>
