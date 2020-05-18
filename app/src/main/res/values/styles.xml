@@ -65,9 +65,20 @@
         <item name="android:fontFamily">@font/sf_compact_regular</item>
     </style>
 
+    <style name="TvTitleStyle">
+        <item name="android:textColor">@color/colorBlack</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/_14sdp</item>
+        <item name="android:layout_marginStart">@dimen/_5sdp</item>
+        <item name="android:fontFamily">@font/sf_compact_regular</item>
+    </style>
+
     <style name="TvExtraHeadingStyle">
         <item name="android:textColor">@color/colorBlack</item>
         <item name="android:layout_height">wrap_content</item>
+
         <item name="android:layout_width">match_parent</item>
         <item name="android:textAlignment">center</item>
         <item name="android:textSize">@dimen/_17sdp</item>
@@ -79,14 +90,15 @@
         <item name="android:textSize">@dimen/_13sdp</item>
         <item name="android:textColor">@color/colorWhite</item>
         <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">@dimen/_37sdp</item>
+        <item name="android:layout_height">@dimen/_40sdp</item>
         <item name="android:elevation">@dimen/_1sdp</item>
         <item name="android:fontFamily">@font/sf_compact_medium</item>
         <item name="android:textAlignment">center</item>
+        <item name="background">@drawable/button_background</item>
         <item name="android:gravity">center</item>
         <item name="android:layout_gravity">center</item>
-        <item name="android:layout_marginLeft">@dimen/_10sdp</item>
-        <item name="android:layout_marginRight">@dimen/_10sdp</item>
+        <item name="android:layout_marginLeft">@dimen/_5sdp</item>
+        <item name="android:layout_marginRight">@dimen/_5sdp</item>
         <item name="android:layout_marginBottom">@dimen/_5sdp</item>
 
     </style>
@@ -95,6 +107,8 @@
     <style name="editTextStyle">
         <item name="android:textSize">@dimen/_10sdp</item>
         <item name="android:paddingStart">@dimen/_10sdp</item>
+        <item name="android:paddingBottom">@dimen/_10sdp</item>
+        <item name="android:paddingTop">@dimen/_10sdp</item>
         <item name="android:paddingEnd">@dimen/_10sdp</item>
         <item name="android:fontFamily">@font/sf_compact_medium</item>
         <item name="android:textColorHint">#C6C6C6</item>
@@ -102,7 +116,7 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:elevation">@dimen/_1sdp</item>
         <item name="android:textColor">@color/colorBlack</item>
-        <item name="android:background">@drawable/edittext_background</item>
+        <item name="android:background">@drawable/edittext_background_new</item>
         <item name="android:layout_marginLeft">@dimen/_5sdp</item>
         <item name="android:layout_marginRight">@dimen/_5sdp</item>
         <item name="android:layout_marginBottom">@dimen/_10sdp</item>

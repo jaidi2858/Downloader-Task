@@ -75,13 +75,26 @@
     <string name="enter_new_password">Enter new password</string>
     <string name="enter_current_password">Enter current password</string>
 
-
     <array name="dummy">
         <item>dummy 1</item>
         <item>dummy 2</item>
         <item>dummy 3</item>
         <item>dummy 4</item>
     </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="auto_enter_current_location">Auto Enter Current Location</string>
+    <string name="to_continue_turn_on_device_location_and_press_ok">To Continue, Turn ON device Location and Press OK</string>
+    <string name="or">OR</string>
+    <string name="enter_address_here">Enter Address Here</string>
+    <string name="my_current_location">My Current Location</string>
+    <string name="telephone_mobile">Telephone/Mobile:</string>
+    <string name="ok">Ok</string>
+    <string name="menu">Menu</string>
+    <string name="mot_expire">MOT Expire:</string>
+    <string name="car_details">Car Details:</string>
+    <string name="reg_no">Reg No:</string>
 
 
 </resources>

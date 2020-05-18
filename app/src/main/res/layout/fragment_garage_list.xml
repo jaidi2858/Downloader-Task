@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.swiperefreshlayout.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/swRefreshLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:hint="Search Garages"
+                android:textSize="@dimen/_14sdp"
+                android:textStyle="normal"
+                android:layout_marginStart="0dp"
+                android:layout_marginEnd="0dp"
+                android:layout_marginBottom="0dp"
+                android:drawableRight="@drawable/ic_search"
+                android:layout_marginTop="@dimen/_5sdp"
+                style="@style/editTextStyle"/>
+            <TextView
+                android:textSize="@dimen/_16sdp"
+                android:textStyle="bold"
+                android:text="Garage MOT+Service+Repair"
+                android:layout_marginTop="@dimen/_20sdp"
+                style="@style/TvExtraHeadingStyle"/>
+            <TextView
+                style="@style/TvTitleStyle"
+                android:layout_width="match_parent"
+                android:textStyle="normal"
+                android:layout_marginTop="@dimen/_15sdp"
+                android:textAlignment="center"
+                android:text="You can Select Multiple Garages"/>
+
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:paddingBottom="@dimen/_5sdp"
+                tools:listitem="@layout/rv_garage">
+
+            </androidx.recyclerview.widget.RecyclerView>
+
+
+
+
+        </LinearLayout>
+
+
+
+        <TextView
+            android:visibility="gone"
+            android:id="@+id/tvRecordNotFound"
+            android:textAlignment="center"
+            android:textColor="@color/colorDarkGray"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:textSize="@dimen/_20sdp"
+            android:text="Record Not Found"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:paddingBottom="@dimen/_10sdp"
+            android:paddingTop="@dimen/_10sdp"
+            android:paddingStart="@dimen/_5sdp"
+            android:paddingEnd="@dimen/_5sdp"
+            android:layout_alignParentBottom="true"
+            android:layout_height="wrap_content">
+            <Button
+                android:text="Confirm"
+                android:layout_alignParentBottom="true"
+                style="@style/buttonStyle"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+</androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
