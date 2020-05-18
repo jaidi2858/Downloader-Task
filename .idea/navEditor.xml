@@ -8,11 +8,6 @@
             <LayoutPositions>
               <option name="myPositions">
                 <map>
-                  <entry key="nav_home">
-                    <value>
-                      <LayoutPositions />
-                    </value>
-                  </entry>
                   <entry key="newOrderFragment">
                     <value>
                       <LayoutPositions>

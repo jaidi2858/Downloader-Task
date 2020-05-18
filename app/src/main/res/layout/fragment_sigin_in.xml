@@ -25,6 +25,22 @@
 
 
             <TextView
+                style="@style/TvExtraHeadingStyle"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:textAlignment="viewStart"
+                android:paddingStart="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_30sdp"
+                android:text="Login" />
+            <TextView
+                style="@style/TvHeadingStyle"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:textAlignment="viewStart"
+                android:paddingStart="@dimen/_10sdp"
+                android:textColor="@color/colorDarkGrey"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:text="Welcome back !" />
+
+            <TextView
                 style="@style/TvHeadingStyle"
                 android:layout_marginBottom="@dimen/_5sdp"
                 android:textAlignment="viewStart"
