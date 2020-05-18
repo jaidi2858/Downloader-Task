@@ -79,7 +79,7 @@
                 android:id="@+id/btnLogin"
                 style="@style/buttonStyle"
                 android:layout_marginTop="@dimen/_30sdp"
-                android:layout_marginBottom="@dimen/_30sdp"
+                android:layout_marginBottom="@dimen/_20sdp"
                 android:background="@drawable/button_background"
                 android:text="@string/sign_in" />
 

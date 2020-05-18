@@ -25,8 +25,8 @@ class OrderRatingDialog(var userName:String,var userImage:String,var onDataFechC
 
     @SuppressLint("ResourceAsColor")
     override fun onCreateDialog(savedInstanceState: Bundle?): Dialog {
-        setStyle(DialogFragment.STYLE_NO_TITLE, R.style.SpeechDialogStyle);
-        val builder = android.app.AlertDialog.Builder(activity!!, R.style.SpeechDialogStyle)
+        setStyle(DialogFragment.STYLE_NO_TITLE, R.style.GeneralDialogStyle);
+        val builder = android.app.AlertDialog.Builder(activity!!, R.style.GeneralDialogStyle)
         val inflater = activity!!.layoutInflater
 
         val dialog = inflater.inflate(R.layout.rating_dialog_layout, null)

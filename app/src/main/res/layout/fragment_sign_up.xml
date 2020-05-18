@@ -22,6 +22,13 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
+            <TextView
+                style="@style/TvExtraHeadingStyle"
+                android:layout_marginBottom="@dimen/_5sdp"
+                android:textAlignment="viewStart"
+                android:paddingStart="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_50sdp"
+                android:text="Register" />
 
             <TextView
                 style="@style/TvHeadingStyle"
@@ -46,7 +53,7 @@
 
             <TextView
                 style="@style/TvHeadingStyle"
-
+                android:textAllCaps="true"
                 android:layout_marginBottom="@dimen/_5sdp"
                 android:textAlignment="viewStart"
                 android:paddingStart="@dimen/_10sdp"
@@ -71,6 +78,7 @@
                 android:layout_marginBottom="@dimen/_5sdp"
                 android:textAlignment="viewStart"
                 android:paddingStart="@dimen/_10sdp"
+                android:textAllCaps="true"
                 android:text="@string/phone_number" />
 
 
@@ -156,6 +164,7 @@
                 android:textAlignment="viewStart"
                 android:layout_marginTop="@dimen/margin_small"
                 android:paddingStart="@dimen/_10sdp"
+                android:textAllCaps="true"
                 android:text="@string/password" />
 
             <EditText
@@ -169,6 +178,7 @@
                 android:layout_marginBottom="@dimen/_5sdp"
                 android:textAlignment="viewStart"
                 android:paddingStart="@dimen/_10sdp"
+                android:textAllCaps="true"
                 android:text="@string/re_type_password" />
 
             <EditText

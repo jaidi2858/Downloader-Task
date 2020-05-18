@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.view.View
 import androidx.lifecycle.Observer
 import com.rapidzz.garageapp.R
-import com.rapidzz.garageapp.Utils.Application.obtainViewModel
+import com.rapidzz.garageapp.Utils.Application.*
 import com.rapidzz.garageapp.ViewModels.LoginViewModel
 import com.rapidzz.garageapp.Views.fragments.BaseFragment
 
@@ -18,17 +18,7 @@ class ForgotPasswordFragment : BaseFragment() {
     }
 
     lateinit var viewModel: LoginViewModel
-    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        super.onViewCreated(view, savedInstanceState)
 
-        attachViewModel()
-
-        initiateClickListener()
-    }
-
-    private fun initiateClickListener() {
-
-    }
 
     override fun attachViewModel() {
         viewModel = obtainViewModel(LoginViewModel::class.java)
@@ -47,13 +37,36 @@ class ForgotPasswordFragment : BaseFragment() {
 
 
     override fun initViews() {
+
+
+        btnSendCode.setOnClickListener {
+            if (etResetEmail.string().isEmpty() || !etResetEmail.isEmailValid()) {
+                etResetEmail.Error(getString(R.string.req_email))
+            }
+            else {
+                llSendInstructions.gone()
+                llResetPassword.visible()
+                llChangePassword.gone()
+                var sentAt = String.format(
+                    getString(R.string.the_recovery_code_sent_to),
+                    etResetEmail.string()
+                )
+                tvSentAt.text = sentAt
+            }
+        }
         btnReset.setOnClickListener {
-            if (etResetEmail.text.toString().isNullOrEmpty()) {
-                etResetEmail.requestFocus()
-                etResetEmail.error = getString(R.string.req_email)
+            if (etRecoveryCode.string().length<6 || etRecoveryCode.string().length>6) {
+                etRecoveryCode.Error(getString(R.string.req_code))
             } else {
+                llSendInstructions.gone()
+                llResetPassword.gone()
+                llChangePassword.visible()
               //  viewModel.forgotPassword(etResetEmail.text.toString())
             }
+        }
+
+        btnChangePassword.setOnClickListener {
+
         }
     }
 }

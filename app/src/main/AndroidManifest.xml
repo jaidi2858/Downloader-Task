@@ -29,20 +29,21 @@
         <activity
             android:name="com.rapidzz.garageapp.Views.activities.MainActivity"
             android:label="@string/title_activity_main"
-            android:configChanges="uiMode"
-            android:theme="@style/AppThemeNoBar" />
-        <activity
-            android:name="com.rapidzz.garageapp.Views.activities.SplashActivity"
-            android:screenOrientation="portrait"
-            android:configChanges="uiMode"
-            android:theme="@style/AppThemeNoBar"
-            android:windowSoftInputMode="adjustPan">
+            android:theme="@style/AppThemeNoBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.intent.action.VIEW" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.rapidzz.garageapp.Views.activities.SplashActivity"
+            android:screenOrientation="portrait"
+            android:configChanges="uiMode"
+            android:theme="@style/AppThemeNoBar"
+            android:windowSoftInputMode="adjustPan">
+
         </activity>
 
         <activity android:name="com.rapidzz.garageapp.Views.activities.PhoneVerificationActivity"

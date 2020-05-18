@@ -9,8 +9,13 @@
     <fragment
         android:id="@+id/newOrderFragment"
         android:name="com.rapidzz.garageapp.Views.fragments.NewOrderFragment"
-        android:label="NewOrderFragment"
+        android:label="New Order"
         tools:layout="@layout/fragment_new_order"/>
+    <fragment
+        android:id="@+id/changePasswordFragment"
+        android:name="com.rapidzz.garageapp.Views.fragments.ChangePasswordFragment"
+        android:label="Change Password"
+        tools:layout="@layout/fragment_change_password"/>
 
 
 </navigation>

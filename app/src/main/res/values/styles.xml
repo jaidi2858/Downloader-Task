@@ -16,11 +16,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="SpeechDialogStyle" parent="Theme.AppCompat.Light.Dialog">
-        <item name="android:windowBackground">@color/colorDarkGrey</item>
-        <item name="android:background">@color/colorDarkGrey</item>
-        <item name="android:windowMinWidthMajor">100%</item>
-        <item name="android:windowMinWidthMinor">100%</item>
+    <style name="GeneralDialogStyle" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowMinWidthMajor">80%</item>
+        <item name="android:windowMinWidthMinor">80%</item>
         <item name="android:gravity">center</item>
     </style>
 
@@ -137,8 +137,11 @@
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">@dimen/_40sdp</item>
         <item name="android:spinnerMode">dropdown</item>
+        <item name="android:drawableEnd">@drawable/ic_home</item>
         <item name="android:textColor">@color/colorBlack</item>
-        <item name="android:background">@drawable/bg_outline_et</item>
+        <item name="android:background">@drawable/spinner_test_background</item>
+        <item name="colorControlNormal">@color/colorBlack</item>
+        <item name="colorControlActivated">@color/colorPrimary</item>
         <item name="android:layout_marginLeft">@dimen/_5sdp</item>
         <item name="android:layout_marginRight">@dimen/_5sdp</item>
         <item name="android:layout_marginBottom">@dimen/_10sdp</item>

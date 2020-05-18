@@ -12,7 +12,7 @@
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
-        <RelativeLayout
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="@dimen/margin_large"
@@ -68,10 +68,9 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_below="@+id/llLookup"
                 android:orientation="vertical"
                 android:layout_marginTop="@dimen/margin_xxlarge"
-                android:layout_height="wrap_content">
+                android:layout_height="match_parent">
                 <Spinner
                    style="@style/spinnerStyle"
                     android:entries="@array/dummy"
@@ -105,6 +104,7 @@
                     style="@style/buttonStyle"
                     android:text="Go"
                     android:id="@+id/btnGo"
+                    android:layout_marginBottom="@dimen/_30sdp"
                     android:background="@drawable/button_background">
 
                 </Button>
@@ -112,7 +112,7 @@
             </LinearLayout>
 
 
-        </RelativeLayout>
+        </LinearLayout>
 
     </ScrollView>
 

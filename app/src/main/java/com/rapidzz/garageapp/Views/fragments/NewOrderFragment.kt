@@ -1,6 +1,7 @@
 package com.rapidzz.garageapp.Views.fragments
 
 import com.rapidzz.garageapp.R
+import com.rapidzz.garageapp.Views.dialog.VehicleSearchConfirmationDialog
 import kotlinx.android.synthetic.main.fragment_new_order.*
 
 
@@ -25,11 +26,16 @@ class NewOrderFragment : BaseFragment(){
         }
 
         btnGo.setOnClickListener {
-            navigateRegFragment(
-                R.id.action_startedFragment_to_signInFragment,
-                null
-            )
+
+            showPopup()
         }
 
+    }
+
+
+
+    private fun showPopup()
+    {
+        VehicleSearchConfirmationDialog().show(childFragmentManager,"")
     }
 }

@@ -22,6 +22,7 @@ import com.rapidzz.garageapp.Utils.Application.gone
 import com.rapidzz.garageapp.Utils.Application.visible
 import com.rapidzz.garageapp.Utils.GeneralUtils.DialogUtils
 import com.rapidzz.garageapp.Utils.GeneralUtils.SessionManager
+import com.rapidzz.garageapp.Views.activities.MainActivity
 import com.rapidzz.garageapp.Views.activities.RegistrationActivity
 import com.rapidzz.garageapp.Views.dialog.AlertMessageDialog
 
@@ -218,6 +219,12 @@ abstract class BaseFragment : Fragment() {
 
 
 
+    fun navigateMainFragment(action: Int, bundle: Bundle?) {
+        val navController = Navigation.findNavController(activity as MainActivity, R.id.nav_host_fragment)
+        navController.navigate(action, bundle)
+    }
+
+
 
 
 
@@ -236,6 +243,17 @@ abstract class BaseFragment : Fragment() {
         }
         else
         {
+
+            if(this is NewOrderFragment)
+            {
+                (requireActivity()as MainActivity).needBackMove=false
+                (requireActivity()as MainActivity).hideToolbar(false)
+            }
+            else
+            {
+                (requireActivity()as MainActivity).needBackMove=true
+                (requireActivity()as MainActivity).hideToolbar(true)
+            }
 
         }
     }
