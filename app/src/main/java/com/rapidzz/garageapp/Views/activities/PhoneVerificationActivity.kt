@@ -8,6 +8,9 @@ import com.google.android.gms.tasks.TaskExecutors
 import com.google.firebase.FirebaseException
 import com.google.firebase.auth.*
 import com.rapidzz.garageapp.R
+import com.rapidzz.garageapp.Utils.Application.Error
+import com.rapidzz.garageapp.Utils.Application.string
+import com.rapidzz.garageapp.Utils.GeneralUtils.AppConstants.Companion.MOBILE_PHONE
 import kotlinx.android.synthetic.main.activity_phone_verification.*
 import kotlinx.android.synthetic.main.toolbar_layout.*
 import java.util.concurrent.TimeUnit
@@ -30,21 +33,21 @@ class PhoneVerificationActivity : BaseActivity() {
 
         ivBack.setOnClickListener{ finish() }
         toolbar_title.text=""
-        val mobile = intent.getStringExtra("mobile")
+        val mobile = intent.getStringExtra(MOBILE_PHONE)
         sendVerificationCode(mobile!!)
 
         btnSubmit.setOnClickListener {
             if(!etPinCode.text.isNullOrEmpty()) {
-                val code = etPinCode.getText().toString().trim({ it <= ' ' })
+                val code = etPinCode.string().trim({ it <= ' ' })
                 if (code.isEmpty() || code.length < 6) {
-                    etPinCode.setError("Enter valid code")
+                    etPinCode.Error("Enter valid code")
                     etPinCode.requestFocus()
                 }
                 verifyVerificationCode(code)
             }
             else
             {
-                etPinCode.setError("Enter valid code")
+                etPinCode.Error("Enter valid code")
                 etPinCode.requestFocus()
             }
         }
@@ -72,10 +75,6 @@ class PhoneVerificationActivity : BaseActivity() {
     private val mCallbacks = object : PhoneAuthProvider.OnVerificationStateChangedCallbacks() {
         override fun onVerificationCompleted(phoneAuthCredential: PhoneAuthCredential) {
             val code = phoneAuthCredential.smsCode
-            if (code != null) {
-                //etPinCode.setText(code)
-               // verifyVerificationCode(code)
-            }
         }
 
         override fun onVerificationFailed(e: FirebaseException) {
@@ -97,15 +96,15 @@ class PhoneVerificationActivity : BaseActivity() {
 
 
         if(!mVerificationId.isNullOrEmpty()) {
-            mVerificationId?.let { }
+            showProgressDialog(true)
             val credential = PhoneAuthProvider.getCredential(mVerificationId!!, code)
-
-            //signing the user
             signInWithPhoneAuthCredential(credential)
         }
         else
         {
-            Toast.makeText(this@PhoneVerificationActivity, "Could not be verified \n Please try again using resend", Toast.LENGTH_LONG).show()
+            var message = "Could not be verified \n" +
+                    " Please try again using resend"
+            showAlertDialog(message)
         }
     }
 
@@ -114,7 +113,9 @@ class PhoneVerificationActivity : BaseActivity() {
         mAuth!!.signInWithCredential(credential)
             .addOnCompleteListener(this@PhoneVerificationActivity,
                 OnCompleteListener<AuthResult> { task ->
+                    showProgressDialog(false)
                     if (task.isSuccessful) {
+
                         sendResultBackToSignup()
                     } else {
                         var message = "Something is wrong, we will fix it soon..."
@@ -122,7 +123,8 @@ class PhoneVerificationActivity : BaseActivity() {
                         if (task.exception is FirebaseAuthInvalidCredentialsException) {
                             message = "Invalid code entered..."
                         }
-                        Toast.makeText(this@PhoneVerificationActivity, message, Toast.LENGTH_SHORT).show()
+
+                        showAlertDialog(message)
                     }
                 })
 
@@ -135,6 +137,11 @@ class PhoneVerificationActivity : BaseActivity() {
         setResult(Activity.RESULT_OK, resultIntent)
         finish()
     }
+
+
+
+
+
 
 
 }

@@ -5,12 +5,10 @@ import androidx.lifecycle.Observer
 import com.rapidzz.garageapp.Models.Source.Repository.UserDataSource
 import com.rapidzz.garageapp.R
 import com.rapidzz.garageapp.Utils.Application.Error
-import com.rapidzz.garageapp.Utils.Application.errorSet
 import com.rapidzz.garageapp.Utils.Application.isEmailValid
 import com.rapidzz.garageapp.Utils.Application.obtainViewModel
-import com.rapidzz.garageapp.ViewModels.LoginViewModel
+import com.rapidzz.garageapp.ViewModels.ProfileViewModel
 import com.rapidzz.garageapp.Views.activities.BaseActivity
-import com.rapidzz.garageapp.Views.fragments.BaseFragment
 import kotlinx.android.synthetic.main.fragment_sigin_in.*
 
 class SignInFragment : BaseFragment(){
@@ -21,7 +19,7 @@ class SignInFragment : BaseFragment(){
         return R.layout.fragment_sigin_in
     }
 
-    lateinit var viewModel: LoginViewModel
+    lateinit var viewModel: ProfileViewModel
 
 
 
@@ -52,27 +50,15 @@ class SignInFragment : BaseFragment(){
     }
 
     override fun attachViewModel() {
-        viewModel = obtainViewModel(LoginViewModel::class.java)
-
+        viewModel = obtainViewModel(ProfileViewModel::class.java)
+        setupGeneralViewModel(viewModel)
         with(viewModel)
         {
-            progressBar.observe(viewLifecycleOwner, Observer {
-                val show = it.getContentIfNotHandled()
-                if (show != null) {
-                    showProgressDialog(show)
-                }
-            })
-            snackbarMessage.observe(viewLifecycleOwner, Observer {
-                val msg = it.getContentIfNotHandled()
-                if (!msg.isNullOrEmpty()) {
-                    showAlertDialog(msg)
-                }
-            })
 
             userLiveData.observe(viewLifecycleOwner, Observer {
                 it.getContentIfNotHandled()?.let {
                     sessionManager.setUser(it)
-                        (requireActivity() as BaseActivity).gotoMainActivity()
+                    (requireActivity() as BaseActivity).gotoMainActivity()
                 }
 
             })
@@ -84,7 +70,7 @@ class SignInFragment : BaseFragment(){
 
     override fun initViews() {
         tvForgetPassword.setOnClickListener{
-            navigateRegFragment(
+            navigateToFragment(
                 R.id.action_signInFragment_to_forgotPasswordFragment,
                 null
             )

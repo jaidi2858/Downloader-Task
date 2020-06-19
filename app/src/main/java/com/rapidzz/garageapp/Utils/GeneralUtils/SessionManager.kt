@@ -7,9 +7,10 @@ import com.rapidzz.garageapp.Models.Source.ServerConnection.RetrofitClientInstan
 import com.rapidzz.garageapp.Utils.GeneralUtils.AppConstants.Companion.ADDRESS
 import com.rapidzz.garageapp.Utils.GeneralUtils.AppConstants.Companion.EMAIL
 import com.rapidzz.garageapp.Utils.GeneralUtils.AppConstants.Companion.FCM_TOKEN
+import com.rapidzz.garageapp.Utils.GeneralUtils.AppConstants.Companion.FIRST_NAME
 import com.rapidzz.garageapp.Utils.GeneralUtils.AppConstants.Companion.IS_LOGGED_IN
 import com.rapidzz.garageapp.Utils.GeneralUtils.AppConstants.Companion.KEY_AUTH
-import com.rapidzz.garageapp.Utils.GeneralUtils.AppConstants.Companion.NAME
+import com.rapidzz.garageapp.Utils.GeneralUtils.AppConstants.Companion.LAST_NAME
 import com.rapidzz.garageapp.Utils.GeneralUtils.AppConstants.Companion.PHONE_NUMBER
 import com.rapidzz.garageapp.Utils.GeneralUtils.AppConstants.Companion.PREF_NAME
 import com.rapidzz.garageapp.Utils.GeneralUtils.AppConstants.Companion.PROFILE_PIC
@@ -47,15 +48,33 @@ class SessionManager {
         return pref.getString(USER_ID, "")!!
     }
 
-    fun setName(name: String?) {
+    fun setFirstName(name: String?) {
         with(pref.edit()) {
-            putString(NAME, name)
+            putString(FIRST_NAME, name)
             apply()
         }
     }
 
+
+    fun setLastName(name: String?) {
+        with(pref.edit()) {
+            putString(LAST_NAME, name)
+            apply()
+        }
+    }
+
+    fun getFirstName(): String {
+        return pref.getString(FIRST_NAME, "")!!
+    }
+
+
+    fun getLastName(): String {
+        return pref.getString(LAST_NAME, "")!!
+    }
+
+
     fun getName(): String {
-        return pref.getString(NAME, "")!!
+        return getFirstName()+" "+getLastName()
     }
 
     fun setAddress(address: String?) {
@@ -184,25 +203,25 @@ class SessionManager {
         setLoggedIn(false)
         setEmail("")
         setUserId("")
-        setName("")
+        setFirstName("")
+        setLastName("")
         setMobileNumber("")
         setPicture("")
         setAuthToken("")
         setFCMToken("")
         setAddress("")
-        setInfoStatus(0)
     }
 
     fun setUser(u: User) {
         setUserId(u.id.toString())
-        setName(u.name)
+        setFirstName(u.first_name)
+        setLastName(u.last_name)
         setEmail(u.email)
         setLoggedIn(true)
         setAddress(u.address)
-        setPhoneNumber(u.phone_num)
+        setPhoneNumber(u.phone)
         setPicture(u.image)
-        setAuthToken(u.Token)
-        setInfoStatus(u.all_info)
+        setAuthToken(u.token)
     }
 
     fun getLocale(): String {

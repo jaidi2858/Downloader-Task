@@ -19,7 +19,7 @@ class NewOrderFragment : BaseFragment(){
 
     override fun initViews() {
         btnLookup.setOnClickListener{
-            navigateRegFragment(
+            navigateToFragment(
                 R.id.action_startedFragment_to_signupFragment,
                 null
             )

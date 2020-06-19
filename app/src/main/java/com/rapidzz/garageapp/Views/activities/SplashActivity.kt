@@ -12,7 +12,12 @@ class SplashActivity : BaseActivity() {
     override fun initViews() {
 
         Handler().postDelayed(Runnable {
-           gotoRegActivity()
+            if(sessionManager.isLoggedIn()) {
+                gotoMainActivity()
+            }
+            else {
+                gotoRegActivity()
+            }
         }, SPLASH_DELAY)
     }
 

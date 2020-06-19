@@ -68,6 +68,7 @@ dependencies {
     implementation 'com.afollestad:vvalidator:0.5.2'
     implementation 'com.poovam:pin-edittext-field:1.2.1'
     implementation 'me.srodrigo:androidhintspinner:1.0.0'
+    implementation 'com.jesualex.android:autocompletelocation:1.1'
     // implementation 'com.github.BlackBoxVision:datetimepicker-edittext:v0.4.0'
 
 
@@ -82,11 +83,7 @@ dependencies {
     //Architechure Dependency
     implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0'
     implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
-    implementation 'io.reactivex.rxjava2:rxjava:2.2.8'
-    implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
     implementation 'androidx.legacy:legacy-support-v4:1.0.0'
-    implementation 'androidx.navigation:navigation-fragment:2.2.0'
-    implementation 'androidx.navigation:navigation-ui:2.2.0'
     implementation 'androidx.navigation:navigation-fragment-ktx:2.2.0'
     implementation 'androidx.navigation:navigation-ui-ktx:2.2.0'
     implementation "androidx.lifecycle:lifecycle-extensions:$rootProject.lifecycle_version"
@@ -102,6 +99,7 @@ dependencies {
     implementation "com.google.android.gms:play-services-maps:$rootProject.mapVersion"
     implementation "com.google.android.gms:play-services-location:$rootProject.mapVersion"
     implementation "com.google.android.gms:play-services-places:$rootProject.mapVersion"
+    implementation 'com.google.android.libraries.places:places:2.2.0'
 
 
     //Testing

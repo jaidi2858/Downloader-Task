@@ -149,7 +149,12 @@ fun View.isVisibleToUser():Boolean
 
 fun EditText.string():String
 {
-    return this.text.toString()
+    return this.text.toString().trim()
+}
+
+fun String?.requireString():String
+{
+    return ""+this
 }
 
 fun EditText.Error(errorMessage:String?)

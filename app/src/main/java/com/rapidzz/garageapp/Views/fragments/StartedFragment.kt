@@ -18,14 +18,14 @@ class StartedFragment : BaseFragment(){
 
     override fun initViews() {
         btnGetStarted.setOnClickListener{
-            navigateRegFragment(
+            navigateToFragment(
                 R.id.action_startedFragment_to_signupFragment,
                 null
             )
         }
 
         llLogin.setOnClickListener {
-            navigateRegFragment(
+            navigateToFragment(
                 R.id.action_startedFragment_to_signInFragment,
                 null
             )

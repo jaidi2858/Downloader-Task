@@ -1,12 +1,9 @@
 package com.rapidzz.garageapp.Views.fragments
 
-import android.os.Bundle
-import android.view.View
 import androidx.lifecycle.Observer
 import com.rapidzz.garageapp.R
 import com.rapidzz.garageapp.Utils.Application.*
-import com.rapidzz.garageapp.ViewModels.LoginViewModel
-import com.rapidzz.garageapp.Views.fragments.BaseFragment
+import com.rapidzz.garageapp.ViewModels.ProfileViewModel
 
 import kotlinx.android.synthetic.main.fragment_forgot.*
 
@@ -17,11 +14,11 @@ class ForgotPasswordFragment : BaseFragment() {
         return R.layout.fragment_forgot
     }
 
-    lateinit var viewModel: LoginViewModel
+    lateinit var viewModel: ProfileViewModel
 
 
     override fun attachViewModel() {
-        viewModel = obtainViewModel(LoginViewModel::class.java)
+        viewModel = obtainViewModel(ProfileViewModel::class.java)
         with(viewModel) {
             progressBar.observe(viewLifecycleOwner, Observer {
                 val show = it.getContentIfNotHandled()

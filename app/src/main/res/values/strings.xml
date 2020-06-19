@@ -5,21 +5,31 @@
     <string name="forgot_password">Forgot Password ?</string>
     <string name="sign_in">Sign In</string>
     <string name="dont_have_account">Dont have account ? SIGN UP</string>
-    <string name="password">Password</string>
-    <string name="re_type_password">RE TYPE PASSWORD</string>
+
+    <string name="email_field">EMAIL</string>
+    <string name="first_name_field">First Name</string>
+    <string name="last_name_field">Last Name</string>
+    <string name="phone_number_field">PHONE NUMBER</string>
+    <string name="cnic_field">CNIC</string>
+    <string name="password_field">Password</string>
+    <string name="re_type_password_field">RE TYPE PASSWORD</string>
+    <string name="address_field">Address</string>
+
     <string name="register">Register</string>
     <string name="submit_details">Submit details</string>
     <string name="verify">Verify</string>
     <string name="please_verify">Please verify your phone number </string>
 
 
+
     <string name="field_req">Field Required!!</string>
-    <string name="address_req">Address Required!!</string>
+    <string name="address_req">Complete Address Required!!</string>
     <string name="image_req">Image Required!!</string>
     <string name="new_passwrod_req">New Password Required!!</string>
     <string name="old_password_req">Old Password Required!!</string>
     <string name="confrim_password_required">Confrim Password Required!!</string>
     <string name="password_not_matched">Password Not Matched!!</string>
+
 
     <string name="req_name">Name Required !!</string>
     <string name="req_email">Email Required !!</string>
@@ -33,9 +43,7 @@
     <string name="retype_password">Password doesn\'t match !!</string>
 
 
-    <string name="email">EMAIL</string>
-    <string name="name">Name</string>
-    <string name="phone_number">PHONE NUMBER</string>
+
     <string name="title_activity_main">MainActivity</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -90,11 +98,26 @@
     <string name="enter_address_here">Enter Address Here</string>
     <string name="my_current_location">My Current Location</string>
     <string name="telephone_mobile">Telephone/Mobile:</string>
-    <string name="ok">Ok</string>
     <string name="menu">Menu</string>
     <string name="mot_expire">MOT Expire:</string>
     <string name="car_details">Car Details:</string>
     <string name="reg_no">Reg No:</string>
+
+
+
+
+
+
+
+
+
+    //GENERIC STRINGS
+    <string name="submit">Submit</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+    <string name="alert">Alert</string>
+
 
 
 </resources>

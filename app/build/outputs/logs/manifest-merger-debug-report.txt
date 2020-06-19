@@ -1,17 +1,18 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-54:12
-INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-54:12
-INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-54:12
-INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-54:12
+ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-78:12
 MERGED from [com.afollestad:vvalidator:0.5.2] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e77c1753e88cfa76080d55668ab1fce2\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.navigation:navigation-ui-ktx:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\880fb1bba55e462ad0ad22c69301c28a\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.navigation:navigation-ui:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\9504067e65e74f8d49f8fb8cca5b1bbe\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\67f6dc13be865ce9db72cb0efe75dbad\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3e9cfa49411091870480145f17997a54\AndroidManifest.xml:17:1-24:12
 MERGED from [com.hbb20:ccp:2.3.4] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8aae99f2f71e25e9c8dab3a4f3485055\AndroidManifest.xml:2:1-16:12
-MERGED from [com.poovam:pin-edittext-field:1.2.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e751462df0e62dd934c34564aebae6d6\AndroidManifest.xml:2:1-12:12
+MERGED from [com.poovam:pin-edittext-field:1.2.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\28276dfa6699478e20e35cd25b5e9c0e\AndroidManifest.xml:2:1-12:12
 MERGED from [me.srodrigo:androidhintspinner:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\dda6a965ef2e9cecf2ae09e3b6bd7a3c\AndroidManifest.xml:2:1-16:12
-MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\be8b8e56371cf1e7163a6add518f7fce\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:2:1-23:12
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6fb0d89322d5c64fc427c98f770261fc\AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\b7a64002e40398d08f733c457403973b\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\17e7db6d79e0fa4adffc77266bf02b1a\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.fragment:fragment-ktx:1.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\241437951a32f8275ec3a2768ab861ee\AndroidManifest.xml:17:1-24:12
@@ -22,18 +23,17 @@ MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Amjad\.g
 MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\b3ede7b8cf55eb91a781722463b3d3e7\AndroidManifest.xml:17:1-22:12
 MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\c39e1ea446557deeae1313eff5eee52c\AndroidManifest.xml:2:1-11:12
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d5d8f761837ac8ceacc08128da9fcf5e\AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\0518358faa42225a2b726280b80393d4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6120eda9a52443b5ff68fc8814ca9cac\AndroidManifest.xml:2:1-12:12
 MERGED from [com.nabinbhandari.android:permissions:3.8] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\77a333dd42b084033399c644bd0b6fbc\AndroidManifest.xml:2:1-17:12
-MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:2:1-30:12
+MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:2:1-30:12
+MERGED from [com.jesualex.android:autocompletelocation:1.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8b5427ed40546fc4ec5a2c96bfe9dec6\AndroidManifest.xml:2:1-10:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\27f76c668666eb7de64a6d4ca455f728\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\5003b0d5f918b6e6609e09cc9e444358\AndroidManifest.xml:17:1-27:12
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\06642c35254a8669aecf69de14bbeedd\AndroidManifest.xml:15:1-20:12
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\1cdba1118e1983cf7d110854c49bdd0b\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-fragment:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4a9345eb1cb5c9cc509878fee6b6f121\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:17:1-44:12
 MERGED from [com.google.firebase:firebase-core:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bef8e7ac7eb8731c17a62d5535e105d9\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4967e4c8545cf83906e8428778d98ecb\AndroidManifest.xml:2:1-9:12
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\50204828001e74a79c793e95b7f5a117\AndroidManifest.xml:2:1-26:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ac5b86466ce196b4afae5f874abe9489\AndroidManifest.xml:2:1-26:12
 MERGED from [com.google.firebase:firebase-auth:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\a8bfeda7adea2b136c71d1fdcc594b18\AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\c1ab65c12831dd079c9d545549c16fb8\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ef19d71c0bf33cc1b30ce2197bd127e9\AndroidManifest.xml:17:1-38:12
@@ -50,12 +50,13 @@ MERGED from [androidx.transition:transition:1.2.0] C:\Users\Amjad\.gradle\caches
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bcf1784d2d1e8f18162aa5da03edb30b\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\37557108844f0d94ef02e677efe4fe03\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\04acbc5e1e38de5320595747296ba219\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4a9345eb1cb5c9cc509878fee6b6f121\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e14259e90dcae05c4e6198b14bc52fad\AndroidManifest.xml:15:1-34:12
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\2e75cfdbedc13bf1a270adcea5b64517\AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.firebase:firebase-iid:20.1.2] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\fb2c4b0f4ca1bcd7a46ffc24df3d715b\AndroidManifest.xml:17:1-47:12
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\850d4ad26243cec2b5a70221b802737b\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.firebase:firebase-installations:16.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\52e4899269de7a0873946d30318921fa\AndroidManifest.xml:2:1-23:12
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3d143a22187fd43e99fc038838c1854b\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\79c7f65afa2a2cff74e9a90082aae0e7\AndroidManifest.xml:15:1-39:12
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f2c210586c5b88aac416a2eb987d9b12\AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\993771b3a271c2f12c0f15b673109e22\AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.firebase:firebase-installations-interop:16.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\0e314d70706742c3447c4976e8e195e9\AndroidManifest.xml:15:1-23:12
@@ -69,7 +70,7 @@ MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Amjad\.
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\da788c34ce3cd8b30a9c133020639fcd\AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\259e1bfd0f2a7226e3cb4bc14db87762\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\1a4a56b3b73e769d158febb79b00771a\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\7763a8c3176c23c6d7db7ab48da3f048\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d52a277750c29ae7961150bd4f97d9b2\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4515656700402700565a36a6b2b7cbee\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.media:media:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\dc0f47c55a422fb931f3ef8cfdc72846\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\80b576092222dcef1137b348ccaa8ed6\AndroidManifest.xml:17:1-22:12
@@ -85,7 +86,7 @@ MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Am
 MERGED from [androidx.navigation:navigation-common:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\952145482eb63854d661d2ada136b796\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core:1.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\2704fb46dd4e69df8d4bc617d513e853\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\9635a823d2501c60c3c62ce9678cf488\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f8b65053c428f61d74b26fc28edd014f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e0f46a5b5e9ee58cc6b12964214a4dea\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\1f4c03468d5275f22c0fc8ca9a1917a5\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\0d23b1a9875bc144e3ee8b5790db8595\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3c52279d07f6c43e388e79a49db1ea95\AndroidManifest.xml:17:1-32:12
@@ -97,7 +98,7 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Amjad\.gradle\cache
 MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\c204c27d9c3f6062dcf09a3d37c388a8\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ffaffae8903ad209fd0d8564a6ad2fee\AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\0478f049aec56e35d8c2880ac5c1d725\AndroidManifest.xml:15:1-41:12
-MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\de40b68d0db8c8aa0871445ba772aa84\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e3939d37b7ea02e702f7dc303acfd4fb\AndroidManifest.xml:15:1-23:12
 MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\2968a7485b8740aff6b99c06cb2ce660\AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\268b5cff007aab9be22b5a668d01e798\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\c3a14208360a9a38d3ef57eab2ab032c\AndroidManifest.xml:17:1-27:12
@@ -109,29 +110,32 @@ MERGED from [io.michaelrocks:libphonenumber-android:8.10.14] C:\Users\Amjad\.gra
 MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d5f649152a44938b0b84eaf8351a34c0\AndroidManifest.xml:15:1-22:12
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bbe6606978ac877ad07205a5cdd9b443\AndroidManifest.xml:45:1-56:12
 MERGED from [com.crashlytics.sdk.android:beta:1.2.10] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\5cb1aae07765c462205ee93bfb764993\AndroidManifest.xml:2:1-13:12
-MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f67b2ec6abf0de4e37de5c01ee1d7756\AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8046f9671fef19a53eee82df36c9c59c\AndroidManifest.xml:2:1-13:12
 MERGED from [io.fabric.sdk.android:fabric:1.4.8] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bded25d456e9679f906fa70348556f96\AndroidManifest.xml:22:1-33:12
-INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-54:12
-INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-54:12
-INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-54:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6483d035d49c8289b4b3838dd6171423\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-78:12
 	package
 		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:3:5-36
 		INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-54:12
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-78:12
 		INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-54:12
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:1-78:12
 		INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:5:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\50204828001e74a79c793e95b7f5a117\AndroidManifest.xml:16:5-67
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\50204828001e74a79c793e95b7f5a117\AndroidManifest.xml:16:5-67
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:11:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ac5b86466ce196b4afae5f874abe9489\AndroidManifest.xml:16:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ac5b86466ce196b4afae5f874abe9489\AndroidManifest.xml:16:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ef19d71c0bf33cc1b30ce2197bd127e9\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ef19d71c0bf33cc1b30ce2197bd127e9\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\2e75cfdbedc13bf1a270adcea5b64517\AndroidManifest.xml:22:5-67
@@ -152,16 +156,16 @@ MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] C:\Users\Amjad\
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bbe6606978ac877ad07205a5cdd9b443\AndroidManifest.xml:52:5-67
 MERGED from [com.crashlytics.sdk.android:beta:1.2.10] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\5cb1aae07765c462205ee93bfb764993\AndroidManifest.xml:9:5-67
 MERGED from [com.crashlytics.sdk.android:beta:1.2.10] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\5cb1aae07765c462205ee93bfb764993\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f67b2ec6abf0de4e37de5c01ee1d7756\AndroidManifest.xml:9:5-67
-MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f67b2ec6abf0de4e37de5c01ee1d7756\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8046f9671fef19a53eee82df36c9c59c\AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8046f9671fef19a53eee82df36c9c59c\AndroidManifest.xml:9:5-67
 MERGED from [io.fabric.sdk.android:fabric:1.4.8] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bded25d456e9679f906fa70348556f96\AndroidManifest.xml:29:5-67
 MERGED from [io.fabric.sdk.android:fabric:1.4.8] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bded25d456e9679f906fa70348556f96\AndroidManifest.xml:29:5-67
 	android:name
 		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:6:5-79
-MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:13:5-79
-MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:13:5-79
+MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:13:5-79
+MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:13:5-79
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ef19d71c0bf33cc1b30ce2197bd127e9\AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ef19d71c0bf33cc1b30ce2197bd127e9\AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\2e75cfdbedc13bf1a270adcea5b64517\AndroidManifest.xml:23:5-79
@@ -192,14 +196,16 @@ ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.
 		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:8:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
 ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:9:5-79
-MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:14:5-79
-MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:14:5-79
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:9:5-79
+MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:14:5-79
+MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:14:5-79
 	android:name
 		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:9:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:10:5-81
-MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:12:5-81
-MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:12:5-81
+MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:12:5-81
 	android:name
 		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:10:22-78
 uses-permission#android.permission.READ_PHONE_STATE
@@ -207,35 +213,37 @@ ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.
 	android:name
 		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:11:22-72
 application
-ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:13:5-52:19
+ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:13:5-76:19
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3e9cfa49411091870480145f17997a54\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3e9cfa49411091870480145f17997a54\AndroidManifest.xml:22:5-20
 MERGED from [com.hbb20:ccp:2.3.4] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8aae99f2f71e25e9c8dab3a4f3485055\AndroidManifest.xml:11:5-14:19
 MERGED from [com.hbb20:ccp:2.3.4] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8aae99f2f71e25e9c8dab3a4f3485055\AndroidManifest.xml:11:5-14:19
 MERGED from [me.srodrigo:androidhintspinner:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\dda6a965ef2e9cecf2ae09e3b6bd7a3c\AndroidManifest.xml:11:5-14:19
 MERGED from [me.srodrigo:androidhintspinner:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\dda6a965ef2e9cecf2ae09e3b6bd7a3c\AndroidManifest.xml:11:5-14:19
-MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\be8b8e56371cf1e7163a6add518f7fce\AndroidManifest.xml:11:5-20
-MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\be8b8e56371cf1e7163a6add518f7fce\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:13:5-21:19
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:13:5-21:19
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6fb0d89322d5c64fc427c98f770261fc\AndroidManifest.xml:11:5-20
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6fb0d89322d5c64fc427c98f770261fc\AndroidManifest.xml:11:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\622a1130082d715103e5552737adf0bb\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\622a1130082d715103e5552737adf0bb\AndroidManifest.xml:9:5-20
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d5d8f761837ac8ceacc08128da9fcf5e\AndroidManifest.xml:9:5-20
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d5d8f761837ac8ceacc08128da9fcf5e\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\0518358faa42225a2b726280b80393d4\AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\0518358faa42225a2b726280b80393d4\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6120eda9a52443b5ff68fc8814ca9cac\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6120eda9a52443b5ff68fc8814ca9cac\AndroidManifest.xml:10:5-20
 MERGED from [com.nabinbhandari.android:permissions:3.8] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\77a333dd42b084033399c644bd0b6fbc\AndroidManifest.xml:11:5-15:19
 MERGED from [com.nabinbhandari.android:permissions:3.8] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\77a333dd42b084033399c644bd0b6fbc\AndroidManifest.xml:11:5-15:19
-MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:18:5-28:19
-MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:18:5-28:19
+MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:18:5-28:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\5003b0d5f918b6e6609e09cc9e444358\AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\5003b0d5f918b6e6609e09cc9e444358\AndroidManifest.xml:24:5-25:19
-MERGED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:22:5-42:19
-MERGED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:22:5-42:19
+MERGED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:22:5-42:19
 MERGED from [com.google.firebase:firebase-core:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bef8e7ac7eb8731c17a62d5535e105d9\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-core:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bef8e7ac7eb8731c17a62d5535e105d9\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4967e4c8545cf83906e8428778d98ecb\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4967e4c8545cf83906e8428778d98ecb\AndroidManifest.xml:7:5-20
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\50204828001e74a79c793e95b7f5a117\AndroidManifest.xml:18:5-24:19
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\50204828001e74a79c793e95b7f5a117\AndroidManifest.xml:18:5-24:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ac5b86466ce196b4afae5f874abe9489\AndroidManifest.xml:18:5-24:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ac5b86466ce196b4afae5f874abe9489\AndroidManifest.xml:18:5-24:19
 MERGED from [com.google.firebase:firebase-auth:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\a8bfeda7adea2b136c71d1fdcc594b18\AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.firebase:firebase-auth:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\a8bfeda7adea2b136c71d1fdcc594b18\AndroidManifest.xml:23:5-40:19
 MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\c1ab65c12831dd079c9d545549c16fb8\AndroidManifest.xml:22:5-20
@@ -254,8 +262,8 @@ MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Amjad\.g
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\850d4ad26243cec2b5a70221b802737b\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-installations:16.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\52e4899269de7a0873946d30318921fa\AndroidManifest.xml:13:5-21:19
 MERGED from [com.google.firebase:firebase-installations:16.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\52e4899269de7a0873946d30318921fa\AndroidManifest.xml:13:5-21:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3d143a22187fd43e99fc038838c1854b\AndroidManifest.xml:25:5-37:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3d143a22187fd43e99fc038838c1854b\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\79c7f65afa2a2cff74e9a90082aae0e7\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\79c7f65afa2a2cff74e9a90082aae0e7\AndroidManifest.xml:25:5-37:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f2c210586c5b88aac416a2eb987d9b12\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f2c210586c5b88aac416a2eb987d9b12\AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\993771b3a271c2f12c0f15b673109e22\AndroidManifest.xml:22:5-27:19
@@ -278,12 +286,12 @@ MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\259e1bfd0f2a7226e3cb4bc14db87762\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\1a4a56b3b73e769d158febb79b00771a\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\1a4a56b3b73e769d158febb79b00771a\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\7763a8c3176c23c6d7db7ab48da3f048\AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\7763a8c3176c23c6d7db7ab48da3f048\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d52a277750c29ae7961150bd4f97d9b2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d52a277750c29ae7961150bd4f97d9b2\AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.core:core:1.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\2704fb46dd4e69df8d4bc617d513e853\AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\2704fb46dd4e69df8d4bc617d513e853\AndroidManifest.xml:24:5-89
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f8b65053c428f61d74b26fc28edd014f\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f8b65053c428f61d74b26fc28edd014f\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e0f46a5b5e9ee58cc6b12964214a4dea\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e0f46a5b5e9ee58cc6b12964214a4dea\AndroidManifest.xml:9:5-20
 MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3c52279d07f6c43e388e79a49db1ea95\AndroidManifest.xml:24:5-30:19
 MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3c52279d07f6c43e388e79a49db1ea95\AndroidManifest.xml:24:5-30:19
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ffaffae8903ad209fd0d8564a6ad2fee\AndroidManifest.xml:28:5-36:19
@@ -296,10 +304,12 @@ MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] C:\Users\Amjad\
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bbe6606978ac877ad07205a5cdd9b443\AndroidManifest.xml:54:5-20
 MERGED from [com.crashlytics.sdk.android:beta:1.2.10] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\5cb1aae07765c462205ee93bfb764993\AndroidManifest.xml:11:5-20
 MERGED from [com.crashlytics.sdk.android:beta:1.2.10] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\5cb1aae07765c462205ee93bfb764993\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f67b2ec6abf0de4e37de5c01ee1d7756\AndroidManifest.xml:11:5-20
-MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f67b2ec6abf0de4e37de5c01ee1d7756\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8046f9671fef19a53eee82df36c9c59c\AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8046f9671fef19a53eee82df36c9c59c\AndroidManifest.xml:11:5-20
 MERGED from [io.fabric.sdk.android:fabric:1.4.8] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bded25d456e9679f906fa70348556f96\AndroidManifest.xml:31:5-20
 MERGED from [io.fabric.sdk.android:fabric:1.4.8] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bded25d456e9679f906fa70348556f96\AndroidManifest.xml:31:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6483d035d49c8289b4b3838dd6171423\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6483d035d49c8289b4b3838dd6171423\AndroidManifest.xml:9:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\2704fb46dd4e69df8d4bc617d513e853\AndroidManifest.xml:24:18-86
 	android:supportsRtl
@@ -319,7 +329,7 @@ MERGED from [io.fabric.sdk.android:fabric:1.4.8] C:\Users\Amjad\.gradle\caches\t
 	android:name
 		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:14:9-81
 activity#com.rapidzz.garageapp.Views.activities.RegistrationActivity
-ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:24:9-28:61
+ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:24:9-30:20
 	android:label
 		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:26:13-64
 	android:configChanges
@@ -329,47 +339,69 @@ ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.
 	android:name
 		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:25:13-87
 activity#com.rapidzz.garageapp.Views.activities.MainActivity
-ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:29:9-39:20
+ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:31:9-36:20
 	android:label
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:31:13-56
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:33:13-56
 	android:theme
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:32:13-49
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:34:13-49
 	android:name
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:30:13-79
-intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:33:13-38:29
-action#android.intent.action.MAIN
-ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:34:17-69
-	android:name
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:34:25-66
-action#android.intent.action.VIEW
-ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:35:17-69
-	android:name
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:35:25-66
-category#android.intent.category.LAUNCHER
-ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:37:17-77
-	android:name
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:37:27-74
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:32:13-79
 activity#com.rapidzz.garageapp.Views.activities.SplashActivity
-ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:40:9-47:20
+ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:37:9-50:20
 	android:screenOrientation
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:42:13-49
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:39:13-49
 	android:windowSoftInputMode
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:45:13-52
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:42:13-52
 	android:configChanges
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:43:13-43
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:40:13-43
 	android:theme
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:44:13-49
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:41:13-49
 	android:name
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:41:13-81
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:38:13-81
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:43:13-48:29
+action#android.intent.action.MAIN
+ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:44:25-66
+action#android.intent.action.VIEW
+ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:47:27-74
 activity#com.rapidzz.garageapp.Views.activities.PhoneVerificationActivity
-ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:49:9-51:51
+ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:52:9-54:51
 	android:configChanges
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:50:13-43
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:53:13-43
 	android:theme
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:51:13-49
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:54:13-49
 	android:name
-		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:49:19-98
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:52:19-98
+activity#com.rapidzz.garageapp.Views.activities.LocationPickerActivity
+ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:57:9-59:51
+	android:configChanges
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:58:13-43
+	android:theme
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:59:13-49
+	android:name
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:57:19-95
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:68:9-70:57
+	android:value
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:70:13-54
+	android:name
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:69:13-58
+meta-data#com.google.android.gms.version
+ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:71:9-73:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d52a277750c29ae7961150bd4f97d9b2\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d52a277750c29ae7961150bd4f97d9b2\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:73:13-66
+	android:name
+		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml:72:13-58
 uses-sdk
 INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml
@@ -378,18 +410,20 @@ MERGED from [com.afollestad:vvalidator:0.5.2] C:\Users\Amjad\.gradle\caches\tran
 MERGED from [com.afollestad:vvalidator:0.5.2] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e77c1753e88cfa76080d55668ab1fce2\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.navigation:navigation-ui-ktx:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\880fb1bba55e462ad0ad22c69301c28a\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui-ktx:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\880fb1bba55e462ad0ad22c69301c28a\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\9504067e65e74f8d49f8fb8cca5b1bbe\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\9504067e65e74f8d49f8fb8cca5b1bbe\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\67f6dc13be865ce9db72cb0efe75dbad\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\67f6dc13be865ce9db72cb0efe75dbad\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3e9cfa49411091870480145f17997a54\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.2.0-alpha06] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3e9cfa49411091870480145f17997a54\AndroidManifest.xml:20:5-44
 MERGED from [com.hbb20:ccp:2.3.4] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8aae99f2f71e25e9c8dab3a4f3485055\AndroidManifest.xml:7:5-9:41
 MERGED from [com.hbb20:ccp:2.3.4] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8aae99f2f71e25e9c8dab3a4f3485055\AndroidManifest.xml:7:5-9:41
-MERGED from [com.poovam:pin-edittext-field:1.2.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e751462df0e62dd934c34564aebae6d6\AndroidManifest.xml:8:5-10:41
-MERGED from [com.poovam:pin-edittext-field:1.2.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e751462df0e62dd934c34564aebae6d6\AndroidManifest.xml:8:5-10:41
+MERGED from [com.poovam:pin-edittext-field:1.2.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\28276dfa6699478e20e35cd25b5e9c0e\AndroidManifest.xml:8:5-10:41
+MERGED from [com.poovam:pin-edittext-field:1.2.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\28276dfa6699478e20e35cd25b5e9c0e\AndroidManifest.xml:8:5-10:41
 MERGED from [me.srodrigo:androidhintspinner:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\dda6a965ef2e9cecf2ae09e3b6bd7a3c\AndroidManifest.xml:7:5-9:41
 MERGED from [me.srodrigo:androidhintspinner:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\dda6a965ef2e9cecf2ae09e3b6bd7a3c\AndroidManifest.xml:7:5-9:41
-MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\be8b8e56371cf1e7163a6add518f7fce\AndroidManifest.xml:7:5-9:41
-MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\be8b8e56371cf1e7163a6add518f7fce\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:7:5-44
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6fb0d89322d5c64fc427c98f770261fc\AndroidManifest.xml:7:5-9:41
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6fb0d89322d5c64fc427c98f770261fc\AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\b7a64002e40398d08f733c457403973b\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\b7a64002e40398d08f733c457403973b\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-fragment-ktx:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\17e7db6d79e0fa4adffc77266bf02b1a\AndroidManifest.xml:20:5-22:41
@@ -410,30 +444,28 @@ MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\Amjad\.gradle\caches\tra
 MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\c39e1ea446557deeae1313eff5eee52c\AndroidManifest.xml:7:5-9:41
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d5d8f761837ac8ceacc08128da9fcf5e\AndroidManifest.xml:5:5-7:41
 MERGED from [de.hdodenhof:circleimageview:3.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d5d8f761837ac8ceacc08128da9fcf5e\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\0518358faa42225a2b726280b80393d4\AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\0518358faa42225a2b726280b80393d4\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6120eda9a52443b5ff68fc8814ca9cac\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6120eda9a52443b5ff68fc8814ca9cac\AndroidManifest.xml:6:5-8:41
 MERGED from [com.nabinbhandari.android:permissions:3.8] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\77a333dd42b084033399c644bd0b6fbc\AndroidManifest.xml:7:5-9:41
 MERGED from [com.nabinbhandari.android:permissions:3.8] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\77a333dd42b084033399c644bd0b6fbc\AndroidManifest.xml:7:5-9:41
-MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:8:5-10:41
-MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:8:5-10:41
+MERGED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:8:5-10:41
+MERGED from [com.jesualex.android:autocompletelocation:1.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8b5427ed40546fc4ec5a2c96bfe9dec6\AndroidManifest.xml:6:5-8:41
+MERGED from [com.jesualex.android:autocompletelocation:1.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8b5427ed40546fc4ec5a2c96bfe9dec6\AndroidManifest.xml:6:5-8:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\27f76c668666eb7de64a6d4ca455f728\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\27f76c668666eb7de64a6d4ca455f728\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\5003b0d5f918b6e6609e09cc9e444358\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\5003b0d5f918b6e6609e09cc9e444358\AndroidManifest.xml:20:5-22:41
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\06642c35254a8669aecf69de14bbeedd\AndroidManifest.xml:18:5-43
-MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\06642c35254a8669aecf69de14bbeedd\AndroidManifest.xml:18:5-43
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\1cdba1118e1983cf7d110854c49bdd0b\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\1cdba1118e1983cf7d110854c49bdd0b\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-fragment:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4a9345eb1cb5c9cc509878fee6b6f121\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4a9345eb1cb5c9cc509878fee6b6f121\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-core:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bef8e7ac7eb8731c17a62d5535e105d9\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-core:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bef8e7ac7eb8731c17a62d5535e105d9\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4967e4c8545cf83906e8428778d98ecb\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-analytics:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4967e4c8545cf83906e8428778d98ecb\AndroidManifest.xml:5:5-44
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\50204828001e74a79c793e95b7f5a117\AndroidManifest.xml:12:5-14:63
-MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\50204828001e74a79c793e95b7f5a117\AndroidManifest.xml:12:5-14:63
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ac5b86466ce196b4afae5f874abe9489\AndroidManifest.xml:12:5-14:63
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ac5b86466ce196b4afae5f874abe9489\AndroidManifest.xml:12:5-14:63
 MERGED from [com.google.firebase:firebase-auth:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\a8bfeda7adea2b136c71d1fdcc594b18\AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-auth:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\a8bfeda7adea2b136c71d1fdcc594b18\AndroidManifest.xml:21:5-44
 MERGED from [com.google.android.gms:play-services-places:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\c1ab65c12831dd079c9d545549c16fb8\AndroidManifest.xml:20:5-44
@@ -466,6 +498,8 @@ MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Amjad\.gradl
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\37557108844f0d94ef02e677efe4fe03\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\04acbc5e1e38de5320595747296ba219\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\04acbc5e1e38de5320595747296ba219\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4a9345eb1cb5c9cc509878fee6b6f121\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4a9345eb1cb5c9cc509878fee6b6f121\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e14259e90dcae05c4e6198b14bc52fad\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e14259e90dcae05c4e6198b14bc52fad\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\2e75cfdbedc13bf1a270adcea5b64517\AndroidManifest.xml:20:5-44
@@ -476,8 +510,8 @@ MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Amjad\.g
 MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\850d4ad26243cec2b5a70221b802737b\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-installations:16.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\52e4899269de7a0873946d30318921fa\AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-installations:16.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\52e4899269de7a0873946d30318921fa\AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3d143a22187fd43e99fc038838c1854b\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3d143a22187fd43e99fc038838c1854b\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\79c7f65afa2a2cff74e9a90082aae0e7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\79c7f65afa2a2cff74e9a90082aae0e7\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f2c210586c5b88aac416a2eb987d9b12\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f2c210586c5b88aac416a2eb987d9b12\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\993771b3a271c2f12c0f15b673109e22\AndroidManifest.xml:20:5-44
@@ -504,8 +538,8 @@ MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\259e1bfd0f2a7226e3cb4bc14db87762\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\1a4a56b3b73e769d158febb79b00771a\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\1a4a56b3b73e769d158febb79b00771a\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\7763a8c3176c23c6d7db7ab48da3f048\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\7763a8c3176c23c6d7db7ab48da3f048\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d52a277750c29ae7961150bd4f97d9b2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\d52a277750c29ae7961150bd4f97d9b2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4515656700402700565a36a6b2b7cbee\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\4515656700402700565a36a6b2b7cbee\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.media:media:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\dc0f47c55a422fb931f3ef8cfdc72846\AndroidManifest.xml:20:5-44
@@ -536,8 +570,8 @@ MERGED from [androidx.core:core:1.2.0] C:\Users\Amjad\.gradle\caches\transforms-
 MERGED from [androidx.core:core:1.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\2704fb46dd4e69df8d4bc617d513e853\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\9635a823d2501c60c3c62ce9678cf488\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\9635a823d2501c60c3c62ce9678cf488\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f8b65053c428f61d74b26fc28edd014f\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f8b65053c428f61d74b26fc28edd014f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e0f46a5b5e9ee58cc6b12964214a4dea\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e0f46a5b5e9ee58cc6b12964214a4dea\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\1f4c03468d5275f22c0fc8ca9a1917a5\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\1f4c03468d5275f22c0fc8ca9a1917a5\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\0d23b1a9875bc144e3ee8b5790db8595\AndroidManifest.xml:20:5-22:41
@@ -560,8 +594,8 @@ MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Us
 MERGED from [com.google.android.datatransport:transport-backend-cct:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ffaffae8903ad209fd0d8564a6ad2fee\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\0478f049aec56e35d8c2880ac5c1d725\AndroidManifest.xml:18:5-20:41
 MERGED from [com.google.android.datatransport:transport-runtime:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\0478f049aec56e35d8c2880ac5c1d725\AndroidManifest.xml:18:5-20:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\de40b68d0db8c8aa0871445ba772aa84\AndroidManifest.xml:19:5-21:41
-MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\de40b68d0db8c8aa0871445ba772aa84\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e3939d37b7ea02e702f7dc303acfd4fb\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e3939d37b7ea02e702f7dc303acfd4fb\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\2968a7485b8740aff6b99c06cb2ce660\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-encoders-json:16.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\2968a7485b8740aff6b99c06cb2ce660\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\268b5cff007aab9be22b5a668d01e798\AndroidManifest.xml:20:5-44
@@ -584,14 +618,16 @@ MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] C:\Users\Amjad\
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bbe6606978ac877ad07205a5cdd9b443\AndroidManifest.xml:50:5-43
 MERGED from [com.crashlytics.sdk.android:beta:1.2.10] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\5cb1aae07765c462205ee93bfb764993\AndroidManifest.xml:7:5-43
 MERGED from [com.crashlytics.sdk.android:beta:1.2.10] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\5cb1aae07765c462205ee93bfb764993\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f67b2ec6abf0de4e37de5c01ee1d7756\AndroidManifest.xml:7:5-43
-MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f67b2ec6abf0de4e37de5c01ee1d7756\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8046f9671fef19a53eee82df36c9c59c\AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8046f9671fef19a53eee82df36c9c59c\AndroidManifest.xml:7:5-43
 MERGED from [io.fabric.sdk.android:fabric:1.4.8] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bded25d456e9679f906fa70348556f96\AndroidManifest.xml:27:5-43
 MERGED from [io.fabric.sdk.android:fabric:1.4.8] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\bded25d456e9679f906fa70348556f96\AndroidManifest.xml:27:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6483d035d49c8289b4b3838dd6171423\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\6483d035d49c8289b4b3838dd6171423\AndroidManifest.xml:7:5-43
 INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml
 INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\50204828001e74a79c793e95b7f5a117\AndroidManifest.xml:14:9-60
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ac5b86466ce196b4afae5f874abe9489\AndroidManifest.xml:14:9-60
 	android:targetSdkVersion
 		INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml
 		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml
@@ -600,6 +636,22 @@ INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManife
 		INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml
 		ADDED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Rapidzz\Official Projects\Garage App\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:10:22-73
+activity#com.google.android.libraries.places.widget.AutocompleteActivity
+ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:14:9-20:20
+	android:label
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:17:13-62
+	android:windowSoftInputMode
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:19:13-55
+	android:exported
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:18:13-61
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\cd77ab4b9f68154dba7d9eddbc3d0da1\AndroidManifest.xml:15:13-91
 activity#com.nabinbhandari.android.permissions.PermissionsActivity
 ADDED from [com.nabinbhandari.android:permissions:3.8] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\77a333dd42b084033399c644bd0b6fbc\AndroidManifest.xml:12:9-14:67
 	android:theme
@@ -607,47 +659,47 @@ ADDED from [com.nabinbhandari.android:permissions:3.8] C:\Users\Amjad\.gradle\ca
 	android:name
 		ADDED from [com.nabinbhandari.android:permissions:3.8] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\77a333dd42b084033399c644bd0b6fbc\AndroidManifest.xml:13:13-85
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:15:5-98
+ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:15:5-98
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:15:22-95
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:15:22-95
 uses-permission#com.google.android.gms.permission.ACTIVITY_RECOGNITION
-ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:16:5-94
+ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:16:5-94
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:16:22-91
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:16:22-91
 service#io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService
-ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:19:9-21:40
+ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:19:9-21:40
 	android:exported
-		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:21:13-37
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:20:13-132
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:20:13-132
 service#io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService
-ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:22:9-24:40
+ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:22:9-24:40
 	android:exported
-		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:24:13-37
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:24:13-37
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:23:13-127
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:23:13-127
 service#io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService
-ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:25:9-27:40
+ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:25:9-27:40
 	android:exported
-		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:27:13-37
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\41dafc8fe345cfa122e031a4dae6d700\AndroidManifest.xml:26:13-120
+		ADDED from [io.nlopez.smartlocation:library:3.3.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\344f78e4d54849a49319fcac8b900bfd\AndroidManifest.xml:26:13-120
 service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:28:9-34:19
+ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:28:9-34:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:30:13-37
+		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:29:13-82
+		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:29:13-82
 intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:31:13-33:29
+ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:31:13-33:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:31:28-51
+		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:31:28-51
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:32:17-78
+ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:32:17-78
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:32:25-75
+		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:32:25-75
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:35:9-41:19
+ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:35:9-41:19
 MERGED from [com.google.firebase:firebase-auth:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\a8bfeda7adea2b136c71d1fdcc594b18\AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.firebase:firebase-auth:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\a8bfeda7adea2b136c71d1fdcc594b18\AndroidManifest.xml:33:9-39:19
 MERGED from [com.google.firebase:firebase-datatransport:17.0.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\e14259e90dcae05c4e6198b14bc52fad\AndroidManifest.xml:25:9-31:19
@@ -658,32 +710,32 @@ MERGED from [com.google.firebase:firebase-iid:20.1.2] C:\Users\Amjad\.gradle\cac
 MERGED from [com.google.firebase:firebase-iid:20.1.2] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\fb2c4b0f4ca1bcd7a46ffc24df3d715b\AndroidManifest.xml:29:9-35:19
 MERGED from [com.google.firebase:firebase-installations:16.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\52e4899269de7a0873946d30318921fa\AndroidManifest.xml:14:9-20:19
 MERGED from [com.google.firebase:firebase-installations:16.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\52e4899269de7a0873946d30318921fa\AndroidManifest.xml:14:9-20:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3d143a22187fd43e99fc038838c1854b\AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3d143a22187fd43e99fc038838c1854b\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\79c7f65afa2a2cff74e9a90082aae0e7\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\79c7f65afa2a2cff74e9a90082aae0e7\AndroidManifest.xml:32:9-36:35
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:37:13-37
+		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:37:13-37
 	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3d143a22187fd43e99fc038838c1854b\AndroidManifest.xml:36:13-32
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\79c7f65afa2a2cff74e9a90082aae0e7\AndroidManifest.xml:36:13-32
 	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3d143a22187fd43e99fc038838c1854b\AndroidManifest.xml:34:13-43
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\79c7f65afa2a2cff74e9a90082aae0e7\AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:36:13-84
+		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:36:13-84
 meta-data#com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar
-ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:38:13-40:85
+ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:38:13-40:85
 	android:value
-		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:40:17-82
+		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:40:17-82
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\f47c46c520575a09f641e210c5cafdbc\AndroidManifest.xml:39:17-119
+		ADDED from [com.google.firebase:firebase-messaging:20.1.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\8940a2faedf784135886b35964a61703\AndroidManifest.xml:39:17-119
 provider#com.crashlytics.android.CrashlyticsInitProvider
-ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\50204828001e74a79c793e95b7f5a117\AndroidManifest.xml:19:9-23:38
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ac5b86466ce196b4afae5f874abe9489\AndroidManifest.xml:19:9-23:38
 	android:authorities
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\50204828001e74a79c793e95b7f5a117\AndroidManifest.xml:21:13-75
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ac5b86466ce196b4afae5f874abe9489\AndroidManifest.xml:21:13-75
 	android:exported
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\50204828001e74a79c793e95b7f5a117\AndroidManifest.xml:22:13-37
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ac5b86466ce196b4afae5f874abe9489\AndroidManifest.xml:22:13-37
 	android:initOrder
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\50204828001e74a79c793e95b7f5a117\AndroidManifest.xml:23:13-35
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ac5b86466ce196b4afae5f874abe9489\AndroidManifest.xml:23:13-35
 	android:name
-		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\50204828001e74a79c793e95b7f5a117\AndroidManifest.xml:20:13-75
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\ac5b86466ce196b4afae5f874abe9489\AndroidManifest.xml:20:13-75
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\a8bfeda7adea2b136c71d1fdcc594b18\AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents
@@ -773,15 +825,15 @@ ADDED from [com.google.firebase:firebase-installations:16.1.0] C:\Users\Amjad\.g
 	android:name
 		ADDED from [com.google.firebase:firebase-installations:16.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\52e4899269de7a0873946d30318921fa\AndroidManifest.xml:18:17-127
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3d143a22187fd43e99fc038838c1854b\AndroidManifest.xml:26:9-30:39
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\79c7f65afa2a2cff74e9a90082aae0e7\AndroidManifest.xml:26:9-30:39
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3d143a22187fd43e99fc038838c1854b\AndroidManifest.xml:28:13-72
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\79c7f65afa2a2cff74e9a90082aae0e7\AndroidManifest.xml:28:13-72
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3d143a22187fd43e99fc038838c1854b\AndroidManifest.xml:29:13-37
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\79c7f65afa2a2cff74e9a90082aae0e7\AndroidManifest.xml:29:13-37
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3d143a22187fd43e99fc038838c1854b\AndroidManifest.xml:30:13-36
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\79c7f65afa2a2cff74e9a90082aae0e7\AndroidManifest.xml:30:13-36
 	android:name
-		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3d143a22187fd43e99fc038838c1854b\AndroidManifest.xml:27:13-77
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\79c7f65afa2a2cff74e9a90082aae0e7\AndroidManifest.xml:27:13-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\993771b3a271c2f12c0f15b673109e22\AndroidManifest.xml:23:9-26:75
 	android:exported
@@ -840,12 +892,6 @@ ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\Am
 		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\7797b20c0e2ea7f8edfd5617f3902fdb\AndroidManifest.xml:52:13-69
 	android:name
 		ADDED from [com.google.android.gms:play-services-measurement:17.2.3] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\7797b20c0e2ea7f8edfd5617f3902fdb\AndroidManifest.xml:49:13-87
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\7763a8c3176c23c6d7db7ab48da3f048\AndroidManifest.xml:23:9-25:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\7763a8c3176c23c6d7db7ab48da3f048\AndroidManifest.xml:25:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\7763a8c3176c23c6d7db7ab48da3f048\AndroidManifest.xml:24:13-58
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Amjad\.gradle\caches\transforms-2\files-2.1\3c52279d07f6c43e388e79a49db1ea95\AndroidManifest.xml:25:9-29:43
 	android:authorities

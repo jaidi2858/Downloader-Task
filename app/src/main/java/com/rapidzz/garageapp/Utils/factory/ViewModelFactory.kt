@@ -13,10 +13,10 @@ class ViewModelFactory private constructor(private val dataRepository: DataRepos
     override fun <T : ViewModel> create(modelClass: Class<T>) =
         with(modelClass) {
             when {
-
-
-                isAssignableFrom(LoginViewModel::class.java) ->
-                    LoginViewModel(dataRepository)
+                isAssignableFrom(ProfileViewModel::class.java) ->
+                    ProfileViewModel(dataRepository)
+                isAssignableFrom(BaseAndroidViewModel::class.java) ->
+                    BaseAndroidViewModel()
                 else ->
                     throw IllegalArgumentException("Unknown ViewModel class: ${modelClass.name}")
             }

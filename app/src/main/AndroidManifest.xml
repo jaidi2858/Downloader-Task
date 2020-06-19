@@ -25,17 +25,14 @@
             android:name="com.rapidzz.garageapp.Views.activities.RegistrationActivity"
             android:label="@string/title_activity_registration"
             android:configChanges="uiMode"
-            android:theme="@style/AppThemeNoBar"></activity>
+            android:theme="@style/AppThemeNoBar">
+
+        </activity>
         <activity
             android:name="com.rapidzz.garageapp.Views.activities.MainActivity"
             android:label="@string/title_activity_main"
             android:theme="@style/AppThemeNoBar" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <action android:name="android.intent.action.VIEW" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name="com.rapidzz.garageapp.Views.activities.SplashActivity"
@@ -43,12 +40,39 @@
             android:configChanges="uiMode"
             android:theme="@style/AppThemeNoBar"
             android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
 
         </activity>
 
         <activity android:name="com.rapidzz.garageapp.Views.activities.PhoneVerificationActivity"
             android:configChanges="uiMode"
             android:theme="@style/AppThemeNoBar"/>
+
+
+        <activity android:name="com.rapidzz.garageapp.Views.activities.LocationPickerActivity"
+            android:configChanges="uiMode"
+            android:theme="@style/AppThemeNoBar"/>
+
+
+
+
+
+
+
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_places_key" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+
     </application>
 
 </manifest>

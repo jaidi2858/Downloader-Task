@@ -18,12 +18,14 @@ open class BaseRepository(ctx: Context) {
     var context: Context
     var sessionManager: SessionManager? = null
     val dispatcher: CoroutineDispatcher = Dispatchers.IO
+    var userId:String =""
 
     var gson = Gson()
 
     init {
         context = ctx
         sessionManager = SessionManager(context)
+        userId=sessionManager!!.getUserId()
 
     }
 

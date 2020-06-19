@@ -15,13 +15,19 @@ import androidx.appcompat.widget.Toolbar
 import android.view.Menu
 import android.view.View
 import androidx.core.view.GravityCompat
+import androidx.lifecycle.Observer
 import androidx.navigation.NavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.rapidzz.garageapp.R
 import com.rapidzz.garageapp.Utils.Application.gone
+import com.rapidzz.garageapp.Utils.Application.loadImage
+import com.rapidzz.garageapp.Utils.Application.obtainViewModel
 import com.rapidzz.garageapp.Utils.Application.visible
+import com.rapidzz.garageapp.ViewModels.ProfileViewModel
 import com.rapidzz.garageapp.Views.adapters.UserItemMenuAdapter
+import com.rapidzz.garageapp.Views.dialog.ConfirmationDialog
+import kotlinx.android.synthetic.main.nav_header_main.*
 import kotlinx.android.synthetic.main.navigation_layout.*
 
 class MainActivity : BaseActivity(),UserItemMenuAdapter.NavItemClickListner {
@@ -31,7 +37,7 @@ class MainActivity : BaseActivity(),UserItemMenuAdapter.NavItemClickListner {
     var navController:NavController ?= null
     var drawerLayout: DrawerLayout ?= null
     var needBackMove:Boolean = false
-
+    var viewModel:ProfileViewModel ?=null
 
 
     override fun getLayoutId(): Int {
@@ -44,13 +50,21 @@ class MainActivity : BaseActivity(),UserItemMenuAdapter.NavItemClickListner {
         {
             3->{
                 navController!!.navigate(R.id.changePasswordFragment)
-                drawerLayout?.closeDrawer(GravityCompat.START)
+            }
+            5->{
+                logout()
             }
         }
+        drawerLayout?.closeDrawer(GravityCompat.START)
     }
 
+
+
+
+    
     override fun initViews()
     {
+        setupViewModel()
         toolbar = findViewById(R.id.toolbar)
         setSupportActionBar(toolbar)
         loadNavigationMenu()
@@ -61,7 +75,6 @@ class MainActivity : BaseActivity(),UserItemMenuAdapter.NavItemClickListner {
         )
         setupActionBarWithNavController(navController!!, appBarConfiguration)
         navView.setupWithNavController(navController!!)
-
 
         toolbar?.setNavigationOnClickListener(object : View.OnClickListener {
             override fun onClick(p0: View?) {
@@ -93,6 +106,9 @@ class MainActivity : BaseActivity(),UserItemMenuAdapter.NavItemClickListner {
 
 
 
+
+
+
     fun hideToolbar(isHide:Boolean)
     {
         if(isHide)
@@ -106,12 +122,83 @@ class MainActivity : BaseActivity(),UserItemMenuAdapter.NavItemClickListner {
     }
 
 
-    fun loadNavigationMenu() {
+    private fun loadNavigationMenu() {
         var adapter = UserItemMenuAdapter(this)
         rlItemsMain?.let {
             it.layoutManager = LinearLayoutManager(this, RecyclerView.VERTICAL, false)
             it.adapter = adapter
         }
+
+    }
+
+
+
+
+    private fun setupViewModel()
+    {
+        viewModel=obtainViewModel(ProfileViewModel::class.java)
+        with(viewModel!!)
+        {
+            snackbarMessage.observe(this@MainActivity, Observer {
+                it.getContentIfNotHandled()?.let {
+                    showAlertDialog(it)
+                }
+            })
+
+            progressBar.observe(this@MainActivity, Observer {
+                it.getContentIfNotHandled()?.let {
+                    showProgressDialog(it)
+                }
+            })
+
+            userLiveData.observe(this@MainActivity, Observer {
+                it.getContentIfNotHandled()?.let {
+                    sessionManager.setUser(it)
+                    setupProfileData()
+                }
+            })
+
+            userLogoutLiveData.observe(this@MainActivity, Observer {
+                it.getContentIfNotHandled()?.let { logoutSucess ->
+                    if(logoutSucess) {
+                        sessionManager.logout()
+                        gotoRegActivity()
+                    }
+                }
+            })
+
+            getProfile()
+        }
+    }
+
+
+
+    private fun setupProfileData()
+    {
+        sessionManager.getName()?.let {
+            tvUserName.text=it
+        }
+        sessionManager.getEmail()?.let {
+            tvUserEmail.text=it
+        }
+        if(!sessionManager.getPicture().isNullOrEmpty())
+            ivUserImage.loadImage(sessionManager.getPicture())
+
+
+    }
+
+
+    private fun logout()
+    {
+
+        ConfirmationDialog("Are you sure to logout from app ?",object :ConfirmationDialog.ConfirmationListener{
+            override fun isConfirmed(isConfirmed: Boolean) {
+                if(isConfirmed)
+                {
+                    viewModel?.userLogout()
+                }
+            }
+        }).show(supportFragmentManager,"")
 
     }
 }

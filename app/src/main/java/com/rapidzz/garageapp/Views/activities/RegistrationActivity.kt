@@ -8,6 +8,8 @@ import com.google.firebase.iid.FirebaseInstanceId
 import com.rapidzz.garageapp.R
 import com.rapidzz.garageapp.Utils.Application.gone
 import com.rapidzz.garageapp.Utils.Application.visible
+import com.rapidzz.garageapp.Utils.GeneralUtils.AppConstants.Companion.PHONE_CODE
+import com.rapidzz.garageapp.Utils.GeneralUtils.AppConstants.Companion.REQUEST_CODES
 import kotlinx.android.synthetic.main.activity_registration.*
 
 class RegistrationActivity : BaseActivity() {
@@ -37,12 +39,14 @@ class RegistrationActivity : BaseActivity() {
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
         super.onActivityResult(requestCode, resultCode, data)
 
-        if(requestCode==200) {
+        if(REQUEST_CODES.contains(requestCode)) {
             val navHostFragment = supportFragmentManager.findFragmentById(R.id.nav_host_fragment)
             val childFragments = navHostFragment?.childFragmentManager?.fragments
             childFragments?.forEach { it.onActivityResult(requestCode, resultCode, data) }
         }
     }
+
+
 
 
     private fun getToken()

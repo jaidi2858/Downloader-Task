@@ -41,13 +41,6 @@ class UserItemMenuAdapter(context: Context) : RecyclerView.Adapter<UserItemMenuA
         holder.image.loadImage(images[position])
         holder.run {
             name.setText(titles[position])
-            itemView.setOnClickListener(View.OnClickListener {
-                when (holder.getAdapterPosition()) {
-
-
-
-                }
-            })
             if(position==4 || position==0)
             {
                 mainDivider.visible()

@@ -4,6 +4,10 @@ import android.app.PendingIntent
 import android.content.Intent
 import com.google.firebase.messaging.FirebaseMessagingService
 import com.google.firebase.messaging.RemoteMessage
+import com.rapidzz.garageapp.Models.Source.Repository.DataRepository
+import com.rapidzz.garageapp.Utils.GeneralUtils.SessionManager
+import kotlinx.coroutines.GlobalScope
+import kotlinx.coroutines.launch
 
 
 class FCMService : FirebaseMessagingService() {
@@ -102,6 +106,9 @@ class FCMService : FirebaseMessagingService() {
 
     override fun onNewToken(token: String) {
         super.onNewToken(token)
+        GlobalScope.launch {
+            DataRepository(this@FCMService).updateFCMToken(token)
+        }
     }
 
 
