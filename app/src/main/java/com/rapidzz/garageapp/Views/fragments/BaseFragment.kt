@@ -36,7 +36,7 @@ abstract class BaseFragment : Fragment() {
 
     lateinit var dialog: AlertDialog
     lateinit var sessionManager: SessionManager
-    var isForUpdate: Boolean = false
+
 
 
 

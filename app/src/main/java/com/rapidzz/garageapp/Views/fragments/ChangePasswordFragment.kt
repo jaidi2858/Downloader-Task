@@ -19,14 +19,11 @@ class ChangePasswordFragment : BaseFragment() {
 
     override fun attachViewModel() {
         viewModel = obtainViewModel(ProfileViewModel::class.java)
+        setupGeneralViewModel(viewModel)
         with(viewModel) {
-            progressBar.observe(viewLifecycleOwner, Observer {
-                val show = it.getContentIfNotHandled()
-                if (show != null) showProgressDialog(show)
-            })
-            snackbarMessage.observe(viewLifecycleOwner, Observer {
-                val msg = it.getContentIfNotHandled()
-                if (!msg.isNullOrEmpty()) showAlertDialog(msg)
+
+            changePasswordLiveData.observe(viewLifecycleOwner, Observer {
+
             })
 
         }

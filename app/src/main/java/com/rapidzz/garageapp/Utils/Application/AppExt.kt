@@ -2,24 +2,28 @@ package com.rapidzz.garageapp.Utils.Application
 
 
 import android.content.Context
+import android.content.Intent
 import android.graphics.Paint
+import android.net.Uri
 import android.text.TextUtils
 import android.util.Patterns
 import android.view.View
 import android.view.inputmethod.InputMethodManager
+import android.widget.AutoCompleteTextView
+import android.widget.EditText
+import android.widget.ImageView
+import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.lifecycle.ViewModel
-
 import androidx.lifecycle.ViewModelProviders
-import com.rapidzz.garageapp.Utils.factory.ViewModelFactory
-import android.widget.*
 import androidx.swiperefreshlayout.widget.CircularProgressDrawable
 import com.bumptech.glide.Glide
 import com.google.android.material.textfield.TextInputLayout
 import com.rapidzz.garageapp.Models.DataModels.GeneralModels.DDItem
 import com.rapidzz.garageapp.R
+import com.rapidzz.garageapp.Utils.factory.ViewModelFactory
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
@@ -188,6 +192,87 @@ fun AutoCompleteTextView.findId(allValues:ArrayList<DDItem>):Int
 
     return id
 
+}
+
+
+fun Context.newNavigatorIntent(
+    latitude: Double,
+    longitude: Double,
+    name: String
+): Intent? {
+    val format =
+        "geo:0,0?q=" + java.lang.Double.toString(latitude) + "," + java.lang.Double.toString(
+            longitude
+        ) + "(" + name + ")"
+    val uri: Uri = Uri.parse(format)
+    val intent = Intent(Intent.ACTION_VIEW, uri)
+    intent.flags = Intent.FLAG_ACTIVITY_CLEAR_TOP
+    return if (intent.resolveActivity(this.packageManager) != null) {
+        intent
+    } else null
+}
+
+
+fun Context.newDialerIntent( phone: String): Intent? {
+    val intent = Intent(Intent.ACTION_DIAL)
+    intent.data = Uri.parse("tel:$phone")
+    return if (intent.resolveActivity(this.packageManager) != null) {
+        intent
+    } else null
+}
+
+
+fun Context.newSendEmailsIntent(
+    emails: Array<String>?,
+    subject: String?,
+    text: String?
+): Intent? {
+    val mailIntent = Intent(Intent.ACTION_SENDTO)
+    mailIntent.type = "message/rfc822"
+    mailIntent.putExtra(Intent.EXTRA_SUBJECT, subject)
+    mailIntent.putExtra(Intent.EXTRA_EMAIL, emails)
+    mailIntent.putExtra(Intent.EXTRA_TEXT, text)
+    return if (mailIntent.resolveActivity(this.packageManager) != null) {
+        mailIntent
+    } else null
+}
+
+fun Context.newSendEmailIntent(
+    email: String,
+    subject: String?,
+    text: String?
+): Intent? {
+    return newSendEmailsIntent(arrayOf(email), subject, text)
+}
+
+fun Context.newOpenUrlIntent( url: String?): Intent? {
+    val urlIntent = Intent(Intent.ACTION_VIEW)
+    urlIntent.data = Uri.parse(url)
+    return if (urlIntent.resolveActivity(this.packageManager) != null) {
+        urlIntent
+    } else null
+}
+
+fun Context.newShareFileIntent(
+    uri: Uri?,
+    mimeType: String?
+): Intent? {
+    val shareIntent = Intent(Intent.ACTION_SEND)
+    shareIntent.putExtra(Intent.EXTRA_STREAM, uri)
+    shareIntent.type = mimeType
+    return if (shareIntent.resolveActivity(this.packageManager) != null) {
+        shareIntent
+    } else null
+}
+
+
+fun Context.newShareTextIntent(text: String?): Intent? {
+    val shareIntent = Intent(Intent.ACTION_SEND)
+    shareIntent.putExtra(Intent.EXTRA_TEXT, text)
+    shareIntent.type = "text/*"
+    return if (shareIntent.resolveActivity(this.packageManager) != null) {
+        shareIntent
+    } else null
 }
 
 
