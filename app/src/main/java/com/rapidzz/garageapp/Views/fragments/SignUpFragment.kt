@@ -60,7 +60,7 @@ class SignUpFragment : BaseFragment(), View.OnClickListener {
             userLiveData.observe(viewLifecycleOwner, Observer {
                 it.getContentIfNotHandled()?.let {
                     sessionManager.setUser(it)
-                    showSnackBar(btnRegister,"Success")
+                    btnRegister.showSnackBar("Success")
                     requireActivity().onBackPressed()
                 }
             })
@@ -162,19 +162,15 @@ class SignUpFragment : BaseFragment(), View.OnClickListener {
 
 
 
-    fun startPlacePickerIntent()
+    private fun startPlacePickerIntent()
     {
         if (Build.VERSION.SDK_INT < Build.VERSION_CODES.M) {
-            val intentToLocationPick = Intent(requireActivity(), LocationPickerActivity::class.java)
-            activity!!.startActivityForResult(intentToLocationPick, ADDRESS_CODE)
+            requireActivity()!!.openActivityForResult(LocationPickerActivity::class.java, ADDRESS_CODE)
         } else {
             val permissions = arrayOf(Manifest.permission.ACCESS_FINE_LOCATION, Manifest.permission.ACCESS_COARSE_LOCATION)
             Permissions.check(context!!,permissions,null,null,object: PermissionHandler(){
                 override fun onGranted() {
-                    val intentToLocationPick = Intent(context, LocationPickerActivity::class.java)
-                    activity!!.startActivityForResult(intentToLocationPick,
-                        ADDRESS_CODE
-                    )
+                    requireActivity()!!.openActivityForResult(LocationPickerActivity::class.java, ADDRESS_CODE)
                 }
                 override fun onDenied(context: Context?, deniedPermissions: java.util.ArrayList<String>?) {
                     super.onDenied(context, deniedPermissions)
@@ -254,6 +250,7 @@ class SignUpFragment : BaseFragment(), View.OnClickListener {
                 }
 
                 isAddressCompleted=true
+
 
             }
         }

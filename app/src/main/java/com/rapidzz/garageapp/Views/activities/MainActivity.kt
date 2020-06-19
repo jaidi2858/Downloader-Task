@@ -20,10 +20,7 @@ import androidx.navigation.NavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.rapidzz.garageapp.R
-import com.rapidzz.garageapp.Utils.Application.gone
-import com.rapidzz.garageapp.Utils.Application.loadImage
-import com.rapidzz.garageapp.Utils.Application.obtainViewModel
-import com.rapidzz.garageapp.Utils.Application.visible
+import com.rapidzz.garageapp.Utils.Application.*
 import com.rapidzz.garageapp.ViewModels.ProfileViewModel
 import com.rapidzz.garageapp.Views.adapters.UserItemMenuAdapter
 import com.rapidzz.garageapp.Views.dialog.ConfirmationDialog

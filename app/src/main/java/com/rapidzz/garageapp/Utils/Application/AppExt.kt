@@ -1,6 +1,7 @@
 package com.rapidzz.garageapp.Utils.Application
 
 
+import android.app.Activity
 import android.content.Context
 import android.content.Intent
 import android.graphics.Paint
@@ -8,22 +9,24 @@ import android.net.Uri
 import android.text.TextUtils
 import android.util.Patterns
 import android.view.View
+import android.view.animation.Animation
+import android.view.animation.TranslateAnimation
 import android.view.inputmethod.InputMethodManager
-import android.widget.AutoCompleteTextView
-import android.widget.EditText
-import android.widget.ImageView
-import android.widget.TextView
+import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.content.ContextCompat
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProviders
 import androidx.swiperefreshlayout.widget.CircularProgressDrawable
 import com.bumptech.glide.Glide
+import com.google.android.material.snackbar.Snackbar
 import com.google.android.material.textfield.TextInputLayout
 import com.rapidzz.garageapp.Models.DataModels.GeneralModels.DDItem
 import com.rapidzz.garageapp.R
 import com.rapidzz.garageapp.Utils.factory.ViewModelFactory
+import com.rapidzz.garageapp.Views.dialog.AlertMessageDialog
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
@@ -274,6 +277,130 @@ fun Context.newShareTextIntent(text: String?): Intent? {
         shareIntent
     } else null
 }
+
+
+fun Activity.openActivity(clazz: Class<out Activity>) {
+    startActivity(Intent(this, clazz))
+}
+
+fun Activity.openActivityWithExist(clazz: Class<out Activity>) {
+    startActivity(Intent(this, clazz))
+    this.finish()
+}
+
+
+fun Activity.openActivityForResult(clazz: Class<out Activity>,requestCode:Int) {
+    startActivityForResult(Intent(this, clazz),requestCode)
+}
+
+
+
+fun Fragment.showAlertDialog(msg: String) {
+    var newMessage=msg
+    if(newMessage.isEmpty())
+    {
+        newMessage="Unable to process your request \nPlease try again later !!"
+    }
+    AlertMessageDialog.newInstance(newMessage).show(requireActivity().supportFragmentManager, AlertMessageDialog.TAG)
+}
+
+fun FragmentActivity.showAlertDialog(msg: String) {
+    var newMessage=msg
+    if(newMessage.isEmpty())
+    {
+        newMessage="Unable to process your request \nPlease try again later !!"
+    }
+    AlertMessageDialog.newInstance(newMessage).show(supportFragmentManager, AlertMessageDialog.TAG)
+}
+
+
+
+
+fun View.collapse() {
+    val animate = TranslateAnimation(
+        0f,
+        0f,
+        0f,
+        this.height.toFloat()
+    )
+    animate.duration = 500
+    animate.fillAfter = true
+    this.startAnimation(animate)
+    animate.setAnimationListener(object : Animation.AnimationListener {
+        override fun onAnimationRepeat(animation: Animation?) {
+
+        }
+
+        override fun onAnimationEnd(animation: Animation?) {
+            this@collapse.gone()
+        }
+
+        override fun onAnimationStart(animation: Animation?) {
+
+        }
+    })
+}
+
+
+
+
+fun View.expand( ) {
+    val animate = TranslateAnimation(
+        0f,
+        0f,
+        this.height.toFloat(),
+        0f
+    )
+    animate.duration = 500
+    animate.fillAfter = true
+    this.startAnimation(animate)
+    animate.setAnimationListener(object : Animation.AnimationListener {
+        override fun onAnimationRepeat(animation: Animation?) {
+
+        }
+
+        override fun onAnimationEnd(animation: Animation?) {
+
+        }
+
+        override fun onAnimationStart(animation: Animation?) {
+            this@expand.visible()
+        }
+    })
+}
+
+
+
+
+fun View.showSnackBar( message: String) {
+    val snackbar = Snackbar.make(this, message, Snackbar.LENGTH_LONG)
+    snackbar.show()
+}
+
+fun Activity.showToast(message: String) {
+    Toast.makeText(this, message, Toast.LENGTH_SHORT).show()
+}
+
+fun Fragment.showToast(message: String) {
+    Toast.makeText(requireContext(), message, Toast.LENGTH_SHORT).show()
+}
+
+
+
+
+
+
+fun Fragment.getSimpleName(): String {
+    return this.javaClass.simpleName
+}
+
+fun Fragment.getColorCustom(color: Int): Int {
+    return ContextCompat.getColor(requireContext(), color)
+}
+
+
+
+
 
 
 

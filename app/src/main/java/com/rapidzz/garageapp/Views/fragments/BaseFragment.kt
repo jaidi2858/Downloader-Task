@@ -19,9 +19,7 @@ import com.afollestad.vvalidator.form
 import com.google.android.material.snackbar.Snackbar
 import com.rapidzz.garageapp.Models.Source.Repository.UserDataSource
 import com.rapidzz.garageapp.R
-import com.rapidzz.garageapp.Utils.Application.gone
-import com.rapidzz.garageapp.Utils.Application.obtainViewModel
-import com.rapidzz.garageapp.Utils.Application.visible
+import com.rapidzz.garageapp.Utils.Application.*
 import com.rapidzz.garageapp.Utils.GeneralUtils.DialogUtils
 import com.rapidzz.garageapp.Utils.GeneralUtils.SessionManager
 import com.rapidzz.garageapp.ViewModels.BaseAndroidViewModel
@@ -41,28 +39,13 @@ abstract class BaseFragment : Fragment() {
 
 
 
-    fun getSimpleName(): String {
-        return this.javaClass.simpleName
-    }
-
-    fun getColorCustom(color: Int): Int {
-        return ContextCompat.getColor(requireContext(), color)
-    }
 
 
 
 
 
 
-    fun showAlertDialog(msg: String) {
-        var newMessage=msg
-        if(newMessage.isEmpty())
-        {
-            newMessage="Unable to process your request \nPlease try again later !!"
-        }
-        AlertMessageDialog.newInstance(newMessage)
-            .show(requireActivity().supportFragmentManager, AlertMessageDialog.TAG)
-    }
+
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -115,70 +98,15 @@ abstract class BaseFragment : Fragment() {
         }
     }
 
-    fun showSnackBar(view: View, message: String) {
-        val snackbar = Snackbar.make(view, message, Snackbar.LENGTH_LONG)
-        snackbar.show()
-    }
-
-    fun showToast(message: String) {
-        Toast.makeText(activity, message, Toast.LENGTH_SHORT).show()
-    }
 
 
 
 
 
-    fun expand(view: View) {
-        val animate = TranslateAnimation(
-            0f,
-            0f,
-            view.height.toFloat(),
-            0f
-        )
-        animate.duration = 500
-        animate.fillAfter = true
-        view.startAnimation(animate)
-        animate.setAnimationListener(object : Animation.AnimationListener {
-            override fun onAnimationRepeat(animation: Animation?) {
-
-            }
-
-            override fun onAnimationEnd(animation: Animation?) {
-
-            }
-
-            override fun onAnimationStart(animation: Animation?) {
-                view.visible()
-            }
-        })
-    }
 
 
 
-    fun collapse(view: View) {
-        val animate = TranslateAnimation(
-            0f,
-            0f,
-            0f,
-            view.height.toFloat()
-        )
-        animate.duration = 500
-        animate.fillAfter = true
-        view.startAnimation(animate)
-        animate.setAnimationListener(object : Animation.AnimationListener {
-            override fun onAnimationRepeat(animation: Animation?) {
 
-            }
-
-            override fun onAnimationEnd(animation: Animation?) {
-                view.gone()
-            }
-
-            override fun onAnimationStart(animation: Animation?) {
-
-            }
-        })
-    }
 
 
     fun applyValidations(

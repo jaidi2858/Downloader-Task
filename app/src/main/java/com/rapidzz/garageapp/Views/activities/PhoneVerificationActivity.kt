@@ -9,6 +9,7 @@ import com.google.firebase.FirebaseException
 import com.google.firebase.auth.*
 import com.rapidzz.garageapp.R
 import com.rapidzz.garageapp.Utils.Application.Error
+import com.rapidzz.garageapp.Utils.Application.showAlertDialog
 import com.rapidzz.garageapp.Utils.Application.string
 import com.rapidzz.garageapp.Utils.GeneralUtils.AppConstants.Companion.MOBILE_PHONE
 import kotlinx.android.synthetic.main.activity_phone_verification.*
@@ -102,9 +103,9 @@ class PhoneVerificationActivity : BaseActivity() {
         }
         else
         {
-            var message = "Could not be verified \n" +
-                    " Please try again using resend"
+            var message = "Could not be verified \n" + " Please try again using resend"
             showAlertDialog(message)
+
         }
     }
 

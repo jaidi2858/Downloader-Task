@@ -6,6 +6,8 @@ import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.app.AppCompatDelegate
 import com.rapidzz.garageapp.R
+import com.rapidzz.garageapp.Utils.Application.openActivity
+import com.rapidzz.garageapp.Utils.Application.openActivityWithExist
 import com.rapidzz.garageapp.Utils.GeneralUtils.DialogUtils
 import com.rapidzz.garageapp.Utils.GeneralUtils.SessionManager
 import com.rapidzz.garageapp.Views.dialog.AlertMessageDialog
@@ -37,28 +39,18 @@ abstract class BaseActivity : AppCompatActivity() {
 
     fun gotoMainActivity()
     {
-        startActivity(Intent(this,MainActivity::class.java))
-        this?.finish()
+        openActivityWithExist(MainActivity::class.java)
+
     }
 
 
     fun gotoRegActivity()
     {
-        startActivity(Intent(this,RegistrationActivity::class.java))
-        this?.finish()
+        openActivityWithExist(RegistrationActivity::class.java)
     }
 
 
 
-
-    fun showAlertDialog(msg: String) {
-        var newMessage=msg
-        if(newMessage.isEmpty())
-        {
-            newMessage="Unable to process your request \nPlease try again later !!"
-        }
-        AlertMessageDialog.newInstance(newMessage).show(this.supportFragmentManager, AlertMessageDialog.TAG)
-    }
 
     fun showProgressDialog(show: Boolean) {
 
