@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
-    android:color="@color/white">
+    android:color="@color/colorWhite">
 
     <item>
         <shape android:shape="rectangle">
@@ -10,8 +10,8 @@
 
             <stroke
                 android:width="2dp"
-                android:color="@color/lite_gray"/>
-            <gradient android:startColor="@color/white" android:endColor="@color/white" android:centerColor="@color/white"/>
+                android:color="@color/colorLightGrey"/>
+            <gradient android:startColor="@color/colorWhite" android:endColor="@color/colorWhite" android:centerColor="@color/colorWhite"/>
 
 
         </shape>

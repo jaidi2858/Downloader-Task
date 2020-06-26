@@ -104,78 +104,8 @@
     </style>
 
 
-    <style name="editTextStyle">
-        <item name="android:textSize">@dimen/_10sdp</item>
-        <item name="android:paddingStart">@dimen/_10sdp</item>
-        <item name="android:paddingBottom">@dimen/_10sdp</item>
-        <item name="android:paddingTop">@dimen/_10sdp</item>
-        <item name="android:paddingEnd">@dimen/_10sdp</item>
-        <item name="android:fontFamily">@font/sf_compact_medium</item>
-        <item name="android:textColorHint">#C6C6C6</item>
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:elevation">@dimen/_1sdp</item>
-        <item name="android:textColor">@color/colorBlack</item>
-        <item name="android:background">@drawable/edittext_background_new</item>
-        <item name="android:layout_marginLeft">@dimen/_5sdp</item>
-        <item name="android:layout_marginRight">@dimen/_5sdp</item>
-        <item name="android:layout_marginBottom">@dimen/_10sdp</item>
-    </style>
 
 
-
-    <style name="editTextOutlineStyle">
-        <item name="android:textSize">@dimen/_10sdp</item>
-        <item name="android:paddingStart">@dimen/_10sdp</item>
-        <item name="android:paddingEnd">@dimen/_10sdp</item>
-        <item name="android:fontFamily">@font/sf_compact_medium</item>
-        <item name="android:textColorHint">#C6C6C6</item>
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">wrap_content</item>
-
-        <item name="android:textColor">@color/colorBlack</item>
-        <item name="android:background">@drawable/bg_outline_et</item>
-        <item name="android:layout_marginLeft">@dimen/_5sdp</item>
-        <item name="android:layout_marginRight">@dimen/_5sdp</item>
-        <item name="android:layout_marginBottom">@dimen/_10sdp</item>
-    </style>
-
-
-
-    <style name="spinnerStyle">
-        <item name="android:textSize">@dimen/_10sdp</item>
-        <item name="android:paddingStart">@dimen/_10sdp</item>
-        <item name="android:paddingEnd">@dimen/_10sdp</item>
-        <item name="android:fontFamily">@font/sf_compact_medium</item>
-        <item name="android:textColorHint">#C6C6C6</item>
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">@dimen/_40sdp</item>
-        <item name="android:spinnerMode">dropdown</item>
-        <item name="android:drawableEnd">@drawable/ic_home</item>
-        <item name="android:textColor">@color/colorBlack</item>
-        <item name="android:background">@drawable/spinner_test_background</item>
-        <item name="colorControlNormal">@color/colorBlack</item>
-        <item name="colorControlActivated">@color/colorPrimary</item>
-        <item name="android:layout_marginLeft">@dimen/_5sdp</item>
-        <item name="android:layout_marginRight">@dimen/_5sdp</item>
-        <item name="android:layout_marginBottom">@dimen/_10sdp</item>
-    </style>
-
-
-
-    <style name="layoutETStyle">
-        <item name="android:paddingStart">@dimen/_20sdp</item>
-        <item name="android:paddingEnd">@dimen/_10sdp</item>
-        <item name="android:fontFamily">@font/sf_compact_medium</item>
-        <item name="android:textColorHint">#C6C6C6</item>
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:elevation">@dimen/_1sdp</item>
-        <item name="android:textColor">@color/colorBlack</item>
-        <item name="android:background">@drawable/edittext_layout_background</item>
-        <item name="android:layout_marginLeft">@dimen/_5sdp</item>
-        <item name="android:layout_marginRight">@dimen/_5sdp</item>
-    </style>
 
 
 
